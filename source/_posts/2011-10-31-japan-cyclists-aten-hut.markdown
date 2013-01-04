@@ -4,7 +4,7 @@ title: "Japan Cyclists: Aten-hut!"
 date: 2011-10-31 05:16:20 UTC
 updated: 2011-10-31 05:16:20 UTC
 comments: true
-categories: rules law 交通ルール guidelines bicycle 自転車 cycling japan 日本の自転車の法律
+categories: snapjapan rules law 交通ルール guidelines bicycle 自転車 cycling japan 日本の自転車の法律
 ---
  
 

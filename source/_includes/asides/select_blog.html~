@@ -1,0 +1,7 @@
+<section>
+  <h1>Blogs</h1>
+  <ul id="categories">
+    <li><a href="/snapjapan/">Snap!Japan</a></li>
+    <li><a href="/rickcogley/">Blog:Cogley</a></li>
+  </ul>
+</section>

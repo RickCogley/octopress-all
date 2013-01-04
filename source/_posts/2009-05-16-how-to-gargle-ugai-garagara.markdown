@@ -4,7 +4,7 @@ title: "How to Gargle (Ugai Garagara)"
 date: 2009-05-16 02:57:52 UTC
 updated: 2009-05-16 02:57:52 UTC
 comments: true
-categories: Isojin Ugai Swine Flu Gargling Mezamashi TV
+categories: snapjapan Isojin Ugai Swine Flu Gargling Mezamashi TV
 ---
  
 

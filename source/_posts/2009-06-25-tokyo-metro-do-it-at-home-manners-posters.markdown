@@ -4,7 +4,7 @@ title: "Tokyo Metro \"Do It At Home\" Manners Posters"
 date: 2009-06-25 00:43:59 UTC
 updated: 2009-06-25 00:43:59 UTC
 comments: true
-categories: Manners Posters Tokyo Metro subway Tokyo Rail and Subway Map
+categories: snapjapan Manners Posters Tokyo Metro subway Tokyo Rail and Subway Map
 ---
  
 

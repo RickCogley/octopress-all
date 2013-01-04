@@ -4,7 +4,7 @@ title: "Finally. OTC Drugs at 7-11"
 date: 2009-06-02 00:39:13 UTC
 updated: 2009-06-02 00:39:13 UTC
 comments: true
-categories: Convenience MHLW OTC drugs Gov't of Japan PAL 7-11
+categories: snapjapan Convenience MHLW OTC drugs Gov't of Japan PAL 7-11
 ---
  
 

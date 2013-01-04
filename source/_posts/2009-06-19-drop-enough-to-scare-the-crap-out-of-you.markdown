@@ -4,7 +4,7 @@ title: "Drop - Enough to Scare the Crap Out of You"
 date: 2009-06-19 23:06:56 UTC
 updated: 2009-06-19 23:06:56 UTC
 comments: true
-categories: Horror Toilet Paper humor Drop Koji Suzuki
+categories: snapjapan Horror Toilet Paper humor Drop Koji Suzuki
 ---
  
 

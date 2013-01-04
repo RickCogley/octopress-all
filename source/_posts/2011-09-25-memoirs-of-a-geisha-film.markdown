@@ -4,7 +4,7 @@ title: "\"Memoirs of a Geisha\" Film"
 date: 2011-09-25 00:49:50 UTC
 updated: 2011-09-25 00:49:50 UTC
 comments: true
-categories: Review culture memoirs of a geisha film movie
+categories: snapjapan Review culture memoirs of a geisha film movie
 ---
  
 

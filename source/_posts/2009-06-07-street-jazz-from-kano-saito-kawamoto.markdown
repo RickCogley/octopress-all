@@ -4,7 +4,7 @@ title: "Street Jazz from Kano, Saito, Kawamoto"
 date: 2009-06-07 10:54:10 UTC
 updated: 2009-06-07 10:54:10 UTC
 comments: true
-categories: Music Chikara Saito Street Performers Sousuke Kawamoto Street Jazz Musicians japan George Kano
+categories: snapjapan Music Chikara Saito Street Performers Sousuke Kawamoto Street Jazz Musicians japan George Kano
 ---
  
 

@@ -4,7 +4,7 @@ title: "Best Tokyo Subway Map: Vollmer Design"
 date: 2009-05-21 01:06:39 UTC
 updated: 2009-05-21 01:06:39 UTC
 comments: true
-categories: Convenience Vollmer Design tokyo Getting Around Informa Tokyo Rail and Subway Map
+categories: snapjapan Convenience Vollmer Design tokyo Getting Around Informa Tokyo Rail and Subway Map
 ---
  
 

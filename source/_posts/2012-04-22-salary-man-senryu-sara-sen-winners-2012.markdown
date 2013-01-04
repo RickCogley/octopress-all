@@ -4,7 +4,7 @@ title: "Salary-man Senryu \"Sara-sen\" Winners 2012"
 date: 2012-04-22 02:49:13 UTC
 updated: 2012-04-22 02:49:13 UTC
 comments: true
-categories: dai-ichi life senryuu 川柳 humor Senryu
+categories: snapjapan dai-ichi life senryuu 川柳 humor Senryu
 ---
  
 

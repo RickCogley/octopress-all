@@ -4,7 +4,7 @@ title: "Satirical Shibamata Senryuu"
 date: 2009-08-20 11:37:06 UTC
 updated: 2009-08-20 11:37:06 UTC
 comments: true
-categories: senryuu humor elections satire sarasen prime minister poetry
+categories: snapjapan senryuu humor elections satire sarasen prime minister poetry
 ---
  
 

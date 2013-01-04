@@ -4,7 +4,7 @@ title: "Panku Bubu Wins M1 Grandprix 2009"
 date: 2009-12-20 12:02:10 UTC
 updated: 2009-12-20 12:02:10 UTC
 comments: true
-categories: manzai waraimeshi non style humor panku bubu m1 grandprix
+categories: snapjapan manzai waraimeshi non style humor panku bubu m1 grandprix
 ---
  
 

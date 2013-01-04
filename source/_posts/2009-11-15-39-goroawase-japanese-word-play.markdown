@@ -4,7 +4,7 @@ title: "39 Goroawase! - Japanese Word Play"
 date: 2009-11-15 13:01:40 UTC
 updated: 2009-11-15 13:01:40 UTC
 comments: true
-categories: leisure Language Japanese Goroawase
+categories: snapjapan leisure Language Japanese Goroawase
 ---
  
 

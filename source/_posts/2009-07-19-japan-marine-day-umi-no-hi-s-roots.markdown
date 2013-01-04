@@ -4,7 +4,7 @@ title: "Japan Marine Day \"Umi no Hi\"'s Roots"
 date: 2009-07-19 23:50:41 UTC
 updated: 2009-07-19 23:50:41 UTC
 comments: true
-categories: Ocean 海の日 Japan Holidays Seashore kamogawa Marine Day Imperial Beach Umi no Hi Emperor Meiji
+categories: snapjapan Ocean 海の日 Japan Holidays Seashore kamogawa Marine Day Imperial Beach Umi no Hi Emperor Meiji
 ---
  
 

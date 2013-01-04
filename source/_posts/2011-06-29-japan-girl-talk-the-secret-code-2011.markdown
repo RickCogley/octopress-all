@@ -4,7 +4,7 @@ title: "Japan Girl Talk - The Secret Code 2011"
 date: 2011-06-29 23:18:31 UTC
 updated: 2011-06-29 23:18:31 UTC
 comments: true
-categories: youth culture teenagers Gyaru girls Language humor Japanese japan ギャル語 slang
+categories: snapjapan youth culture teenagers Gyaru girls Language humor Japanese japan ギャル語 slang
 ---
  
 

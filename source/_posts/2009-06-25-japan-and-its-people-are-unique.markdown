@@ -4,7 +4,7 @@ title: "Japan and Its People are Unique"
 date: 2009-06-25 12:16:58 UTC
 updated: 2009-06-25 12:16:58 UTC
 comments: true
-categories: kafunsho intestines culture humor uniqueness snow Japanese nihonjinron japan hay fever
+categories: snapjapan kafunsho intestines culture humor uniqueness snow Japanese nihonjinron japan hay fever
 ---
  
 

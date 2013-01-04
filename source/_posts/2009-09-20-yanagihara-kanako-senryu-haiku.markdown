@@ -4,7 +4,7 @@ title: "Yanagihara Kanako Senryu Haiku"
 date: 2009-09-20 21:10:47 UTC
 updated: 2009-09-20 21:10:47 UTC
 comments: true
-categories: Kanako Yanagihara humor Senryu japan
+categories: snapjapan Kanako Yanagihara humor Senryu japan
 ---
  
 

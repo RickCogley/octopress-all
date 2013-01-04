@@ -4,7 +4,7 @@ title: "Japan Rail is More Gaijin"
 date: 2009-08-19 01:25:06 UTC
 updated: 2009-08-19 01:25:06 UTC
 comments: true
-categories: Japan Rail Language Interpretation Pronunciation
+categories: snapjapan Japan Rail Language Interpretation Pronunciation
 ---
  
 

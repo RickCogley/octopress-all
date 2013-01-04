@@ -62,7 +62,7 @@ def parse_post_entries(feed, verbose)
     obj["creation_datetime"] = created_datetime
     obj["updated_datetime"] = post.updated
     obj["content"] = content
-    obj["categories"] = post.categories.join(" ")
+    obj["categories"] = 'blog-cogley ' + post.categories.join(" ")
     posts.push(obj)
   end
   return posts
