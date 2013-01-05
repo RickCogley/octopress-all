@@ -5,6 +5,8 @@ date: 2009-09-20 21:10:47 UTC
 updated: 2009-09-20 21:10:47 UTC
 comments: true
 categories: snapjapan Kanako Yanagihara humor Senryu japan
+keywords: Kanako Yanagihara,humor,Senryu,japan
+tags: Kanako Yanagihara humor Senryu japan
 ---
  
 

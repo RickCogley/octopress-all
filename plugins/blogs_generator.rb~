@@ -102,7 +102,7 @@ module Jekyll
       if self.layouts.key? 'blog_index'
         {
 	 'snapjapan' => ['Snap!Japan - Japan in a Snap!', "A 20-year resident's perspective."], 
-	 'rick-cogley' => ["Rick Cogley's journal on life tuning, productivity and management.", "Rick Cogley's journal on life tuning, productivity and management."]
+	 'blog-cogley' => ["Rick Cogley's journal on life tuning, productivity and management.", "Rick Cogley's journal on life tuning, productivity and management."]
 	}.each do |blog_name, desc|
           self.write_blog_index(blog_name, desc)
         end

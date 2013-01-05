@@ -5,6 +5,8 @@ date: 2012-12-23 22:35:29 UTC
 updated: 2012-12-23 22:35:29 UTC
 comments: true
 categories: blog-cogley Network Fixed IP Amazon EC2 geek AWS
+keywords: Network,Fixed IP,Amazon,EC2,geek,AWS
+tags: Network Fixed IP Amazon EC2 geek AWS
 ---
  
 

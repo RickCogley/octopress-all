@@ -5,6 +5,8 @@ date: 2010-05-31 22:31:36 UTC
 updated: 2010-05-31 22:31:36 UTC
 comments: true
 categories: blog-cogley productivity spotlight tip mdutil tips Entire Message cocktail mdimporter mail.app
+keywords: productivity,spotlight,tip,mdutil,tips,Entire Message,cocktail,mdimporter,mail.app
+tags: productivity spotlight tip mdutil tips Entire Message cocktail mdimporter mail.app
 ---
  
 

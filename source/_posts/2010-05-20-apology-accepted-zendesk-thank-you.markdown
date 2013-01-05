@@ -5,6 +5,8 @@ date: 2010-05-20 22:40:46 UTC
 updated: 2010-05-20 22:40:46 UTC
 comments: true
 categories: blog-cogley zendesk apology ethics SaaS software kudos recant thanks business
+keywords: zendesk,apology,ethics,SaaS,software,kudos,recant,thanks,business
+tags: zendesk apology ethics SaaS software kudos recant thanks business
 ---
  
 

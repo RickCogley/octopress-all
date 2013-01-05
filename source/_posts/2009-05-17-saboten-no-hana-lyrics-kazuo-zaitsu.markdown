@@ -5,6 +5,8 @@ date: 2009-05-17 05:22:32 UTC
 updated: 2009-05-17 05:22:32 UTC
 comments: true
 categories: snapjapan Music Folk Tulip Saboten no Hana Hitotsu Yane no Shita Kazuo Zaitsu
+keywords: Music,Folk,Tulip,Saboten no Hana,Hitotsu Yane no Shita,Kazuo Zaitsu
+tags: Music Folk Tulip Saboten no Hana Hitotsu Yane no Shita Kazuo Zaitsu
 ---
  
 

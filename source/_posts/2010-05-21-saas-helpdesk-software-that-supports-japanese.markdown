@@ -5,6 +5,8 @@ date: 2010-05-21 01:31:10 UTC
 updated: 2010-05-21 01:31:10 UTC
 comments: true
 categories: blog-cogley helpdesk zendesk japanese software as a service SaaS pricing software alternatives helpdesk applications processing language
+keywords: helpdesk,zendesk,japanese,software as a service,SaaS,pricing,software,alternatives,helpdesk applications,processing,language
+tags: helpdesk zendesk japanese software as a service SaaS pricing software alternatives helpdesk applications processing language
 ---
  
 

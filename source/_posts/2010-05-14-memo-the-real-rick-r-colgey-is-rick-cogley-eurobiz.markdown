@@ -5,6 +5,8 @@ date: 2010-05-14 22:01:27 UTC
 updated: 2010-05-14 22:01:27 UTC
 comments: true
 categories: blog-cogley Proofreading Mistake Rick R. Colgey Errata Eurobiz
+keywords: Proofreading,Mistake,Rick R. Colgey,Errata,Eurobiz
+tags: Proofreading Mistake Rick R. Colgey Errata Eurobiz
 ---
  
 

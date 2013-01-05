@@ -5,6 +5,8 @@ date: 2010-06-22 07:24:32 UTC
 updated: 2010-06-22 07:24:32 UTC
 comments: true
 categories: blog-cogley productivity command line terminal tr crlf
+keywords: productivity,command line,terminal,tr,crlf
+tags: productivity command line terminal tr crlf
 ---
  
 

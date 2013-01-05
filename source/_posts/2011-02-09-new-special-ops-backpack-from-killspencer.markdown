@@ -5,6 +5,8 @@ date: 2011-02-09 04:48:25 UTC
 updated: 2011-02-09 04:48:25 UTC
 comments: true
 categories: blog-cogley Killspencer Backpack Military
+keywords: Killspencer,Backpack,Military
+tags: Killspencer Backpack Military
 ---
  
 

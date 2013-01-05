@@ -2,5 +2,9 @@
 // Add styles here to make changes without digging in too much
 
 ol,ul{
-  margin-left: 23px;
+  margin-left: 1.3em;
+}
+
+ul#tags_cloud{
+	li{ display: inline-block; }
 }

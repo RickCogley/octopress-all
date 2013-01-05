@@ -40,6 +40,7 @@ module Jekyll
       # Read the YAML data from the layout page.
 
       self.read_yaml(File.join(base, '_layouts'), 'blog_index.html')
+self.transform
       self.data['category']    = category
       # Set the title for this page.
       self.data['title']       = desc[0]

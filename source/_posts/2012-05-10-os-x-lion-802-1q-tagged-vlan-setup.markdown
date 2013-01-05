@@ -5,6 +5,8 @@ date: 2012-05-10 04:08:27 UTC
 updated: 2012-05-10 04:08:27 UTC
 comments: true
 categories: blog-cogley system administration vlan 10.7 technology os x 802.1q interface Ethernet tagged osx apple
+keywords: system administration,vlan,10.7,technology,os x,802.1q,interface,Ethernet,tagged,osx,apple
+tags: system administration vlan 10.7 technology os x 802.1q interface Ethernet tagged osx apple
 ---
  
 

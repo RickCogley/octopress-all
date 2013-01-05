@@ -5,6 +5,8 @@ date: 2011-01-21 03:23:22 UTC
 updated: 2011-01-21 03:23:22 UTC
 comments: true
 categories: blog-cogley indexing concrete5 utilities CMS cron geek
+keywords: indexing,concrete5,utilities,CMS,cron,geek
+tags: indexing concrete5 utilities CMS cron geek
 ---
  
 

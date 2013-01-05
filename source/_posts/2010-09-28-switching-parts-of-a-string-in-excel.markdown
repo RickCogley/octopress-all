@@ -5,6 +5,8 @@ date: 2010-09-28 01:49:56 UTC
 updated: 2010-09-28 01:49:56 UTC
 comments: true
 categories: blog-cogley productivity tip Excel Formula
+keywords: productivity,tip,Excel,Formula
+tags: productivity tip Excel Formula
 ---
  
 

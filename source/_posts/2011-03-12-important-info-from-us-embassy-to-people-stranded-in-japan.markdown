@@ -5,6 +5,8 @@ date: 2011-03-12 09:33:31 UTC
 updated: 2011-03-12 09:33:31 UTC
 comments: true
 categories: blog-cogley Stranded Earthquake Refugee Emergency Notification Evacuation ACCJ US Embassy japan American Chamber of Commerce in Japan
+keywords: Stranded,Earthquake,Refugee,Emergency,Notification,Evacuation,ACCJ,US Embassy,japan,American Chamber of Commerce in Japan
+tags: Stranded Earthquake Refugee Emergency Notification Evacuation ACCJ US Embassy japan American Chamber of Commerce in Japan
 ---
  
 

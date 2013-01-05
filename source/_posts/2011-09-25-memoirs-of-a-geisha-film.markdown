@@ -5,6 +5,8 @@ date: 2011-09-25 00:49:50 UTC
 updated: 2011-09-25 00:49:50 UTC
 comments: true
 categories: snapjapan Review culture memoirs of a geisha film movie
+keywords: Review,culture,memoirs of a geisha,film,movie
+tags: Review culture memoirs of a geisha film movie
 ---
  
 

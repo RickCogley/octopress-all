@@ -5,6 +5,8 @@ date: 2011-09-03 02:41:12 UTC
 updated: 2011-09-03 02:41:12 UTC
 comments: true
 categories: blog-cogley Problem keyboard iPhone emoji Troubleshooting softbank
+keywords: Problem,keyboard,iPhone,emoji,Troubleshooting,softbank
+tags: Problem keyboard iPhone emoji Troubleshooting softbank
 ---
  
 

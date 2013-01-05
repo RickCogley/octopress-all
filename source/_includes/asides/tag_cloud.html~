@@ -1,0 +1,6 @@
+<section class="odd">
+  <h1>Tag cloud</h1>
+  <ul id="tags_cloud">
+    {% tag_cloud threshold: 3 %}
+	</ul>
+</section>

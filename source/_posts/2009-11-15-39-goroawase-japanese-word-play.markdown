@@ -5,6 +5,8 @@ date: 2009-11-15 13:01:40 UTC
 updated: 2009-11-15 13:01:40 UTC
 comments: true
 categories: snapjapan leisure Language Japanese Goroawase
+keywords: leisure,Language,Japanese,Goroawase
+tags: leisure Language Japanese Goroawase
 ---
  
 

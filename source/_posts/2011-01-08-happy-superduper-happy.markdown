@@ -5,6 +5,8 @@ date: 2011-01-08 03:01:33 UTC
 updated: 2011-01-08 03:01:33 UTC
 comments: true
 categories: blog-cogley Seagate Momentus XT sparseimage SuperDuper Shirt Pocket 2011 Hard Drive Failure Recovery apple
+keywords: Seagate Momentus XT,sparseimage,SuperDuper,Shirt Pocket,2011,Hard Drive Failure,Recovery,apple
+tags: Seagate Momentus XT sparseimage SuperDuper Shirt Pocket 2011 Hard Drive Failure Recovery apple
 ---
  
 

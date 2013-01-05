@@ -5,6 +5,8 @@ date: 2009-06-04 01:11:36 UTC
 updated: 2009-06-04 01:11:36 UTC
 comments: true
 categories: snapjapan New Years Reunion Oshogatsu japan
+keywords: New Years,Reunion,Oshogatsu,japan
+tags: New Years Reunion Oshogatsu japan
 ---
  
 

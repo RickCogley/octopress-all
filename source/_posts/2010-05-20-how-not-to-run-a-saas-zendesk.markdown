@@ -5,6 +5,8 @@ date: 2010-05-20 22:23:00 UTC
 updated: 2010-05-20 22:23:00 UTC
 comments: true
 categories: blog-cogley zendesk ethics angry SaaS software price increase poor business practice
+keywords: zendesk,ethics,angry,SaaS,software,price increase,poor business practice
+tags: zendesk ethics angry SaaS software price increase poor business practice
 ---
  
 

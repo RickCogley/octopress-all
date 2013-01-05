@@ -5,6 +5,8 @@ date: 2010-11-01 04:42:38 UTC
 updated: 2010-11-01 04:42:38 UTC
 comments: true
 categories: blog-cogley Firmware upgrade Ricoh GXR
+keywords: Firmware,upgrade,Ricoh GXR
+tags: Firmware upgrade Ricoh GXR
 ---
  
 

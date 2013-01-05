@@ -5,6 +5,8 @@ date: 2009-06-21 03:10:56 UTC
 updated: 2009-06-21 03:10:56 UTC
 comments: true
 categories: snapjapan Review Ray-Out DIY Gadgets レイアウト RT-P1LC4/B iPhone Case iphone
+keywords: Review,Ray-Out,DIY,Gadgets,レイアウト,RT-P1LC4/B,iPhone Case,iphone
+tags: Review Ray-Out DIY Gadgets レイアウト RT-P1LC4/B iPhone Case iphone
 ---
  
 

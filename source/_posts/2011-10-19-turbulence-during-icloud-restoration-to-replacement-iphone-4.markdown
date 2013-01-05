@@ -5,6 +5,8 @@ date: 2011-10-19 23:44:09 UTC
 updated: 2011-10-19 23:44:09 UTC
 comments: true
 categories: blog-cogley iPhone iOS 5 backup Restore iCloud Joint Venture apple
+keywords: iPhone,iOS 5,backup,Restore,iCloud,Joint Venture,apple
+tags: iPhone iOS 5 backup Restore iCloud Joint Venture apple
 ---
  
 

@@ -5,6 +5,8 @@ date: 2010-02-23 06:07:27 UTC
 updated: 2010-02-23 06:07:27 UTC
 comments: true
 categories: blog-cogley productivity 10.6 hostname software automatic prompt apple
+keywords: productivity,10.6,hostname,software,automatic,prompt,apple
+tags: productivity 10.6 hostname software automatic prompt apple
 ---
  
 

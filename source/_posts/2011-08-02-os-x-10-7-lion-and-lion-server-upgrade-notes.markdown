@@ -5,6 +5,8 @@ date: 2011-08-02 23:50:19 UTC
 updated: 2011-08-02 23:50:19 UTC
 comments: true
 categories: blog-cogley Snow Leopard 10.7 os x software upgrade Lion apple
+keywords: Snow Leopard,10.7,os x,software,upgrade,Lion,apple
+tags: Snow Leopard 10.7 os x software upgrade Lion apple
 ---
  
 

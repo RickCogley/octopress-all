@@ -5,6 +5,8 @@ date: 2009-08-19 01:25:06 UTC
 updated: 2009-08-19 01:25:06 UTC
 comments: true
 categories: snapjapan Japan Rail Language Interpretation Pronunciation
+keywords: Japan Rail,Language,Interpretation,Pronunciation
+tags: Japan Rail Language Interpretation Pronunciation
 ---
  
 

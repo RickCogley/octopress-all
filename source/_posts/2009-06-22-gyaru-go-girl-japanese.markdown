@@ -5,6 +5,8 @@ date: 2009-06-22 23:07:43 UTC
 updated: 2009-06-22 23:07:43 UTC
 comments: true
 categories: snapjapan culture Gyaru Language Japanese
+keywords: culture,Gyaru,Language,Japanese
+tags: culture Gyaru Language Japanese
 ---
  
 

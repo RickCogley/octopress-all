@@ -5,6 +5,8 @@ date: 2012-10-31 08:15:20 UTC
 updated: 2012-10-31 08:15:20 UTC
 comments: true
 categories: snapjapan Juice Shinbashi Vegetarian
+keywords: Juice,Shinbashi,Vegetarian
+tags: Juice Shinbashi Vegetarian
 ---
  
 

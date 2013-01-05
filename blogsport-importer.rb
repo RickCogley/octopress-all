@@ -46,7 +46,7 @@ def parameterize(string, sep = '-')
   parameterized_string.downcase
 end
  
-def parse_post_entries(feed, verbose)
+def parse_post_entries(feed, verbose, categ)
   posts = []
   feed.entries.each do |post|
     obj = Hash.new
@@ -62,7 +62,8 @@ def parse_post_entries(feed, verbose)
     obj["creation_datetime"] = created_datetime
     obj["updated_datetime"] = post.updated
     obj["content"] = content
-    obj["categories"] = 'blog-cogley ' + post.categories.join(" ")
+    obj["categories"] = "#{categ} #{post.categories.join(" ")}"
+    obj["keywords"] = post.categories
     posts.push(obj)
   end
   return posts
@@ -82,6 +83,8 @@ date: #{post["creation_datetime"]}
 updated: #{post["updated_datetime"]}
 comments: true
 categories: #{post["categories"]}
+keywords: #{post["keywords"].join(",")}
+tags: #{post["keywords"].join(" ")}
 ---
  
 }
@@ -122,23 +125,29 @@ def main
   end
  
   opt_parser.parse!
-  
+=begin
   if ARGV[0]
     feed_url = ARGV.first
   else
     puts opt_parser
     exit()
   end
- 
-  puts "Fetching feed #{feed_url}..."
-  feed = Feedzirra::Feed.fetch_and_parse(feed_url)
+=end
+
+{
+ "blog-cogley" =>  "http://rickcogley.blogspot.jp",
+ "snapjapan" => "http://snapjapan.blogspot.jp"
+}.each do |categ, feed_url|
+
+    puts "Fetching feed #{feed_url}..."
+    feed = Feedzirra::Feed.fetch_and_parse("#{feed_url}/feeds/posts/default")
   
-  puts "Parsing feed..."
-  posts = parse_post_entries(feed, options[:verbose])
+    puts "Parsing feed..."
+    posts = parse_post_entries(feed, options[:verbose], categ)
   
-  puts "Writing posts to _posts/..."
-  write_posts(posts, options[:verbose])
- 
+    puts "Writing posts to _posts/..."
+    write_posts(posts, options[:verbose])
+  end
   puts "Done!"
 end
  

@@ -5,6 +5,8 @@ date: 2009-06-02 00:39:13 UTC
 updated: 2009-06-02 00:39:13 UTC
 comments: true
 categories: snapjapan Convenience MHLW OTC drugs Gov't of Japan PAL 7-11
+keywords: Convenience,MHLW,OTC drugs,Gov't of Japan,PAL,7-11
+tags: Convenience MHLW OTC drugs Gov't of Japan PAL 7-11
 ---
  
 
