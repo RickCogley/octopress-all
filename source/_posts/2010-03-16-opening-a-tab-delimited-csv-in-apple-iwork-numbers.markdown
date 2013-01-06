@@ -5,8 +5,8 @@ date: 2010-03-16 06:12:57 UTC
 updated: 2010-03-16 06:12:57 UTC
 comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, Tips]
-keywords: tab-delimited,CSV,TXT,TSV,tip,tips,Numbers,iWork,apple
-tags: tab-delimited CSV TXT TSV tip tips Numbers iWork apple
+keywords: [tab-delimited,CSV,TXT,TSV,tip,tips,Numbers,iWork,apple]
+tags: [tab-delimited,CSV,TXT,TSV,tip,tips,Numbers,iWork,apple]
 ---
  
 

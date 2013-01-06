@@ -5,8 +5,8 @@ date: 2009-12-20 12:02:10 UTC
 updated: 2009-12-20 12:02:10 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Humor]
-keywords: manzai,waraimeshi,non-style,humor,panku bubu,m1 grandprix
-tags: manzai waraimeshi non-style humor panku bubu m1 grandprix
+keywords: [manzai,waraimeshi,non-style,humor,panku bubu,m1 grandprix]
+tags: [manzai,waraimeshi,non-style,humor,panku bubu,m1 grandprix]
 ---
  
 

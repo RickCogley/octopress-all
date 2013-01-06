@@ -5,8 +5,8 @@ date: 2012-04-22 02:49:13 UTC
 updated: 2012-04-22 02:49:13 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Language, Humor]
-keywords: dai-ichi life,senryuu,川柳,humor,Senryu
-tags: dai-ichi life senryuu 川柳 humor Senryu
+keywords: [dai-ichi life,senryuu,川柳,humor,Senryu]
+tags: [dai-ichi life,senryuu,川柳,humor,Senryu]
 ---
  
 

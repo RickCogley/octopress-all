@@ -5,8 +5,8 @@ date: 2009-07-19 23:50:41 UTC
 updated: 2009-07-19 23:50:41 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture]
-keywords: Ocean,海の日,Japan Holidays,Seashore,kamogawa,Marine Day,Imperial,Beach,Umi no Hi,Emperor Meiji
-tags: Ocean 海の日 Japan Holidays Seashore kamogawa Marine Day Imperial Beach Umi no Hi Emperor Meiji
+keywords: [Ocean,海の日,Japan Holidays,Seashore,kamogawa,Marine Day,Imperial,Beach,Umi no Hi,Emperor Meiji]
+tags: [Ocean,海の日,Japan Holidays,Seashore,kamogawa,Marine Day,Imperial,Beach,Umi no Hi,Emperor Meiji]
 ---
  
 

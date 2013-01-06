@@ -5,8 +5,8 @@ date: 2009-06-22 23:07:43 UTC
 updated: 2009-06-22 23:07:43 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Language, Street]
-keywords: culture,Gyaru,Language,Japanese,Pop,Slang
-tags: culture Gyaru Language Japanese Pop Slang
+keywords: [culture,Gyaru,Language,Japanese,Pop,Slang]
+tags: [culture,Gyaru,Language,Japanese,Pop,Slang]
 ---
  
 

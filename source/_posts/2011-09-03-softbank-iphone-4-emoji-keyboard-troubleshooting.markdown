@@ -5,8 +5,8 @@ date: 2011-09-03 02:41:12 UTC
 updated: 2011-09-03 02:41:12 UTC
 comments: true
 categories: [Blog-Cogley, Japan, Software, Mobile, Gadget, Productivity, Troubleshooting]
-keywords: Problem,keyboard,iPhone,emoji,softbank
-tags: Problem keyboard iPhone emoji softbank
+keywords: [Problem,keyboard,iPhone,emoji,softbank]
+tags: [Problem,keyboard,iPhone,emoji,softbank]
 ---
  
 

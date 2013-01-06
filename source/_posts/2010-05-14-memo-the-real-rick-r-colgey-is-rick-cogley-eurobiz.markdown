@@ -5,8 +5,8 @@ date: 2010-05-14 22:01:27 UTC
 updated: 2010-05-14 22:01:27 UTC
 comments: true
 categories: [Blog-Cogley, Professional, Personal, Errata]
-keywords: Proofreading,Mistake,Correction,Rick R. Colgey,Eurobiz
-tags: Proofreading Mistake Correction Rick R. Colgey Eurobiz
+keywords: [Proofreading,Mistake,Correction,Rick R. Colgey,Eurobiz]
+tags: [Proofreading,Mistake,Correction,Rick R. Colgey,Eurobiz]
 ---
  
 

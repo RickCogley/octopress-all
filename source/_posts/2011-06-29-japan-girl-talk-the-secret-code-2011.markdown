@@ -5,8 +5,8 @@ date: 2011-06-29 23:18:31 UTC
 updated: 2011-06-29 23:18:31 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Language, Humor, Street]
-keywords: youth,culture,teenagers,Gyaru,girls,Language,humor,Japanese,japan,ギャル語,slang
-tags: youth culture teenagers Gyaru girls Language humor Japanese japan ギャル語 slang
+keywords: [youth,culture,teenagers,Gyaru,girls,Language,humor,Japanese,japan,ギャル語,slang]
+tags: [youth,culture,teenagers,Gyaru,girls,Language,humor,Japanese,japan,ギャル語,slang]
 ---
  
 

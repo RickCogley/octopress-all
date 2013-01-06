@@ -5,8 +5,8 @@ date: 2009-08-20 00:54:05 UTC
 updated: 2009-08-20 00:54:05 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Language, Humor]
-keywords: dai-ichi life,senryuu,haiku,humor,sarasen
-tags: dai-ichi life senryuu haiku humor sarasen
+keywords: [dai-ichi life,senryuu,haiku,humor,sarasen]
+tags: [dai-ichi life,senryuu,haiku,humor,sarasen]
 ---
  
 

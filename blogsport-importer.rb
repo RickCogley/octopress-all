@@ -62,8 +62,8 @@ def parse_post_entries(feed, verbose, categ)
     obj["creation_datetime"] = created_datetime
     obj["updated_datetime"] = post.updated
     obj["content"] = content
-    obj["categories"] = "#{categ} #{post.categories.join(" ")}"
-    obj["keywords"] = post.categories
+    obj["categories"] = "#{categ} #{post.categories.join(",")}"
+    obj["keywords"] = post.categories.join(",")
     posts.push(obj)
   end
   return posts
@@ -82,9 +82,9 @@ title: #{post["title"].inspect}
 date: #{post["creation_datetime"]}
 updated: #{post["updated_datetime"]}
 comments: true
-categories: #{post["categories"]}
-keywords: #{post["keywords"].join(",")}
-tags: #{post["keywords"].join(" ")}
+categories: [#{post["categories"]}]
+keywords: [#{post["keywords"]}]
+tags: [#{post["keywords"]}]
 ---
  
 }

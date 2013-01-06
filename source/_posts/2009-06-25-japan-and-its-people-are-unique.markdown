@@ -5,8 +5,8 @@ date: 2009-06-25 12:16:58 UTC
 updated: 2009-06-25 12:16:58 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Humor]
-keywords: kafunsho,intestines,culture,humor,uniqueness,snow,Japanese,nihonjinron,japan,hay fever
-tags: kafunsho intestines culture humor uniqueness snow Japanese nihonjinron japan hay fever
+keywords: [kafunsho,intestines,culture,humor,uniqueness,snow,Japanese,nihonjinron,japan,hay fever]
+tags: [kafunsho,intestines,culture,humor,uniqueness,snow,Japanese,nihonjinron,japan,hay fever]
 ---
  
 
