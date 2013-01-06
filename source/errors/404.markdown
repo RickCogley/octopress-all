@@ -1,0 +1,12 @@
+---
+layout: page
+title: "404"
+date: 2013-01-07 06:35
+comments: false
+sharing: false
+footer: true
+---
+
+###Uh Oh###
+
+Thanks for your visit, but the page you were looking for is not available. Please use the search and try again. 

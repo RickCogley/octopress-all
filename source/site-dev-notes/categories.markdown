@@ -1,4 +1,13 @@
-==CATEGORIES==
+---
+layout: page
+title: "categories"
+date: 2013-01-07 06:30
+comments: false
+sharing: false
+footer: true
+---
+
+###Categories###
 
 Japan
 Culture
@@ -38,7 +47,7 @@ Design
 Emergency
 Disaster
 
-==USAGE==
+###Usage###
 
 * Keep categories general. No reason to separate Japan categories from other categories.
 * Use the most natural between singular and plural forms, leaning toward plural. 
