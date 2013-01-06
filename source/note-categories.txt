@@ -1,0 +1,45 @@
+==CATEGORIES==
+
+Japan
+Culture
+Humor
+Weird
+Music
+Popular
+Street
+Language
+
+Personal
+Family
+Reviews
+Errata
+Cycling
+Photography
+Gadgets
+Health
+
+Professional
+Business
+Service
+Efficiency
+Productivity
+Tips
+Process
+Career
+Mobile
+Technology
+Software
+Upgrade
+SysAdmin
+Troubleshooting
+Web
+Design
+
+Emergency
+Disaster
+
+==USAGE==
+
+* Keep categories general. No reason to separate Japan categories from other categories.
+* Use the most natural between singular and plural forms, leaning toward plural. 
+* Use tags and keywords for specifics, and synonyms and singular forms for categories. For example, if the category is Reviews, you can add tags and keywords Review. 
