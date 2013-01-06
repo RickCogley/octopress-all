@@ -2,6 +2,7 @@
 layout: nil
 ---
 User-agent: *
-Disallow: 
+Disallow: /site-dev-notes/
+Disallow: /errors/
 
 Sitemap: {{ site.url }}/sitemap.xml 
