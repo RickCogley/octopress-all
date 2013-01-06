@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "404"
-date: 2013-01-07 06:35
+title: "404 - File Not Found"
 comments: false
 sharing: false
 footer: true

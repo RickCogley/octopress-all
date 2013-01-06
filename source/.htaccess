@@ -1,1 +1,5 @@
-ErrorDocument 404     errors/404.html
+ErrorDocument 400 /errors/400-Bad-Request.html
+ErrorDocument 401 /errors/401-Auth-Required.html
+ErrorDocument 403 /errors/403-Forbidden.html
+ErrorDocument 404 /errors/404-Not-Found.html
+ErrorDocument 500 /errors/500-Server-Error.html
