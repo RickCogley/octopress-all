@@ -81,9 +81,8 @@ self.transform
     #
     #  +category_dir+ is the String path to the category folder.
     #  +category+     is the category currently being processed.
-    def write_blog_index(blog_dir, desc)
+    def write_blog_index(blog_dir, desc, category)
 
-      category = blog_dir
       index = BlogIndex.new(self, self.source, blog_dir, category, desc)
       index.render(self.layouts, site_payload)
       index.write(self.dest)
@@ -102,10 +101,11 @@ self.transform
     def write_blogs_indexes
       if self.layouts.key? 'blog_index'
         {
-	 'snapjapan' => ['Snap!Japan - Japan in a Snap!', "A 20-year resident's perspective."], 
-	 'blog-cogley' => ["Rick Cogley's journal on life tuning, productivity and management.", "Rick Cogley's journal on life tuning, productivity and management."]
+	 'snapjapan' => ['SnapJapan', 'Snap!Japan - Japan in a Snap!', "A 20-year resident's perspective."], 
+	 'blog-cogley' => ['SnapJapan', "Rick Cogley's journal on life tuning, productivity and management.", "Rick Cogley's journal on life tuning, productivity and management."]
 	}.each do |blog_name, desc|
-          self.write_blog_index(blog_name, desc)
+          category = desc.shift
+          self.write_blog_index(blog_name, desc, category)
         end
 
       # Throw an exception if the layout couldn't be found.
