@@ -8,3 +8,19 @@ ol,ul{
 ul#tags_cloud{
 	li{ display: inline-block; }
 }
+
+// body > header h1 a, body > header h1 a:visited, body > header h1 a{
+//    font-family: "chaparral-pro-n7", "chaparral-pro", serif;
+// }
+
+body > header h1 a, body > header h1 a:visited, body > header h1 a{
+   font-family: "chaparral-pro", serif;
+}
+
+aside.sidebar li{
+   font-family: "freight-text-pro-n3", "freight-text-pro", sans-serif;
+}
+
+// footer p:last-child{
+//    font-family: "chaparral-pro-n3", "chaparral-pro", serif;
+// }
