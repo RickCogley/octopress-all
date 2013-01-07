@@ -111,7 +111,7 @@ task :new_post, :title do |t, args|
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     post.puts "comments: true"
     post.puts "categories: [Blog-Cogley, SnapJapan, Japan, Technology etc]"
-    post.puts "keywords: [this, that, the other]"
+    post.puts "keywords: this, that, the other"
     post.puts "tags: [this, that, the other]"
     post.puts "published: false"
     post.puts "---"
