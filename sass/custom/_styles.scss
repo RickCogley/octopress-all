@@ -31,3 +31,12 @@ header[role="banner"] {
 }
 
 
+ul#projects{
+	list-style: none;
+	li{
+		display: inline-block;
+		a{ 
+			white-space: inherit;
+		}
+	}
+}
