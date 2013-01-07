@@ -69,7 +69,7 @@ github_skip_forks: true
 
 # Twitter
 twitter_user: rickcogley
-twitter_tweet_count: 4
+twitter_tweet_count: 2
 twitter_show_replies: true
 twitter_follow_button: true
 twitter_show_follower_count: true
@@ -86,11 +86,11 @@ googleplus_hidden: false
 
 # Pinboard
 pinboard_user: rickcogley
-pinboard_count: 4
+pinboard_count: 2
 
 # Delicious
 delicious_user:
-delicious_count: 3
+delicious_count: 2
 
 # Disqus Comments
 disqus_short_name: rickcogley
