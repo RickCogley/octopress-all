@@ -5,7 +5,7 @@ date: 2010-05-31 22:31:36 UTC
 updated: 2010-05-31 22:31:36 UTC
 comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, SysAdmin, Tips]
-keywords: [spotlight,tip,mdutil,tips,Entire Message,cocktail,mdimporter,mail.app]
+keywords: spotlight,tip,mdutil,tips,Entire Message,cocktail,mdimporter,mail.app
 tags: [spotlight,tip,mdutil,tips,Entire Message,cocktail,mdimporter,mail.app]
 ---
  

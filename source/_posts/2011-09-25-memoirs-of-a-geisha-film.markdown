@@ -5,7 +5,7 @@ date: 2011-09-25 00:49:50 UTC
 updated: 2011-09-25 00:49:50 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Reviews]
-keywords: [Reviews,culture,memoirs of a geisha,film,movie]
+keywords: Reviews,culture,memoirs of a geisha,film,movie
 tags: [Reviews,culture,memoirs of a geisha,film,movie]
 ---
  

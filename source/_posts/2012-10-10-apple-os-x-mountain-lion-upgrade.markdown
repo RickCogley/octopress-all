@@ -5,7 +5,7 @@ date: 2012-10-10 06:24:59 UTC
 updated: 2012-10-10 06:24:59 UTC
 comments: true
 categories: [Blog-Cogley, Technology, Software, Upgrades]
-keywords: [Mountain Lion,10.8,os x,apple]
+keywords: Mountain Lion,10.8,os x,apple
 tags: [Mountain Lion,10.8,os x,apple]
 ---
  

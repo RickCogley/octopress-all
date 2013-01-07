@@ -5,7 +5,7 @@ date: 2010-09-05 06:33:23 UTC
 updated: 2010-09-05 06:33:23 UTC
 comments: true
 categories: [Blog-Cogley, Japan, Culture, Personal, Cycling]
-keywords: [Bike,valve,mushi gomu,rubber,mama chari,cycling,虫ゴム,schrader]
+keywords: Bike,valve,mushi gomu,rubber,mama chari,cycling,虫ゴム,schrader
 tags: [Bike,valve,mushi gomu,rubber,mama chari,cycling,虫ゴム,schrader]
 ---
  

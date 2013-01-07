@@ -5,7 +5,7 @@ date: 2009-05-16 02:57:52 UTC
 updated: 2009-05-16 02:57:52 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture]
-keywords: [Isojin,Ugai,Swine Flu,Gargling,Mezamashi TV]
+keywords: Isojin,Ugai,Swine Flu,Gargling,Mezamashi TV
 tags: [Isojin,Ugai,Swine Flu,Gargling,Mezamashi TV]
 ---
  

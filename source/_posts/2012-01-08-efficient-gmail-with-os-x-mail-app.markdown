@@ -5,7 +5,7 @@ date: 2012-01-08 13:03:11 UTC
 updated: 2012-01-08 13:03:11 UTC
 comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, Tips]
-keywords: [productivity,os x,Archive,gmail,Google Apps,Lion,apple]
+keywords: productivity,os x,Archive,gmail,Google Apps,Lion,apple
 tags: [productivity,os x,Archive,gmail,Google Apps,Lion,apple]
 ---
  

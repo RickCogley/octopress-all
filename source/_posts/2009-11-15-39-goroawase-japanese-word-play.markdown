@@ -5,7 +5,7 @@ date: 2009-11-15 13:01:40 UTC
 updated: 2009-11-15 13:01:40 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Language]
-keywords: [leisure,Language,Japanese,Goroawase]
+keywords: leisure,Language,Japanese,Goroawase
 tags: [leisure,Language,Japanese,Goroawase]
 ---
  

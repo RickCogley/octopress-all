@@ -5,7 +5,7 @@ date: 2009-06-19 23:06:56 UTC
 updated: 2009-06-19 23:06:56 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Humor]
-keywords: [Horror,Toilet Paper,humor,Drop,Koji Suzuki]
+keywords: Horror,Toilet Paper,humor,Drop,Koji Suzuki
 tags: [Horror,Toilet Paper,humor,Drop,Koji Suzuki]
 ---
  

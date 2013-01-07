@@ -83,7 +83,7 @@ date: #{post["creation_datetime"]}
 updated: #{post["updated_datetime"]}
 comments: true
 categories: [#{post["categories"]}]
-keywords: [#{post["keywords"]}]
+keywords: #{post["keywords"]}
 tags: [#{post["keywords"]}]
 ---
  

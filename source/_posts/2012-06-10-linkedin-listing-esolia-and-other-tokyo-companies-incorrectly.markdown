@@ -5,7 +5,7 @@ date: 2012-06-10 01:19:46 UTC
 updated: 2012-06-10 01:19:46 UTC
 comments: true
 categories: [Blog-Cogley, Japan, Business, Service, Reviews, Troubleshooting]
-keywords: [logic error,location,LinkedIn,search listing,bug,eSolia]
+keywords: logic error,location,LinkedIn,search listing,bug,eSolia
 tags: [logic error,location,LinkedIn,search listing,bug,eSolia]
 ---
  

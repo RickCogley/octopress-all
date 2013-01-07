@@ -5,7 +5,7 @@ date: 2009-08-19 01:25:06 UTC
 updated: 2009-08-19 01:25:06 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Language]
-keywords: [Japan Rail,Language,Interpretation,Pronunciation,Engrish]
+keywords: Japan Rail,Language,Interpretation,Pronunciation,Engrish
 tags: [Japan Rail,Language,Interpretation,Pronunciation,Engrish]
 ---
  

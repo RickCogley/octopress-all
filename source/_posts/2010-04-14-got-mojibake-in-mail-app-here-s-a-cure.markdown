@@ -5,7 +5,7 @@ date: 2010-04-14 07:09:15 UTC
 updated: 2010-04-14 07:09:15 UTC
 comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, Tips]
-keywords: [mojibake,tip,10.6.3,garbled japanese,terminal,mail.app,apple]
+keywords: mojibake,tip,10.6.3,garbled japanese,terminal,mail.app,apple
 tags: [mojibake,tip,10.6.3,garbled japanese,terminal,mail.app,apple]
 ---
  

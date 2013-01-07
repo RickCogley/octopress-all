@@ -5,7 +5,7 @@ date: 2010-05-15 00:15:42 UTC
 updated: 2010-05-15 00:15:42 UTC
 comments: true
 categories: [Blog-Cogley, Personal, Photography, Troubleshooting, Gadgets]
-keywords: [Problem,Voigtländer Color-Skopar 20mm SL II,nikon,Lens Cap]
+keywords: Problem,Voigtländer Color-Skopar 20mm SL II,nikon,Lens Cap
 tags: [Problem,Voigtländer Color-Skopar 20mm SL II,nikon,Lens Cap]
 ---
  

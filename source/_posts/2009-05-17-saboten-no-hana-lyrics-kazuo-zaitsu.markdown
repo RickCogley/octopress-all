@@ -5,7 +5,7 @@ date: 2009-05-17 05:22:32 UTC
 updated: 2009-05-17 05:22:32 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Music]
-keywords: [Music,Folk,Tulip,Saboten no Hana,Hitotsu Yane no Shita,Kazuo Zaitsu,Lyrics]
+keywords: Music,Folk,Tulip,Saboten no Hana,Hitotsu Yane no Shita,Kazuo Zaitsu,Lyrics
 tags: [Music,Folk,Tulip,Saboten no Hana,Hitotsu Yane no Shita,Kazuo Zaitsu,Lyrics]
 ---
  

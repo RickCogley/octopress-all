@@ -5,7 +5,7 @@ date: 2010-06-22 07:24:32 UTC
 updated: 2010-06-22 07:24:32 UTC
 comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, SysAdmin, Tips]
-keywords: [productivity,command line,terminal,tr,crlf]
+keywords: productivity,command line,terminal,tr,crlf
 tags: [productivity,command line,terminal,tr,crlf]
 ---
  

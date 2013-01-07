@@ -5,7 +5,7 @@ date: 2009-06-25 00:43:59 UTC
 updated: 2009-06-25 00:43:59 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Weird]
-keywords: [Manners Posters,Tokyo Metro,subway,Engrish,Tokyo Rail and Subway Map]
+keywords: Manners Posters,Tokyo Metro,subway,Engrish,Tokyo Rail and Subway Map
 tags: [Manners Posters,Tokyo Metro,subway,Engrish,Tokyo Rail and Subway Map]
 ---
  

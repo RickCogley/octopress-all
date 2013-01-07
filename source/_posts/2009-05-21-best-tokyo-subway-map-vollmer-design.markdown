@@ -5,7 +5,7 @@ date: 2009-05-21 01:06:39 UTC
 updated: 2009-05-21 01:06:39 UTC
 comments: true
 categories: [SnapJapan, Japan, Reviews]
-keywords: [Convenience,Vollmer Design,tokyo,Getting Around,Informa,Tokyo Rail and Subway Map]
+keywords: Convenience,Vollmer Design,tokyo,Getting Around,Informa,Tokyo Rail and Subway Map
 tags: [Convenience,Vollmer Design,tokyo,Getting Around,Informa,Tokyo Rail and Subway Map]
 ---
  

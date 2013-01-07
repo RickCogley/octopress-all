@@ -5,7 +5,7 @@ date: 2010-11-01 04:42:38 UTC
 updated: 2010-11-01 04:42:38 UTC
 comments: true
 categories: [Blog-Cogley, Personal, Photography, Troubleshooting, Gadgets, Software, Upgrades]
-keywords: [Firmware,upgrade,Ricoh GXR]
+keywords: Firmware,upgrade,Ricoh GXR
 tags: [Firmware,upgrade,Ricoh GXR]
 ---
  

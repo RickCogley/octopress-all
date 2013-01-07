@@ -5,7 +5,7 @@ date: 2011-01-21 03:23:22 UTC
 updated: 2011-01-21 03:23:22 UTC
 comments: true
 categories: [Blog-Cogley, Web, Software, Technology, SysAdmin, Tips]
-keywords: [indexing,concrete5,utilities,CMS,cron,geek,automation]
+keywords: indexing,concrete5,utilities,CMS,cron,geek,automation
 tags: [indexing,concrete5,utilities,CMS,cron,geek,automation]
 ---
  

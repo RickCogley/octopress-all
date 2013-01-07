@@ -5,7 +5,7 @@ date: 2009-07-13 05:58:06 UTC
 updated: 2009-07-13 05:58:06 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Health, Weird]
-keywords: [Living in Japan,Insurance,Health,kenkoshindan,人間ドック]
+keywords: Living in Japan,Insurance,Health,kenkoshindan,人間ドック
 tags: [Living in Japan,Insurance,Health,kenkoshindan,人間ドック]
 ---
  
