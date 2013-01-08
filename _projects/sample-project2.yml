@@ -1,19 +1,19 @@
 description:
-  This is a sample project description.
+  Assisted Cook Medical in getting their Japan IT started, implementing their office systems and getting basic IT practices put in place.
 endorsements:
 -
   body:
-    Working with this company was great!
-  from: Endorser Name
-  role: Project Manager
+    My first direct experience with Rick was in early 2008 when he "auditioned" himself and his company by participating in a vendor negotiation for IT related installations in our new Tokyo office. Within that hour of discussion Rick's talent and skills became clearly evident and by the end of the evening he had won our business. In the years that have followed I've never regretted that decision as Rick's abilities and care for his clients permeated throughout his entire business and team. 
+  from: Michael Kohlman  
+  role: Infrastructure Manager
 image:
   url: /images/sample-project.jpg
-  title: Sample Project
-  alt: Sample Project
+  title: Cook Japan IT Infrastructure
+  alt: Cook Japan IT
 layout: project
 project_description:
-  We did this project.
+  Project description. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 published: true
-short:     This is a sample short description.
-title:     Sample Project
-website:   http://sampleproject.com/
+short:     Project description short. Lorem ipsum dolor sit amet.
+title:     Cook Japan IT Infrastructure
+website:   http://www.cookmedical.com/
