@@ -13,7 +13,7 @@ module Jekyll
 
     def get_projects(site)
       {}.tap do |projects|
-        Dir['../_projects/*.yml'].each do |path|
+        Dir['../source/_projects/*.yml'].each do |path|
           name   = File.basename(path, '.yml')
           config = YAML.load(File.read(File.join(@base, path)))
           projects[name] = config if config['published']
