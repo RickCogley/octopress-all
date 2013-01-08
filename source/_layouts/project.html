@@ -8,11 +8,10 @@ layout: page
 {% endif %}
 
 <div class="span10">
-  <p><em>{{ page.description }}</em></p>
+  <p><em>{{ page.description }}</em> {% if page.website %}
+    <div class="website"><a href="{{ page.website }}">({{ page.website }})</a></div>
+  {% endif %}</p>
 
-  {% if page.website %}
-    <div class="website"><a href="{{ page.website }}">{{ page.website }}</a></div>
-  {% endif %}
 </div>
 
 <div id="project-description" class="span16">
