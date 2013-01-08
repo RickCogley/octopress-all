@@ -7,11 +7,8 @@ layout: page
   </div>
 {% endif %}
 
-<div class="span10">
-  <p><em>{{ page.description }}</em> {% if page.website %}
-    <div class="website"><a href="{{ page.website }}">({{ page.website }})</a></div>
-  {% endif %}</p>
-
+<div class="span16">
+  <p><em>{{ page.description }} {% if page.website %}<a href="{{ page.website }}">({{ page.website }})</a>{% endif %}</em></p>
 </div>
 
 <div id="project-description" class="span16">
