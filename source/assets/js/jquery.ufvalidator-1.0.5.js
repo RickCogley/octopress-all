@@ -1,6 +1,6 @@
 /*
  * 
- * utopic | labs - powered by Utopic Farm 2010
+ * utopic | labs - powered by Utopic Farm 2010 
  * @author Tolga Arican
  * @website www.utopiclabs.com/ufvalidator
  * @website www.utopicfarm.com

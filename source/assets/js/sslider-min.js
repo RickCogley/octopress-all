@@ -1,6 +1,6 @@
 /*
 
-Version: 0.6.7 Beta
+Version: 0.6.7 Beta 
 
 This is a FREE script and is dual licensed under the following:
 http://www.opensource.org/licenses/mit-license.php | http://www.gnu.org/licenses/gpl.html

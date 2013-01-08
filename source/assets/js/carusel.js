@@ -1,4 +1,4 @@
-/*! (c) Mat Marquis (@wilto). MIT License. http://wil.to/3a */
+/*! (c) Mat Marquis (@wilto). MIT License. http://wil.to/3a  */
 
 (function( $, undefined ) {
 	var inst = 0;
