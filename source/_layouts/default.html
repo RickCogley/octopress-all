@@ -5,11 +5,7 @@
   <nav role="navigation">{% include navigation.html %}</nav>
   <div id="main">
     <div id="content">
-      {{ if abbreviation }}
         {{ content | expand_urls: root_url | abbr }}
-      {{ else }}
-      	{{ content | expand_urls: root_url }}
-      {{ endif }}
     </div>
   </div>
   <footer role="contentinfo">{% include footer.html %}</footer>
