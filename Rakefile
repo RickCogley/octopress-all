@@ -147,9 +147,12 @@ task :new_page, :filename do |t, args|
       page.puts "layout: page"
       page.puts "title: \"#{title}\""
       page.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
-      page.puts "comments: true"
+      page.puts "comments: false"
       page.puts "sharing: true"
       page.puts "footer: true"
+      page.puts "sidebar: true"
+      post.puts "keywords: this, that, the other"
+      post.puts "published: false"      
       page.puts "---"
     end
   else
