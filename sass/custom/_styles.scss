@@ -1,17 +1,8 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+ol,ul{  margin-left: 1.3em;}
 
-ol,ul{
-  margin-left: 1.3em;
-}
-
-ul.tags_cloud{
-	li{ display: inline-block; }
-}
-
-// body > header h1 a, body > header h1 a:visited, body > header h1 a{
-//    font-family: "chaparral-pro-n7", "chaparral-pro", serif;
-// }
+ul.tags_cloud li{ display: inline-block; }
 
 body > header h1 a, body > header h1 a:visited, body > header h1 a{
    font-family: "chaparral-pro", serif;
@@ -21,24 +12,45 @@ aside.sidebar li{
    font-family: "freight-text-pro-n3", "freight-text-pro", sans-serif;
 }
 
-// footer p:last-child{
-//    font-family: "chaparral-pro-n3", "chaparral-pro", serif;
-// }
-
-header[role="banner"] {
-     background-image: url('/images/brownish-shaky-horizontal-seamless-bg.jpg');
-     background-repeat: repeat;
-}
-
-
 ul#projects{
 	list-style: none;
 	li{
 		display: inline-block;
-		a{ 
-			white-space: inherit;
-		}
+		a{ white-space: inherit; }
 	}
 }
 
 article div{ margin-bottom: 1em; }
+
+#searchbar{
+	height: 27px;
+	padding: 8px 10px;
+	>ul.subscription{ margin: 3px 30px 3px 10px; }
+	> ul.subscription, form { float: right; }
+	a[rel="subscribe-rss"], a[rel="subscribe-rss"]::after {
+		-webkit-mask-image: url('/images/rss.png?1357428215');
+		-moz-mask-image: url('/images/rss.png?1357428215');
+		-ms-mask-image: url('/images/rss.png?1357428215');
+		-o-mask-image: url('/images/rss.png?1357428215');
+		mask-image: url('/images/rss.png?1357428215');
+		-webkit-mask-repeat: no-repeat;
+		-moz-mask-repeat: no-repeat;
+		-ms-mask-repeat: no-repeat;
+		-o-mask-repeat: no-repeat;
+		mask-repeat: no-repeat;
+		width: 22px;
+		height: 22px;
+	}
+	a[rel="subscribe-rss"] {
+		position: relative;
+		top: 0px;
+		text-indent: -999999em;
+		background-color: #DEDEDE;
+		border: 0;
+		padding: 0;
+		float: right;
+		&:hover { background-color: #9E9E9E;}
+	}
+}
+
+.center-content{ text-align: center; }

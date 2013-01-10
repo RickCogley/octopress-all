@@ -1,6 +1,29 @@
-<hgroup>
-  <h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
-  {% if site.subtitle %}
-    <h2>{{ site.subtitle }}</h2>
-  {% endif %}
-</hgroup>
+<div class="container">
+    <div class="row">
+      <div class="span6"> 
+      	<h1><a href="{{ root_url }}/">{{ site.title }}</a></h1>
+      	{% if site.subtitle %}
+	      <h2>{{ site.subtitle }}</h2>
+	    {% endif %}
+      </div>
+      <div class="span6">
+       <nav>
+            <ul class="right main-navigation">
+			  <li><a href="{{ root_url }}/"> Home </a></li>
+			  <li><a href="{{ root_url }}/blog"> Blog </a></li>
+			  <li><a href="{{ root_url }}/blog/archives"> Archives </a></li>
+			  <li><a href="{{ root_url }}/tags"> Tags </a></li>
+			  <li><a href="{{ root_url }}/portfolio"> Portfolio </a></li>
+			</ul>
+
+            <select class="responsive">
+            	<option value="" selected="">MENU</option>
+            	<option value="{{ root_url }}/">  Home </option>
+            	<option value="{{ root_url }}/blog">--  Blog</option>
+            	<option value="{{ root_url }}/tags">--  Tags</option>
+            	<option value="{{ root_url }}/portfolio">--  Portfolio</option>
+            </select>
+        </nav>
+      </div>
+    </div>
+  </div>

@@ -48,7 +48,7 @@ input[type="button"]:focus,
 input[type="submit"]:focus {
 border: 0;
 }
-section{ padding-top:30px;}
+section{ padding-top:30px; margin-bottom: 10px; }
 
 /***** Typography & Element *****/
 
@@ -101,7 +101,7 @@ ul.socicon li.last{ margin-right:0;}
 nav select{ display:none; width:100%;}
 nav ul{margin:30px 0; }
 nav ul li{float: left;margin:0 0 0 10px;position: relative;z-index:999; position:relative;}
-nav ul li a{display: block;margin:0;padding: 11px 16px;font-size:12px;font-weight: 400;font-family: 'PT Sans', sans-serif;text-transform: uppercase;line-height: 15px;color: #7493b2;}
+nav ul li a{display: inline;margin:0;padding: 11px 16px;font-size:12px;font-weight: 400;font-family: 'PT Sans', sans-serif;text-transform: uppercase;line-height: 15px;color: #7493b2;}
 nav ul li a:hover, nav ul li.current > a{color: #577088;border: none;background:url(../img/bg-header.png) top center repeat-x;padding: 10px 15px;border:1px #e4e4e6 solid;}
 nav ul li a:hover{background:url(../img/bg-header.png) bottom center repeat-x;}
 nav ul li span.indicator { width:12px; height:13px; background:url(../img/sub-indicator.png) top center no-repeat; position:absolute; top:13px; right:3px; display:block;}
@@ -299,8 +299,8 @@ ul.price li.buy {background:#e8e8e8;}
 
 /***** Footer *****/
 
-footer{ margin:0; padding:40px 0 0 0;background:#333333; color:#8f8e8e; border-bottom:5px #262626 solid; border-top:#262626 10px solid;}
-footer h3 { margin:0 0 15px 0; padding:0 0 10px 0;border-bottom:#262626 1px solid; text-shadow:1px 1px 0 #262626;}
+footer.footer{ margin:0; padding:40px 0 0 0;background:#333333; color:#8f8e8e; border-bottom:5px #262626 solid; border-top:#262626 10px solid;}
+footer.footer h3 { margin:0 0 15px 0; padding:0 0 10px 0;border-bottom:#262626 1px solid; text-shadow:1px 1px 0 #262626;}
 #tweet-list{ margin:0;}
 .tweets{width:370px; padding:0;font-size:12px; line-height:16px; overflow:hidden;}
 .tweets ul li,.tweets p {font-size:15px; line-height:16px;}
