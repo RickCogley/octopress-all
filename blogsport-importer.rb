@@ -78,7 +78,7 @@ def write_posts(posts, verbose)
     file_name = "source/_posts/".concat(post["file_name"])
     header = %{---           
 layout: post
-title: #{post["title"].inspect}
+post_title: #{post["title"].inspect}
 date: #{post["creation_datetime"]}
 updated: #{post["updated_datetime"]}
 comments: true
