@@ -1,0 +1,35 @@
+---
+layout: page
+footer: true
+title: All posts
+---
+<div class="row">
+ {% assign index = true %}
+ {% for post in paginator.posts %}
+   {% assign content = post.content %}
+   {% include article.html %}
+ {% endfor %}
+</div>
+ {% if paginator.total_pages > 1 %}
+	<div class="pagination center-content">
+		<ul>
+		{% if paginator.previous_page %}
+			<li><a class="prev" href="{{paginator.previous_page}}">&larr; Prev</a></li>
+		{% endif %}
+		{% for page in (1..paginator.total_pages) %}
+			{% capture url %}/{{site.pagination_dir}}/page/{{page}}{% endcapture %}
+			{% if page == 1 %}
+				{% assign url = "/" %}
+			{% endif %}
+			{% if page != paginator.page %}
+				<li><a href="{{url}}">{{page}}</a></li>
+			{% else %}
+				<li class="active"><a href="#">{{page}}</a></li>
+			{% endif %}
+		{% endfor %}
+		{% if paginator.next_page %}
+			<li><a class="next" href="{{paginator.next_page}}">Next &rarr;</a></li>
+		{% endif %}
+		</ul>
+	</div>
+{% endif %}
