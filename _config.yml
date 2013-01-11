@@ -2,12 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://esolia.github.com/rick-cogley/rcop-deploy-1
+url: http://notes.cogley.info
 title: Rick Cogley Central
-subtitle: 100% INDISPENSABLE OR 100% OPTIONAL?
+subtitle: Create more than you consume.
 author: Rick Cogley
 simple_search: http://google.com/search
-description:
+description: Rick Cogley Central is the website of Rick Cogley, an experienced, bilingual, multicultural consultant and manager, who has been based in Japan since 1987. Rick is founder and CEO of eSolia Inc. (http://www.esolia.com) an IT management firm assisting multinational corporations with their Japan operations and projects. Here you can find my blogs, photos, and other resources. 
+keywords: Rick Cogley, James Cogley, Portfolio, Biography, Japan, Productivity, Technology, Photography, Lean, Agile, Management, Efficiency
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -27,17 +28,18 @@ email: rick@cogley.info
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
 root: /
-permalink: /blog/:year/:month/:day/:title/
+permalink: /articles/:year/:month/:day/:title/
 source: source
 destination: public
 plugins: plugins
 code_dir: downloads/code
-category_dir: blog/categories
+category_dir: articles/topics
+category_title_prefix: "Topics: "
 markdown: rdiscount
 pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 10          # Posts per page on the blog index
-pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
+pagination_dir: articles  # Directory base for pagination URLs eg. /blog/page/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
