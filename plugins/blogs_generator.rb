@@ -46,7 +46,6 @@ module Jekyll
       self.data['small_title'] = desc[-1]
       # Set the meta-description for this page.
       self.data['description'] = "Blog: #{desc[0]}"
-      self.data['post_page'] = true
     end
 
   end

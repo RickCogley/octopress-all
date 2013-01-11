@@ -4,7 +4,7 @@
   <header role="banner" class="header">{% include header.html %}</header>
   {% include searchbar.html %}
 
-  {% if page.title and !page.post_page %}
+  {% unless page.post_page %}
   	<div class="slider-cont">
 		<div class="container">
 			<header id="pagehead">
@@ -12,7 +12,7 @@
 			</header>
 		</div>
   	</div>
-  {% endif %}
+  {% endunless %}
 
   <div class="container">
     {{ content | expand_urls: root_url | abbr }}
