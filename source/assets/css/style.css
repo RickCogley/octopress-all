@@ -56,7 +56,6 @@ section{ padding-top:30px; margin-bottom: 10px; }
 .imageRight {float: right;margin: 5px  0 0 20px;}
 a { color:#577088;}
 a:hover{ color:#f14a29;}
-h1, h2, h3, h4, h5, h6,p,a{font-family: 'PT Sans', sans-serif,'Lucida Sans','Lucida Grande','Lucida Sans Unicode',sans-serif;}
 h1, h2, h3, h4, h5, h6 { font-weight:400;}
 
 /***** Header *****/

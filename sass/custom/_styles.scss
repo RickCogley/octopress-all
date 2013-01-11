@@ -4,9 +4,9 @@ ol,ul{  margin-left: 1.3em;}
 
 ul.tags_cloud li{ display: inline-block; }
 
-body > header h1 a, body > header h1 a:visited, body > header h1 a{
+/*body > header h1 a, body > header h1 a:visited, body > header h1 a{
    font-family: "chaparral-pro", serif;
-}
+}*/
 
 aside.sidebar li{
    font-family: "freight-text-pro-n3", "freight-text-pro", sans-serif;
@@ -20,7 +20,10 @@ ul#projects{
 	}
 }
 
-article div{ margin-bottom: 1em; }
+article {
+	font-family: $serif;
+	div{ margin-bottom: 1em; }
+}
 
 #searchbar{
 	height: 27px;
@@ -82,3 +85,5 @@ article div{ margin-bottom: 1em; }
 a.active{ font-weight: bold; }
 
 .sharing{ padding-top: 1em; margin-bottom: 1em; }
+
+section{ font-family: $serif; }
