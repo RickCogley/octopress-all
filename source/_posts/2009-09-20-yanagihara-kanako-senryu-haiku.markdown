@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Yanagihara Kanako Senryu Haiku"
+post_title: "Yanagihara Kanako Senryu Haiku"
 date: 2009-09-20 21:10:47 UTC
 updated: 2009-09-20 21:10:47 UTC
 comments: true

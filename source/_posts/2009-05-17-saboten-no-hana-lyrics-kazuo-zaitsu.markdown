@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Saboten no Hana Lyrics - Kazuo Zaitsu"
+post_title: "Saboten no Hana Lyrics - Kazuo Zaitsu"
 date: 2009-05-17 05:22:32 UTC
 updated: 2009-05-17 05:22:32 UTC
 comments: true

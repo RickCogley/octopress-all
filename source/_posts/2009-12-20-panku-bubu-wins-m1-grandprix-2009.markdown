@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Panku Bubu Wins M1 Grandprix 2009"
+post_title: "Panku Bubu Wins M1 Grandprix 2009"
 date: 2009-12-20 12:02:10 UTC
 updated: 2009-12-20 12:02:10 UTC
 comments: true

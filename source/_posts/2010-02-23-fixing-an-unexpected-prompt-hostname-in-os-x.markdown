@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Fixing an Unexpected Prompt Hostname in OS X"
+post_title: "Fixing an Unexpected Prompt Hostname in OS X"
 date: 2010-02-23 06:07:27 UTC
 updated: 2010-02-23 06:07:27 UTC
 comments: true

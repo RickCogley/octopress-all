@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Family Reunion Sad"
+post_title: "Family Reunion Sad"
 date: 2009-06-04 01:11:36 UTC
 updated: 2009-06-04 01:11:36 UTC
 comments: true

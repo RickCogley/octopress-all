@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Best Tokyo Subway Map: Vollmer Design"
+post_title: "Best Tokyo Subway Map: Vollmer Design"
 date: 2009-05-21 01:06:39 UTC
 updated: 2009-05-21 01:06:39 UTC
 comments: true

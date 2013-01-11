@@ -1,5 +1,5 @@
 ---           
-layout: post
+post_title: post
 title: "Voigtländer Color-Skopar 20mm Lens Cap Problem"
 date: 2010-05-15 00:15:42 UTC
 updated: 2010-05-15 00:15:42 UTC

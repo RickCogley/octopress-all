@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "New: \"Special Ops\" Backpack from KILLSPENCER"
+post_title: "New: \"Special Ops\" Backpack from KILLSPENCER"
 date: 2011-02-09 04:48:25 UTC
 updated: 2011-02-09 04:48:25 UTC
 comments: true

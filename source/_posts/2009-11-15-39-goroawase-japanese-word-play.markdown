@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "39 Goroawase! - Japanese Word Play"
+post_title: "39 Goroawase! - Japanese Word Play"
 date: 2009-11-15 13:01:40 UTC
 updated: 2009-11-15 13:01:40 UTC
 comments: true

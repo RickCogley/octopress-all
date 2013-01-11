@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Fixing a Mac OS X Spotlight Index, that Doesn't"
+post_title: "Fixing a Mac OS X Spotlight Index, that Doesn't"
 date: 2010-05-31 22:31:36 UTC
 updated: 2010-05-31 22:31:36 UTC
 comments: true

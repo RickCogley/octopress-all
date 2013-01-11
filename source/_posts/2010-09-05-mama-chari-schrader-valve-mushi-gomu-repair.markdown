@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Mama-chari Schrader Valve \"Mushi Gomu\" Repair"
+post_title: "Mama-chari Schrader Valve \"Mushi Gomu\" Repair"
 date: 2010-09-05 06:33:23 UTC
 updated: 2010-09-05 06:33:23 UTC
 comments: true

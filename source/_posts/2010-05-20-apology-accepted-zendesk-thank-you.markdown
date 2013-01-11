@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Apology accepted, Zendesk. Thank you."
+post_title: "Apology accepted, Zendesk. Thank you."
 date: 2010-05-20 22:40:46 UTC
 updated: 2010-05-20 22:40:46 UTC
 comments: true

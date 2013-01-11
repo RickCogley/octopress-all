@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Turbulence during iCloud Restoration to Replacement iPhone 4"
+post_title: "Turbulence during iCloud Restoration to Replacement iPhone 4"
 date: 2011-10-19 23:44:09 UTC
 updated: 2011-10-19 23:44:09 UTC
 comments: true

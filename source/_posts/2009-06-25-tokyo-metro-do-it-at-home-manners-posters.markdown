@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Tokyo Metro \"Do It At Home\" Manners Posters"
+post_title: "Tokyo Metro \"Do It At Home\" Manners Posters"
 date: 2009-06-25 00:43:59 UTC
 updated: 2009-06-25 00:43:59 UTC
 comments: true

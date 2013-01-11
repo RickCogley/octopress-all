@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "\"Vegetarian\" Fresh Juice Bar in New Shinbashi Bldg 1F"
+post_title: "\"Vegetarian\" Fresh Juice Bar in New Shinbashi Bldg 1F"
 date: 2012-10-31 08:15:20 UTC
 updated: 2012-10-31 08:15:20 UTC
 comments: true

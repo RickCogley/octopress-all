@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Convert Line Endings with Aplomb"
+post_title: "Convert Line Endings with Aplomb"
 date: 2010-06-22 07:24:32 UTC
 updated: 2010-06-22 07:24:32 UTC
 comments: true

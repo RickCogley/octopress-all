@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "LinkedIn Listing eSolia and Other Tokyo Companies Incorrectly"
+post_title: "LinkedIn Listing eSolia and Other Tokyo Companies Incorrectly"
 date: 2012-06-10 01:19:46 UTC
 updated: 2012-06-10 01:19:46 UTC
 comments: true

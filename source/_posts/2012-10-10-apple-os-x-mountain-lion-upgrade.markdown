@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Apple OS X \"Mountain Lion\" Upgrade"
+post_title: "Apple OS X \"Mountain Lion\" Upgrade"
 date: 2012-10-10 06:24:59 UTC
 updated: 2012-10-10 06:24:59 UTC
 comments: true

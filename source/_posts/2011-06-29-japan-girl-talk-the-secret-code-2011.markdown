@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Japan Girl Talk - The Secret Code 2011"
+post_title: "Japan Girl Talk - The Secret Code 2011"
 date: 2011-06-29 23:18:31 UTC
 updated: 2011-06-29 23:18:31 UTC
 comments: true

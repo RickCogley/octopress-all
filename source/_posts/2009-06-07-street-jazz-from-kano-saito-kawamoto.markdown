@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Street Jazz from Kano, Saito, Kawamoto"
+post_title: "Street Jazz from Kano, Saito, Kawamoto"
 date: 2009-06-07 10:54:10 UTC
 updated: 2009-06-07 10:54:10 UTC
 comments: true

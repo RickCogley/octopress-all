@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Ricoh Japan - New GXR Firmware v1.29 - Fast AF WOW!"
+post_title: "Ricoh Japan - New GXR Firmware v1.29 - Fast AF WOW!"
 date: 2010-11-01 04:42:38 UTC
 updated: 2010-11-01 04:42:38 UTC
 comments: true

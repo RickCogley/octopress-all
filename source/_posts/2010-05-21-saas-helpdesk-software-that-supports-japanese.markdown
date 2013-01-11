@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "SaaS Helpdesk Software that Supports Japanese"
+post_title: "SaaS Helpdesk Software that Supports Japanese"
 date: 2010-05-21 01:31:10 UTC
 updated: 2010-05-21 01:31:10 UTC
 comments: true

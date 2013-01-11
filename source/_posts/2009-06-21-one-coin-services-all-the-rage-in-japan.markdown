@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "\"One Coin\" Services All the Rage in Japan"
+post_title: "\"One Coin\" Services All the Rage in Japan"
 date: 2009-06-21 23:35:48 UTC
 updated: 2009-06-21 23:35:48 UTC
 comments: true

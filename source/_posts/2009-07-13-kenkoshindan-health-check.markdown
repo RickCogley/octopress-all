@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Kenkoshindan Health Check"
+post_title: "Kenkoshindan Health Check"
 date: 2009-07-13 05:58:06 UTC
 updated: 2009-07-13 05:58:06 UTC
 comments: true

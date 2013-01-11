@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Efficient Gmail with OS X Mail.app"
+post_title: "Efficient Gmail with OS X Mail.app"
 date: 2012-01-08 13:03:11 UTC
 updated: 2012-01-08 13:03:11 UTC
 comments: true

@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Switching Parts of a String in Excel"
+post_title: "Switching Parts of a String in Excel"
 date: 2010-09-28 01:49:56 UTC
 updated: 2010-09-28 01:49:56 UTC
 comments: true

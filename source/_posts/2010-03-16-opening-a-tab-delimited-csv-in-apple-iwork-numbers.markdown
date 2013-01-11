@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Opening a Tab-Delimited \"CSV\" in Apple iWork Numbers"
+post_title: "Opening a Tab-Delimited \"CSV\" in Apple iWork Numbers"
 date: 2010-03-16 06:12:57 UTC
 updated: 2010-03-16 06:12:57 UTC
 comments: true

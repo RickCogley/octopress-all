@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "How to Gargle (Ugai Garagara)"
+post_title: "How to Gargle (Ugai Garagara)"
 date: 2009-05-16 02:57:52 UTC
 updated: 2009-05-16 02:57:52 UTC
 comments: true

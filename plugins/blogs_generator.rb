@@ -40,13 +40,13 @@ module Jekyll
       # Read the YAML data from the layout page.
 
       self.read_yaml(File.join(base, '_layouts'), 'blog_index.html')
-self.transform
       self.data['category']    = category
       # Set the title for this page.
       self.data['title']       = desc[0]
       self.data['small_title'] = desc[-1]
       # Set the meta-description for this page.
       self.data['description'] = "Blog: #{desc[0]}"
+      self.data['post_page'] = true
     end
 
   end
@@ -102,7 +102,7 @@ self.transform
       if self.layouts.key? 'blog_index'
         {
 	 'snapjapan' => ['SnapJapan', 'Snap!Japan - Japan in a Snap!', "A 20-year resident's perspective."], 
-	 'blog-cogley' => ['SnapJapan', "Rick Cogley's journal on life tuning, productivity and management.", "Rick Cogley's journal on life tuning, productivity and management."]
+	 'blog-cogley' => ['Blog-Cogley', "blog:Cogley", "Rick Cogley's journal on life tuning, productivity and management."]
 	}.each do |blog_name, desc|
           category = desc.shift
           self.write_blog_index(blog_name, desc, category)

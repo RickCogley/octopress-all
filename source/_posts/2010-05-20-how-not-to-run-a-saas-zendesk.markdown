@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "How not to run a SaaS: Zendesk"
+post_title: "How not to run a SaaS: Zendesk"
 date: 2010-05-20 22:23:00 UTC
 updated: 2010-05-20 22:23:00 UTC
 comments: true

@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Finally. OTC Drugs at 7-11"
+post_title: "Finally. OTC Drugs at 7-11"
 date: 2009-06-02 00:39:13 UTC
 updated: 2009-06-02 00:39:13 UTC
 comments: true

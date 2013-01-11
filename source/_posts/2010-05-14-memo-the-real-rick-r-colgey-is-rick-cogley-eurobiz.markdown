@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Memo: the real \"Rick R. Colgey\" is Rick Cogley, Eurobiz"
+post_title: "Memo: the real \"Rick R. Colgey\" is Rick Cogley, Eurobiz"
 date: 2010-05-14 22:01:27 UTC
 updated: 2010-05-14 22:01:27 UTC
 comments: true

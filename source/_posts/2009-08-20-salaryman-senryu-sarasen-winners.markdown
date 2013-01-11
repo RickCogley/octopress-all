@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Salaryman Senryu \"Sarasen\" Winners"
+post_title: "Salaryman Senryu \"Sarasen\" Winners"
 date: 2009-08-20 00:54:05 UTC
 updated: 2009-08-20 00:54:05 UTC
 comments: true

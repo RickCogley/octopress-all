@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Geek Out: Scheduled Indexing of your Concrete5 via Cron"
+post_title: "Geek Out: Scheduled Indexing of your Concrete5 via Cron"
 date: 2011-01-21 03:23:22 UTC
 updated: 2011-01-21 03:23:22 UTC
 comments: true

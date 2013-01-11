@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Assign \"Elastic IP\" Fixed Public IP to your Amazon EC2"
+post_title: "Assign \"Elastic IP\" Fixed Public IP to your Amazon EC2"
 date: 2012-12-23 22:35:29 UTC
 updated: 2012-12-23 22:35:29 UTC
 comments: true

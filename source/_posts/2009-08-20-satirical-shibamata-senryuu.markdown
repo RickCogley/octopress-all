@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Satirical Shibamata Senryuu"
+post_title: "Satirical Shibamata Senryuu"
 date: 2009-08-20 11:37:06 UTC
 updated: 2009-08-20 11:37:06 UTC
 comments: true

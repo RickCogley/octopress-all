@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Happy, SuperDuper! Happy."
+post_title: "Happy, SuperDuper! Happy."
 date: 2011-01-08 03:01:33 UTC
 updated: 2011-01-08 03:01:33 UTC
 comments: true

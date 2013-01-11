@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Important info from US Embassy to People Stranded in Japan"
+post_title: "Important info from US Embassy to People Stranded in Japan"
 date: 2011-03-12 09:33:31 UTC
 updated: 2011-03-12 09:33:31 UTC
 comments: true

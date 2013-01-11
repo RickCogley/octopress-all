@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Japan Cyclists: Aten-hut!"
+post_title: "Japan Cyclists: Aten-hut!"
 date: 2011-10-31 05:16:20 UTC
 updated: 2011-10-31 05:16:20 UTC
 comments: true

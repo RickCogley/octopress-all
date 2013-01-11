@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "Ray-Out's iPhone \"Jacket\" Case Review, DIY Fix for D-Ring Problem"
+post_title: "Ray-Out's iPhone \"Jacket\" Case Review, DIY Fix for D-Ring Problem"
 date: 2009-06-21 03:10:56 UTC
 updated: 2009-06-21 03:10:56 UTC
 comments: true

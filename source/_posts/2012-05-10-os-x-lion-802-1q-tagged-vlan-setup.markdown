@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "OS X Lion 802.1q Tagged VLAN Setup"
+post_title: "OS X Lion 802.1q Tagged VLAN Setup"
 date: 2012-05-10 04:08:27 UTC
 updated: 2012-05-10 04:08:27 UTC
 comments: true

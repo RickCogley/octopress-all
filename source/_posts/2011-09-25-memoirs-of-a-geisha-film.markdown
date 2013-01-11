@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "\"Memoirs of a Geisha\" Film"
+post_title: "\"Memoirs of a Geisha\" Film"
 date: 2011-09-25 00:49:50 UTC
 updated: 2011-09-25 00:49:50 UTC
 comments: true

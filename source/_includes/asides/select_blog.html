@@ -1,7 +1,17 @@
 <section>
   <h1>Blogs</h1>
   <ul id="categories">
-    <li><a href="/snapjapan/">Snap!Japan</a></li>
-    <li><a href="/blog-cogley/">Blog:Cogley</a></li>
+  	{% case page.category %}
+  	  {% when 'SnapJapan' %}
+  	  	<li><a href="/snapjapan/" class="active">Snap!Japan</a></li>
+    	<li><a href="/blog-cogley/">Blog:Cogley</a></li>
+  	  {% when 'Blog-Cogley' %}
+  	  	<li><a href="/snapjapan/">Snap!Japan</a></li>
+    	<li><a href="/blog-cogley/" class="active">Blog:Cogley</a></li>
+  	  {% else %}
+  	    <li><a href="/snapjapan/">Snap!Japan</a></li>
+    	<li><a href="/blog-cogley/">Blog:Cogley</a></li>
+  	{% endcase %}
+
   </ul>
 </section>

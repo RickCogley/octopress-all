@@ -1,6 +1,6 @@
 ---           
 layout: post
-title: "OS X 10.7 Lion and Lion Server Upgrade Notes"
+post_title: "OS X 10.7 Lion and Lion Server Upgrade Notes"
 date: 2011-08-02 23:50:19 UTC
 updated: 2011-08-02 23:50:19 UTC
 comments: true

@@ -3,6 +3,17 @@
 <body {% if page.body_id %} id="{{ page.body_id }}" {% endif %} {% if page.sidebar == false %} class="no-sidebar" {% endif %} {% if page.sidebar == 'collapse' or site.sidebar == 'collapse' %} class="collapse-sidebar sidebar-footer" {% endif %}>
   <header role="banner" class="header">{% include header.html %}</header>
   {% include searchbar.html %}
+
+  {% if page.title and !page.post_page %}
+  	<div class="slider-cont">
+		<div class="container">
+			<header id="pagehead">
+				<h1>{{ page.title }} {% if page.title %}<small>  {{ page.small_title }} </small>{% endif %}</h1>
+			</header>
+		</div>
+  	</div>
+  {% endif %}
+
   <div class="container">
     {{ content | expand_urls: root_url | abbr }}
   </div>
