@@ -7,7 +7,21 @@ sharing: false
 footer: true
 ---
 
-###Categories###
+Topics are used for static "article" pages, which are different from chronological blog posts. Alistapart.com has a good topics structure. 
+
+Apparently, you can change the categories to be called topics, and, can cause them to appear under whatever you want to call the blog. 
+
+For example, /articles/topics/japan/ to see all posts marked Japan, and /articles/2013/01/10/some_post.html for blog posts. 
+
+* /topics
+	* /
+	
+
+
+	
+
+
+###Categories (from categories page for reference)###
 
 Japan  
 Culture  
