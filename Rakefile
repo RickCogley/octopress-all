@@ -15,10 +15,10 @@ deploy_default = "push"
 deploy_branch  = "gh-pages"
 
 ## -- Misc Configs -- ##
-# blog_index_dir = 'source/blog'
+# blog_index_dir = "source/blog"
 public_dir      = "public"    # compiled site directory
 source_dir      = "source"    # source file directory
-blog_index_dir  = 'source/blog'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
+blog_index_dir  = "source/articles"    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
 deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
 stash_dir       = "_stash"    # directory to stash posts for speedy generation
 posts_dir       = "_posts"    # directory for blog files
@@ -110,8 +110,9 @@ task :new_post, :title do |t, args|
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     post.puts "comments: true"
+    post.puts "description: This is the metadata description."
+    post.puts "keywords: this, that, the other"    
     post.puts "categories: [Blog-Cogley, SnapJapan, Japan, Technology etc]"
-    post.puts "keywords: this, that, the other"
     post.puts "tags: [this, that, the other]"
     post.puts "published: false"
     post.puts "---"
@@ -151,8 +152,9 @@ task :new_page, :filename do |t, args|
       page.puts "sharing: true"
       page.puts "sidebar: true"      
       page.puts "footer: true"
-      post.puts "keywords: this, that, the other"
-      post.puts "published: false"      
+      page.puts "description: This is the metadata description."
+      page.puts "keywords: this, that, the other"
+      page.puts "published: false"      
       page.puts "---"
     end
   else
