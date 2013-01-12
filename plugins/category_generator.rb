@@ -60,7 +60,6 @@ module Jekyll
       self.read_yaml(File.join(base, '_layouts'), 'categories_index.html')
       self.data['categories']    = categories
       # Set the title for this page.
-      self.data['title']       = "Categories"
       # Set the meta-description for this page.
       meta_description_prefix  = site.config['category_meta_description_prefix'] || 'Categories'
     end
