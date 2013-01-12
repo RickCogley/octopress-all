@@ -21,8 +21,8 @@ html, body {font-family: 'Open Sans Condensed', sans-serif,'Lucida Sans','Lucida
 .center{ text-align:center;}
 .divider{ width:100%; min-height:1px; margin-top:20px; margin-bottom:20px;  display:inline-block; position:relative;}
 .divider-strip{margin-bottom:20px; padding-bottom:10px;  display:inline-block; position:relative; border-bottom:1px #e3e3e8 solid;}
-.divider-strip h1,.divider-strip h4{ font-family: 'Open Sans Condensed', sans-serif;font-weight:400; margin-bottom:10px; text-transform: capitalize; font-size:24px; color:#577088;border-left:17px #e3e3e8 solid; padding-left:10px;}
-.divider-strip.block-title h4{font-family: 'Open Sans Condensed', sans-serif;font-weight:400; font-size:24px;margin-top:10px; border-left:17px #e3e3e8 solid; padding-left:10px;}
+.divider-strip h1,.divider-strip h4{ font-weight:400; margin-bottom:10px; text-transform: capitalize; font-size:20px; color:#577088;border-left:17px #e3e3e8 solid; padding-left:10px;}
+.divider-strip.block-title h4{font-weight:400; font-size:20px;margin-top:10px; border-left:17px #e3e3e8 solid; padding-left:10px;}
 .divider-post{width:100%; min-height:1px; margin-top:25px; margin-bottom:25px;  display:inline-block; position:relative; border-bottom:1px #e3e3e8 solid;}
 .strip-block em{ font-size:16px;}
 .no-float{ float:none;}

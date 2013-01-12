@@ -3,23 +3,29 @@ layout: page
 ---
 <div class="project-details">
   {% if page.image %}
-    <div class="span5 logo">
+    <div class="span3 logo">
       <img src="{{ page.image.url }}" title="{{ page.image.title }}" alt="{{ page.image.alt }}" />
     </div>
   {% endif %}
 
-  <div class="span16">
+  <div class="span5">
     <p><large><em>{{ page.description }} {% if page.website %}<a href="{{ page.website }}">({{ page.website }})</a>{% endif %}</em></large></p>
   </div>
 
   <div id="project-description" class="span16">
-    <h3>Some details on the {{ page.title }} project:</h3>
-    {{ page.project_description }}
+    <div class="divider-strip block-title" style="margin-top:0;">
+      <h4>Some details on the {{ page.title }} project:</h4>
+      <span class="strip-block"></span>
+    </div>
+    <p>{{ page.project_description }}</p>
   </div>
 
   {% if page.endorsements %}
     <div id="endorsements" class="span16">
-      <h3>Testimonials for {{ page.title }}:</h3>
+      <div class="divider-strip block-title" style="margin-top:0;">
+        <h4>Testimonials for {{ page.title }}:</h4>
+        <span class="strip-block"></span>
+      </div>
 
       {% for endorsement in page.endorsements %}
         <blockquote>

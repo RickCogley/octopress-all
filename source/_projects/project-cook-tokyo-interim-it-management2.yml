@@ -15,15 +15,15 @@ image:
   title: Cook Japan Interim IT Management2
   alt: Cook Japan IT
 layout: project
-project_description: >
+project_description: |
   I was asked to assist in handling a vendor meeting, and met two of Cook's global IT operations managers, 
   Michael Kohlman and Ted Hickman. We discussed the situation, and I participated in the meeting, to suss out 
   the project status in Japanese. As we discussed afterwards, it became apparent that interim IT management 
   and project management were going to be critical, if Cook Japan were going to meet its deadlines and 
   operational goals. 
   
-  <br />
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
+  <br /> <br />
+  &nbsp;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
   eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
   Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni 
   dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor 
@@ -33,7 +33,7 @@ project_description: >
   in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas 
   nulla pariatur?
   
-  
+  <br /> <br />  
   At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum 
   deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non 
   provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et 
