@@ -4,13 +4,13 @@
   <header role="banner" class="header">{% include header.html %}</header>
   {% include searchbar.html %}
 
-  {% unless page.post_page %}
+  {% unless page.post_page or page.title.size == 0 %}
   	<div class="slider-cont">
-		<div class="container">
-			<header id="pagehead">
-				<h1>{{ page.title }} {% if page.title %}<small>  {{ page.small_title }} </small>{% endif %}</h1>
-			</header>
-		</div>
+  		<div class="container">
+  			<header id="pagehead">
+  				<h1>{{ page.title }} {% if page.title %}<small>  {{ page.small_title }} </small>{% endif %}</h1>
+  			</header>
+  		</div>
   	</div>
   {% endunless %}
 
