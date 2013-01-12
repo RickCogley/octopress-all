@@ -1,30 +1,32 @@
 ---
 layout: page
 ---
-{% if page.image %}
-  <div class="span5 logo">
-    <img src="{{ page.image.url }}" title="{{ page.image.title }}" alt="{{ page.image.alt }}" />
+<div class="project-details">
+  {% if page.image %}
+    <div class="span5 logo">
+      <img src="{{ page.image.url }}" title="{{ page.image.title }}" alt="{{ page.image.alt }}" />
+    </div>
+  {% endif %}
+
+  <div class="span16">
+    <p><large><em>{{ page.description }} {% if page.website %}<a href="{{ page.website }}">({{ page.website }})</a>{% endif %}</em></large></p>
   </div>
-{% endif %}
 
-<div class="span16">
-  <p><large><em>{{ page.description }} {% if page.website %}<a href="{{ page.website }}">({{ page.website }})</a>{% endif %}</em></large></p>
-</div>
-
-<div id="project-description" class="span16">
-  <h3>Some details on the {{ page.title }} project:</h3>
-  {{ page.project_description }}
-</div>
-
-{% if page.endorsements %}
-  <div id="endorsements" class="span16">
-    <h3>Testimonials for {{ page.title }}:</h3>
-
-    {% for endorsement in page.endorsements %}
-      <blockquote>
-        {{ endorsement.body }}
-        <small>{{ endorsement.from }}, {{ endorsement.role }}</small>
-      </blockquote>
-    {% endfor %}
+  <div id="project-description" class="span16">
+    <h3>Some details on the {{ page.title }} project:</h3>
+    {{ page.project_description }}
   </div>
-{% endif %}
+
+  {% if page.endorsements %}
+    <div id="endorsements" class="span16">
+      <h3>Testimonials for {{ page.title }}:</h3>
+
+      {% for endorsement in page.endorsements %}
+        <blockquote>
+          {{ endorsement.body }}
+          <small>{{ endorsement.from }}, {{ endorsement.role }}</small>
+        </blockquote>
+      {% endfor %}
+    </div>
+  {% endif %}
+</div>
