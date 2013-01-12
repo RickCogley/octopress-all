@@ -1,0 +1,13 @@
+---
+layout: page
+footer: false
+---
+
+<div id="blog-archives" class="tag">
+	<ul>
+		{% for categ in page.categories %}
+			<li><a href="/articles/topics/{{ categ | downcase }}"> {{ categ }}</a></li>
+		{% endfor %}
+	</ul>
+
+</div>

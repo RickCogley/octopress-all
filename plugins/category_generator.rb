@@ -48,6 +48,25 @@ module Jekyll
 
   end
 
+  class CategoriesIndex < Page
+
+    def initialize(site, base, categories_dir, categories)
+      @site = site
+      @base = base
+      @dir  = categories_dir
+      @name = 'index.html'
+      self.process(@name)
+      # Read the YAML data from the layout page.
+      self.read_yaml(File.join(base, '_layouts'), 'categories_index.html')
+      self.data['categories']    = categories
+      # Set the title for this page.
+      self.data['title']       = "Categories"
+      # Set the meta-description for this page.
+      meta_description_prefix  = site.config['category_meta_description_prefix'] || 'Categories'
+    end
+
+  end
+
   # The CategoryFeed class creates an Atom feed for the specified category.
   class CategoryFeed < Page
 
@@ -101,6 +120,14 @@ module Jekyll
       self.pages << feed
     end
 
+    def write_categories_index_page(categories_dir, categories)
+      index = CategoriesIndex.new(self, self.source, categories_dir, categories)
+      index.render(self.layouts, site_payload)
+      index.write(self.dest)
+      # Record the fact that this page has been added, otherwise Site::cleanup will remove it.
+      self.pages << index
+    end
+
     # Loops through the list of category pages and processes each one.
     def write_category_indexes
       if self.layouts.key? 'category_index'
@@ -109,6 +136,7 @@ module Jekyll
           self.write_category_index(File.join(dir, category.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase), category)
         end
 
+        self.write_categories_index_page(dir, self.categories.keys)
       # Throw an exception if the layout couldn't be found.
       else
         throw "No 'category_index' layout found."
