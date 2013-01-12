@@ -2,10 +2,10 @@
 layout: page
 title: Selected Project Portfolio
 ---
-<div class="span16">
+<div class="row">
   <ul id="projects">
     {% for project in page.projects %}
-      <li class="project">
+      <li class="project span3">
         <a href="/portfolio/{{ project[0] }}">
           {% if project[1].image %}
             <img src="{{ project[1].image.url }}" title="{{ project[1].image.title }}" alt="{{ project[1].image.alt }}" />

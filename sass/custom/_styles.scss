@@ -89,6 +89,29 @@ a.active{ font-weight: bold; }
 section{ font-family: $serif; }
 
 
+#projects {
+	.project{
+		padding-top: 15px;
+		background-color: #EEE;
+		margin-bottom: 20px;
+		min-height: 305px;
+		text-align: center;
+		-webkit-box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+		-moz-box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+		box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+		&:hover{ background-color: #E5E5E5; }
+		> a{
+			background-color: #EEE;
+			margin-bottom: 20px;
+			min-height: 305px;
+			text-align: center;
+			-webkit-box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+			-moz-box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+			box-shadow: 1px 1px 1px rgba(0,0,0,0.2);
+		}
+	}
+}
+
 //wrapper on a project details page
 .project-details{
 	> div{ margin-bottom: 15px; }
