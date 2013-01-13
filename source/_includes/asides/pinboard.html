@@ -8,11 +8,12 @@
     </div>
     <div id="collapseOne" class="accordion-body collapse in">
       <div class="accordion-inner">
-        <ul id="pinboard_linkroll">Fetching linkroll...</ul>
+        <ul id="pinboard_all">Fetching linkroll...</ul>
         <p><a href="http://pinboard.in/u:{{ site.pinboard_user }}">My Pinboard Bookmarks &raquo;</a></p>
       </div>
     </div>
   </div>
+  {% if site.pinboard_tag1 %}
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseTwo">
@@ -21,14 +22,12 @@
     </div>
     <div id="collapseTwo" class="accordion-body collapse">
       <div class="accordion-inner">
-        <ul style="margin-left:0;">
-        <li><img src="/assets/img/blog-examples/blog-home-c2.jpg" alt="" class="imageLeft" width="70" height="50"><p><a href="#">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid ...</a></p></li>
-        <li><img src="/assets/img/blog-examples/blog-home-c3.jpg" alt="" class="imageLeft" width="70" height="50"><p><a href="#">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid ...</a></p></li>
-        <li><img src="/assets/img/blog-examples/blog-home-c2.jpg" alt="" class="imageLeft" width="70" height="50"><p><a href="#">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid ...</a></p></li>
-        </ul>
+        <ul id="pinboard_Blogroll">Fetching linkroll...</ul>
       </div>
     </div>
   </div>
+  {% endif %}
+  {% if site.pinboard_tag2 %}
   <div class="accordion-group">
     <div class="accordion-heading">
       <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseThree">
@@ -37,28 +36,25 @@
     </div>
     <div id="collapseThree" class="accordion-body collapse">
       <div class="accordion-inner">
-        <ul style="margin-left:0;">
-        <li><img src="/assets/img/blog-examples/blog-home-c2.jpg" alt="" class="imageLeft" width="70" height="50"><p><a href="#">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid ...</a></p></li>
-        <li><img src="/assets/img/blog-examples/blog-home-c3.jpg" alt="" class="imageLeft" width="70" height="50"><p><a href="#">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid ...</a></p></li>
-        <li><img src="/assets/img/blog-examples/blog-home-c2.jpg" alt="" class="imageLeft" width="70" height="50"><p><a href="#">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid ...</a></p></li>
-        </ul>
+        <ul id="pinboard_Highlight">Fetching linkroll...</ul>
       </div>
     </div>
   </div>
+  {% endif %}
 </div>
 
 <script type="text/javascript">
-  var linkroll       = 'pinboard_linkroll'; //id target for pinboard list
   var pinboard_user  = "{{ site.pinboard_user }}"; //id target for pinboard list
   var pinboard_count = {{ site.pinboard_count }}; //id target for pinboard list
-  var pinboard_blogroll_tag  = "{{ site.pinboard_blogroll_tag }}"; //tag used for blogroll accordion tab content
-  var pinboard_highlight_tag  = "{{ site.pinboard_highlight_tag }}"; //tag used for highlight accordion tab content
-  (function(){
+  var pinboard_tag1  =  "{{ site.pinboard_tag1 }}";
+  var pinboard_tag2  =  "{{ site.pinboard_tag2 }}";
+
+  $(function(){
     var pinboardInit = document.createElement('script');
     pinboardInit.type = 'text/javascript';
     pinboardInit.async = true;
     pinboardInit.src = '{{ root_url }}/javascripts/pinboard.js';
     document.getElementsByTagName('head')[0].appendChild(pinboardInit);
-  })();
+  });
 </script>
 {% endif %}
