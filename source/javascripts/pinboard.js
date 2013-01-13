@@ -85,7 +85,7 @@ Pinboard_Linkroll.prototype = new Pinboard_Linkroll();
 pinboardNS_fetch_script("https://feeds.pinboard.in/json/v1/u:"+pinboard_user+"/?cb=pinboard_show_all\&count="+pinboard_count);
 
 if(pinboard_tag1 != ''){
-  pinboardNS_fetch_script("https://feeds.pinboard.in/json/v1/u:"+pinboard_user+"/t:"+ pinboard_tag1 +"?cb=pinboard_show_by_tag1\);
+  pinboardNS_fetch_script("https://feeds.pinboard.in/json/v1/u:"+pinboard_user+"/t:"+ pinboard_tag1 +"?cb=pinboard_show_by_tag1\&count=399");
 }
 
 if(pinboard_tag2 != ''){
