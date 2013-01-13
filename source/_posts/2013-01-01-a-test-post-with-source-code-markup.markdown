@@ -23,7 +23,7 @@ This is _another_ test. Lorem *ipsum* dolor sit amet, **consectetur** adipisicin
 
 {% pullquote %}
 Surround your paragraph with the pull quote tags. Then when you come to
-the text you want to pull, {" surround it like this "} and that's all there is to it.
+the text you want to pull, {" all you have to do is surround it with curly brackets and double quotations "} and that's all there is to it. Your pullquote will automagically be created! 
 {% endpullquote %}
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i n reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
