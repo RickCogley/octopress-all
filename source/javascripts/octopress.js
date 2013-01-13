@@ -40,7 +40,7 @@ function addSidebarToggler() {
 
 function testFeatures() {
   var features = ['maskImage'];
-  $(features).map(function(feature) {
+  $(features).map(function(i, feature) {
     if (Modernizr.testAllProps(feature)) {
       $('html').addClass(feature);
     } else {
@@ -116,7 +116,7 @@ function renderDeliciousLinks(items) {
   $('#delicious').html(output);
 }
 
-$.domReady(function() {
+$(function() {
   testFeatures();
   wrapFlashVideos();
   flashVideoFallback();
