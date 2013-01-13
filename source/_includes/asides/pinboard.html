@@ -1,14 +1,13 @@
 {% if site.pinboard_user %}
-<div class="accordion" id="accordion2">
+<div class="accordion" id="pinboard-accordion">
   <div class="accordion-group">
     <div class="accordion-heading">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-        Blogroll
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseOne">
+        <h3>My Pinboard</h3>
       </a>
     </div>
     <div id="collapseOne" class="accordion-body collapse in">
       <div class="accordion-inner">
-        <h1>My Pinboard</h1>
         <ul id="pinboard_linkroll">Fetching linkroll...</ul>
         <p><a href="http://pinboard.in/u:{{ site.pinboard_user }}">My Pinboard Bookmarks &raquo;</a></p>
       </div>
@@ -16,8 +15,8 @@
   </div>
   <div class="accordion-group">
     <div class="accordion-heading">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-        Recent post
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseTwo">
+        <h3>Blogroll</h3>
       </a>
     </div>
     <div id="collapseTwo" class="accordion-body collapse">
@@ -30,12 +29,30 @@
       </div>
     </div>
   </div>
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseThree">
+        <h3>Highlights</h3>
+      </a>
+    </div>
+    <div id="collapseThree" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <ul style="margin-left:0;">
+        <li><img src="/assets/img/blog-examples/blog-home-c2.jpg" alt="" class="imageLeft" width="70" height="50"><p><a href="#">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid ...</a></p></li>
+        <li><img src="/assets/img/blog-examples/blog-home-c3.jpg" alt="" class="imageLeft" width="70" height="50"><p><a href="#">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid ...</a></p></li>
+        <li><img src="/assets/img/blog-examples/blog-home-c2.jpg" alt="" class="imageLeft" width="70" height="50"><p><a href="#">Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid ...</a></p></li>
+        </ul>
+      </div>
+    </div>
+  </div>
 </div>
 
 <script type="text/javascript">
-  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
-  var pinboard_user = "{{ site.pinboard_user }}"; //id target for pinboard list
+  var linkroll       = 'pinboard_linkroll'; //id target for pinboard list
+  var pinboard_user  = "{{ site.pinboard_user }}"; //id target for pinboard list
   var pinboard_count = {{ site.pinboard_count }}; //id target for pinboard list
+  var pinboard_blogroll_tag  = "{{ site.pinboard_blogroll_tag }}"; //tag used for blogroll accordion tab content
+  var pinboard_highlight_tag  = "{{ site.pinboard_highlight_tag }}"; //tag used for highlight accordion tab content
   (function(){
     var pinboardInit = document.createElement('script');
     pinboardInit.type = 'text/javascript';

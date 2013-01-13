@@ -1,29 +1,21 @@
 description:
-  The main purpose was to assist Cook Medical in getting their Japan IT & office operations started, implementing their basic systems and putting basic IT practices put in place.
+  The main purpose was to assist CooperVision by acting as interim IT director in Japan, while performing project management for various IT projects including the ERP rollout. 
 endorsements:
 -
   body: >
-    My first direct experience with Rick was in early 2008 when he "auditioned" himself and his company 
-    by participating in a vendor negotiation for IT related installations in our new Tokyo office.
-    Within that hour of discussion Rick's talent and skills became clearly evident and by the end of the 
-    evening he had won our business. In the years that have followed I've never regretted that decision as 
-    Rick's abilities and care for his clients permeated throughout his entire business and team. 
-  from: Michael Kohlman  
-  role: Infrastructure Manager
+    I am happy to have had the pleasure of working with Rick in 2005 and 2006. We were deploying an ERP solution in our CooperVision Japan office, and Rick was assigned the role of onsite Project Manager. The initial phase of the project consisted of process gap analysis, hiring of consultants and documentation of market specific requirements. As the project advanced, team members and consultants were brought onsite to support the final project phase and go-live. In addition to his project management, Rick helped others integrate into the CVJ culture, which made for a most enjoyable and successful project. May 16, 2010 
+  from: Joan Martt  
+  role: VP Global Business Solutions
 image:
-  url: /images/Tech_Square_300x300-bJRC00901.JPG
-  title: Cook Japan Interim IT Management
-  alt: Cook Japan IT
+  url: /images/Tech_Square_300x300-bJRC00911.JPG
+  title: CooperVision Japan Interim IT Management
+  alt: CooperVision Japan ERP and IT Mgt
 layout: project
 project_description: >
-  I was asked to assist in handling a vendor meeting, and met two of Cook's global IT operations managers, 
-  Michael Kohlman and Ted Hickman. We discussed the situation, and I participated in the meeting, to suss out 
-  the project status in Japanese. As we discussed afterwards, it became apparent that interim IT management 
-  and project management were going to be critical, if Cook Japan were going to meet its deadlines and 
-  operational goals. 
+  I was asked to initially perform some investigative consulting, but this turned into a longer term management of multiple projects... 
   
-  <br />
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
+  <br /> <br />
+  &nbsp;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, 
   eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
   Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni 
   dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor 
@@ -33,7 +25,7 @@ project_description: >
   in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas 
   nulla pariatur?
   
-  
+  <br /> <br />  
   At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum 
   deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non 
   provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et 
@@ -45,6 +37,6 @@ project_description: >
   alias consequatur aut perferendis doloribus asperiores repellat. 
   
 published: true
-short:     Cook Japan IT Startup
-title:     Cook Japan Interim IT Management & Systems Setup
-website:   http://www.cookmedical.com/
+short:     CooperVision Japan ERP
+title:     CooperVision Japan ERP and Interim IT Management & Systems Setup
+website:   http://www.coopervision.com/

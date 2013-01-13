@@ -89,7 +89,8 @@ googleplus_hidden: false
 # Pinboard
 pinboard_user: rickcogley
 pinboard_count: 2
-#pinboard_tags: tag1, tag2
+pinboard_blogroll_tag: tag1
+pinboard_highlight_tag: tag2
 
 # Delicious
 delicious_user:
