@@ -6,13 +6,14 @@ comments: false
 sharing: true
 sidebar: true
 footer: true
+categories: [Rick Cogley,Bio]
 description: This is Rick Cogley's About or Biography Page.
 keywords: Rick Cogley, Bio, CV, Biography
 published: true
 ---
 ###Rick Cogley Bio###
 
-{% img right images/Rick_Suit_01.jpg 100 %} James Rickard Cogley is based in Tokyo Japan, and has been working in the consulting and support industry since 1990. He specializes in bilingual (Japanese - English) consulting and project management, and his company [eSolia](http://www.esolia.com) is a privately-held Japanese KK focused on the same.
+{% img right /images/Rick_Suit_01.jpg 100 %} James Rickard Cogley is based in Tokyo Japan, and has been working in the consulting and support industry since 1990. He specializes in bilingual (Japanese - English) consulting and project management, and his company [eSolia](http://www.esolia.com) is a privately-held Japanese KK focused on the same.
 
 Prior to starting eSolia, Cogley was a charter member, co-owner and the CIO of PTS, a professional IT training and services firm, which was acquired in 2000 by Datacraft Asia.
 
