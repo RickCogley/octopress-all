@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "100km Cycling"
+post_title: "100km Cycling"
 date: 2013-01-14 09:41
 comments: true
 description: Cycled out to near Tsukui lake for 100km cycling.
