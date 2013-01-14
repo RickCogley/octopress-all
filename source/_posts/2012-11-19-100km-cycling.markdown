@@ -1,7 +1,7 @@
 ---
 layout: post
-post_title: "100km Cycling"
-date: 2013-01-14 09:41
+post_title: "100km Cycling near Tsukui"
+date: 2012-11-19 09:41
 comments: true
 description: Cycled out to near Tsukui lake for 100km cycling.
 keywords: Cycling, Tsukui, Strava
