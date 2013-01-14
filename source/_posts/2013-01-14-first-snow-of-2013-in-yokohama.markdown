@@ -11,5 +11,5 @@ published: true
 ---
 Today was the first snow of 2013 here in Yokohama. See the short YouTube video: 
 
-{% video http://www.youtube.com/watch?v=pn_TlRtIHKI 640 320 http://farm9.staticflickr.com/8234/8378149235_9cb9f9dfe8_z_d.jpg %}  
+{% video http://www.youtube.com/watch?v=pn_TlRtIHKI %}  
 
