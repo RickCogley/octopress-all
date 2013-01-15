@@ -4,15 +4,15 @@ Blog-Cogley:
   description: "Blog-Cogley is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-blog-cogley.jpg
 Business: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-money
   description: "Business is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-business.jpg
 Culture: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-globe
   description: "Culture is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-culture.jpg
 Cycling: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-asterisk
   description: "Cycling is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-cycling.jpg
 Disaster: 
@@ -20,7 +20,7 @@ Disaster:
   description: "Disaster is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-disaster.jpg
 Emergency: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-ambulance
   description: "Emergency is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-emergency.jpg
 Errata: 
@@ -56,7 +56,7 @@ Mobile:
   description: "Mobile is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-mobile.jpg
 Music: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-music
   description: "Music is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-music.jpg
 Performance: 
