@@ -1,6 +1,6 @@
 --- 
 Blog-Cogley: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-cogs
   description: "Blog-Cogley is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-blog-cogley.jpg
 Business: 
@@ -12,11 +12,11 @@ Culture:
   description: "Culture is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-culture.jpg
 Cycling: 
-  awesomeicon: icon-asterisk
+  awesomeicon: icon-certificate
   description: "Cycling is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-cycling.jpg
 Disaster: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-bullhorn
   description: "Disaster is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-disaster.jpg
 Emergency: 
@@ -24,35 +24,35 @@ Emergency:
   description: "Emergency is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-emergency.jpg
 Errata: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-remove-sign
   description: "Errata is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-errata.jpg
 Family: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-group
   description: "Family is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-family.jpg
 Gadgets: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-laptop
   description: "Gadgets is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-gadgets.jpg
 Health: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-user-md
   description: "Health is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-health.jpg
 Humor: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-thumbs-up
   description: "Humor is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-humor.jpg
 Japan: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-circle
   description: "Japan is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-japan.jpg
 Language: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-comments-alt
   description: "Language is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-language.jpg
 Mobile: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-mobile-phone
   description: "Mobile is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-mobile.jpg
 Music: 
@@ -60,15 +60,15 @@ Music:
   description: "Music is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-music.jpg
 Performance: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-play-circle
   description: "Performance is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-performance.jpg
 Personal: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-user
   description: "Personal is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-personal.jpg
 Photography: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-camera-retro
   description: "Photography is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-photography.jpg
 Popular: 
@@ -76,58 +76,58 @@ Popular:
   description: "Popular is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-popular.jpg
 Productivity: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-refresh
   description: "Productivity is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-productivity.jpg
 Professional: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-briefcase
   description: "Professional is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-professional.jpg
 Reviews: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-check
   description: "Reviews is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-reviews.jpg
 Service: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-heart
   description: "Service is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-service.jpg
 SnapJapan: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-leaf
   description: "SnapJapan is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-snapjapan.jpg
 Software: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-save
   description: "Software is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-software.jpg
 Street: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-road
   description: "Street is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-street.jpg
 SysAdmin: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-fighter-jet
   description: "SysAdmin is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-sysadmin.jpg
 Technology: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-magic
   description: "Technology is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-technology.jpg
 Tips: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-lightbulb
   description: "Tips is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-tips.jpg
 Troubleshooting: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-ok-sign
   description: "Troubleshooting is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-troubleshooting.jpg
 Upgrades: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-download-alt
   description: "Upgrades is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-upgrades.jpg
 Web: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-link
   description: "Web is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-web.jpg
 Weird: 
-  awesomeicon: icon-fire
+  awesomeicon: icon-wrench
   description: "Weird is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
   image: /images/topic-weird.jpg

@@ -4,7 +4,7 @@ post_title: "Softbank iPhone 4 Emoji Keyboard Troubleshooting"
 date: 2011-09-03 02:41:12 UTC
 updated: 2011-09-03 02:41:12 UTC
 comments: true
-categories: [Blog-Cogley, Japan, Software, Mobile, Gadget, Productivity, Troubleshooting]
+categories: [Blog-Cogley, Japan, Software, Mobile, Gadgets, Productivity, Troubleshooting]
 keywords: Problem,keyboard,iPhone,emoji,softbank
 tags: [Problem,keyboard,iPhone,emoji,softbank]
 ---
