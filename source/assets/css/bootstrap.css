@@ -536,9 +536,6 @@ ol ul {
   margin-bottom: 0;
 }
 
-ul {
-  list-style: disc;
-}
 
 ol {
   list-style: decimal;
@@ -623,7 +620,7 @@ blockquote {
 
 blockquote p {
   margin-bottom: 0;
-  font-size: 16px;
+  font-size: 19px;
   font-weight: 300;
   line-height: 22.5px;
 }
@@ -675,10 +672,11 @@ cite {
 
 
 code {
-  padding: 2px 4px;
+  padding: 0px 4px;
   color: #d14;
   background-color: #f7f7f9;
   border: 1px solid #e1e1e8;
+  font-size: 13px;
 }
 
 pre.prettyprint {
@@ -4463,10 +4461,11 @@ a.thumbnail:hover {
 }
 
 .label {
-  padding: 1px 4px 2px;
+  padding: 1px 4px 1px;
   -webkit-border-radius: 3px;
-     -moz-border-radius: 3px;
-          border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  margin: 0 5px 0 0;
 }
 
 .badge {

@@ -108,47 +108,15 @@ sidebar: false
   </div>
 
   <ul class="thumbnails">
-    <li class="span3 item-block">
-     <a href="assets/img/bootstrap-mdo-sfmoma-01.jpg" class="zoom" rel="prettyPhoto" title="Image Title"></a>
-     <a href="portfolio.html" class="link"></a>
-      <a class="thumbnail" href="portfolio.html">
-        <img src="assets/img/example-sites/example1.jpg" alt="example-item">
-      </a>
-      <div class="desc">
-        <a href="portfolio.html"> Images </a>
-        <p> <em>Portfolio Item Images </em></p>
-      </div>
-    </li>
-    <li class="span3 item-block">
-     
-      <iframe src="http://player.vimeo.com/video/28220269?title=0&amp;byline=0&amp;portrait=0" width="270" height="131" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-      <div class="desc">
-        <a href="portfolio.html">Vimeo Video </a>
-        <p> <em>Portfolio Item Images</em> </p>
-      </div>
-    </li>
-    <li class="span3 item-block" style="background-image: none; background-position: initial initial; background-repeat: initial initial;">
-     <a href="assets/img/bootstrap-mdo-sfmoma-01.jpg" class="zoom" rel="prettyPhoto" title="Image Title" style="left: -70px;"></a>
-     <a href="portfolio.html" class="link" style="right: -70px;"></a>
-      <a class="thumbnail" href="portfolio.html">
-        <img src="assets/img/example-sites/example1.jpg" alt="example-item">
-      </a>
-      <div class="desc">
-        <a href="portfolio.html"> Images </a>
-        <p> <em>Portfolio Item Images</em> </p>
-      </div>
-    </li>
-    <li class="span3 item-block">
-     <a href="assets/img/bootstrap-mdo-sfmoma-01.jpg" class="zoom" rel="prettyPhoto" title="Image Title"></a>
-     <a href="portfolio.html" class="link"></a>
-      <a class="thumbnail" href="portfolio.html">
-        <img src="assets/img/example-sites/example1.jpg" alt="example-item">
-      </a>
-      <div class="desc">
-        <a href="portfolio.html"> Images </a>
-        <p> <em>Portfolio Item Images</em> </p>
-      </div>
-    </li>
+    {% for post in site.categories['Featured'] %}
+      {% assign content = post.content %}
+        <li class="span3 item-block">
+          <h4><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h4>
+          <div class="desc">
+            {{ content | markdownify | summary | strip_html }}
+          </div>
+        </li>
+    {% endfor %}
   </ul>
  
   <div class="divider"></div> 

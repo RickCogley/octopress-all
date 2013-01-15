@@ -80,11 +80,12 @@ article {
 		margin-left: 10px;
 		margin-bottom: 10px;
 	}
+	ul{ list-style: disc !important; list-style-type: disc; }
 }
 
 a.active{ font-weight: bold; }
 
-.sharing{ padding-top: 1em; margin-bottom: 1em; }
+.sharing{ padding-top: 1em; margin-bottom: 1em; padding-left: 125px; }
 
 section{ font-family: $serif; }
 
@@ -122,3 +123,12 @@ section{ font-family: $serif; }
 }
 
 .rslides .caption p{ font-size: 14px; }
+
+.header{
+	h1{ margin-bottom: 0.1em; }
+	h2{ font-style: italic; font-size: 1em; }
+}
+
+.pullquote-right::before{
+	font-style: italic;
+}
