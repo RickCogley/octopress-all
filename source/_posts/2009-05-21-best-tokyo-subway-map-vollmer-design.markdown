@@ -10,8 +10,8 @@ tags: [Convenience,Vollmer Design,tokyo,Getting Around,Informa,Tokyo Rail and Su
 ---
  
 
-
-[{% img right http://farm4.static.flickr.com/3638/3537596446_606dcbdcba_m.jpg '' 'Vollmer Design's Informa Tokyo Rail & Subway Map' %}](http://www.flickr.com/photos/81796435@N00/3537596446 "View 'Vollmer Design's Informa Tokyo Rail & Subway Map' on Flickr.com")[**Vollmer Design**](http://www.vollmer-design.com/)'s superior map of the _Tokyo rail and subway system_ is a must for any visitor to or resident of Tokyo. The map is printed on A3 paper, but is folded small to the size of "3 x 1 2/3 matches" according to the nicely-designed [Informa website](http://informa-v.com/EN/index.php) where the map is available. Very affordable, even inexpensive, at **JPY 270 yen online**, it's less than the cost of a Starbucks latte, or maybe a typical iPhone app. The map is thankfully bilingual, so a visitor can show it to a Japanese speaker and get help, while reading the romanized versions of the names. It also has clear icon markers of major tourist sites like the Tsukiji Fish Market near Ginza, and the Tokyo Tower.  
+<img class="right" src="http://farm4.static.flickr.com/3638/3537596446_606dcbdcba_m.jpg"/>
+[**Vollmer Design**](http://www.vollmer-design.com/)'s superior map of the _Tokyo rail and subway system_ is a must for any visitor to or resident of Tokyo. The map is printed on A3 paper, but is folded small to the size of "3 x 1 2/3 matches" according to the nicely-designed [Informa website](http://informa-v.com/EN/index.php) where the map is available. Very affordable, even inexpensive, at **JPY 270 yen online**, it's less than the cost of a Starbucks latte, or maybe a typical iPhone app. The map is thankfully bilingual, so a visitor can show it to a Japanese speaker and get help, while reading the romanized versions of the names. It also has clear icon markers of major tourist sites like the Tsukiji Fish Market near Ginza, and the Tokyo Tower.  
 
 
 

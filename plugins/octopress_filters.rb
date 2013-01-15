@@ -1,9 +1,14 @@
+# encoding: utf-8
+
 #custom filters for Octopress
 require './plugins/backtick_code_block'
 require './plugins/post_filters'
 require './plugins/raw'
 require './plugins/date'
 require 'rubypants'
+
+require 'rubygems'
+require 'nokogiri'
 
 module OctopressFilters
   include BacktickCodeBlock
@@ -61,6 +66,13 @@ module OctopressLiquidFilters
     else
       input
     end
+  end
+
+  def skip_images(input)
+    @doc = Nokogiri::HTML::DocumentFragment.parse(input)
+    images = @doc.at_css('img')
+    images.remove if images
+    @doc.to_s
   end
 
   # Extracts raw content DIV from template, used for page description as {{ content }}

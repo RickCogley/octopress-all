@@ -4,14 +4,13 @@ post_title: "Assign \"Elastic IP\" Fixed Public IP to your Amazon EC2"
 date: 2012-12-23 22:35:29 UTC
 updated: 2012-12-23 22:35:29 UTC
 comments: true
-categories: [Blog-Cogley, Technology, Software, Web, Troubleshooting, Tips]
+categories: [Blog-Cogley, Featured, Technology, Software, Web, Troubleshooting, Tips]
 keywords: Network,Fixed IP,Amazon,EC2,geek,AWS
 tags: [Network,Fixed IP,Amazon,EC2,geek,AWS]
 ---
  
-
-
-[{% img right http://farm9.staticflickr.com/8493/8301986608_803bf59f10.jpg '' 'Amazon AWS EC2 Elastic IP 2012-12-24_07-15-34' %}](http://www.flickr.com/photos/81796435@N00/8301986608 "View 'Amazon AWS EC2 Elastic IP 2012-12-24_07-15-34' on Flickr.com")Amazon AWS EC2 (Elastic Compute Cloud, or basically, paravirtual servers you can rent from Amazon) initially assigns a non-fixed public IP address to your server instance. This means when you reboot your instance, the public hostname and public IP address will change. This is fine when you are experimenting, but not fine for a production server, and can be the source of not a little surprise, when you restart and the server "disappears". 
+<img class="right" src="http://farm9.staticflickr.com/8493/8301986608_803bf59f10.jpg"/>
+Amazon AWS EC2 (Elastic Compute Cloud, or basically, paravirtual servers you can rent from Amazon) initially assigns a non-fixed public IP address to your server instance. This means when you reboot your instance, the public hostname and public IP address will change. This is fine when you are experimenting, but not fine for a production server, and can be the source of not a little surprise, when you restart and the server "disappears". 
 
 
 
