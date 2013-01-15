@@ -7,9 +7,6 @@ require './plugins/raw'
 require './plugins/date'
 require 'rubypants'
 
-require 'rubygems'
-require 'nokogiri'
-
 module OctopressFilters
   include BacktickCodeBlock
   include TemplateWrapper

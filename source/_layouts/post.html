@@ -12,13 +12,9 @@ post_page: true
         <div class="span9">
           <footer>
             <p class="meta">
-              {% include post/author.html %}
-              {% include post/date.html %}{% if updated %}{{ updated }}{% else %}{{ time }}{% endif %}
-              {% include post/categories.html %}
+              {% include post/after_post_content.html %}
+              
             </p>
-            {% unless page.sharing == false %}
-              {% include post/sharing.html %}
-            {% endunless %}
             <p class="meta">
               {% if page.previous.url %}
                 <a class="basic-alignment left" href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
