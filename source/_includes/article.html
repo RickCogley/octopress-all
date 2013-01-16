@@ -5,12 +5,13 @@
         <ul class="blog-meta meta pull-left">
           <li class="data">{% include post/date.html %}{{ time }}</li>
           <li class="post-format default"><span></span></li>
+          <li><a href="#">John Smith</a></li>
+          <hr>
           <li>
             {% if site.disqus_short_name and page.comments != false and post.comments != false and site.disqus_show_comment_count == true %}
               <a href="{% if index %}{{ root_url }}{{ post.url }}{% endif %}#disqus_thread">Comments</a>
             {% endif %}
           </li>
-          <hr>
         </ul>
       {% endunless %}
     </div>
