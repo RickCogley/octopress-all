@@ -3,9 +3,11 @@ layout: post
 post_title: "A Test Post with Sourcecode Markup"
 date: 2013-01-01 15:17
 comments: true
-categories: [Blog-Cogley,Test,Sourcecode]
-tags: [this, that, the other]
-keywords: "this, that, the other"
+categories: [Blog-Cogley,SysAdmin]
+tags: [sourcecode, test]
+keywords: "sourcecode, test"
+cover: /images/Rick_Casual_01.jpg
+description: "A post to show how sourcecode can be formatted in Octopress, by using markdown formatting and liquid tags."
 ---
 
 _This is the **excerpt** from this post. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i n reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Why do we do this? Find out after the jump._
