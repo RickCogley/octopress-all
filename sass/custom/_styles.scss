@@ -19,6 +19,10 @@ ul#projects{
 		a{ white-space: inherit; }
 	}
 }
+div#projects{
+	a{ text-align: center; }
+	img{ margin-left: 0; }
+}
 
 article {
 	font-family: $serif;

@@ -43,7 +43,7 @@ module Jekyll
       # Read the YAML data from the layout page.
       self.read_yaml(File.join(base, '_layouts'), 'categories_index.html')
       self.data['categories'] = categories
-      self.data['categ_data'] =  categ_data
+      self.data['categ_data'] = categ_data
       meta_description_prefix = site.config['category_meta_description_prefix'] || 'Categories'
     end
 
@@ -120,7 +120,6 @@ module Jekyll
         end
 
         self.write_categories_index_page(dir, self.categories.keys)
-      # Throw an exception if the layout couldn't be found.
       else
         throw "No 'category_index' layout found."
       end
