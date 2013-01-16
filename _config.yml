@@ -33,7 +33,7 @@ permalink: /articles/:year/:month/:day/:title/
 source: source
 destination: public
 plugins: plugins
-code_dir: downloads/codea
+code_dir: downloads/code
 category_dir: articles/topics
 category_title_prefix: "Topics: "
 markdown: rdiscount
