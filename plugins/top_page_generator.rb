@@ -13,7 +13,7 @@ module Jekyll
       self.read_yaml(File.join(base, '_layouts'), 'top_page.html')
       self.data['featured_category'] = 'Featured'
       # Set the meta-description for this page.
-      # self.data['description'] = "Rick Cogley's blog"
+      self.data['description'] = "Rick Cogley Central is the website of Rick Cogley, an experienced, bilingual, multicultural consultant and manager, who has been based in Japan since 1987. Rick is founder and CEO of eSolia Inc. (http://www.esolia.com) an IT management firm assisting multinational corporations with their Japan operations and projects. Here you can find my blogs, photos, and other resources."
     end
 
   end
