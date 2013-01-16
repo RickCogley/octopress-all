@@ -13,7 +13,7 @@ module Jekyll
       self.read_yaml(File.join(base, '_layouts'), 'top_page.html')
       self.data['featured_category'] = 'Featured'
       # Set the meta-description for this page.
-      self.data['description'] = "Rick Cogley's blog"
+      # self.data['description'] = "Rick Cogley's blog"
     end
 
   end
