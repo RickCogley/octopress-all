@@ -23,25 +23,8 @@ In his spare time, Cogley enjoys blogging, drumming, watching films, studying to
 
 Cogley's goal is to develop eSolia into a global consultancy, focused on providing business-focused bilingual-liaison consulting to companies on the most challenging projects.
 
-* [Google+](https://plus.google.com/u/0/107046878530748803729/posts)
-* [Twitter](http://twitter.com/rickcogley)
-* [Flickr](http://www.flickr.com/photos/rickcogley/)
-* [DPHOTO](http://rickcogley.dphoto.com)
-* [LinkedIn](http://www.linkedin.com/in/rickcogley)
-* [Pinboard](https://pinboard.in/u:rickcogley)
-* [Facebook](https://www.facebook.com/rickcogley)
-* [YouTube](http://www.youtube.com/user/rickcogley)
 
-
-{% raw %}
-<ul class="nav nav-list">
-  <li class="active"><a href="https://plus.google.com/u/0/107046878530748803729/posts"><i class="icon-google-plus"></i> Google+</a></li>
-  <li><a href="http://twitter.com/rickcogley"><i class="icon-twitter"></i> Library</a></li>
-  <li><a href="http://www.flickr.com/photos/rickcogley/"><i class="icon-camera"></i> Flickr</a></li>
-  <li><a href="http://www.linkedin.com/in/rickcogley"><i class="icon-linkedin-sign"></i> LinkedIn</a></li>
-</ul>
-{% endraw %}
-
+###Social  
 
 {% raw %}
 <a class="btn btn-danger" href="https://plus.google.com/u/0/107046878530748803729/posts"><i class="icon-google-plus icon-large"></i> Google+</a>
@@ -53,8 +36,6 @@ Cogley's goal is to develop eSolia into a global consultancy, focused on providi
 <a class="btn btn-primary" href="https://www.facebook.com/rickcogley"><i class="icon-facebook-sign icon-large"></i> Facebook</a>
 <a class="btn btn-warning" href="http://www.youtube.com/user/rickcogley"><i class="icon-facetime-video icon-large"></i> Youtube</a>
 {% endraw %}
-
-btn-primary
 
 
 {% render_time Page generated at: %}
