@@ -1,7 +1,7 @@
 --- 
 Blog-Cogley: 
   awesomeicon: icon-cogs
-  description: "Blog-Cogley is Rick Cogley's general weblog. Topics I like, like efficiency, upgrade reports, geeky sysadmin stuff. Now with 50% more pith."
+  description: "Blog-Cogley is Rick Cogley's general weblog. Topics I like, like efficiency, upgrade reports, geeky sysadmin stuff. Now with 50% more pith and 42% more sass."
   image: /images/topic-blog-cogley.jpg
 Business: 
   awesomeicon: icon-money
@@ -9,7 +9,7 @@ Business:
   image: /images/topic-business.jpg
 Culture: 
   awesomeicon: icon-globe
-  description: "How we live and interact. Rights and privileges. Freedom vs restraint. All your trends belong to us."
+  description: "How we live and interact. Rights and privileges. Freedom vs restraint. Mores and morals, and maybe some morays. All your trends belong to us."
   image: /images/topic-culture.jpg
 Cycling: 
   awesomeicon: icon-certificate
@@ -21,7 +21,7 @@ Disaster:
   image: /images/topic-disaster.jpg
 Emergency: 
   awesomeicon: icon-ambulance
-  description: "Emergencies in Japan can be trying, especially if you don't speak the language."
+  description: "Emergencies in Japan can be trying, especially if you don't speak the language. I hope I can help here."
   image: /images/topic-emergency.jpg
 Errata: 
   awesomeicon: icon-remove-sign
@@ -29,11 +29,11 @@ Errata:
   image: /images/topic-errata.jpg
 Family: 
   awesomeicon: icon-group
-  description: "Family is the base, the core and the crux."
+  description: "Family is the home base, the solid core and the crux of what's real."
   image: /images/topic-family.jpg
 Gadgets: 
   awesomeicon: icon-laptop
-  description: "Sometimes simple is indeed best, but we live in a time with really, really great and inspiring gadgets. I cannot even imagine what my kids' kids will have, but I really appreciate the tools I have."
+  description: "Sometimes simple is indeed best, but we live in a time with really, really great and inspiring gadgets. I cannot even imagine what my kids' kids will enjoy, but I really appreciate the tools I have today, compared to just a short time ago."
   image: /images/topic-gadgets.jpg
 Health: 
   awesomeicon: icon-user-md
@@ -81,53 +81,53 @@ Productivity:
   image: /images/topic-productivity.jpg
 Professional: 
   awesomeicon: icon-briefcase
-  description: "Professional is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "What do you need to succeed as a technology or knowledge worker? I can impart a few tidbits of information there, from some years of course development and training experience."
   image: /images/topic-professional.jpg
 Reviews: 
   awesomeicon: icon-check
-  description: "Reviews is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "What's the skinny? Get it served up hot right here."
   image: /images/topic-reviews.jpg
 Service: 
   awesomeicon: icon-heart
-  description: "Service is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "Service industry? Customer service? Service as a concept? A large number of us work in service to others, and you might find a post or two on that here. I believe my primary purpose in life is to be of service to others."
   image: /images/topic-service.jpg
 SnapJapan: 
   awesomeicon: icon-leaf
-  description: "SnapJapan is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "SnapJapan is my blog about life here in Japan (specifically Yokohama and Tokyo), land of high tech, cram schools, stoically conservative salary-men, manga, cos-play and maid cafes. Since 1987."
   image: /images/topic-snapjapan.jpg
 Software: 
   awesomeicon: icon-save
-  description: "Software is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "It's got impact on practically every aspect of our lives. I am not a software development professional but I love good software, especially elegantly programmed software. I have a bit of an obsession with software, and love to experiment with it. Call it a fetish."
   image: /images/topic-software.jpg
 Street: 
   awesomeicon: icon-road
-  description: "Street is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "From the streets, the mean streets, mostly in Japan. Savvy, gritty, dirty streets."
   image: /images/topic-street.jpg
 SysAdmin: 
   awesomeicon: icon-fighter-jet
-  description: "SysAdmin is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "I am a manager, but I do a lot of systems administration myself. So this is from the trenches, and spoken from some years of training technologists to do sysadmin tasks."
   image: /images/topic-sysadmin.jpg
 Technology: 
   awesomeicon: icon-magic
-  description: "Technology is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "Arthur C. Clarke said 'Any sufficiently advanced technology is indistinguishable from magic.' What magic are we observing now, that will be easily explained and taught to grammar school children in two decades?"
   image: /images/topic-technology.jpg
 Tips: 
   awesomeicon: icon-lightbulb
-  description: "Tips is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "Can I give you some tip that might help you be more efficient or productive? Just maybe so. Let's find out."
   image: /images/topic-tips.jpg
 Troubleshooting: 
   awesomeicon: icon-ok-sign
-  description: "Troubleshooting is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "How do you slice and dice to get to the crux of a problem to let you devise a solution? Great troubleshooting is an art that skilled technologists know, and beginners scratch their heads about."
   image: /images/topic-troubleshooting.jpg
 Upgrades: 
   awesomeicon: icon-download-alt
-  description: "Upgrades is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "If I upgrade a system, I might share the process here to hopefully help someone else. But one thing's for sure - as you upgrade and upgrade over a career in technology, you start to see the lateral linkages between systems."
   image: /images/topic-upgrades.jpg
 Web: 
   awesomeicon: icon-link
-  description: "Web is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "I'm sitting here writing this website because great giants went before me, and made this wonderful thing we use every day. Will you add to the creation, or just consume."
   image: /images/topic-web.jpg
 Weird: 
   awesomeicon: icon-wrench
-  description: "Weird is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "It is probably not weird in another culture, but it probably struck me funny, as in how-strange-it-is funny. So shoot me."
   image: /images/topic-weird.jpg
