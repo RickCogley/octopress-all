@@ -80,7 +80,9 @@ article {
 		margin-left: 10px;
 		margin-bottom: 10px;
 	}
-	ul{ list-style: disc !important; list-style-type: disc; }
+}
+.a-post{ 
+	ul{ list-style: disc !important; list-style-type: disc; } 
 }
 
 a.active{ font-weight: bold; }
@@ -131,4 +133,8 @@ section{ font-family: $serif; }
 
 .pullquote-right::before{
 	font-style: italic;
+}
+
+ul.blog-meta{
+	list-style: none;
 }

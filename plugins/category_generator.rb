@@ -59,8 +59,6 @@ module Jekyll
       # Read the YAML data from the layout page.
       self.read_yaml(File.join(base, '_layouts'), 'categories_index.html')
       self.data['categories']    = categories
-      # Set the title for this page.
-      # Set the meta-description for this page.
       meta_description_prefix  = site.config['category_meta_description_prefix'] || 'Categories'
     end
 
