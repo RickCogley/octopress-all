@@ -9,7 +9,7 @@
 {% if has_date != '0' %}
   {% capture time %}
   	<time datetime="{{ date | datetime | date_to_xmlschema }}" pubdate{% if updated %} data-updated="true"{% endif %}>
-  		<h3>{{ date_formatted | date: "%d %b" }}</h3><p>{{ date_formatted | date: "%Y" }}</p>
+  		<h3>{{ date_formatted | date: "%d %b" }}</h3><p>{{ date | date: "%Y" }}</p>
 	</time>
   {% endcapture %}
 {% endif %}
