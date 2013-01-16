@@ -7,7 +7,7 @@ sharing: true
 sidebar: true
 footer: true
 categories: [Resources]
-description: Rick Cogley Central resources.
+description: Rick Cogley Central resources including a bio page, colophon and other goodies.
 keywords: Resources, Goodies
 published: true
 ---  
