@@ -47,8 +47,14 @@ Cogley's goal is to develop eSolia into a global consultancy, focused on providi
 <a class="btn btn-danger" href="https://plus.google.com/u/0/107046878530748803729/posts"><i class="icon-google-plus icon-large"></i> Google+</a>
 <a class="btn btn-success" href="http://twitter.com/rickcogley"><i class="icon-twitter icon-large"></i> Twitter</a>
 <a class="btn btn-inverse" href="http://www.flickr.com/photos/rickcogley/"><i class="icon-camera-retro icon-large"></i> Flickr</a>
+<a class="btn btn-warning" href="ttp://rickcogley.dphoto.com"><i class="icon-th icon-large"></i> DPHOTO</a>
 <a class="btn btn-info" href="http://www.linkedin.com/in/rickcogley"><i class="icon-linkedin-sign icon-large"></i> LinkedIn</a>
+<a class="btn" href="https://pinboard.in/u:rickcogley"><i class="icon-pin icon-large"></i> Pinboard</a>
+<a class="btn btn-primary" href="https://www.facebook.com/rickcogley"><i class="icon-facebook-sign icon-large"></i> Facebook</a>
+<a class="btn btn-warning" href="http://www.youtube.com/user/rickcogley"><i class="icon-facetime-video icon-large"></i> Youtube</a>
 {% endraw %}
+
+btn-primary
 
 
 {% render_time Page generated at: %}
