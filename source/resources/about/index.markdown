@@ -32,4 +32,14 @@ Cogley's goal is to develop eSolia into a global consultancy, focused on providi
 * [Facebook](https://www.facebook.com/rickcogley)
 * [YouTube](http://www.youtube.com/user/rickcogley)
 
+
+{% raw %}
+<ul class="nav nav-list">
+  <li class="active"><a href="https://plus.google.com/u/0/107046878530748803729/posts"><i class="icon-google-plus"></i> Google+</a></li>
+  <li><a href="http://twitter.com/rickcogley"><i class="icon-twitter"></i> Library</a></li>
+  <li><a href="http://www.flickr.com/photos/rickcogley/"><i class="icon-camera"></i> Flickr</a></li>
+  <li><a href="http://www.linkedin.com/in/rickcogley"><i class="icon-linkedin-sign"></i> LinkedIn</a></li>
+</ul>
+{% endraw %}
+
 {% render_time Page generated at: %}
