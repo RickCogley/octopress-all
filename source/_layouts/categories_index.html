@@ -4,11 +4,19 @@ footer: false
 title: Topics
 ---
 
-<div id="blog-archives" class="tag">
-	<ul>
-		{% for categ in page.categories %}
-			<li><a href="/articles/topics/{{ categ | downcase }}"> {{ categ }}</a></li>
-		{% endfor %}
-	</ul>
-
+<div id="blog-archives" class="tag blog-topics">
+	{% for categ in page.categories %}
+		<div class="row">
+			<div class="span9">
+				<i class="{{ page.categ_data[categ]['awesomeicon'] }}"></i>
+				<a href="/articles/topics/{{ categ | downcase }}"> {{ categ }}</a>
+			</div>
+			<div class="span1"><img src="{{ page.categ_data[categ]['image'] }}" /></div>
+			<div class="span8">
+				<p>
+					{{ page.categ_data[categ]['description'] }}
+				</p>
+			</div>
+		</div>
+	{% endfor %}
 </div>

@@ -1,23 +1,7 @@
 # encoding: utf-8
 #
-# Jekyll category page generator.
-# http://recursive-design.com/projects/jekyll-plugins/
-#
-# Version: 0.1.4 (201101061053)
-#
-# Copyright (c) 2010 Dave Perrett, http://recursive-design.com/
-# Licensed under the MIT license (http://www.opensource.org/licenses/mit-license.php)
-#
-# A generator that creates category pages for jekyll sites.
-#
-# Included filters :
-# - category_links:      Outputs the list of categories as comma-separated <a> links.
-# - date_to_html_string: Outputs the post.date as formatted html, with hooks for CSS styling.
-#
-# Available _config.yml settings :
-# - category_dir:          The subfolder to build category pages in (default is 'categories').
-# - category_title_prefix: The string used before the category name in the page title (default is
-#                          'Category: ').
+
+# require 'yaml'
 
 module Jekyll
 
@@ -50,7 +34,7 @@ module Jekyll
 
   class CategoriesIndex < Page
 
-    def initialize(site, base, categories_dir, categories)
+    def initialize(site, base, categories_dir, categories, categ_data)
       @site = site
       @base = base
       @dir  = categories_dir
@@ -58,8 +42,9 @@ module Jekyll
       self.process(@name)
       # Read the YAML data from the layout page.
       self.read_yaml(File.join(base, '_layouts'), 'categories_index.html')
-      self.data['categories']    = categories
-      meta_description_prefix  = site.config['category_meta_description_prefix'] || 'Categories'
+      self.data['categories'] = categories
+      self.data['categ_data'] =  categ_data
+      meta_description_prefix = site.config['category_meta_description_prefix'] || 'Categories'
     end
 
   end
@@ -118,10 +103,11 @@ module Jekyll
     end
 
     def write_categories_index_page(categories_dir, categories)
-      index = CategoriesIndex.new(self, self.source, categories_dir, categories)
+      categ_data = YAML.load_file(File.open(File.expand_path('../plugins/topics.yml')))
+      index = CategoriesIndex.new(self, self.source, categories_dir, categories, categ_data)
       index.render(self.layouts, site_payload)
       index.write(self.dest)
-      # Record the fact that this page has been added, otherwise Site::cleanup will remove it.
+      
       self.pages << index
     end
 
