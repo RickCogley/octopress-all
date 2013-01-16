@@ -11,6 +11,7 @@ description: Rick Cogley Central is the website of Rick Cogley, an experienced, 
 keywords: Rick Cogley, James Cogley, Portfolio, Biography, Japan, Productivity, Technology, Photography, Lean, Agile, Management, Efficiency
 jrcshortbio01: Welcome to Rick Cogley Central - with blog articles, photos and other resources. I'm an experienced IT consultant and project manager, and have been based in Japan since 1987. I run a company called eSolia Inc., and we provide IT management services to multinationals for their Japan operations and projects. 
 jrcbiopath: /resources/bio
+cover: /images/Rick_Suit_01.jpg
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
