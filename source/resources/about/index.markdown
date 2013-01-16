@@ -24,7 +24,7 @@ In his spare time, Cogley enjoys blogging, drumming, watching films, studying to
 Cogley's goal is to develop eSolia into a global consultancy, focused on providing business-focused bilingual-liaison consulting to companies on the most challenging projects.
 
 
-###Social  
+###Visit Me Elsewhere  
 
 {% raw %}
 <a class="btn btn-danger" href="https://plus.google.com/u/0/107046878530748803729/posts"><i class="icon-google-plus icon-large"></i> Google+</a>
