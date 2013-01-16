@@ -7,8 +7,7 @@ sharing: false
 footer: true
 ---
 
-{{site.title}}
-{% site.title %}
+
 
 * [Google+](https://plus.google.com/u/0/107046878530748803729/posts)
 * [Twitter](http://twitter.com/rickcogley)
