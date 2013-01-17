@@ -16,6 +16,7 @@
 	</ul>
   </div>
   <div class="tab-pane" id="tab-topics">
+  	<h1>Topics</h1>
 	<ul>
 	  {% for categ in site.categories %}
 	    <li><a href="/articles/topics/{{ categ[0] | downcase }}"> {{ categ[0] }}</a></li>
