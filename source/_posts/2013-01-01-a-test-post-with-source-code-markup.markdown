@@ -43,7 +43,23 @@ Last night I lay in bed looking up at the stars in the sky and I thought to myse
 
 {% raw %}<div class="alert alert-error">Danger, Will Robinson!</div>{% endraw %}  
 
-{% raw %}<a href="#" class="btn btn-large btn-danger" rel="popover" title="Answer" data-content="In 1066.">When was the battle of Hastings?</a>{% endraw %}
+{% raw %}
+<a href="#" class="btn btn-large btn-danger" rel="popover" title="Answer" data-content="In 1066.">When was the battle of Hastings?</a>
+
+<div class="container">  
+<h2>Example of creating Modal with Twitter Bootstrap</h2>  
+<div class="well">  
+<a href="#" id="example" class="btn btn-danger" rel="popover" data-content="It's so simple to create a tooltop for my website!" data-original-title="Twitter Bootstrap Popover">hover for popover</a>  
+</div>  
+</div>  
+  
+<script>  
+$(function ()  
+{ $("#example").popover();  
+});  
+</script>
+
+{% endraw %}
 
 
 {% img right http://placekitten.com/300/500 150 250 Place Kitten #3 %} Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
