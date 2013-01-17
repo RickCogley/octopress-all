@@ -2,9 +2,12 @@
 <meta property="og:type" content="website" />
 {% if page.title %}
 <meta property="og:title" value="{{ page.title }}">
-<meta property="og:description" value="{{ page.description }}">
 {% else %}
 <meta property="og:title" value="{{ site.title }}">
+{% endif %}
+{% if page.description %}
+<meta property="og:description" value="{{ page.ogdescription }}">
+{% else %}
 <meta property="og:description" value="{{ site.ogdescription }}">
 {% endif %}
 {% if page.cover %}
