@@ -12,7 +12,7 @@
       {% unless page.meta == false %}
         <ul class="blog-meta meta pull-left">
           <li class="data">{% include post/date.html %}{{ time }}</li>
-          <li class="post-format {% if post.posticon %} {{ post.posticon }} {% else %} default {% endif %}"><span></span></li>
+          <li class="post-format {% if post.posticon %}{{ post.posticon }}{% else %}default{% endif %}"><span></span></li>
           <li><a href="{{site.jrcbiopath}}">{{ author }}</a></li>
           <hr>
           <li>

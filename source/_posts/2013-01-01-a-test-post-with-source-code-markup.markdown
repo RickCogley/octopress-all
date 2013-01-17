@@ -1,6 +1,7 @@
 ---
 layout: post
 post_title: "A Test Post with Sourcecode Markup"
+posticon: quote
 date: 2013-01-01 15:17
 comments: true
 categories: [Blog-Cogley,SysAdmin]

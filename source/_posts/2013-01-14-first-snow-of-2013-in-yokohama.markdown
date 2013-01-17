@@ -1,6 +1,7 @@
 ---
 layout: post
 post_title: "First Snow of 2013 in Yokohama"
+posticon: video
 date: 2013-01-14 11:16
 comments: true
 description: Youtube video from Rick Cogley showing the first snow in Yokohama in 2013.
