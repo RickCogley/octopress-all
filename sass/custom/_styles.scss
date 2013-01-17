@@ -150,3 +150,26 @@ ul.blog-meta{
 .margin-bottom{ margin-bottom: 10px; }
 
 .small-text{ font-size: 13px; }
+
+//tabs:
+.nav-tabs{
+	margin-bottom: 0;
+	li.active{ font-weight: bold; }
+}
+.tab-content{
+	font-size: 70%;
+	border: 1px solid #ddd;
+	border-top: none;
+	padding: 8px;
+	margin-bottom: 30px;
+}
+
+.accordion{
+	.accordion-body {
+		p{ font-size: 70%;}
+		.accordion-inner ul{ margin-left: 10px; }
+	}
+	a.accordion-toggle > h3{
+		margin-bottom: 0;
+	}
+}
