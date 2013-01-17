@@ -44,18 +44,23 @@ Last night I lay in bed looking up at the stars in the sky and I thought to myse
 {% raw %}<div class="alert alert-error">Danger, Will Robinson!</div>{% endraw %}  
 
 {% raw %}
-<a href="#" class="btn btn-large btn-danger" rel="popover" title="Answer" data-content="In 1066.">When was the battle of Hastings?</a>
+<a href="#" id="example1" class="btn btn-large btn-warning" rel="popover" title="Answer" data-content="In 1066.">When was the battle of Hastings?</a>
 
 <div class="container">  
 <h2>Example of creating Modal with Twitter Bootstrap</h2>  
 <div class="well">  
-<a href="#" id="example" class="btn btn-danger" rel="popover" data-content="It's so simple to create a tooltop for my website!" data-original-title="Twitter Bootstrap Popover">hover for popover</a>  
+<a href="#" id="example2" class="btn btn-danger" rel="popover" data-content="It's so simple to create a tooltop for my website!" data-original-title="Twitter Bootstrap Popover">hover for popover</a>  
 </div>  
 </div>  
   
 <script>  
 $(function ()  
-{ $("#example").popover();  
+{ $("#example1").popover();  
+});  
+</script>
+<script>  
+$(function ()  
+{ $("#example2").popover();  
 });  
 </script>
 
