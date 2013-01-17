@@ -8,19 +8,6 @@ function pinboardNS_fetch_script(url) {
     pinboardLinkroll.async = true;
     pinboardLinkroll.src = url;
     document.getElementsByTagName('head')[0].appendChild(pinboardLinkroll);
-
-    /*$.ajax({
-      url: url, 
-      dataType: 'script',
-      success: function(){
-        if(tag != '')
-          current_id = 'pinboard_' + tag;
-        else
-          current_id = 'pinboard_all';
-        console.log(current_id)
-      }
-    })*/
-
   });
 
 
@@ -67,11 +54,12 @@ function Pinboard_Linkroll() {
   this.format_item = function(it) {
     var str = "<li class=\"pin-item\">";
     if (!it.d) { return; }
-    str += "<p><a class=\"pin-title\" href=\"" + this.cook(it.u) + "\">" + this.cook(it.d) + "</a>";
+    str += "<p><a class=\"pin-title\" href=\"" + this.cook(it.u) + "\">" + this.cook(it.d) + "</a>&mdash;";
     if (it.n) {
       str += "<span class=\"pin-description\">" + this.cook(it.n) + "</span>\n";
     }
     if (it.t.length > 0) {
+      str += "<br />"
       for (var i = 0; i < it.t.length; i++) {
         var tag = it.t[i];
         str += " <a class=\"pin-tag\" href=\"https://pinboard.in/u:"+ this.cook(it.a) + "/t:" + this.cook(tag) + "\">" + this.cook(tag).replace(/^\s+|\s+$/g, '') + "</a> ";
