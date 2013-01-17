@@ -19,7 +19,13 @@
         <ul class="blog-meta meta pull-left">
           <li class="data">{% include post/date.html %}{{ time }}</li>
           <li class="post-format {% if posticon %}{{ posticon }}{% else %}default{% endif %}"><span></span></li>
-          <li><a href="{{site.jrcbiopath}}">{{ author }}</a></li>
+          <li class="small-text"><a href="{{site.jrcbiopath}}">{{ author }}</a></li>
+          <hr>
+          <li class="small-text">
+            {% for cat in page.categories %}
+              <a href="/articles/topics/{{ cat | downcase }}">{{ cat }}</a>, 
+            {% endfor %}
+          </li>
           <hr>
           <li>
             {% if site.disqus_short_name and page.comments != false and post.comments != false and site.disqus_show_comment_count == true %}

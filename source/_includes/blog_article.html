@@ -2,7 +2,7 @@
   <div class="row">
     <div class="span1">
       {% unless page.meta == false %}
-        <ul class="blog-meta meta pull-left">
+        <ul class="blog-meta meta pull-left small-text">
           <li class="data">{% include post/date.html %}{{ time }}</li>
           <li class="post-format {% if post.posticon %}{{ post.posticon }}{% else %}default{% endif %}"><span></span></li>
           <li>
