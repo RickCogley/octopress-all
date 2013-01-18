@@ -46,7 +46,9 @@ module Jekyll
   SITEMAP_FILE_NAME = "sitemap.xml"
 
   # Any files to exclude from being included in the sitemap.xml
-  EXCLUDED_FILES = ["atom.xml","/errors/*.html","/site-dev-notes/*.html"]
+  EXCLUDED_FILES = ["atom.xml","/errors/400-Bad-Request.html","/errors/401-Auth-Required.html","/errors/403-Forbidden.html","/errors/404-Not-Found.html","/errors/500-Server-Error.html","/site-dev-notes/categories.html","/site-dev-notes/snippets.html","/site-dev-notes/topics.html"]
+  
+
 
   # Any files that include posts, so that when a new post is added, the last
   # modified date of these pages should take that into account
