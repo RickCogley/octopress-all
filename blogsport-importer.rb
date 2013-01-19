@@ -32,21 +32,21 @@ require 'yaml'
 require File.open(File.expand_path('../downmark_it.rb', __FILE__))
 
 def parameterize(string, sep = '-')
-  # replace accented chars with their ascii equivalents
   parameterized_string = string
-  # Turn unwanted chars into the separator
   parameterized_string.gsub!(/[^a-z0-9\-_]+/i, sep)
   unless sep.nil? || sep.empty?
     re_sep = Regexp.escape(sep)
-    # No more than one of the separator in a row.
     parameterized_string.gsub!(/#{re_sep}{2,}/, sep)
-    # Remove leading/trailing separator.
     parameterized_string.gsub!(/^#{re_sep}|#{re_sep}$/i, '')
   end
   parameterized_string.downcase
 end
+
+def valid_categ?(categ)
+  categ.to_i.to_s != categ
+end
  
-def parse_post_entries(feed, verbose, categ)
+def parse_post_entries(feed, categ)
   posts = []
   feed.entries.each do |post|
     obj = Hash.new
@@ -62,17 +62,17 @@ def parse_post_entries(feed, verbose, categ)
     obj["creation_datetime"] = created_datetime
     obj["updated_datetime"] = post.updated
     obj["content"] = content
-    obj["categories"] = "#{categ} #{post.categories.join(",")}"
+    obj["categories"] = "#{([categ] + post.categories.select{|x| valid_categ?(x) }).join(", ")}"
     obj["keywords"] = post.categories.join(",")
     posts.push(obj)
   end
   return posts
 end
  
-def write_posts(posts, verbose)
+def write_posts(posts)
   Dir.mkdir("_posts") unless File.directory?("_posts")
  
-  total = posts.length, i = 1
+  total = posts.length
   posts.each do |post|
     # file_name = "_posts/".concat(post["file_name"])
     file_name = "source/_posts/".concat(post["file_name"])
@@ -88,16 +88,6 @@ tags: [#{post["keywords"]}]
 ---
  
 }
-# puts post["title"].inspect
-    # header = {
-    #   'layout'     => 'post',
-    #   'title'      => post["title"].to_s,
-    #   'date'       => post["creation_datetime"],
-    #   'updated'    => post["updated_datetime"],
-    #   'comments'   => false,
-    #   'categories' => post["categories"]
-    # }.to_yaml
-
     File.open(file_name, "w+") {|f|
       f.write(header)
       # f.write(post["content"])
@@ -105,48 +95,22 @@ tags: [#{post["keywords"]}]
       f.close
     }
     
-    if verbose
-      puts "  [#{i}/#{total[0]}] Written post #{file_name}"
-      i += 1
-    end
   end
 end
  
 def main
-  options = {}
-  opt_parser = OptionParser.new do |opt|
-    opt.banner = "Usage: ./blogger_to_jekyll.rb FEED_URL [OPTIONS]"
-    opt.separator ""
-    opt.separator "Options"
-    
-    opt.on("-v", "--verbose", "Print out all.") do
-      options[:verbose] = true
-    end
-  end
- 
-  opt_parser.parse!
-=begin
-  if ARGV[0]
-    feed_url = ARGV.first
-  else
-    puts opt_parser
-    exit()
-  end
-=end
-
-{
- "blog-cogley" =>  "http://rickcogley.blogspot.jp",
- "snapjapan" => "http://snapjapan.blogspot.jp"
-}.each do |categ, feed_url|
-
+  {
+    "Blog-Cogley" =>  "http://rickcogley.blogspot.jp",
+     "SnapJapan" => "http://snapjapan.blogspot.jp"
+  }.each do |categ, feed_url|
     puts "Fetching feed #{feed_url}..."
-    feed = Feedzirra::Feed.fetch_and_parse("#{feed_url}/feeds/posts/default")
+    feed = Feedzirra::Feed.fetch_and_parse("#{feed_url}/feeds/posts/default?max-results=999")
   
     puts "Parsing feed..."
-    posts = parse_post_entries(feed, options[:verbose], categ)
+    posts = parse_post_entries(feed, categ)
   
     puts "Writing posts to _posts/..."
-    write_posts(posts, options[:verbose])
+    write_posts(posts)
   end
   puts "Done!"
 end
