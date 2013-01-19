@@ -8,7 +8,7 @@ comments: true
 description: Post explaining how to bulk delete bookmarks in Apple OS X Safari.
 keywords: Safari Bookmarks Bulk Mass Delete OSX
 categories: [Blog-Cogley, Tips]
-tags: [Safari Bookmarks Bulk-Delete Mass-Delete OSX
+tags: [Safari Bookmarks Bulk-Delete Mass-Delete OSX]
 published: true
 ---
 
