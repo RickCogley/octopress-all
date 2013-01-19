@@ -12,13 +12,13 @@ tags: [Safari Bookmarks Bulk-Delete Mass-Delete OSX]
 published: true
 ---
 
-_OS X Safari Bookmarks can "build up" in your system for various reasons, perhaps because of iCloud sync problems, or because you imported a lot of old ones from another browser. If you want to bulk-delete bookmarks in OS X Safari, it is not immediately apparent how to do it. Find out how after the jump._
+_OS X Safari Bookmarks can "build up" in your system for various reasons, perhaps because of iCloud sync problems, or because you imported a lot of old ones from another browser. If you are moving to a service like {% raw %}<span class="label label-success">Pinboard.in</span>{% endraw %} and want to bulk-delete bookmarks in OS X Safari, it is not immediately apparent how to do it. Find out how after the jump._
 
 <!--more-->
 
 ###How to Bulk-Delete Safari Bookmarks###
 
-{% img right http://farm9.staticflickr.com/8366/8393079609_1a58d9b5a6_o_d.png 200 'Bulk Delete Safari Bookmarks by Searching for a Period 2013-01-19' 'Screenshot of how to search Safari bookmarks with a period to get them all then bulk delete.' %} I recently started using the excellent high-performance Delicious-v1-compatible [Pinboard](http://pinboard.in), after quite a long stint of problems with Delicious and Diigo. I had imported a ton of bookmarks to Safari a few years ago (in *Tiger*, was it!?), thinking that bookmark management in a major browser would be smooth sailing. However, the Safari bookmark interface leaves something to be desired, to say the least. I ignored the massive list of tags that I had inadvertently created. 
+{% img right http://farm9.staticflickr.com/8366/8393079609_1a58d9b5a6_o_d.png 400 'Bulk Delete Safari Bookmarks by Searching for a Period 2013-01-19' 'Screenshot of how to search Safari bookmarks with a period to get them all then bulk delete.' %} I recently started using the excellent high-performance Delicious-v1-compatible [Pinboard](http://pinboard.in), after quite a long stint of problems with Delicious and Diigo. I had imported a ton of bookmarks to Safari a few years ago (in *Tiger*, was it!?), thinking that bookmark management in a major browser would be smooth sailing. However, the Safari bookmark interface leaves something to be desired, to say the least. I ignored the massive list of tags that I had inadvertently created. 
 
 Since I really like my [Pinboard](https://pinboard.in/u:rickcogley), I decided to focus on using it primarily, and pare down the Safari and Chrome bookmarks to only the most essential bookmarklets and a couple choice lists for URLs I always use. When I finally got all my bookmarks loaded up in Pinboard, I started looking into how to bulk delete the ones in Safari. At first glance it appears you have no choice but to delete them one by one. 
 
