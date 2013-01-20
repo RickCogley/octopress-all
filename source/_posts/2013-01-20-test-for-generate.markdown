@@ -8,7 +8,7 @@ comments: true
 description: This is the metadata and og tag description.
 keywords: tips,just testing
 categories: [Blog-Cogley, Tips]
-tags: [tips,just testing]
+tags: [tips,testing]
 published: true
 ---
 
