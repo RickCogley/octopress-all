@@ -32,7 +32,7 @@ I feel like a lifeless husk that's been trampled on and ground into dust. :-/
 **24 June 2009** - I've heard conflicting reports on this situation, stating that you can upgrade and that you cannot upgrade in Japan, and that you can or cannot buy iPhones from the US or China and bring them here to use. However, from the [Japan Times newspaper](http://search.japantimes.co.jp/cgi-bin/nc20090624a1.html) this AM, it appears that you _will_ be able to buy an iPhone 3GS with no contract. I assume this is from Apple. The question is, can I just pop my existing SIM in there. 
 
 
-> As for the cost, the 16 gigabyte model is priced at ¥11,520, and the 32 GB is ¥23,040, on a special campaign offer, while it retails at ¥23,040 (16 GB) and ¥34,560 (32GB) for those _wanting the phone out of contract_. —Japan Times 24 June 2009
+> As for the cost, the 16 gigabyte model is priced at ¥11,520, and the 32 GB is ¥23,040, on a special campaign offer, while it retails at ¥23,040 (16 GB) and ¥34,560 (32GB) for those _wanting the phone out of contract_.  - Japan Times 24 June 2009
 
 
 **26 June 2009** - I went to Apple, who told me that, no, despite the statement in the Japan Times you must have a contract. They concurred with Softbank's statement that you'd lose the discount on your 3G, and that you'd end up paying the approx JPY 70,000 yen over two years. What I did learn was that you could do a "kishu henkou" (model change) after you've completed paying off the original 3G. Wow, what a blow. 

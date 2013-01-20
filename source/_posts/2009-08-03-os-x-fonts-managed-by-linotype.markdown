@@ -19,7 +19,7 @@ Linotype's **FontExplorer X Pro 2.0** for Apple's OS X is one such program. I st
 You can get details from [this PDF brochure](http://www.fontexplorerx.com/fileadmin/fex/downloads/FontExplorer_X_Product_Line.pdf) or from [the website](http://www.fontexplorerx.com/macfeatures/), but let me start by quoting from the manual: 
 
 
-> FontExplorer X Pro is a powerful professional font management tool providing you with a clear overview and complete control over the fonts on your computer. FontExplorer X Pro helps you to organize your fonts according to your personal preferences, you can activate and deactivate fonts as you please, while functions such as font detection in documents make it easy for you to identify the fonts required for your projects. A recurring problem is that documents are frequently displayed incorrectly when the necessary fonts are not available on a computer. With FontExplorer X Pro you can now easily buy the fonts you need for a job via the FontExplorer X Pro Store. 
+> FontExplorer X Pro is a powerful professional font management tool providing you with a clear overview and complete control over the fonts on your computer. FontExplorer X Pro helps you to organize your fonts according to your personal preferences, you can activate and deactivate fonts as you please, while functions such as font detection in documents make it easy for you to identify the fonts required for your projects. A recurring problem is that documents are frequently displayed incorrectly when the necessary fonts are not available on a computer. With FontExplorer X Pro you can now easily buy the fonts you need for a job via the FontExplorer X Pro Store. 
 
 
 

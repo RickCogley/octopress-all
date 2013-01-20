@@ -18,12 +18,12 @@ I pointed this out to LinkedIn 10 days ago, but am getting nowhere with support 
 
 
 
-The problem is, when I enter search phrases that bring my company [eSolia](http://www.esolia.com) up in search results, we and other like companies are listed as being "outside the 23 wards of Tokyo." You can see it in the screenshot attached below. This is the exact opposite of the reality - we are inside the 23-wards, and to me, it just seems like a programmer got their logic switched up. 
+The problem is, when I enter search phrases that bring my company [eSolia](http://www.esolia.com) up in search results, we and other like companies are listed as being "outside the 23 wards of Tokyo." You can see it in the screenshot attached below. This is the exact opposite of the reality - we are inside the 23-wards, and to me, it just seems like a programmer got their logic switched up. 
 
 
 
 
-LinkedIn support informs me as follows - 
+LinkedIn support informs me as follows - 
 
 
 > 
@@ -33,7 +33,7 @@ I sent your message to our research and development team for review and consider
 
 
 
-Even though we’re not able to respond individually to numerous recommendations we receive, we’d like to invite you to check out the LinkedIn Blog http://blog.linkedin.com for the latest notifications on site improvements. It’s our way of keeping you and our other members informed on all the exciting work we’re doing behind the scenes.
+Even though we're not able to respond individually to numerous recommendations we receive, we'd like to invite you to check out the LinkedIn Blog http://blog.linkedin.com for the latest notifications on site improvements. It's our way of keeping you and our other members informed on all the exciting work we're doing behind the scenes.
 
 
 
@@ -43,17 +43,17 @@ We appreciate the feedback and believe that together we can create great product
 
 
 
-Seriously?! Well, gee, I am so happy that maybe someday, you will get your act together and maybe deem it worthy to fix your bug. 
+Seriously?! Well, gee, I am so happy that maybe someday, you will get your act together and maybe deem it worthy to fix your bug. 
 
 
 
 
-Please LinkedIn, this seems like a simple logic error that is happening to multiple companies in various places inside the 23 wards of Tokyo. We hope for a fix sooner rather than later, or I will have to go to my landlord and request a rent reduction, as my company has been relocated outside the 23 wards of Tokyo. 
+Please LinkedIn, this seems like a simple logic error that is happening to multiple companies in various places inside the 23 wards of Tokyo. We hope for a fix sooner rather than later, or I will have to go to my landlord and request a rent reduction, as my company has been relocated outside the 23 wards of Tokyo. 
 
 
 
 
-**Anyone else** having search listing problems with LinkedIn? Log in and contact their support via this page - http://help.linkedin.com/app/home. 
+**Anyone else** having search listing problems with LinkedIn? Log in and contact their support via this page - http://help.linkedin.com/app/home. 
 
 
 

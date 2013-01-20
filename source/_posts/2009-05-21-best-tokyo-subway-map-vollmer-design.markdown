@@ -21,12 +21,12 @@ Vollmer Design was founded by [Ansgar Vollmer](http://www.vollmer-design.com/VD/
 
 
 
-> The R&S Map provides quick access to this complex city, and is of particular use to short-term visitors. Conventional route maps function only as route-finders and have been made obsolete by today’s digital information systems. The R&S Map, on the other hand, serves as an orientation guide and gives a good conceptual view of the city.
+> The R&S Map provides quick access to this complex city, and is of particular use to short-term visitors. Conventional route maps function only as route-finders and have been made obsolete by today's digital information systems. The R&S Map, on the other hand, serves as an orientation guide and gives a good conceptual view of the city.
 
 
 
 
-Tokyo’s train stations, rather than it is streets, are the important feature of the city. For this reason, because the R&S Map shows all lines and stations as well as geographic information, such as parks, islands, etc. in relative position to each other, it is possible to get the idea of a schematized city map.
+Tokyo's train stations, rather than it is streets, are the important feature of the city. For this reason, because the R&S Map shows all lines and stations as well as geographic information, such as parks, islands, etc. in relative position to each other, it is possible to get the idea of a schematized city map.
 
 
 

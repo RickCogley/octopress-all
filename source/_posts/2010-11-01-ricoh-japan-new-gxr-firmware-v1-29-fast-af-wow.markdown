@@ -16,7 +16,7 @@ tags: [Firmware,upgrade,Ricoh GXR]
 
 
 
-Ricoh Japan just released the new GXR firmware, version 1.29, [on their Japan site](http://www.ricoh.co.jp/dc/download/gxr.html), and the _autofocus speed is now really, really fast_. Everyone who has a Ricoh GXR with A12 50mm module should definitely update right away. Fantastic improvement and thanks Ricoh!
+Ricoh Japan just released the new GXR firmware, version 1.29, [on their Japan site](http://www.ricoh.co.jp/dc/download/gxr.html), and the _autofocus speed is now really, really fast_. Everyone who has a Ricoh GXR with A12 50mm module should definitely update right away. Fantastic improvement and thanks Ricoh!
 
 
 ### How to Upgrade Ricoh GXR Firmware

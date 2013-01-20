@@ -83,7 +83,7 @@ Many web based products, and not just Helpdesk products, face these challenges w
 
 
 
-[**Kayako**](http://www.kayako.com/)'s Savin Behal replied to me in an email: Our software supports multiple languages. You may download the required (Japanese) language packs from the Kayako Forums at “http://forums.kayako.com/f50/”. These language packs have been shared by our clients. However, we regret to inform you that we do not support these packs officially. 
+[**Kayako**](http://www.kayako.com/)'s Savin Behal replied to me in an email: Our software supports multiple languages. You may download the required (Japanese) language packs from the Kayako Forums at "http://forums.kayako.com/f50/". These language packs have been shared by our clients. However, we regret to inform you that we do not support these packs officially. 
 
 
 

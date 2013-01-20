@@ -83,7 +83,7 @@ N.b: Nau is used in twitter language in Japan, to say where you are now, and uir
 
 
 
-At home now. Work will. Kind of Yoda-like, if you ask me. Just be forewarned: if you engage in pii-nige, your teacher will be okonau, I tell ya.
+At home now. Work will. Kind of Yoda-like, if you ask me. Just be forewarned: if you engage in pii-nige, your teacher will be okonau, I tell ya.
 
 
 ### ロールキャベージ
@@ -117,6 +117,6 @@ Now you can visit Shibuya or Harajuku armed with some understanding. Until the l
 
 
 
- 
+ 
 
 

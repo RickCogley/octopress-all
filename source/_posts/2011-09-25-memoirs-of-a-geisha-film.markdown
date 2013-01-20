@@ -34,7 +34,7 @@ Several irritations or questions come to mind:
 
 - The language coaches worked hard to get the actors less-skilled in English to deliver their lines and for the most part it succeeded pretty well. A very difficult task to be convincing in a language not your own. The Japanese was so limited, though, that you would think they could get that pronunciation right. But to this Japanese speaker, the Chinese accents on simple words like "arigato" and "hajimemashite" were pretty heavy and grating, in this context. 
 
-- It is supposed to be set in Kyoto, so why not get the "background language" right, for the various conversations you can hear but are not part of the dialogue. Pretty clunky, and it had me thinking Edo, not Gion.
+- It is supposed to be set in Kyoto, so why not get the "background language" right, for the various conversations you can hear but are not part of the dialogue. Pretty clunky, and it had me thinking Edo, not Gion.
 
 - The musical score is vaguely Chinese-sounding, probably due to instrumentation. Perhaps they could have worked in a slightly more Japanese sound, though they certainly did use a lot of shakuhachi. 
 

@@ -84,157 +84,157 @@ FYI, here's what Apple says is in the update:
 **Address Book**
 
 
-• Improves reliability of Address Book syncing with iPhone and other devices and applications.
+* Improves reliability of Address Book syncing with iPhone and other devices and applications.
 
 
 **AirPort**
 
 
-• Improves the reliability of AirPort connections, including improvements when roaming in large wireless networks with an Intel-based Mac.
+* Improves the reliability of AirPort connections, including improvements when roaming in large wireless networks with an Intel-based Mac.
 
 
 **Client management**
 
 
-• Improves reliability of synchronizing files on a portable home directory.
+* Improves reliability of synchronizing files on a portable home directory.
 
 
-• Fixes an issue in Mac OS X 10.5.4 and 10.5.5 in which managed users may not see printers that use the Generic PPD.
+* Fixes an issue in Mac OS X 10.5.4 and 10.5.5 in which managed users may not see printers that use the Generic PPD.
 
 
-• Client computers that use UUID-based ByHost preferences now respect managed Screen Saver settings.
+* Client computers that use UUID-based ByHost preferences now respect managed Screen Saver settings.
 
 
 **iChat**
 
 
-• Addresses an issue that could cause an encryption alert to appear in the chat window.
+* Addresses an issue that could cause an encryption alert to appear in the chat window.
 
 
-• Setting your iChat status to "invisible" via AppleScript no longer logs you out of iChat.
+* Setting your iChat status to "invisible" via AppleScript no longer logs you out of iChat.
 
 
-• Resolves an issue in which pasting text from a Microsoft Office document could insert an image rather than text.
+* Resolves an issue in which pasting text from a Microsoft Office document could insert an image rather than text.
 
 
 **Graphics**
 
 
-• Includes general improvements to gaming performance.
+* Includes general improvements to gaming performance.
 
 
-• Includes graphics improvements for iChat, Cover Flow, Aperture, and iTunes.
+* Includes graphics improvements for iChat, Cover Flow, Aperture, and iTunes.
 
 
-• Includes fixes for possible graphics distortion issues with certain ATI graphics cards.
+* Includes fixes for possible graphics distortion issues with certain ATI graphics cards.
 
 
 **Mail**
 
 
-• Includes overall performance and reliability fixes.
+* Includes overall performance and reliability fixes.
 
 
-• Improves Connection Doctor accuracy.
+* Improves Connection Doctor accuracy.
 
 
-• Fixes an issue that could cause messages identified as junk to remain in the inbox.
+* Fixes an issue that could cause messages identified as junk to remain in the inbox.
 
 
-• Fixes an issue that could cause Mail to append a character to the file extension of an attachment.
+* Fixes an issue that could cause Mail to append a character to the file extension of an attachment.
 
 
-• Addresses an issue that could prevent Mail from quitting.
+* Addresses an issue that could prevent Mail from quitting.
 
 
-• Improves reliability when printing PDF attachments.
+* Improves reliability when printing PDF attachments.
 
 
 **MobileMe**
 
 
-• Contacts, calendars, and bookmarks on a Mac automatically sync within a minute of the change being made on the computer, another device, or the web at me.com.
+* Contacts, calendars, and bookmarks on a Mac automatically sync within a minute of the change being made on the computer, another device, or the web at me.com.
 
 
 **Networking**
 
 
-• Improves Apple File Service performance, especially when using a home directory hosted on an AFP server. Important: If you are using Mac OS X 10.5.6 (client) to connect to a • • Mac OS X Server 10.4-based server, it is strongly recommended that you update the server to Mac OS X Server version 10.4.11.
+* Improves Apple File Service performance, especially when using a home directory hosted on an AFP server. Important: If you are using Mac OS X 10.5.6 (client) to connect to a * * Mac OS X Server 10.4-based server, it is strongly recommended that you update the server to Mac OS X Server version 10.4.11.
 
 
-• Improves the performance and reliability of TCP connections.
+* Improves the performance and reliability of TCP connections.
 
 
-• Improves reliability and performance for AT&T 3G cards.
+* Improves reliability and performance for AT&T 3G cards.
 
 
-• Updates the ssh Terminal command for compatibility with more ssh servers.
+* Updates the ssh Terminal command for compatibility with more ssh servers.
 
 
 **Printing**
 
 
-• Improves printing for the Adobe CS3 application suite.
+* Improves printing for the Adobe CS3 application suite.
 
 
-• Improves printing for USB-based Brother and Canon printers.
+* Improves printing for USB-based Brother and Canon printers.
 
 
 **Parental Controls**
 
 
-• Addresses an issue in which a parentally-controlled account could be unable to access the iTunes Store.
+* Addresses an issue in which a parentally-controlled account could be unable to access the iTunes Store.
 
 
-• Includes general fixes for time limits.
+* Includes general fixes for time limits.
 
 
-• Resolves an issue that prevented adding allowed websites from Safari via drag and drop.
+* Resolves an issue that prevented adding allowed websites from Safari via drag and drop.
 
 
 **Time Machine**
 
 
-• Fixes issues that could cause Time Machine to state the backup volume could not be found.
+* Fixes issues that could cause Time Machine to state the backup volume could not be found.
 
 
-• Improves Time Machine reliability with Time Capsule.
+* Improves Time Machine reliability with Time Capsule.
 
 
 **Safari**
 
 
-• Improves compatibility with web proxy servers.
+* Improves compatibility with web proxy servers.
 
 
 **General**
 
 
-• Includes Mac OS X security improvements. See this website for more information.
+* Includes Mac OS X security improvements. See this website for more information.
 
 
-• Addresses inaccuracies with Calculator when the Mac OS X language is set to German or Swiss German.
+* Addresses inaccuracies with Calculator when the Mac OS X language is set to German or Swiss German.
 
 
-• Improves the performance and reliability of Chess.
+* Improves the performance and reliability of Chess.
 
 
-• Improves DVD Player performance and reliability.
+* Improves DVD Player performance and reliability.
 
 
-• Performance improvements for iCal are included.
+* Performance improvements for iCal are included.
 
 
-• Fixes an issue when running the New iCal Events Automator action as an applet.
+* Fixes an issue when running the New iCal Events Automator action as an applet.
 
 
-• Adds a Trackpad System Preference pane for portable Macs.
+* Adds a Trackpad System Preference pane for portable Macs.
 
 
-• Improves compatibility with smart cards such as the U.S. Department of Defense Common Access Card.
+* Improves compatibility with smart cards such as the U.S. Department of Defense Common Access Card.
 
 
-• Updates time zone data and Daylight Saving Time rules for several countries.
+* Updates time zone data and Daylight Saving Time rules for several countries.
 
 
 Mac OS X 10.5.7 is available via Software Update and also via standalone installers.

@@ -11,7 +11,7 @@ tags: [Problem,keyboard,iPhone,emoji,softbank]
  
 
 
-[{% img right http://farm7.static.flickr.com/6187/6107940448_d52327d1e9_m.jpg '' 'Softbank iPhone emoji keyboard' %}](http://www.flickr.com/photos/81796435@N00/6107940448 "View 'Softbank iPhone emoji keyboard' on Flickr.com")My daughter came to me with an interesting problem with her iPhone, so I thought I would share what I learned and how I fixed the problem. The problem was, no matter what she did, the "emoji" (graphical emoticon icons) would not show up in her email app. I rarely use emoji except when emailing or texting my daughters, so I had to jump in and learn about it.
+[{% img right http://farm7.static.flickr.com/6187/6107940448_d52327d1e9_m.jpg '' 'Softbank iPhone emoji keyboard' %}](http://www.flickr.com/photos/81796435@N00/6107940448 "View 'Softbank iPhone emoji keyboard' on Flickr.com")My daughter came to me with an interesting problem with her iPhone, so I thought I would share what I learned and how I fixed the problem. The problem was, no matter what she did, the "emoji" (graphical emoticon icons) would not show up in her email app. I rarely use emoji except when emailing or texting my daughters, so I had to jump in and learn about it.
 
 
 ### How to Fix the "Emoji Keyboard Does Not Appear in Mail" Problem on iPhone 4
@@ -36,7 +36,7 @@ What I learned as I went along:
 
 - There are a whole lot of apps that purport to allow you to have emoji on your iPhone without jailbreaking, since the codes are apparently built into the IOS. Mostly they seem to have not-so-good reviews on the iTunes app store. However on iPhone 4, it appears that you just need to turn on the keyboard in Settings, General, Keyboard, International Keyboards. There is a keyboard which is specifically called "Emoji", and there are no advanced settings - it is just a toggle. I have no way of testing whether this keyboard is available for users outside Japan, since we are locked into Softbank as a carrier here. 
 
-- There's a lot of voodoo out on the Internet about this problem, because a lot of people are having it and blogging about it: restart, uninstall, reinstall, sprinkle some eye-of-newt, shake-the-phone-twice-and-pee-on-your-neighbor's rosebush and so on. I tried the restarting since it is non-invasive but, until I resolved the main issue (later), restarting did not help. 
+- There's a lot of voodoo out on the Internet about this problem, because a lot of people are having it and blogging about it: restart, uninstall, reinstall, sprinkle some eye-of-newt, shake-the-phone-twice-and-pee-on-your-neighbor's rosebush and so on. I tried the restarting since it is non-invasive but, until I resolved the main issue (later), restarting did not help. 
 
 - The official documents say that emoji are compatible only when you send email to other carriers that support it, and, it appears it is also possible to use with Gmail and other IMAP servers, but not POP. I read that you have to choose the right email account, to be able to send from, in your mail app (again, not SMS), and also to a recipient who can accept the emoji. Somehow, Softbank seems to have got code added that limits the behavior of the keyboard selector, based on what you choose in your From: and To: in the mail app. 
 

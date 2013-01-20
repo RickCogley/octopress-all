@@ -118,7 +118,7 @@ inputfile2.csv: ASCII text, with CR line terminators
 
 
 
-You can also use the cat command to show line endings, with its -e switch. Do a _man cat_ for more info, because you can also get line numbers, for instance. The first file below has CRLF, which shows up in cat’s output as ^M$, and the second file has only a ^, which is equivalent to the Mac CR line ending only situation. What you need will depend upon the import program. 
+You can also use the cat command to show line endings, with its -e switch. Do a _man cat_ for more info, because you can also get line numbers, for instance. The first file below has CRLF, which shows up in cat's output as ^M$, and the second file has only a ^, which is equivalent to the Mac CR line ending only situation. What you need will depend upon the import program. 
 
 
 
@@ -148,7 +148,7 @@ Part,Cust,Price,StartDate,EndDate,Reason**^M$**
 
 
 
-…
+...
 
 
 

@@ -23,7 +23,7 @@ Generally, my upgrade from 10.6.8 to 10.7.0 went smoothly and without trouble. D
 
 
 
-I thought the download would take forever, but it was relatively quick after making the payment in the App Store. I feel the low price is more than fair; generous even, given the value provided. I did two systems: my home system and my work system, paying for those separately. The morning download at about 7AM JST was fast, while the late afternoon download at the office was slower. Either way, it is a 4GB download.
+I thought the download would take forever, but it was relatively quick after making the payment in the App Store. I feel the low price is more than fair; generous even, given the value provided. I did two systems: my home system and my work system, paying for those separately. The morning download at about 7AM JST was fast, while the late afternoon download at the office was slower. Either way, it is a 4GB download.
 
 
 
@@ -68,7 +68,7 @@ Two of the key new-to-Lion features, LaunchPad and Mission Control, are very iOS
 
 
 
-An example of a really large "who moved my cheese" moment, and whopping big paradigm shift, is the scroll bars or lack thereof. Lion has the ability to allow any app that is programmed to take advantage of it, to run full screen. This looks fantastic, in apps like Mail, Safari, and even the Mars Edit edtor I am using to write this post. Further, the scroll bars do not appear by default a la iPhone and iPad (i.e., iOS), giving a very clean look to Lion apps, in general. Despite the relative hysteria over this predictable Apple shift (I mean, how many times have they done it in the past?), I am not finding it to be a problem at all. You just swipe two fingers on the trackpad to scroll, or for the trackpad-deficient, you can nudge your scroll button on your mouse. If you jiggle the trackpad with two fingers for instance, the scrollbars appear, and you can then drag-scroll as before and always.
+An example of a really large "who moved my cheese" moment, and whopping big paradigm shift, is the scroll bars or lack thereof. Lion has the ability to allow any app that is programmed to take advantage of it, to run full screen. This looks fantastic, in apps like Mail, Safari, and even the Mars Edit edtor I am using to write this post. Further, the scroll bars do not appear by default a la iPhone and iPad (i.e., iOS), giving a very clean look to Lion apps, in general. Despite the relative hysteria over this predictable Apple shift (I mean, how many times have they done it in the past?), I am not finding it to be a problem at all. You just swipe two fingers on the trackpad to scroll, or for the trackpad-deficient, you can nudge your scroll button on your mouse. If you jiggle the trackpad with two fingers for instance, the scrollbars appear, and you can then drag-scroll as before and always.
 
 
 
@@ -142,7 +142,7 @@ An irritation is, Lion spell-checks everything everywhere automatically, making 
 
 
 
- 
+ 
 
 
 ## OS X 10.7 Lion Server
@@ -211,7 +211,7 @@ Setting up notifications on the wiki was difficult, because apparently the wiki 
 
 
 
- 
+ 
 
 
 ## In Conclusion
@@ -220,6 +220,6 @@ Setting up notifications on the wiki was difficult, because apparently the wiki 
 
 
 
- 
+ 
 
 

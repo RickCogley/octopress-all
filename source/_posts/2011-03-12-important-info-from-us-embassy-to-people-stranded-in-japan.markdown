@@ -16,12 +16,12 @@ The American Chamber of Commerce sent this message from the US Embassy in Japan.
 
 > 
 
-**March 12, 2011  14:20**
+**March 12, 2011  14:20**
 
 
 
 
-This warden message is being issued by the U.S. Embassy in Tokyo to advise U.S. citizens residing or traveling in Japan of ways to let family and friends know your status.  This information is also being posted on the Embassy website to help family members to get the status of the person they are looking for.
+This warden message is being issued by the U.S. Embassy in Tokyo to advise U.S. citizens residing or traveling in Japan of ways to let family and friends know your status.  This information is also being posted on the Embassy website to help family members to get the status of the person they are looking for.
 
 
 
@@ -36,7 +36,7 @@ We understand that there are limited flights departing from Narita and Haneda ai
 
 
 
-For those who are in Japan and wish to inform of us of your condition, please send an e-mail to <JapanEmergencyUSC@state.gov>  and provide the following information:
+For those who are in Japan and wish to inform of us of your condition, please send an e-mail to <JapanEmergencyUSC@state.gov>  and provide the following information:
 
 
 - Full Name
@@ -51,7 +51,7 @@ For those who are in Japan and wish to inform of us of your condition, please se
 
 
 
-We encourage you to try to contact your family and friends.  Possible ways to inform your family of your situation:
+We encourage you to try to contact your family and friends.  Possible ways to inform your family of your situation:
 
 
 
@@ -66,7 +66,7 @@ Other possible ways to inform your family of your situation:
 
 
 
-2.  Google
+2.  Google
 
 
 
@@ -81,17 +81,17 @@ Google has created the site, "Google Person Finder".
 
 
 
-If you are in Japan, you can post messages about your whereabouts.  A person looking for you can type in your name to find out if you are safe.  Similarly, your family or friends may have posted a message that they are looking for you.
+If you are in Japan, you can post messages about your whereabouts.  A person looking for you can type in your name to find out if you are safe.  Similarly, your family or friends may have posted a message that they are looking for you.
 
 
 
 
-3.  Cell Phone Messages
+3.  Cell Phone Messages
 
 
 
 
-If you have a cell phone in Japan, you can post messages via your cell phone provider.  Family and friends who know your cell phone company can check the cell phone company's website below and type in your phone number to see any message you have left.  The available areas are Aomori, Miyagi, Yamagata and Fukushima prefectures.
+If you have a cell phone in Japan, you can post messages via your cell phone provider.  Family and friends who know your cell phone company can check the cell phone company's website below and type in your phone number to see any message you have left.  The available areas are Aomori, Miyagi, Yamagata and Fukushima prefectures.
 
 
 
@@ -171,6 +171,6 @@ For telephone inquiries, please call **202-501-4444 or 1-888-407-4747**.
 
 
 
- 
+ 
 
 
