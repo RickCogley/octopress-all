@@ -5,7 +5,7 @@ posticon: video
 date: 2013-01-14 11:16
 comments: true
 description: Youtube video from Rick Cogley showing the first snow in Yokohama in 2013.
-keywords: Yokohama, Snow, First, 2013
+keywords: Yokohama,Snow,First,2013
 categories: [SnapJapan, Japan]
 tags: [Snow,2013,Totsuka,Yokohama]
 published: true
