@@ -9,6 +9,7 @@ description: Post about gargle culture in Japan - ugai garagara.
 keywords: Isojin,Ugai,Swine Flu,Gargling,Mezamashi TV
 categories: [SnapJapan, Japan, Culture]
 tags: [Isojin,Ugai,Swine Flu,Gargling,Mezamashi TV]
+published: true
 ---
 
 asdf
