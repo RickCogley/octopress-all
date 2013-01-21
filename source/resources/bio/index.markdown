@@ -9,6 +9,7 @@ footer: true
 categories: [Rick Cogley,Bio]
 description: This is Rick Cogley's About or Biography Page.
 keywords: Rick Cogley, Bio, CV, Biography
+tags: [Rick Cogley,Bio,CV,Biography]
 published: true
 ---
 {% img right /images/Rick_Suit_01.jpg 250 'Rick Cogley Photo' 'A photo of Rick Cogley, eSolia CEO' %} James Rickard Cogley is based in Tokyo Japan, and has been working in the consulting and support industry since 1990. He specializes in bilingual (Japanese - English) consulting and project management, and his company [eSolia](http://www.esolia.com) is a privately-held Japanese KK focused on the same.
