@@ -11,4 +11,4 @@ categories: [Blog-Cogley, SnapJapan, Japan, Technology etc]
 tags: [this, that, the other]
 published: true
 ---
-test
+test asdf
