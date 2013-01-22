@@ -1,12 +1,19 @@
 ---           
 layout: post
-post_title: "Getting Things Done with David Allen himself"
+post_title: "Video: Getting Things Done with David Allen himself"
 date: 2008-01-15 09:18:52 UTC
 updated: 2008-01-15 09:18:52 UTC
 comments: true
-categories: [Blog-Cogley, productivity, david allen, interesting, gtd]
-keywords: productivity,david allen,interesting,gtd
-tags: [productivity,david allen,interesting,gtd]
+categories: [Blog-Cogley, Professional, Productivity]
+keywords: productivity,david allen,interesting,gtd,youtube
+tags: [productivity,david allen,interesting,gtd,youtube]
+posticon: video
+cover: /images/Rick_Casual_01.jpg
+description: Link to Youtube video of David Allen, of GTD fame.
+published: true
 ---
  
-Check out this YouTube video of David Allen himself. A good speaker, and self-effacing.<br /><object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/Qo7vUdKTlhk&amp;l=2751&amp;t=OEgsToPDskJ-nDQdwlsA--kaGZFgOBQY&amp;sk=4S6TOg4ONSV8qCtQUN-MlwU" /><param name="wmode" value="transparent" /><embed src="http://www.youtube.com/v/Qo7vUdKTlhk&amp;l=2751&amp;t=OEgsToPDskJ-nDQdwlsA--kaGZFgOBQY&amp;sk=4S6TOg4ONSV8qCtQUN-MlwU" type="application/x-shockwave-flash" wmode="transparent" height="350" width="425" /></object><br /><br />
+Check out this YouTube video of David Allen himself, speaking about Getting Things Done, and two keys to sustaining a healthy life and work style. Mr. Allen is a good speaker, and self-effacing.
+
+{% youtube Qo7vUdKTlhk %} 
+

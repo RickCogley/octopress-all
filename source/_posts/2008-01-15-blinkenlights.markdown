@@ -17,7 +17,7 @@ _Gotta have a little humor in your professional life. Do you know the story of `
 
 <!--more--> 
 
-Blinkenlights was Pseudo-German the computer hackers at Stanford, c. 1959, put up in their computer room, apparently to ward off ill effects of any finger-pokin' muggles. 
+{% raw %}<span class="label label-success">Blinkenlights</span>{% endraw %} was a pseudo-German sign the computer hackers at Stanford, c. 1959, put up in their computer room, apparently to ward off ill effects of any (ge)finger-pokin' muggles. 
 
 {% blockquote %}
 ACHTUNG! ALLES LOOKENSPEEPERS! Das computermachine ist nicht fuer gefingerpoken und mittengrabben. Ist easy schnappen der springenwerk, blowenfusen und poppencorken mit spitzensparken. Ist nicht fuer gewerken bei das dumpkopfen. Das rubbernecken sichtseeren keepen das cotten-pickenen hans in das pockets muss; relaxen und watchen das blinkenlichten.
