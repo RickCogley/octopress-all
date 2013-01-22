@@ -1,0 +1,31 @@
+---
+layout: page
+footer: false
+title: Topics
+---
+
+<div id="blog-archives" class="tag blog-topics">
+	{% for categ in page.categories %}
+		<div class="row margin-bottom">
+			<div class="span9 margin-bottom">
+				<!-- 
+				Uncomment when images will be done
+					<i class="{{ page.categ_data[categ]['awesomeicon'] }}"></i>
+				-->
+				<a href="/articles/topics/{{ categ | downcase }}" class="topic-title"> {{ categ }}</a>
+			</div>
+			<div class="span1">
+				<!-- 
+				Uncomment when images will be done
+					<img src="{{ page.categ_data[categ]['image'] }}" />
+				-->
+				<i style="font-size: 50px" class="{{ page.categ_data[categ]['awesomeicon'] }}"></i>
+			</div>
+			<div class="span8">
+				<p>
+					{{ page.categ_data[categ]['description'] }}
+				</p>
+			</div>
+		</div>
+	{% endfor %}
+</div>

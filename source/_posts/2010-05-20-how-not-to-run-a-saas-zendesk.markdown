@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "How not to run a SaaS: Zendesk"
+post_title: "How not to run a SaaS: Zendesk"
 date: 2010-05-20 22:23:00 UTC
 updated: 2010-05-20 22:23:00 UTC
 comments: true
 categories: [Blog-Cogley, Professional, Web, Reviews, Business, Service]
 keywords: zendesk,ethics,angry,SaaS,software,price increase,poor business practice
 tags: [zendesk,ethics,angry,SaaS,software,price increase,poor business practice]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

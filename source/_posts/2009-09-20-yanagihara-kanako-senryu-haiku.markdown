@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Yanagihara Kanako Senryu Haiku"
+post_title: "Yanagihara Kanako Senryu Haiku"
 date: 2009-09-20 21:10:47 UTC
 updated: 2009-09-20 21:10:47 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Language, Humor]
 keywords: Kanako Yanagihara,humor,Senryu,japan
 tags: [Kanako Yanagihara,humor,Senryu,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

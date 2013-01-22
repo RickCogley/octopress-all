@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Saboten no Hana Lyrics - Kazuo Zaitsu"
+post_title: "Saboten no Hana Lyrics - Kazuo Zaitsu"
 date: 2009-05-17 05:22:32 UTC
 updated: 2009-05-17 05:22:32 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Music]
 keywords: Music,Folk,Tulip,Saboten no Hana,Hitotsu Yane no Shita,Kazuo Zaitsu,Lyrics
 tags: [Music,Folk,Tulip,Saboten no Hana,Hitotsu Yane no Shita,Kazuo Zaitsu,Lyrics]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

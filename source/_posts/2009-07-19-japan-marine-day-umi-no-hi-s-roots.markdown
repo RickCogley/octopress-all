@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Japan Marine Day \"Umi no Hi\"'s Roots"
+post_title: "Japan Marine Day \"Umi no Hi\"'s Roots"
 date: 2009-07-19 23:50:41 UTC
 updated: 2009-07-19 23:50:41 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture]
 keywords: Ocean,海の日,Japan Holidays,Seashore,kamogawa,Marine Day,Imperial,Beach,Umi no Hi,Emperor Meiji
 tags: [Ocean,海の日,Japan Holidays,Seashore,kamogawa,Marine Day,Imperial,Beach,Umi no Hi,Emperor Meiji]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

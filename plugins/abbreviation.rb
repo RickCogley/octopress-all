@@ -26,8 +26,9 @@ module Jekyll
     def abbr(input)
       plugin_root = File.dirname(__FILE__)
       abbr_dict = YAML.load(File.open(File.join(plugin_root, "abbreviation.yml")))
+      # p input
       abbr_dict.each do |abbr, title|
-        input.gsub! /\b#{abbr}\b(?![^">]+">|<\/abbr>|">)/, "<abbr title=\"#{title}\">#{abbr[/[A-Za-z0-9\.\s\;\&]+/]}</abbr>"
+        input.gsub! /\s\b#{abbr}\b\s(?![^">]+">|<\/abbr>|">)/, " <abbr title=\"#{title}\"> #{abbr[/[A-Za-z0-9\.\s\;\&]+/]} </abbr> "
       end
       input
     end

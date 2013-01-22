@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Japan Girl Talk - The Secret Code 2011"
+post_title: "Japan Girl Talk - The Secret Code 2011"
 date: 2011-06-29 23:18:31 UTC
 updated: 2011-06-29 23:18:31 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Language, Humor, Street]
 keywords: youth,culture,teenagers,Gyaru,girls,Language,humor,Japanese,japan,ギャル語,slang
 tags: [youth,culture,teenagers,Gyaru,girls,Language,humor,Japanese,japan,ギャル語,slang]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 
@@ -83,7 +87,7 @@ N.b: Nau is used in twitter language in Japan, to say where you are now, and uir
 
 
 
-At home now. Work will. Kind of Yoda-like, if you ask me. Just be forewarned: if you engage in pii-nige, your teacher will be okonau, I tell ya.
+At home now. Work will. Kind of Yoda-like, if you ask me. Just be forewarned: if you engage in pii-nige, your teacher will be okonau, I tell ya.
 
 
 ### ロールキャベージ
@@ -117,6 +121,6 @@ Now you can visit Shibuya or Harajuku armed with some understanding. Until the l
 
 
 
- 
+ 
 
 

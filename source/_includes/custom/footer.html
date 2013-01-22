@@ -1,4 +1,62 @@
-<p>
-  Copyright &copy; {{ site.time | date: "%Y" }} - {{ site.author }} -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
+{% unless page.footer == false %}
+  <footer class="footer">
+  	<div class="container">
+      <div class="row">
+      
+        <div class="span4">
+          <h3>About</h3>
+          <p>{{site.jrcshortbio01}}</p>
+          <h3>Connect With Me</h3>
+          <!-- social begin here -->
+          <ul class="socicon left">
+            <li style="opacity: 0.5;"> <a href="https://pinboard.in/u:rickcogley" target="_blank" class="share-icon"></a> </li>
+            <li style="opacity: 0.5;"> <a href="https://plus.google.com/u/0/107046878530748803729/posts" target="_blank" class="google"></a> </li>
+            <li style="opacity: 0.5;"> <a href="https://www.facebook.com/rickcogley" target="_blank" class="facebook"></a> </li>
+            <li style="opacity: 0.5;"> <a href="http://twitter.com/rickcogley" target="_blank" class="twitter"></a> </li>
+            <li style="opacity: 0.5;"> <a href="http://www.flickr.com/photos/rickcogley/" target="_blank" class="flickr"></a> </li>
+            <li style="opacity: 0.5;"> <a href="http://www.linkedin.com/in/rickcogley" target="_blank" class="linkedin"></a> </li>
+            <li class="last" style="opacity: 0.5;"> <a href="https://vimeo.com/rickcogley" target="_blank" class="vimeo"></a> </li>
+            <li class="last" style="opacity: 0.5;"> <a href="http://www.youtube.com/user/rickcogley" target="_blank" class="youtube"></a> </li>
+          </ul>   
+        </div>
+
+        <!-- tweets begin here -->
+        <div class="span4">
+          {% if site.twitter_user %}
+          	<h3>Latest Tweets</h3>
+
+          	<div class="tweets">
+              <p style="display: none;">
+                Loading Tweets...
+              </p>
+           	  <ul id="tweets" style="display: block;"></ul>
+          	</div>
+
+          	<script type="text/javascript">
+			    $(function(){
+			      getTwitterFeed("{{site.twitter_user}}", {{site.twitter_tweet_count}}, {{site.twitter_show_replies}});
+			    });
+		  	</script>
+		  	<script src="{{ root_url }}/javascripts/twitter.js" type="text/javascript"> </script>
+		  	{% if site.twitter_follow_button %}
+		  	  <a href="http://twitter.com/{{ site.twitter_user }}" class="twitter-follow-button" data-show-count="{{ site.twitter_show_follower_count }}">Follow @{{ site.twitter_user }}</a>
+		  	{% else %}
+		  	  <p>Follow <a href="http://twitter.com/{{site.twitter_user}}">@{{ site.twitter_user }}</a></p>
+		  	{% endif %}
+		  {% endif %}
+        </div>
+      
+        <div class="span4">
+          <h3>From Flickr</h3>
+          <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=8&amp;source=user&amp;user=81796435@N00&amp;layout=x&amp;display=random&amp;size=s"></script>
+        </div>
+      
+        <div class="span12 copy">
+          Copyright © {{ site.time | date: "%Y" }}&mdash;<a href="{{site.jrcbiopath}}">{{ site.author }}</a>
+        </div>
+
+      </div>
+    </div>
+
+  </footer>
+{% endunless %}

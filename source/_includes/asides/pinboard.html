@@ -1,19 +1,60 @@
 {% if site.pinboard_user %}
-<section>
-  <h1>My Pinboard</h1>
-  <ul id="pinboard_linkroll">Fetching linkroll...</ul>
-  <p><a href="http://pinboard.in/u:{{ site.pinboard_user }}">My Pinboard Bookmarks &raquo;</a></p>
-</section>
+<div class="accordion" id="pinboard-accordion">
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseOne">
+        <h3>My Pinboard</h3>
+      </a>
+    </div>
+    <div id="collapseOne" class="accordion-body collapse in">
+      <div class="accordion-inner">
+        <ul id="pinboard_all">Fetching linkroll...</ul>
+        <p><a href="http://pinboard.in/u:{{ site.pinboard_user }}">My Pinboard Bookmarks &raquo;</a></p>
+      </div>
+    </div>
+  </div>
+  {% if site.pinboard_tag1 %}
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseTwo">
+        <h3>Blogroll</h3>
+      </a>
+    </div>
+    <div id="collapseTwo" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <ul id="pinboard_Blogroll">Fetching linkroll...</ul>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+  {% if site.pinboard_tag2 %}
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseThree">
+        <h3>Highlights</h3>
+      </a>
+    </div>
+    <div id="collapseThree" class="accordion-body collapse">
+      <div class="accordion-inner">
+        <ul id="pinboard_Highlight">Fetching linkroll...</ul>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+</div>
+
 <script type="text/javascript">
-  var linkroll = 'pinboard_linkroll'; //id target for pinboard list
-  var pinboard_user = "{{ site.pinboard_user }}"; //id target for pinboard list
+  var pinboard_user  = "{{ site.pinboard_user }}"; //id target for pinboard list
   var pinboard_count = {{ site.pinboard_count }}; //id target for pinboard list
-  (function(){
+  var pinboard_tag1  =  "{{ site.pinboard_tag1 }}";
+  var pinboard_tag2  =  "{{ site.pinboard_tag2 }}";
+
+  $(function(){
     var pinboardInit = document.createElement('script');
     pinboardInit.type = 'text/javascript';
     pinboardInit.async = true;
     pinboardInit.src = '{{ root_url }}/javascripts/pinboard.js';
     document.getElementsByTagName('head')[0].appendChild(pinboardInit);
-  })();
+  });
 </script>
 {% endif %}

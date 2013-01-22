@@ -1,0 +1,267 @@
+---
+layout: default
+title: "Welcome"
+comments: false
+sharing: false
+footer: true
+sidebar: false
+keywords: "Rick Cogley, Central, Bilingual, Professional, Japan, eSolia Inc CEO, Project Management, IT Consulting"
+cover: /images/Rick_Suit_01.jpg
+description: Web site of Rick Cogley, a Japan-based (Eng/Jpn bilingual) experienced technologist, consultant and manager, w/ articles, bio, resources.
+ogdescription: Web site of Rick Cogley with articles, bio page and resources. Rick is a Japan-based (Eng/Jpn bilingual) experienced technologist, consultant and manager, who is founder and CEO of eSolia Inc. (www.esolia.com), an IT management firm assisting multinational firms w/ Japan operations and projects.
+slidertext1: Welcome to Rick Cogley Central, with articles, biographical information and other resources. 
+slidertext2: Rick Cogley is a Japan-based experienced technologist, consultant and manager, who is founder and CEO of eSolia Inc. (www.esolia.com), an IT management firm.
+slidertext3: Rick Cogley has led large and complex projects in Japan and abroad, including ERP, data center and infrastructure, compliance, business process reengineering, web development and logistics. 
+---
+
+<section>
+  <div class="row slider-cont">
+
+  <!-- Slider
+  ================================================== -->
+    <div class="span12 cont-bs" style="position:relative">
+    <!-- Slideshow -->
+      <ul class="rslides rslides2">
+        <li>
+          <img src="/images/JRC-Slider-1170x350-001.JPG" alt="Rick Cogley Photo" />
+          <div class="caption" style="background:none; padding:0;bottom:35px; left:35px;">
+            <div class="span3 promo-area-slider">
+              <h1>Welcome</h1>
+              <p>
+                <em>{{ page.slidertext1 }}</em>
+              </p>
+              <a class="btn big-large-sl btn-success" href="/articles"> Read the Blog</a>
+            </div>
+          </div>
+        </li>
+
+        <li>
+          <img src="/images/JRC-Slider-1170x350-002.JPG" alt="Rick Cogley Photo" />
+          <div class="caption" style="background:none; padding:0;bottom:35px; left:35px;">
+            <div class="span3 promo-area-slider">
+              <h1>About Me</h1>
+              <p>
+                <em>{{ page.slidertext2 }}</em>
+              </p>
+              <a class="btn big-large-sl btn-success" href="/resources/bio"> Read the Bio</a>
+            </div>
+          </div>
+        </li>
+
+        <li>
+          <img src="/images/JRC-Slider-1170x350-003.JPG" alt="Rick Cogley Photo" />
+          <div class="caption" style="background:none; padding:0;bottom:35px; left:35px;">
+            <div class="span3 promo-area-slider">
+              <h1>Selected Projects</h1>
+              <p>
+                <em>{{ page.slidertext3 }}</em>
+              </p>
+              <a class="btn big-large-sl btn-success" href="/portfolio"> View the Projects</a>
+            </div>
+          </div>
+        </li>
+
+
+      </ul>
+
+    </div>
+  </div>
+
+  <div class="divider"></div>
+
+<!-- Home content
+================================================== -->
+  <div class="row">
+
+   <div class="span4 block-info">
+    <h3><a href="#" class="home-title">Responsive Template</a></h3>
+    <img src="assets/img/slider-img03.jpg" alt="" style="margin:25px 0 20px">
+    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore.</p>
+    <a class="btn pull-right" href="#">read more</a>
+   </div>
+   
+   <div class="span4 block-info">
+    <h3><a href="#" class="home-title">Clean and Minimalis</a></h3>
+    <img src="assets/img/slider-img02.jpg" alt="" style="margin:25px 0 20px">
+    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore.</p>
+    <a class="btn pull-right" href="#">read more</a>
+   </div>
+   
+   <div class="span4 block-info">
+    <h3><a href="#" class="home-title">Video &amp; Audio Support</a></h3>
+    <img src="assets/img/slider-img03.jpg" alt="" style="margin:25px 0 20px">
+    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore.</p>
+    <a class="btn pull-right" href="#">read more</a>
+   </div>
+   
+  </div>
+
+ <div class="divider"></div>
+  
+ <!-- Latest project
+================================================== -->  
+  
+  <div class="row">
+    <div class="span12 divider-strip"><h4>Latest projects</h4><span class="strip-block"></span></div>
+  </div>
+
+  <ul class="thumbnails">
+    {% for post in site.categories['Featured'] %}
+      {% assign content = post.content %}
+        <li class="span3 item-block">
+          <h4><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h4>
+          <div class="desc">
+            {{ content | markdownify | summary | strip_html }}
+          </div>
+        </li>
+    {% endfor %}
+  </ul>
+ 
+  <div class="divider"></div> 
+ <!-- Our Services
+================================================== --> 
+  <div class="row">
+    <div class="span12 divider-strip"><h4>Our Services</h4><span class="strip-block"></span></div>
+  </div>
+  
+  <div class="row">
+   <div class="span4">
+    <div id="mep_0" class="mejs-container mejs-video" style="width: 370px; height: 208px;"><div class="mejs-inner"><div class="mejs-mediaelement"><div class="me-plugin" id="me_flash_0_container"><embed id="me_flash_0" name="me_flash_0" play="true" loop="false" quality="high" bgcolor="#000000" wmode="transparent" allowscriptaccess="always" allowfullscreen="true" type="application/x-shockwave-flash" pluginspage="//www.macromedia.com/go/getflashplayer" src="http://wp-theme.pro/templates/justi-html/assets/build/flashmediaelement.swf" flashvars="id=me_flash_0&amp;isvideo=true&amp;autoplay=false&amp;preload=none&amp;width=480&amp;startvolume=0.8&amp;timerrate=250&amp;height=270&amp;file=http%3A%2F%2Fwp-theme.pro%2Ftemplates%2Fjusti-html%2Fassets%2Fmedia%2FVH_videoAsset.flv" width="480" height="270" style="width: 370px; height: 208px;"></div><video src="assets/media/VH_videoAsset.flv" type="video/flv" style="width: 100%; height: 100%; display: none;"></video></div><div class="mejs-layers"><div class="mejs-poster mejs-layer" style="display: none; width: 100%; height: 100%;"></div><div class="mejs-overlay mejs-layer" style="display: none; width: 100%; height: 100%;"><div class="mejs-overlay-loading"><span></span></div></div><div class="mejs-overlay mejs-layer" style="display: none; width: 100%; height: 100%;"><div class="mejs-overlay-error"></div></div><div class="mejs-overlay mejs-layer mejs-overlay-play" style="width: 100%; height: 100%;"><div class="mejs-overlay-button"></div></div></div><div class="mejs-controls" style="display: block; visibility: hidden;"><div class="mejs-button mejs-playpause-button mejs-play"><button type="button" aria-controls="mep_0" title="Play/Pause"></button></div><div class="mejs-time mejs-currenttime-container"><span class="mejs-currenttime">00:00</span></div><div class="mejs-time-rail" style="width: 222px;"><span class="mejs-time-total" style="width: 212px;"><span class="mejs-time-loaded"></span><span class="mejs-time-current"></span><span class="mejs-time-handle"></span><span class="mejs-time-float"><span class="mejs-time-float-current">00:00</span><span class="mejs-time-float-corner"></span></span></span></div><div class="mejs-time mejs-duration-container"><span class="mejs-duration">00:00</span></div><div class="mejs-button mejs-volume-button mejs-mute"><button type="button" aria-controls="mep_0" title="Mute Toggle"></button><div class="mejs-volume-slider"><div class="mejs-volume-total" style=""></div><div class="mejs-volume-current" style="height: 80px; top: 20px;"></div><div class="mejs-volume-handle" style="top: 17px;"></div></div></div><div class="mejs-button mejs-fullscreen-button" style=""><button type="button" aria-controls="mep_0" title="Fullscreen"></button></div></div><div class="mejs-clear"></div></div><div class="mejs-fullscreen-hover" style="position: absolute; top: 0px; left: 0px; width: 370px; height: 178px; display: none;"></div><div class="mejs-fullscreen-hover" style="position: absolute; top: 178px; left: 0px; width: 344px; height: 30px; display: none;"></div><div class="mejs-fullscreen-hover" style="position: absolute; top: 178px; left: 370px; width: 0px; height: 30px; display: none;"></div></div>
+   </div>
+   <div class="span8">
+    <div class="row">
+    
+    <div class="span4 block-info pull-left">
+      <i class="icon-camera-retro pull-left" style="font-size:42px; color:#577088; margin:13px 40px 8px 0; display:block;"></i>
+      <h3><a href="#">web design</a></h3>
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore.</p>
+    </div>
+    <div class="span4 block-info pull-left">
+      <i class="icon-beaker pull-left" style="font-size:42px; color:#577088; margin:13px 40px 8px 0; display:block;"></i>
+      <h3><a href="#">development</a></h3>
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore.</p>
+    </div>
+    <div class="span4 block-info pull-left">
+     <i class="icon-cloud pull-left" style="font-size:42px; color:#577088; margin:13px 40px 8px 0; display:block;"></i>
+      <h3><a href="#">usability</a></h3>
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore.</p>
+    </div>
+    <div class="span4 block-info pull-left">
+      <i class="icon-dashboard pull-left" style="font-size:42px; color:#577088; margin:13px 40px 8px 0;"></i>
+      <h3><a href="#">responsive</a></h3>
+      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore.</p>
+    </div>
+    
+    </div>
+    </div>
+    </div>
+    <div class="divider"></div> 
+  
+  
+  <!-- Latest blog
+================================================== -->
+  
+    <div class="row">
+      <div class="span6">
+        <div class="divider-strip block-title"><h4>Latest blog</h4><span class="strip-block"></span></div>
+        <div class="row">
+          <div class="span3 blog-home">
+            <img src="assets/img/blog-examples/blog-home.jpg" alt="">
+            <ul class="meta pull-left"><li class="data">21 may<br>2012</li><li class="post-format image"><span></span></li></ul>
+            <h3><a href="#">Lorem ipsum dolor sit amet</a></h3> 
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa...</p>
+            <a href="blog.html" class="btn">Read more</a>
+          </div>
+          <div class="span3 blog-home">
+            <iframe src="http://player.vimeo.com/video/28220269?title=0&amp;byline=0&amp;portrait=0" width="270" height="100" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+            <ul class="meta pull-left"><li class="data">21 may<br>2012</li><li class="post-format video"><span></span></li></ul>
+            <h3><a href="#">Lorem ipsum dolor sit amet</a></h3> 
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa...</p>
+            <a href="blog.html" class="btn">Read more</a>
+          </div>
+        </div>
+      </div>
+    
+      <div class="span6">
+      
+        <div class="divider-strip block-title"><h4>Testimonials</h4><span class="strip-block"></span></div>
+        
+        <div class="testimonialswrap" data-autorotate="3000" style="overflow: hidden; width: 100%;" role="application" aria-live="polite">
+          <ul class="testimonials-slider" id="testimonials" style="margin-left: -400%; float: left; width: 500%; -webkit-transition: margin-left 0.3s ease;" aria-activedescendant="carousel-2-0-slide4">
+            <li class="testimonials-slide" style="float: left; width: 20%;" role="tabpanel document" id="carousel-2-0-slide0" aria-hidden="true"> 
+              <blockquote>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+                <small>John Doe</small>
+              </blockquote>
+            </li>
+            <li class="testimonials-slide" style="float: left; width: 20%;" role="tabpanel document" id="carousel-2-0-slide0" aria-hidden="true"> 
+              <blockquote>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+                <small>John Doe</small>
+              </blockquote>
+            </li>
+            <li class="testimonials-slide" style="float: left; width: 20%;" role="tabpanel document" id="carousel-2-0-slide0" aria-hidden="true"> 
+              <blockquote>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+                <small>John Doe</small>
+              </blockquote>
+            </li>
+            <li class="testimonials-slide" style="float: left; width: 20%;" role="tabpanel document" id="carousel-2-0-slide0" aria-hidden="true"> 
+              <blockquote>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+                <small>John Doe</small>
+              </blockquote>
+            </li>
+            <li class="testimonials-slide" style="float: left; width: 20%;" role="tabpanel document" id="carousel-2-0-slide0" aria-hidden="true"> 
+              <blockquote>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+                <small>John Doe</small>
+              </blockquote>
+            </li>
+          </ul>
+              
+          <div class="testimonials-controls">
+            <a href="#testimonials" class="next-l carousel-disabled" aria-disabled="true">1</a>
+            <a href="#testimonials" class="prev-l">2</a>
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+  <div class="row">
+    <div class="divider"></div>    
+    <!-- Promo
+    ================================================== -->
+   
+    <div class="well no-padding-lr span12">
+      <div class="row promo-buy">
+        <div class="span9"><h1 class="center">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. </h1></div>
+        <div class="span3"><a class="btn btn-large btn-success right margin-right" href="#"> Buy This Template »</a></div>
+      </div>
+    </div>
+    
+  </div>
+  
+  <div class="divider"></div>
+</section>
+<script type="text/javascript">
+$(function(){
+  $(".rslides2").responsiveSlides({
+    //auto: false,
+    nav: true,
+    pause: true,
+    pager: true,
+    speed: 2500,
+    timeout: 7000,
+    before: function () {
+      $(".rslides2").parents("#slider-color").removeClass();
+      $(".rslides2").parents("#slider-color").addClass( $('.rslides2 li.rslides1_on').attr("id") );
+      $(".rslides2").parent().find('.caption').animate(
+        { bottom: '-550px',opacity: 1}, {easing: 'swing', duration: 1500});
+      $(".rslides2").parent().find('.caption').animate(
+        { bottom: '35px',opacity: 1}, {easing: 'swing', duration: 1500});
+    }
+  });
+})
+</script>

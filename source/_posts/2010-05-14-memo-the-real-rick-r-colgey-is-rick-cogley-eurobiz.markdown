@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Memo: the real \"Rick R. Colgey\" is Rick Cogley, Eurobiz"
+post_title: "Memo: the real \"Rick R. Colgey\" is Rick Cogley, Eurobiz"
 date: 2010-05-14 22:01:27 UTC
 updated: 2010-05-14 22:01:27 UTC
 comments: true
 categories: [Blog-Cogley, Professional, Personal, Errata]
 keywords: Proofreading,Mistake,Correction,Rick R. Colgey,Eurobiz
 tags: [Proofreading,Mistake,Correction,Rick R. Colgey,Eurobiz]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

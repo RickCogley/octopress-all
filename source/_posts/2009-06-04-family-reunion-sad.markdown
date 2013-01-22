@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Family Reunion Sad"
+post_title: "Family Reunion Sad"
 date: 2009-06-04 01:11:36 UTC
 updated: 2009-06-04 01:11:36 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Family]
 keywords: New Years,Reunion,Oshogatsu,japan
 tags: [New Years,Reunion,Oshogatsu,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Japan Rail is More Gaijin"
+post_title: "Japan Rail is More Gaijin"
 date: 2009-08-19 01:25:06 UTC
 updated: 2009-08-19 01:25:06 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Language]
 keywords: Japan Rail,Language,Interpretation,Pronunciation,Engrish
 tags: [Japan Rail,Language,Interpretation,Pronunciation,Engrish]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

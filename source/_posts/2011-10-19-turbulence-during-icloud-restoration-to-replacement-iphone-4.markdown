@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Turbulence during iCloud Restoration to Replacement iPhone 4"
+post_title: "Turbulence during iCloud Restoration to Replacement iPhone 4"
 date: 2011-10-19 23:44:09 UTC
 updated: 2011-10-19 23:44:09 UTC
 comments: true
 categories: [Blog-Cogley, Japan, Software, Service, Business, Troubleshooting, Upgrades]
 keywords: iPhone,iOS 5,backup,Restore,iCloud,Joint Venture,apple
 tags: [iPhone,iOS 5,backup,Restore,iCloud,Joint Venture,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

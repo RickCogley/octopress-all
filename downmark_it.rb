@@ -64,7 +64,8 @@ module DownmarkIt
 		# image
 		(raw/"img").each_with_index do |image, i|
 			if i == 0
-				image.swap("{% img right #{image['src']} '#{image['title']}' '#{image['alt']}' %}")
+				# image.swap("{% img right #{image['src']} '#{image['title']}' '#{image['alt']}' %}")
+				image.swap("<img class=\"right\" src=\"#{image['src']}\" />")
 			else
 				image.swap("![#{image['alt']}](#{image['src']}#{" \"#{image['title']}\"" if image['title']})")
 			end

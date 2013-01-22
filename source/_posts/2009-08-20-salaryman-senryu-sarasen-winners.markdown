@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Salaryman Senryu \"Sarasen\" Winners"
+post_title: "Salaryman Senryu \"Sarasen\" Winners"
 date: 2009-08-20 00:54:05 UTC
 updated: 2009-08-20 00:54:05 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Language, Humor]
 keywords: dai-ichi life,senryuu,haiku,humor,sarasen
 tags: [dai-ichi life,senryuu,haiku,humor,sarasen]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

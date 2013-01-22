@@ -1,22 +1,26 @@
 ---           
 layout: post
-title: "Salary-man Senryu \"Sara-sen\" Winners 2012"
+post_title: "Salary-man Senryu \"Sara-sen\" Winners 2012"
 date: 2012-04-22 02:49:13 UTC
 updated: 2012-04-22 02:49:13 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Language, Humor]
 keywords: dai-ichi life,senryuu,川柳,humor,Senryu
 tags: [dai-ichi life,senryuu,川柳,humor,Senryu]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 
 
-**Dai-ichi Life Insurance** announced their latest _Sarariiman Senryuu_ (Salaried Worker Senryuu, サラリーマン川柳) [competition winners](http://event.dai-ichi-life.co.jp/company/senryu/best100.html). I'm late to the party by a couple months, but this time was the 25th year for the competition. In this sara-sen competition, people submit and vote on the best humorous _senryu_ that come from the daily life of salaried workers and the news. Senryu are like Haiku but are about human life rather than nature, and have the same familiar haiku cadence of 5, 7, then 5 syllables. Let's look at some of the _sara-sen_ this year, with my annotations and a shot at translations:
+**Dai-ichi Life Insurance** announced their latest _Sarariiman Senryuu_ (Salaried Worker Senryuu, サラリーマン川柳) [competition winners](http://event.dai-ichi-life.co.jp/company/senryu/best100.html). I'm late to the party by a couple months, but this time was the 25th year for the competition. In this sara-sen competition, people submit and vote on the best humorous _senryu_ that come from the daily life of salaried workers and the news. Senryu are like Haiku but are about human life rather than nature, and have the same familiar haiku cadence of 5, 7, then 5 syllables. Let's look at some of the _sara-sen_ this year, with my annotations and a shot at translations:
 
 
 
 
- 
+ 
 
 
 > 
@@ -51,12 +55,12 @@ Mou, suteki.
 
 
 
- 
+ 
 
 
 
 
-**_"How can I refuse you!" _**
+**_"How can I refuse you!" _**
 
 
 
@@ -66,12 +70,12 @@ Mou, suteki.
 
 
 
-**_I am so much refuse. _**
+**_I am so much refuse. _**
 
 
 
 
- 
+ 
 
 
 
@@ -81,7 +85,7 @@ Mou suteki! is an exclamation a person might use to describe how cool or beautif
 
 
 
- 
+ 
 
 
 > 
@@ -116,7 +120,7 @@ Jukujo jidai
 
 
 
- 
+ 
 
 
 
@@ -136,17 +140,17 @@ Jukujo jidai
 
 
 
- 
+ 
 
 
 
 
-Shojo Jidai is the Korean girl idol group "[Girl's Generation](http://www.youtube.com/watch?v=dLl5cF47mos)". This is referring to a group of middle aged women who go crazy singing Girls Generation tunes at Karaoke. The writer calls them "jukujo" which means mature or aged woman (either pejoratively or as a sort of MILF-ish fetish), and adds the humorous irony to this entry since it's the "Mature Women's Generation" who is doing the singing and partying! 
+Shojo Jidai is the Korean girl idol group "[Girl's Generation](http://www.youtube.com/watch?v=dLl5cF47mos)". This is referring to a group of middle aged women who go crazy singing Girls Generation tunes at Karaoke. The writer calls them "jukujo" which means mature or aged woman (either pejoratively or as a sort of MILF-ish fetish), and adds the humorous irony to this entry since it's the "Mature Women's Generation" who is doing the singing and partying! 
 
 
 
 
- 
+ 
 
 
 > 
@@ -181,7 +185,7 @@ iPhone chuu
 
 
 
- 
+ 
 
 
 
@@ -201,17 +205,17 @@ iPhone chuu
 
 
 
- 
+ 
 
 
 
 
-The "I Want You" refers to the AKB48 tune "[Heavy Rotation](http://www.youtube.com/watch?v=lkHlnWFnA0c)", expressing a girl's desire for her boyfriend, but she laments he is always "iPhone Chuu" or always playing with his iPhone, and the Japanese for those two phrases rhyme, to make the senryu work. 
+The "I Want You" refers to the AKB48 tune "[Heavy Rotation](http://www.youtube.com/watch?v=lkHlnWFnA0c)", expressing a girl's desire for her boyfriend, but she laments he is always "iPhone Chuu" or always playing with his iPhone, and the Japanese for those two phrases rhyme, to make the senryu work. 
 
 
 
 
- 
+ 
 
 
 > 
@@ -246,12 +250,12 @@ Yatte kuru
 
 
 
- 
+ 
 
 
 
 
-**_Am I attractive? _**
+**_Am I attractive? _**
 
 
 
@@ -261,22 +265,22 @@ Yatte kuru
 
 
 
-**_I pay. _**
+**_I pay. _**
 
 
 
 
- 
+ 
 
 
 
 
-Pretty much as it reads, and refers again to the [comic book and movie Moteki](http://en.wikipedia.org/wiki/Moteki). The manager is saying he is only attractive to the opposite sex, if he pays for dinner. How sad! 
+Pretty much as it reads, and refers again to the [comic book and movie Moteki](http://en.wikipedia.org/wiki/Moteki). The manager is saying he is only attractive to the opposite sex, if he pays for dinner. How sad! 
 
 
 
 
- 
+ 
 
 
 > 
@@ -311,7 +315,7 @@ Takaku-tsuki
 
 
 
- 
+ 
 
 
 
@@ -331,17 +335,17 @@ Takaku-tsuki
 
 
 
- 
+ 
 
 
 
 
-This is a big irony this past year given the austerity last summer after the big quake. The government has an "[eco points](http://blog.japantimes.co.jp/yen-for-living/tag/eco-points/)" program, where you can get various discounts and money back, if you buy so called "eco" products, with a lower energy consumption profile. The housewife writer laments how expensive it is to be "eco". 
+This is a big irony this past year given the austerity last summer after the big quake. The government has an "[eco points](http://blog.japantimes.co.jp/yen-for-living/tag/eco-points/)" program, where you can get various discounts and money back, if you buy so called "eco" products, with a lower energy consumption profile. The housewife writer laments how expensive it is to be "eco". 
 
 
 
 
- 
+ 
 
 
 > 
@@ -376,7 +380,7 @@ Ore jamakai
 
 
 
- 
+ 
 
 
 
@@ -391,22 +395,22 @@ Ore jamakai
 
 
 
-**_Am I a fifth wheel? _**
+**_Am I a fifth wheel? _**
 
 
 
 
- 
+ 
 
 
 
 
-The writer says his wife goes to a "joshi kai" or women's club meeting every Sunday, meaning, she does what she wants. He asks "ore jama kai?" which means either "can I come too" or "am I in the way". Kind of a funny and sad state. 
+The writer says his wife goes to a "joshi kai" or women's club meeting every Sunday, meaning, she does what she wants. He asks "ore jama kai?" which means either "can I come too" or "am I in the way". Kind of a funny and sad state. 
 
 
 
 
- 
+ 
 
 
 > 
@@ -441,12 +445,12 @@ Donarareru
 
 
 
- 
+ 
 
 
 
 
-**_The staffer I trained, _**
+**_The staffer I trained, _**
 
 
 
@@ -461,17 +465,17 @@ Donarareru
 
 
 
- 
+ 
 
 
 
 
-Another literal one showing a sad situation. The writer must have been so sad at the betrayal, after having patiently brought the staffer along. 
+Another literal one showing a sad situation. The writer must have been so sad at the betrayal, after having patiently brought the staffer along. 
 
 
 
 
- 
+ 
 
 
 > 
@@ -506,7 +510,7 @@ Kaisha nai
 
 
 
- 
+ 
 
 
 
@@ -526,17 +530,17 @@ Kaisha nai
 
 
 
- 
+ 
 
 
 
 
-Maybe a little subtle, but one of the things to go when we started having to save electricity was heated toilet seats (Japanese toilets are famously high tech). So this writer says he's rejected by everyone at his company, even the cold toilet seat! 
+Maybe a little subtle, but one of the things to go when we started having to save electricity was heated toilet seats (Japanese toilets are famously high tech). So this writer says he's rejected by everyone at his company, even the cold toilet seat! 
 
 
 
 
- 
+ 
 
 
 
@@ -571,7 +575,7 @@ Kiite mitai
 
 
 
- 
+ 
 
 
 
@@ -586,22 +590,22 @@ Kiite mitai
 
 
 
-**_From my wife. _**
+**_From my wife. _**
 
 
 
 
- 
+ 
 
 
 
 
-Shochi-shimashita is the word you use when telling someone you accept and understand their order. It is used from staff to their manager, or, from a sales rep to the customer, for instance. The writer gets obedience from his staff, in that they say "shochi-shimashita!", but never from his wife. 
+Shochi-shimashita is the word you use when telling someone you accept and understand their order. It is used from staff to their manager, or, from a sales rep to the customer, for instance. The writer gets obedience from his staff, in that they say "shochi-shimashita!", but never from his wife. 
 
 
 
 
- 
+ 
 
 
 
@@ -636,7 +640,7 @@ Ore away
 
 
 
- 
+ 
 
 
 
@@ -656,12 +660,12 @@ Ore away
 
 
 
- 
+ 
 
 
 
 
-This is referring to the hugely needed win from the "[Nadeshiko Japan](http://en.wikipedia.org/wiki/Japan_women's_national_football_team)" women's soccer team win, that had perfect timing to give us a little boost, after the big earthquake in Tohoku in 2011. The writer is referring to the fact that his household is all females or "[nadeshiko](http://en.wikipedia.org/wiki/Yamato_nadeshiko)" (the word used generally to describe proud, strong, beautiful Japanese women), and for him, it's always an "away game". I know I can relate to _this_ one! 
+This is referring to the hugely needed win from the "[Nadeshiko Japan](http://en.wikipedia.org/wiki/Japan_women's_national_football_team)" women's soccer team win, that had perfect timing to give us a little boost, after the big earthquake in Tohoku in 2011. The writer is referring to the fact that his household is all females or "[nadeshiko](http://en.wikipedia.org/wiki/Yamato_nadeshiko)" (the word used generally to describe proud, strong, beautiful Japanese women), and for him, it's always an "away game". I know I can relate to _this_ one! 
 
 
 

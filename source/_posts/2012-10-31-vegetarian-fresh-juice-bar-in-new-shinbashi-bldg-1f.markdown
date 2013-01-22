@@ -1,6 +1,7 @@
 ---           
 layout: post
-title: "\"Vegetarian\" Fresh Juice Bar in New Shinbashi Bldg 1F"
+post_title: "\"Vegetarian\" Fresh Juice Bar in New Shinbashi Bldg 1F"
+posticon: image
 date: 2012-10-31 08:15:20 UTC
 updated: 2012-10-31 08:15:20 UTC
 comments: true
@@ -16,7 +17,7 @@ tags: [Juice, Shinbashi, Vegetarian]
 
 
 
-Example juices - 
+Example juices - 
 
 
 - Parsley パセリ
@@ -43,12 +44,12 @@ Example juices - 
 
 
 
-… and various others. Most of the juices have a bit of fruit in them, and they seem to be putting red grapefruit in with the parsley and kale juice. The "hard" yasai is 7 types of veg mixed together, and is veg only, and "harder to drink" according to the hardworking ladies of Vegetarian. 
+... and various others. Most of the juices have a bit of fruit in them, and they seem to be putting red grapefruit in with the parsley and kale juice. The "hard" yasai is 7 types of veg mixed together, and is veg only, and "harder to drink" according to the hardworking ladies of Vegetarian. 
 
 
 
 
- 
+ 
 
 
 
@@ -58,7 +59,7 @@ Example juices - 
 
 
 
-**Tel** - 03-3591-8676
+**Tel** - 03-3591-8676
 
 
 

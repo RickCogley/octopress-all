@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Fixing a Mac OS X Spotlight Index, that Doesn't"
+post_title: "Fixing a Mac OS X Spotlight Index, that Doesn't"
 date: 2010-05-31 22:31:36 UTC
 updated: 2010-05-31 22:31:36 UTC
 comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, SysAdmin, Tips]
 keywords: spotlight,tip,mdutil,tips,Entire Message,cocktail,mdimporter,mail.app
 tags: [spotlight,tip,mdutil,tips,Entire Message,cocktail,mdimporter,mail.app]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -2,7 +2,7 @@
 #
 # Octopress tag cloud generator
 #
-# Version: 0.3
+# Version: 0.3 
 #
 # Copyright (c) 2012 Robby Edwards, http://robbyedwards.com/
 # Licensed under the MIT license (http://www.opensource.org/licenses/mit-license.php)

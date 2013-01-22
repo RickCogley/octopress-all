@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Opening a Tab-Delimited \"CSV\" in Apple iWork Numbers"
+post_title: "Opening a Tab-Delimited \"CSV\" in Apple iWork Numbers"
 date: 2010-03-16 06:12:57 UTC
 updated: 2010-03-16 06:12:57 UTC
 comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, Tips]
 keywords: tab-delimited,CSV,TXT,TSV,tip,tips,Numbers,iWork,apple
 tags: [tab-delimited,CSV,TXT,TSV,tip,tips,Numbers,iWork,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 
