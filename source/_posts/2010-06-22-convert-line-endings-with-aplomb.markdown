@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Convert Line Endings with Aplomb"
+post_title: "Convert Line Endings with Aplomb"
 date: 2010-06-22 07:24:32 UTC
 updated: 2010-06-22 07:24:32 UTC
 comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, SysAdmin, Tips]
 keywords: productivity,command line,terminal,tr,crlf
 tags: [productivity,command line,terminal,tr,crlf]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 
@@ -118,7 +122,7 @@ inputfile2.csv: ASCII text, with CR line terminators
 
 
 
-You can also use the cat command to show line endings, with its -e switch. Do a _man cat_ for more info, because you can also get line numbers, for instance. The first file below has CRLF, which shows up in cat’s output as ^M$, and the second file has only a ^, which is equivalent to the Mac CR line ending only situation. What you need will depend upon the import program. 
+You can also use the cat command to show line endings, with its -e switch. Do a _man cat_ for more info, because you can also get line numbers, for instance. The first file below has CRLF, which shows up in cat's output as ^M$, and the second file has only a ^, which is equivalent to the Mac CR line ending only situation. What you need will depend upon the import program. 
 
 
 
@@ -148,7 +152,7 @@ Part,Cust,Price,StartDate,EndDate,Reason**^M$**
 
 
 
-…
+...
 
 
 

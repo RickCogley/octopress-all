@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Panku Bubu Wins M1 Grandprix 2009"
+post_title: "Panku Bubu Wins M1 Grandprix 2009"
 date: 2009-12-20 12:02:10 UTC
 updated: 2009-12-20 12:02:10 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Humor]
 keywords: manzai,waraimeshi,non-style,humor,panku bubu,m1 grandprix
 tags: [manzai,waraimeshi,non-style,humor,panku bubu,m1 grandprix]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

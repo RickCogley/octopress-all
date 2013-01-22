@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "How to Gargle (Ugai Garagara)"
+post_title: "How to Gargle (Ugai Garagara)"
 date: 2009-05-16 02:57:52 UTC
 updated: 2009-05-16 02:57:52 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture]
 keywords: Isojin,Ugai,Swine Flu,Gargling,Mezamashi TV
 tags: [Isojin,Ugai,Swine Flu,Gargling,Mezamashi TV]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
 
 Now, this is serious. Today on "Mezamashi Terebi," a popular morning TV show, they had a fairly long, scientific-sounding introduction to "**ugai**" or **gargling**. They stated that it's only really popular here in Japan, where all kids are taught "_ugai-tearai_," or gargling and hand-washing, from when they are toddlers. They had mini-interviews with a bunch of foreigners asking if they had the culture of gargling. Mostly, they didn't, or they did heathen things like drinking the gargle medicine! The horror!

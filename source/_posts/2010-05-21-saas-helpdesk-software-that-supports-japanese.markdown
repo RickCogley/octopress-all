@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "SaaS Helpdesk Software that Supports Japanese"
+post_title: "SaaS Helpdesk Software that Supports Japanese"
 date: 2010-05-21 01:31:10 UTC
 updated: 2010-05-21 01:31:10 UTC
 comments: true
 categories: [Blog-Cogley, Professional, Web, Reviews, Business, Service]
 keywords: helpdesk,zendesk,japanese,software as a service,SaaS,pricing,software,alternatives,helpdesk applications,processing,language
 tags: [helpdesk,zendesk,japanese,software as a service,SaaS,pricing,software,alternatives,helpdesk applications,processing,language]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 
@@ -83,7 +87,7 @@ Many web based products, and not just Helpdesk products, face these challenges w
 
 
 
-[**Kayako**](http://www.kayako.com/)'s Savin Behal replied to me in an email: Our software supports multiple languages. You may download the required (Japanese) language packs from the Kayako Forums at “http://forums.kayako.com/f50/”. These language packs have been shared by our clients. However, we regret to inform you that we do not support these packs officially. 
+[**Kayako**](http://www.kayako.com/)'s Savin Behal replied to me in an email: Our software supports multiple languages. You may download the required (Japanese) language packs from the Kayako Forums at "http://forums.kayako.com/f50/". These language packs have been shared by our clients. However, we regret to inform you that we do not support these packs officially. 
 
 
 

@@ -1,0 +1,29 @@
+<ul class="nav nav-tabs">
+  <li class="active"><a href="#tab-latest" data-toggle="tab">Latest</a></li>
+  <li><a href="#tab-topics" data-toggle="tab">Topics</a></li>
+  <li><a href="#tab-tags" data-toggle="tab">Tags</a></li>
+</ul>
+
+<div class="tab-content">
+  <div class="tab-pane active" id="tab-latest">
+	<ul id="recent_posts">
+	  {% for post in site.posts limit: site.recent_posts %}
+	    <li class="post">
+		  <a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a>
+	    </li>
+	  {% endfor %}
+	</ul>
+  </div>
+  <div class="tab-pane" id="tab-topics">
+	<ul>
+	  {% for categ in site.categories %}
+	    <li><a href="/articles/topics/{{ categ[0] | downcase }}"> {{ categ[0] }}</a></li>
+	  {% endfor %}
+	</ul>
+  </div>
+  <div class="tab-pane" id="tab-tags">
+	<ul class="tags_cloud">
+	  {% tag_cloud limit: 55, sort: rand, font-size: 16 - 28px %}
+	</ul>
+  </div>
+</div>

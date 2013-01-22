@@ -1,0 +1,133 @@
+--- 
+Blog-Cogley: 
+  awesomeicon: icon-cogs
+  description: "Blog-Cogley is Rick Cogley's general weblog. Topics I like, like efficiency, upgrade reports, geeky sysadmin stuff. Now with 50% more pith and 42% more sass."
+  image: /images/topic-blog-cogley.jpg
+Business: 
+  awesomeicon: icon-money
+  description: "Three quarters of my life is about doing business, and for 95% of my time in Japan, has been about running businesses. This is about that."
+  image: /images/topic-business.jpg
+Culture: 
+  awesomeicon: icon-globe
+  description: "How we live and interact. Rights and privileges. Freedom vs restraint. Mores and morals, and maybe some morays. All your trends belong to us."
+  image: /images/topic-culture.jpg
+Cycling: 
+  awesomeicon: icon-certificate
+  description: "Not a hobby; a way of life. There's nothing like the freedom I feel when I'm on my bike, speeding into the sunrise along the river near my house in Totsuka. Nothing beats it."
+  image: /images/topic-cycling.jpg
+Disaster: 
+  awesomeicon: icon-bullhorn
+  description: "Natural disasters are a real and present concern in Japan. If I can provide information, I will."
+  image: /images/topic-disaster.jpg
+Emergency: 
+  awesomeicon: icon-ambulance
+  description: "Emergencies in Japan can be trying, especially if you don't speak the language. I hope I can help here."
+  image: /images/topic-emergency.jpg
+Errata: 
+  awesomeicon: icon-remove-sign
+  description: "If there's a correction about something, it will appear here. Errata comin' at ya."
+  image: /images/topic-errata.jpg
+Family: 
+  awesomeicon: icon-group
+  description: "Family is the home base, the solid core and the crux of what's real."
+  image: /images/topic-family.jpg
+Gadgets: 
+  awesomeicon: icon-laptop
+  description: "Sometimes simple is indeed best, but we live in a time with really, really great and inspiring gadgets. I cannot even imagine what my kids' kids will enjoy, but I really appreciate the tools I have today, compared to just a short time ago."
+  image: /images/topic-gadgets.jpg
+Health: 
+  awesomeicon: icon-user-md
+  description: "Are you staying healthy? You have one go-round, so make it worth it, and take care of yourself!"
+  image: /images/topic-health.jpg
+Humor: 
+  awesomeicon: icon-thumbs-up
+  description: "Tommy DeVito said it: 'You mean, let me understand this cause, ya know maybe it's me, I'm a little fucked up maybe, but I'm funny how, I mean funny like I'm a clown, I amuse you? I make you laugh, I'm here to fuckin' amuse you? What do you mean funny, funny how? How am I funny?'"
+  image: /images/topic-humor.jpg
+Japan: 
+  awesomeicon: icon-circle
+  description: "Japan is where I have lived and worked since 1987. I am grateful for the interesting life I have had here and to the people who made it possible."
+  image: /images/topic-japan.jpg
+Language: 
+  awesomeicon: icon-comments-alt
+  description: "Language, it's constantly morphing and changing. What we say today will be out of style in 10 years even. Do we keep up? Do we hold down the fort? I for one am glad Darth Vader never uttered the word 'brah'."
+  image: /images/topic-language.jpg
+Mobile: 
+  awesomeicon: icon-mobile-phone
+  description: "What we can do these days on the go. Isn't it ironic that we can revert to an almost nomadic existence because of our mobility and mobile devices?"
+  image: /images/topic-mobile.jpg
+Music: 
+  awesomeicon: icon-music
+  description: "I like any kind of music, as long as it took skill and talent to create it. It's my daily pick-up, my muse. I think that music, like life, is about what's happening between the notes, rather than of the notes themselves."
+  image: /images/topic-music.jpg
+Performance: 
+  awesomeicon: icon-play-circle
+  description: "Great performance is a skill to be cherished and nurtured, and live performance especially, is analogous to living life itself. You get one and one shot only; let's hope for beauty."
+  image: /images/topic-performance.jpg
+Personal: 
+  awesomeicon: icon-user
+  description: "If it is really personal, it will feel uncomfortable to share. But, do we really need to know what diseases our Twitter friend @JohnSmith has? I hope I can create more than just tweets or posts."
+  image: /images/topic-personal.jpg
+Photography: 
+  awesomeicon: icon-camera-retro
+  description: "Photography is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  image: /images/topic-photography.jpg
+Popular: 
+  awesomeicon: icon-fire
+  description: "Popular might indeed be 'of the people', but is it by the people and for the people? Popularity certainly does not guarantee that something is right or correct."
+  image: /images/topic-popular.jpg
+Productivity: 
+  awesomeicon: icon-refresh
+  description: "Personally I define productivity in a strict sense. I try not to think of it as a marketing buzzword, but rather simply as a situation of measuring whether I am producing and creative, or not. But I know this: being on Facebook all day is definitely not an example."
+  image: /images/topic-productivity.jpg
+Professional: 
+  awesomeicon: icon-briefcase
+  description: "What do you need to succeed as a technology or knowledge worker? I can impart a few tidbits of information there, from some years of course development and training experience."
+  image: /images/topic-professional.jpg
+Reviews: 
+  awesomeicon: icon-check
+  description: "What's the skinny? Get it served up hot right here."
+  image: /images/topic-reviews.jpg
+Service: 
+  awesomeicon: icon-heart
+  description: "Service industry? Customer service? Service as a concept? A large number of us work in service to others, and you might find a post or two on that here. I believe my primary purpose in life is to be of service to others."
+  image: /images/topic-service.jpg
+SnapJapan: 
+  awesomeicon: icon-leaf
+  description: "SnapJapan is my blog about life here in Japan (specifically Yokohama and Tokyo), land of high tech, cram schools, stoically conservative salary-men, manga, cos-play and maid cafes. Since 1987."
+  image: /images/topic-snapjapan.jpg
+Software: 
+  awesomeicon: icon-save
+  description: "It's got impact on practically every aspect of our lives. I am not a software development professional but I love good software, especially elegantly programmed software. I have a bit of an obsession with software, and love to experiment with it. Call it a fetish."
+  image: /images/topic-software.jpg
+Street: 
+  awesomeicon: icon-road
+  description: "From the streets, the mean streets, mostly in Japan. Savvy, gritty, dirty streets."
+  image: /images/topic-street.jpg
+SysAdmin: 
+  awesomeicon: icon-fighter-jet
+  description: "I am a manager, but I do a lot of systems administration myself. So this is from the trenches, and spoken from some years of training technologists to do sysadmin tasks."
+  image: /images/topic-sysadmin.jpg
+Technology: 
+  awesomeicon: icon-magic
+  description: "Arthur C. Clarke said 'Any sufficiently advanced technology is indistinguishable from magic.' What magic are we observing now, that will be easily explained and taught to grammar school children in two decades?"
+  image: /images/topic-technology.jpg
+Tips: 
+  awesomeicon: icon-lightbulb
+  description: "Can I give you some tip that might help you be more efficient or productive? Just maybe so. Let's find out."
+  image: /images/topic-tips.jpg
+Troubleshooting: 
+  awesomeicon: icon-ok-sign
+  description: "How do you slice and dice to get to the crux of a problem to let you devise a solution? Great troubleshooting is an art that skilled technologists know, and beginners scratch their heads about."
+  image: /images/topic-troubleshooting.jpg
+Upgrades: 
+  awesomeicon: icon-download-alt
+  description: "If I upgrade a system, I might share the process here to hopefully help someone else. But one thing's for sure - as you upgrade and upgrade over a career in technology, you start to see the lateral linkages between systems."
+  image: /images/topic-upgrades.jpg
+Web: 
+  awesomeicon: icon-link
+  description: "I'm sitting here writing this website because great giants went before me, and made this wonderful thing we use every day. Will you add to the creation, or just consume."
+  image: /images/topic-web.jpg
+Weird: 
+  awesomeicon: icon-wrench
+  description: "It is probably not weird in another culture, but it probably struck me funny, as in how-strange-it-is funny. So shoot me."
+  image: /images/topic-weird.jpg

@@ -1,0 +1,22 @@
+<meta property="og:url" value="{{ site.url }}{{ page.url }}">
+<meta property="og:type" content="website" />
+{% if page.title %}
+	<meta property="og:title" value="{{ page.title }}">
+{% else %}
+	<meta property="og:title" value="{{ site.title }}">
+{% endif %}
+{% if page.ogdescription %}
+	<meta property="og:description" value="{{ page.ogdescription }}">
+{% elsif page.description %}
+	<meta property="og:description" value="{{ page.description }}">
+{% else %}
+	<meta property="og:description" value="{{ site.ogdescription }}">
+{% endif %}
+{% if page.cover %}
+	<meta property="og:image" value="{{ site.url }}{{ page.cover }}">
+{% else %}
+	<meta property="og:image" value="{{ site.url }}{{ site.cover }}">
+{% endif %}
+
+
+

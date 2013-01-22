@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "categories"
+title: "Categories"
 date: 2013-01-07 06:30
 comments: false
 sharing: false

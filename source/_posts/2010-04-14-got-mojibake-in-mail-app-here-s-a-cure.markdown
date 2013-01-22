@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Got Mojibake in Mail.app? Here's a Cure."
+post_title: "Got Mojibake in Mail.app? Here's a Cure."
 date: 2010-04-14 07:09:15 UTC
 updated: 2010-04-14 07:09:15 UTC
 comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, Tips]
 keywords: mojibake,tip,10.6.3,garbled japanese,terminal,mail.app,apple
 tags: [mojibake,tip,10.6.3,garbled japanese,terminal,mail.app,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

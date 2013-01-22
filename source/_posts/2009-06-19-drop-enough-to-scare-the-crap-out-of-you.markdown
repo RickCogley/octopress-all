@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Drop - Enough to Scare the Crap Out of You"
+post_title: "Drop - Enough to Scare the Crap Out of You"
 date: 2009-06-19 23:06:56 UTC
 updated: 2009-06-19 23:06:56 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Humor]
 keywords: Horror,Toilet Paper,humor,Drop,Koji Suzuki
 tags: [Horror,Toilet Paper,humor,Drop,Koji Suzuki]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

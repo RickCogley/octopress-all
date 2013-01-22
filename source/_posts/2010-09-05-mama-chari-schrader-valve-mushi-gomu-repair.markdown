@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Mama-chari Schrader Valve \"Mushi Gomu\" Repair"
+post_title: "Mama-chari Schrader Valve \"Mushi Gomu\" Repair"
 date: 2010-09-05 06:33:23 UTC
 updated: 2010-09-05 06:33:23 UTC
 comments: true
 categories: [Blog-Cogley, Japan, Culture, Personal, Cycling]
 keywords: Bike,valve,mushi gomu,rubber,mama chari,cycling,虫ゴム,schrader
 tags: [Bike,valve,mushi gomu,rubber,mama chari,cycling,虫ゴム,schrader]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "New: \"Special Ops\" Backpack from KILLSPENCER"
+post_title: "New: \"Special Ops\" Backpack from KILLSPENCER"
 date: 2011-02-09 04:48:25 UTC
 updated: 2011-02-09 04:48:25 UTC
 comments: true
 categories: [Blog-Cogley, Personal, Reviews]
 keywords: Killspencer,Backpack,Military
 tags: [Killspencer,Backpack,Military]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 
@@ -21,7 +25,7 @@ I wanted to buy a backpack not a brief, because I cycle to the station and back,
 
 
 
-Since I just need my 15" Macbook Pro, accessories, phone, wallet, and since I mostly carry the somewhat-compact Ricoh GXR camera, I thought there must be a smaller, slimmer, more compact backpack available _somewhere_. So, tenacious researcher that I am (er, anal retentive?), for a couple of months I researched. I looked at a _lot_ of bags in person and on line, including all the usual suspects like _Brenthaven, Tumi, Schlesinger, Samsonite, Tom Bihn, Spire_, various hand-made bags and some Japanese brands like _Manhattan Passage_ and _Porter_.
+Since I just need my 15" Macbook Pro, accessories, phone, wallet, and since I mostly carry the somewhat-compact Ricoh GXR camera, I thought there must be a smaller, slimmer, more compact backpack available _somewhere_. So, tenacious researcher that I am (er, anal retentive?), for a couple of months I researched. I looked at a _lot_ of bags in person and on line, including all the usual suspects like _Brenthaven, Tumi, Schlesinger, Samsonite, Tom Bihn, Spire_, various hand-made bags and some Japanese brands like _Manhattan Passage_ and _Porter_.
 
 
 
@@ -29,23 +33,23 @@ Since I just need my 15" Macbook Pro, accessories, phone, wallet, and since I mo
 I own or have owned the following:
 
 
-- Crumpler—I have the Sinking Barge DSLR-and-laptop backpack, but it really sticks out, off your back, and is fairly heavy to accommodate the DSLR padding. I like it though, basically. 
+- Crumpler - I have the Sinking Barge DSLR-and-laptop backpack, but it really sticks out, off your back, and is fairly heavy to accommodate the DSLR padding. I like it though, basically. 
 
-- Tumi—expensive, given that the strap grommets ripped out after less than a year of use, and a pain to get any warranty assistance. 
+- Tumi - expensive, given that the strap grommets ripped out after less than a year of use, and a pain to get any warranty assistance. 
 
-- Brenthaven—amazing warranty support, high quality, but the backpack for holding the MBP (granted, 17") is pretty massive, so that was a no. It weighs even more than my Crumpler. I use and like a lighter-weight Brenthaven brief, but a brief is pretty unstable on a bike. 
+- Brenthaven - amazing warranty support, high quality, but the backpack for holding the MBP (granted, 17") is pretty massive, so that was a no. It weighs even more than my Crumpler. I use and like a lighter-weight Brenthaven brief, but a brief is pretty unstable on a bike. 
 
-- Schlesinger—kind of a non-starter in Japan, especially if you have to send things back and forth to the US, what with the duty for leather being something like 50%. I had one of their leather briefs before, and liked it, but it did not give very good protection to a laptop. 
+- Schlesinger - kind of a non-starter in Japan, especially if you have to send things back and forth to the US, what with the duty for leather being something like 50%. I had one of their leather briefs before, and liked it, but it did not give very good protection to a laptop. 
 
-- Samsonite—went to the shop near Tokyo station, and did not really like the backpacks they had there. Love my Samsonite suitcases, though. 
+- Samsonite - went to the shop near Tokyo station, and did not really like the backpacks they had there. Love my Samsonite suitcases, though. 
 
-- Manhattan Passage—they make a large number of bags with an insane number of pockets and variations, but the so-called "three way" models, which are briefs with hide-a-way straps, did not impress for whatever reason. I own and like one of their small shoulder bags, which is just right for a novel, a phone, a wallet, pens and so on. 
+- Manhattan Passage - they make a large number of bags with an insane number of pockets and variations, but the so-called "three way" models, which are briefs with hide-a-way straps, did not impress for whatever reason. I own and like one of their small shoulder bags, which is just right for a novel, a phone, a wallet, pens and so on. 
 
-- Porter—this is a Japanese brand; they make some nice bags, but, they are expensive for what you get. I wavered between one of their backpacks and the Killspencer, but I am glad I chose the way I did. The Killspencer pack is really well made, and it makes the Porter I was looking at seem positively flimsy. 
+- Porter - this is a Japanese brand; they make some nice bags, but, they are expensive for what you get. I wavered between one of their backpacks and the Killspencer, but I am glad I chose the way I did. The Killspencer pack is really well made, and it makes the Porter I was looking at seem positively flimsy. 
 
 
 
-After a lot of looking, I kept going back to the **KILLSPENCER** line. I really like the concept of military fabric being repurposed to create bags, and there really are not that many bags that properly hold a MBP 15" but are also compact, I found.
+After a lot of looking, I kept going back to the **KILLSPENCER** line. I really like the concept of military fabric being repurposed to create bags, and there really are not that many bags that properly hold a MBP 15" but are also compact, I found.
 
 
 
@@ -66,7 +70,7 @@ First impressions over two days of use were these:
 
 - The black twill fabric is waxed, which lends a nice tactile and slightly-sticky feel to the bag and its optional Accessory Case. It even _smells_ good. 
 
-- The bag feels really solid, especially when it is loaded. It somehow stands on its own, as well, which is something I wanted but gave up on, so, a bonus. There is a handle at the top, with a removable leather handle encircling it. The handle cover has pull-the-dot snaps, and can be removed and therefore probably replaced. It feels good in the hand while carrying, even when the bag is loaded down. Generally speaking, the backpack is lighter than something similar in leather would be. 
+- The bag feels really solid, especially when it is loaded. It somehow stands on its own, as well, which is something I wanted but gave up on, so, a bonus. There is a handle at the top, with a removable leather handle encircling it. The handle cover has pull-the-dot snaps, and can be removed and therefore probably replaced. It feels good in the hand while carrying, even when the bag is loaded down. Generally speaking, the backpack is lighter than something similar in leather would be. 
 
 - The Riri "Aquazip" zippers seem waterproof, and I imagine when combined with the waxy finish, will be a winning combination against Japan's rainy season. 
 
@@ -87,7 +91,7 @@ First impressions over two days of use were these:
 There were a couple small challenges I am working through:
 
 
-- The main compartment is fairly large vertically, so you need some way of organizing the space. A folio or some kind of binder might make sense if you have a lot of business papers like I do, because there are no accordion pockets like in a briefcase. I am using a Moleskine folio and a ThinkTank Photo cable management bag to keep things from flopping around inside. Something custom from KILLSPENCER would be very nice, but the Utility Pouch is just a tad too small for papers. Something like the unfortunately-too-large-for-the-special-ops [Freudian Slip](http://www.tombihn.com/Merchant2/merchant.mvc?Screen=PROD&Store_Code=001&Product_Code=TB0344) from Tom Bihn, would be perfect. 
+- The main compartment is fairly large vertically, so you need some way of organizing the space. A folio or some kind of binder might make sense if you have a lot of business papers like I do, because there are no accordion pockets like in a briefcase. I am using a Moleskine folio and a ThinkTank Photo cable management bag to keep things from flopping around inside. Something custom from KILLSPENCER would be very nice, but the Utility Pouch is just a tad too small for papers. Something like the unfortunately-too-large-for-the-special-ops [Freudian Slip](http://www.tombihn.com/Merchant2/merchant.mvc?Screen=PROD&Store_Code=001&Product_Code=TB0344) from Tom Bihn, would be perfect. 
 
 - I wonder how to take care of the black twill fabric. Can I wash it? Do I need to NikWax it? 
 
@@ -95,7 +99,7 @@ There were a couple small challenges I am working through:
 
 
 
- 
+ 
 
 
 
@@ -115,7 +119,7 @@ Hope this review helps someone.
 
 
 
- 
+ 
 
 
 

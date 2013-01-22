@@ -1,12 +1,16 @@
 ---           
 layout: post
-title: "Happy, SuperDuper! Happy."
+post_title: "Happy, SuperDuper! Happy."
 date: 2011-01-08 03:01:33 UTC
 updated: 2011-01-08 03:01:33 UTC
 comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, SysAdmin, Tips]
 keywords: Seagate Momentus XT,sparseimage,SuperDuper,Shirt Pocket,2011,Hard Drive Failure,Recovery,apple
 tags: [Seagate Momentus XT,sparseimage,SuperDuper,Shirt Pocket,2011,Hard Drive Failure,Recovery,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 
@@ -28,7 +32,7 @@ Once the drive was installed, next, I booted from my Snow Leopard DVD, and after
 
 
 
-In Disk Utility booted from the DVD, I then got busy partitioning the new drive (just chose to make one big 500GB partition called "Macintosh HD" as usual), and then went to the Restore tab. It is not a problem to restore a sparseimage made from a 300GB drive, to a new 500GB drive, so I just connected the FireWire drive containing the SuperDuper! sparseimage file, and did a File, Open in Disk Utility to mount that image. I chose the backup from within the sparseimage, and told Restore to restore to Macintosh HD. About 2.5 hours later, the restore completed without incident.
+In Disk Utility booted from the DVD, I then got busy partitioning the new drive (just chose to make one big 500GB partition called "Macintosh HD" as usual), and then went to the Restore tab. It is not a problem to restore a sparseimage made from a 300GB drive, to a new 500GB drive, so I just connected the FireWire drive containing the SuperDuper! sparseimage file, and did a File, Open in Disk Utility to mount that image. I chose the backup from within the sparseimage, and told Restore to restore to Macintosh HD. About 2.5 hours later, the restore completed without incident.
 
 
 

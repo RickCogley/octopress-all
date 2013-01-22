@@ -1,0 +1,38 @@
+{% capture date %}{{ page.date }}{{ post.date }}{% endcapture %}
+{% capture date_formatted %}{{ page.date_formatted }}{{ post.date_formatted }}{% endcapture %}
+{% capture has_date %}{{ date | size }}{% endcapture %}
+
+{% if post.author %}
+  {% assign author = post.author %}
+{% elsif page.author %}
+  {% assign author = page.author %}
+{% else %}
+  {% assign author = site.author %}
+{% endif %}
+
+<div class="center-content">
+	{% if author %}<span class="byline author vcard">Posted by <span class="fn"><a href="{{site.jrcbiopath}}">{{ author }}</a></span></span>{% endif %}
+
+	{% if has_date != '0' %}
+	  	<time datetime="{{ date | datetime | date_to_xmlschema }}">
+	  		on {{ date_formatted | date: "%d %b" }}, {{ date_formatted | date: "%Y" }}
+		</time>
+	{% endif %}
+
+	<br />
+	{% capture category %}{% if post %}{{ post.categories | category_links | size }}{% else %}{{ page.categories | category_links | size }}{% endif %}{% endcapture %}
+	{% unless category == '0' %}
+		<span class="categories">
+		  {% if post %}
+		    {{ post.categories | category_links }}
+		  {% else %}
+		    {{ page.categories | category_links }}
+		  {% endif %}
+		</span>
+	{% endunless %}
+
+	{% unless page.sharing == false %}
+      {% include post/sharing.html %}
+    {% endunless %}
+</div>
+
