@@ -133,8 +133,14 @@ section{ font-family: $serif; }
 .rslides .caption p{ font-size: 14px; }
 
 .header{
-	h1{ margin-bottom: 0.1em; }
-	h2{ font-style: italic; font-size: 1em; }
+	h1{ 
+		margin-bottom: 0.1em;
+		a{
+			color: #bb0000; // top header color
+			&:hover{ color: #ff0000; } //top header hovered state color
+		} 
+	}
+	h2{ font-style: italic; font-size: 1em; color: #aa0000; } //subheader color
 }
 
 .pullquote-right::before{
