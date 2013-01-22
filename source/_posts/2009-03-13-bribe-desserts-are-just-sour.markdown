@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, settai, culture, Lockheed, mizkan, vinegar, Kakuei Tanaka, Ichiro Ozawa]
 keywords: settai,culture,Lockheed,mizkan,vinegar,Kakuei Tanaka,Ichiro Ozawa
 tags: [settai,culture,Lockheed,mizkan,vinegar,Kakuei Tanaka,Ichiro Ozawa]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

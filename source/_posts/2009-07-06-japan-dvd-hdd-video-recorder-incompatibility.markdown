@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, MPEG-2, VRO, Sharp Aquos, Incompatibilty, QuickTIme, HDD, DVD]
 keywords: MPEG-2,VRO,Sharp Aquos,Incompatibilty,QuickTIme,HDD,DVD
 tags: [MPEG-2,VRO,Sharp Aquos,Incompatibilty,QuickTIme,HDD,DVD]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

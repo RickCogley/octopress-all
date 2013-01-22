@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, aquamacs, productivity, software, emacs]
 keywords: aquamacs,productivity,software,emacs
 tags: [aquamacs,productivity,software,emacs]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: Post on Aquamacs Emacs editor for Mac, by Rick Cogley.
+published: true
 ---
  
 Found an interesting Emacs GUI - [Aquamacs](http://aquamacs.org/features.shtml). Works with Japanese as well. Now if I can only get over my allergy to all those keyboard shortcuts.

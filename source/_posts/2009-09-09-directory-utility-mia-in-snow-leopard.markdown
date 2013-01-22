@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Snow Leopard, Directory Utility, os x, software, apple]
 keywords: Snow Leopard,Directory Utility,os x,software,apple
 tags: [Snow Leopard,Directory Utility,os x,software,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

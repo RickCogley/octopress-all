@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, mantis, jira, basecamp, productivity, trackstudio, groove, collaboration, webtimesheet, confluence, harvest, google docs, email2case]
 keywords: mantis,jira,basecamp,productivity,trackstudio,groove,collaboration,webtimesheet,confluence,harvest,google docs,email2case
 tags: [mantis,jira,basecamp,productivity,trackstudio,groove,collaboration,webtimesheet,confluence,harvest,google docs,email2case]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

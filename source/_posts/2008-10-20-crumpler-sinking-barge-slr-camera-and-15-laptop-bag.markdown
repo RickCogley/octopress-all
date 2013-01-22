@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, photography, crumpler, nikon d90, bags, sinking barge, review]
 keywords: photography,crumpler,nikon d90,bags,sinking barge,review
 tags: [photography,crumpler,nikon d90,bags,sinking barge,review]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

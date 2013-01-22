@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, Leopard Server, LDAPv3, cli, os x, command line, tutorial, dscl]
 keywords: productivity,Leopard Server,LDAPv3,cli,os x,command line,tutorial,dscl
 tags: [productivity,Leopard Server,LDAPv3,cli,os x,command line,tutorial,dscl]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

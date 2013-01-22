@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Music]
 keywords: Music,Folk,Tulip,Saboten no Hana,Hitotsu Yane no Shita,Kazuo Zaitsu,Lyrics
 tags: [Music,Folk,Tulip,Saboten no Hana,Hitotsu Yane no Shita,Kazuo Zaitsu,Lyrics]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

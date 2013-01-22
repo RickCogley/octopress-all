@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Language, Street]
 keywords: culture,Gyaru,Language,Japanese,Pop,Slang
 tags: [culture,Gyaru,Language,Japanese,Pop,Slang]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

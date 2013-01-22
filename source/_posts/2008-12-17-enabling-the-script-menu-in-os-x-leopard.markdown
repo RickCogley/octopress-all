@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Andreas Amann, scripts menu, productivity, os x, mail scripts, leopard, .menu]
 keywords: Andreas Amann,scripts menu,productivity,os x,mail scripts,leopard,.menu
 tags: [Andreas Amann,scripts menu,productivity,os x,mail scripts,leopard,.menu]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

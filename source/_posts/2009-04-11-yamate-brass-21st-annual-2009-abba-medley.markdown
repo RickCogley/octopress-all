@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan]
 keywords: 
 tags: []
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, cellphone, wired, softbank, wanseg, iphone]
 keywords: cellphone,wired,softbank,wanseg,iphone
 tags: [cellphone,wired,softbank,wanseg,iphone]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

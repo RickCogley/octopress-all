@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, Library, iTunes, software, 10.5.7, apple]
 keywords: productivity,Library,iTunes,software,10.5.7,apple
 tags: [productivity,Library,iTunes,8.2,software,10.5.7,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

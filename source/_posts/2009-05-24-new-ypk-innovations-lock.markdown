@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Lock, cycling, YPK Innovations]
 keywords: Lock,cycling,YPK Innovations
 tags: [Lock,cycling,YPK Innovations]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

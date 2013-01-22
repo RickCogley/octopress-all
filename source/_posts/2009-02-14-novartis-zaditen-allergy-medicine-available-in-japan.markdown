@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, zaditen, cedar pollen, allergy, japan, novartis]
 keywords: zaditen,cedar pollen,allergy,japan,novartis
 tags: [zaditen,cedar pollen,allergy,japan,novartis]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

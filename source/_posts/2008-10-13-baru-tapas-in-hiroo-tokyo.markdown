@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, culture, baru, tapas, restaurants, japan]
 keywords: culture,baru,tapas,restaurants,japan
 tags: [culture,baru,tapas,restaurants,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 [<img class="right" src="http://static.flickr.com/2235/2196798112_63c7fac7de_s.jpg" />](http://www.flickr.com/photos/81796435@N00/2196798112 "View 'Baru - Great Tapas Bar in Hiroo Tokyo Japan' on Flickr.com")[![Baru Logo Plate](http://static.flickr.com/2074/2196797904_5bb1706860_s.jpg)](http://www.flickr.com/photos/81796435@N00/2196797904 "View 'Baru Logo Plate' on Flickr.com")Baru is a great Tapas place in Tokyo's Hiroo district between Tengenji and Platinum Street. Great Tapas and wine, and it is always packed with good-looking ladies (unless a certain Jason is there :). The master is a personable guy, who speaks a little English and a little Spanish. Go. You won't regret it.

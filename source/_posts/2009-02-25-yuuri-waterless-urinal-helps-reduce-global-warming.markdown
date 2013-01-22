@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, conservation, global warming, waterless urinal, yuuri]
 keywords: conservation,global warming,waterless urinal,yuuri
 tags: [conservation,global warming,waterless urinal,yuuri]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

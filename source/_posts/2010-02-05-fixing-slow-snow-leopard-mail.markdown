@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Snow Leopard, smtp, slow, mail, send]
 keywords: Snow Leopard,10.6.2,smtp,slow,mail,send
 tags: [Snow Leopard,10.6.2,smtp,slow,mail,send]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

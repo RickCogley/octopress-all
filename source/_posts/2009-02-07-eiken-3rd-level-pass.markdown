@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, eiken, proficiency, English]
 keywords: eiken,proficiency,English
 tags: [eiken,proficiency,English]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, snagit, grab, screenshots, screendumps, ambrosia software, techsmith]
 keywords: snagit,grab,screenshots,screendumps,ambrosia software,techsmith
 tags: [snagit,grab,screenshots,screendumps,ambrosia software,techsmith]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

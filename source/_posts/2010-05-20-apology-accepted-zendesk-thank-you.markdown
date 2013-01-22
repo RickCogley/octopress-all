@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Professional, Web, Reviews, Business, Service]
 keywords: zendesk,apology,ethics,SaaS,software,kudos,recant,thanks,business
 tags: [zendesk,apology,ethics,SaaS,software,kudos,recant,thanks,business]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

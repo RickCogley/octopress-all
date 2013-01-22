@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Wifi, Yodobashi Camera, Wireless Gate, japan]
 keywords: Wifi,Yodobashi Camera,Wireless Gate,japan
 tags: [Wifi,Yodobashi Camera,Wireless Gate,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 Yodobashi Camera has a nice wifi access plan called [Wireless Gate](http://www.tripletgate.com/wirelessgate/), with 6000+ access points across Japan for _380 yen per month_ according to the pamphlet I have. **Wireless Gate** looks like a good plan, and here's how you can sign up (but in Japanese, so get some help from a friend if you're kanji-impaired): - Visit the Wireless Gate [Website](http://www.tripletgate.com/wirelessgate/)

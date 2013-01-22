@@ -1,6 +1,6 @@
 ---           
 layout: post
-post_title: "Japan Post Office"
+post_title: "Japan Post Office Striving"
 date: 2008-01-17 11:35:50 UTC
 updated: 2008-01-17 11:35:50 UTC
 comments: true

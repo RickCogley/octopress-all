@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, SysAdmin, Tips]
 keywords: scutil,10.6,hostname,automatic,prompt,apple
 tags: [scutil,10.6,hostname,automatic,prompt,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

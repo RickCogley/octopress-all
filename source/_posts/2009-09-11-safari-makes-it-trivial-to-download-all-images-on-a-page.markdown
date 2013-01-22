@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, tip, software, eSolia 10th Anniversary, Safari]
 keywords: productivity,tip,software,eSolia 10th Anniversary,Safari
 tags: [productivity,tip,software,eSolia 10th Anniversary,Safari]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

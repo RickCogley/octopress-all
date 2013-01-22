@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, platform, utility pricing, lamp, shared, open hosting, little oak, vserver, linode, hosting, vps]
 keywords: productivity,platform,utility pricing,lamp,shared,open hosting,little oak,vserver,linode,hosting,vps
 tags: [productivity,platform,utility pricing,lamp,shared,open hosting,little oak,vserver,linode,hosting,vps]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

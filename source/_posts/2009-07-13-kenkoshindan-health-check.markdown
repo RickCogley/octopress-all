@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Health, Weird]
 keywords: Living in Japan,Insurance,Health,kenkoshindan,人間ドック
 tags: [Living in Japan,Insurance,Health,kenkoshindan,人間ドック]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

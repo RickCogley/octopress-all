@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, vCard, outlook, ical.app, software, garbled japanese, apple, productivity, VCF, fonts, Address Book, mail, mail.app]
 keywords: vCard,outlook,ical.app,ical,software,garbled japanese,apple,productivity,VCF,fonts,Address Book,mail,mail.app
 tags: [vCard,outlook,ical.app,ical,software,garbled japanese,apple,productivity,VCF,fonts,Address Book,mail,2.1,mail.app]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

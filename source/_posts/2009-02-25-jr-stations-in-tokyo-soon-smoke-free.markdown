@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan Rail, smoke-free, no smoking]
 keywords: Japan Rail,smoke-free,no smoking
 tags: [Japan Rail,smoke-free,no smoking]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 [<img class="right" src="http://farm4.static.flickr.com/3265/3307747175_61455498f1_m.jpg" />](http://www.flickr.com/photos/81796435@N00/3307747175 "View 'JR Shinjuku Station to be Non-smoking' on Flickr.com")Good news for non-smokers in Tokyo. JR Stations are to be Smoke-free Zones as of April 1st 2009. This poster on the platform at Shinjuku station says: > ### All Stations in Tokyo will be Completely Smoke Free from 1st April

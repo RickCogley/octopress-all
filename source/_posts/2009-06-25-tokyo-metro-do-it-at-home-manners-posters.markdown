@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Weird]
 keywords: Manners Posters,Tokyo Metro,subway,Engrish,Tokyo Rail and Subway Map
 tags: [Manners Posters,Tokyo Metro,subway,Engrish,Tokyo Rail and Subway Map]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

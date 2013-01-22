@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, cnnic, scam, spam, intellectual property, Internet, china]
 keywords: cnnic,scam,spam,intellectual property,Internet,china
 tags: [cnnic,scam,spam,intellectual property,Internet,china]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Language, Humor, Street]
 keywords: youth,culture,teenagers,Gyaru,girls,Language,humor,Japanese,japan,ギャル語,slang
 tags: [youth,culture,teenagers,Gyaru,girls,Language,humor,Japanese,japan,ギャル語,slang]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

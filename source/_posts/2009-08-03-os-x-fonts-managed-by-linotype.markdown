@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, FontExplorer X Pro, productivity, tip, os x, fonts, software, tutorial, Linotype, type face]
 keywords: FontExplorer X Pro,productivity,tip,os x,fonts,software,tutorial,Linotype,type face
 tags: [FontExplorer X Pro,productivity,tip,os x,fonts,software,tutorial,Linotype,type face]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, social networking, terms of service, legal, facebook, intellectual property, terms of use]
 keywords: social networking,terms of service,legal,facebook,intellectual property,terms of use
 tags: [social networking,terms of service,legal,facebook,intellectual property,terms of use]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 I [wrote yesterday](http://rick.cogley.info/blog/index.php?id=5366947200020189062) about the furor over the new **Facebook** Terms of Service statement, but Facebook has gone and reverted to their old terms while they figger out which end is up. I can't even access the Facebook blog, so forget an URL, but here's what the top page says: > ### Terms of Use Update

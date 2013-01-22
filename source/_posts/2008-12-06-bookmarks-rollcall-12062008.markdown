@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley]
 keywords: 
 tags: []
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 - [calaboration - Google Code's easy iCal setup for Google Calendars](http://code.google.com/p/calaboration)From the site: "Calaboration makes it easy to set up iCal to view and edit your Google Calendar calendars. It automatically finds all of your calendars and allows you to add any of them to iCal with the press of a button. "[tags](http://www.diigo.com/cloud/rickcogley): [ical](http://www.diigo.com/user/rickcogley/ical), [sync](http://www.diigo.com/user/rickcogley/sync), [calendar](http://www.diigo.com/user/rickcogley/calendar), [google](http://www.diigo.com/user/rickcogley/google), [apple](http://www.diigo.com/user/rickcogley/apple), [Mac](http://www.diigo.com/user/rickcogley/Mac), [googlecalendar](http://www.diigo.com/user/rickcogley/googlecalendar), [calaboration](http://www.diigo.com/user/rickcogley/calaboration)

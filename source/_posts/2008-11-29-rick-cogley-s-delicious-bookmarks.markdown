@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley]
 keywords: 
 tags: []
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 <style type="text/css">  h1 a:hover {background-color:#888;color:#fff ! important;}  div#emailbody table#itemcontentlist tr td div ul { list-style-type:square; padding-left:1em; }  div#emailbody table#itemcontentlist tr td div blockquote { padding-left:6px; border-left: 6px solid #dadada; margin-left:1em; }  div#emailbody table#itemcontentlist tr td div li { margin-bottom:1em; margin-left:1em; }   table#itemcontentlist tr td a:link, table#itemcontentlist tr td a:visited, table#itemcontentlist tr td a:active { color:#000099; font-weight:bold; text-decoration:none; }  img {border:none;}   </style> 

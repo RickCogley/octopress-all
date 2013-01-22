@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Vault, chown, chmod, posix, permissions, cli, apvault, terminal, Package, apple, aperture]
 keywords: Vault,chown,chmod,posix,permissions,cli,apvault,terminal,Package,apple,aperture
 tags: [Vault,chown,chmod,posix,permissions,cli,apvault,terminal,Package,apple,aperture]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

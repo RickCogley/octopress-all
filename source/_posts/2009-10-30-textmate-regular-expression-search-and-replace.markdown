@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Editor, productivity, software, textmate]
 keywords: Editor,productivity,software,textmate
 tags: [Editor,productivity,software,textmate]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

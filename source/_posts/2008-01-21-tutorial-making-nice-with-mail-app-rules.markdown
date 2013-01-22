@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, rules, yai, tutorials, mail scripts, mail act on, mailtags, articles, omnifocus, mail.app, gtd, apple]
 keywords: rules,yai,tutorials,mail scripts,mail act on,mailtags,articles,omnifocus,mail.app,gtd,apple
 tags: [rules,yai,tutorials,mail scripts,mail act on,mailtags,articles,omnifocus,mail.app,gtd,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: Post on wrangling OS X Mail.app rules, by Rick Cogley.
+published: true
 ---
  
 ## Tutorial Introduction
@@ -17,6 +21,7 @@ I got Mail.app set up to use Gmail's IMAP, and wrote a bit about it in [this tut
 This tutorial describes how I solve the challenge, marking my subscriptions and regular mails as "Expiring", so that I can use a smart folder to view and prune them regularly.
 
 ## Prerequisites
+
 Here's what you need to follow this tutorial:<br />  1. Leopard Mail.app
   2. Andreas Amann's [Mail Scripts](http://homepage.mac.com/aamann/Mail_Scripts.html "Mail Scripts")
   3. John Maisey's [YAI](http://www.nhoj.co.uk/ "John Maisey's YAI") You Are Invited
@@ -25,6 +30,7 @@ Here's what you need to follow this tutorial:<br />  1. Leopard Mail.app
 Let's get started.
 
 ## Understanding Some Initial Failures
+
 At first, I went down the path of attempting to use Scott Morrison's [MailTags](http://www.indev.ca/MailTags.html "Scott Morrison's MailTags") [beta for Leopard](http://www.indev.ca/MailTagsAndLeopard.html "Beta Version of MailTags for Leopard") to try to tag incoming mails with a keyword and project, but in the end, I was forced to give up using this excellent Mail.app bundle. It seems that Google Mail's IMAP implementation is simply non-standard, and it does not play well with what MailTags needs to do, which as I understand it is to write tag information into custom mail headers. So if you use Gmail and IMAP, you're out of luck to be able to use MailTags at this point.<br />
 Secondly, I was thinking to use my technique from Entourage, which was to use an AppleScript fired by a rule for all incoming mail, to check a list of recipients. This was not very easy to use though, because I was forever opening up the script to add new addresses. Not very elegant.
 

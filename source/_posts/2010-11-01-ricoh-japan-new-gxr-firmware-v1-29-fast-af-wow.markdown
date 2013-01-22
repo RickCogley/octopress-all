@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Personal, Photography, Troubleshooting, Gadgets, Software, Upgrades]
 keywords: Firmware,upgrade,Ricoh GXR
 tags: [Firmware,upgrade,Ricoh GXR]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

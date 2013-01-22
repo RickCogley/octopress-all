@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, tip, tips, software, media, disco]
 keywords: tip,tips,software,media,disco
 tags: [tip,tips,software,media,disco]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

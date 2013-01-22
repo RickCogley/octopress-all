@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, tip, os x, tips, software, 10.5.7, apple]
 keywords: tip,os x,tips,software,10.5.7,apple
 tags: [tip,os x,tips,software,10.5.7,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

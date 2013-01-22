@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, siren, sound, chorus, ponyo, cutie honey, doppler, experiment, japanese tv]
 keywords: siren,sound,chorus,ponyo,cutie honey,doppler,experiment,japanese tv
 tags: [siren,sound,chorus,ponyo,cutie honey,doppler,experiment,japanese tv]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

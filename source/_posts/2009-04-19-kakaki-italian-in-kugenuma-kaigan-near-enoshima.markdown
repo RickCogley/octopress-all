@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Kakaki, Italian, passions, food]
 keywords: Kakaki,Italian,passions,food
 tags: [Kakaki,Italian,passions,food]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

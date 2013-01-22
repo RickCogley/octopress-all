@@ -1,12 +1,16 @@
 ---           
 layout: post
-post_title: "Tutorial - Setting up Leopard Mail.app with Google Gmail IMAP - The\nBasics"
+post_title: "Tutorial - Setting up Leopard Mail.app with Google Gmail IMAP - The Basics"
 date: 2008-01-20 12:13:13 UTC
 updated: 2008-01-20 12:13:13 UTC
 comments: true
 categories: [Blog-Cogley, tutorials, filter, google mail, gmail, imap, header, articles, mail.app]
 keywords: tutorials,filter,google mail,gmail,imap,header,articles,mail.app
 tags: [tutorials,filter,google mail,gmail,imap,header,articles,mail.app]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: Post on setting up OS X Leopard Mail.app to work with Google Gmail IMAP, by Rick Cogley.
+published: true
 ---
  
 ## Tutorial Introduction

@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley]
 keywords: 
 tags: []
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 - [How to Use Amazon S3 & PHP to Dynamically Store and Manage Files with Ease - NETTUTS](http://nettuts.com/misc/how-to-use-amazon-s3-php-to-dynamically-store-and-manage-files-with-ease)Author's intro: "Basically what we're going to do is use a standard HTML file element and an easy to use S3 PHP class to make a page where people can upload a file to your S3 account and get information about the files that have already been uploaded. For this you'll need an Amazon S3 account and a PHP enabled webserver. If you haven't heard about Amazon S3, or you don't have an account yet, read Collis' Introductory S3 Tutorial first."[tags](http://www.diigo.com/cloud/rickcogley): [nettuts](http://www.diigo.com/user/rickcogley/nettuts), [amazon s3](http://www.diigo.com/user/rickcogley/"amazon s3"), [s3](http://www.diigo.com/user/rickcogley/s3), [php](http://www.diigo.com/user/rickcogley/php), [bucket](http://www.diigo.com/user/rickcogley/bucket)

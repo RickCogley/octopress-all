@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Music, leisure, Pat Metheny Trio, Josh George, Art]
 keywords: Music,leisure,Pat Metheny Trio,Josh George,Art
 tags: [Music,leisure,Pat Metheny Trio,Josh George,Art]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, spotlight, Leopard Server, chown, chmod, permissions, cli, os x, chflags, ls, inherit]
 keywords: spotlight,Leopard Server,chown,chmod,permissions,cli,os x,chflags,ls,inherit
 tags: [spotlight,Leopard Server,chown,chmod,permissions,cli,os x,chflags,ls,inherit]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

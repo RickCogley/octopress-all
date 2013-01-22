@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, tip, MobileMe, iDisk, tips, software, Public Folder]
 keywords: productivity,tip,MobileMe,iDisk,tips,software,Public Folder
 tags: [productivity,tip,MobileMe,iDisk,tips,software,Public Folder]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 MobileMe iDisk users can share files **Public**ly, but it's _less than obvious_ how to do it. Further, the whole MobileMe experience is still a bit buggy as well, in my experience. Apple announced back in the summer when MobileMe launched, that easy sharing of public files via email would be "coming soon", and their site still reflects that notion. The MobileMe launch was not quite Apple, actually, and felt very poorly handled. Maybe if we're good we'll get a nice MobileMe upgrade Christmas present and be able to share Public file URLs easily via email. That aside, here's how you can do it now: ### How to Share Files via your MobileMe iDisk Public Folder

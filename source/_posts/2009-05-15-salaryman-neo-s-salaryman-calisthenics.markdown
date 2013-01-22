@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Salaryman Neo, Salaryman Taiso, humor, NHK]
 keywords: Salaryman Neo,Salaryman Taiso,humor,NHK
 tags: [Salaryman Neo,Salaryman Taiso,humor,NHK]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

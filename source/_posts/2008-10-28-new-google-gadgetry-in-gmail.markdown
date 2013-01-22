@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, google gadget, google labs, gmail]
 keywords: productivity,google gadget,google labs,gmail
 tags: [productivity,google gadget,google labs,gmail]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

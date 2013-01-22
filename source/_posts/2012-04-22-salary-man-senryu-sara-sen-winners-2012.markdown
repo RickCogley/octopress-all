@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Language, Humor]
 keywords: dai-ichi life,senryuu,川柳,humor,Senryu
 tags: [dai-ichi life,senryuu,川柳,humor,Senryu]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

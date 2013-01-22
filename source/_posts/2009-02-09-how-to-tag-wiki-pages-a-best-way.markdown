@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Apple Wiki, tagging, Leopard Server, tip, hierarchy, categorization]
 keywords: Apple Wiki,tagging,Leopard Server,tip,hierarchy,categorization
 tags: [Apple Wiki,tagging,Leopard Server,tip,hierarchy,categorization]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

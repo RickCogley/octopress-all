@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, atebits, tweetie, iPhone, twitter, stone design, twittelator]
 keywords: atebits,tweetie,iPhone,twitter,stone design,twittelator
 tags: [atebits,tweetie,iPhone,twitter,stone design,twittelator]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

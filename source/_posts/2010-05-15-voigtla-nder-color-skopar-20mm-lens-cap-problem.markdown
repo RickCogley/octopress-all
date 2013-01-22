@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Personal, Photography, Troubleshooting, Gadgets]
 keywords: Problem,Voigtländer Color-Skopar 20mm SL II,nikon,Lens Cap
 tags: [Problem,Voigtländer Color-Skopar 20mm SL II,nikon,Lens Cap]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

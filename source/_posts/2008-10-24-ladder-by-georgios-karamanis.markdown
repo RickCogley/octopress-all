@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, photography, Flickr, Georgios Karamanis]
 keywords: photography,Flickr,Georgios Karamanis
 tags: [photography,Flickr,Georgios Karamanis]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

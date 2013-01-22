@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, UTF-8, Shift JIS, Path Finder, CocoaTech, Encoding, import, textmate]
 keywords: UTF-8,Shift JIS,Path Finder,CocoaTech,Encoding,import,textmate
 tags: [UTF-8,Shift JIS,Path Finder,CocoaTech,Encoding,import,textmate]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Omni Group, Freeware]
 keywords: Omni Group,Freeware
 tags: [Omni Group,Freeware]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

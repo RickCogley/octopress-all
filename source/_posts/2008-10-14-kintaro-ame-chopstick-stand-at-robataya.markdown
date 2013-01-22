@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, roppongi, robataya, culture, kintaro, japan]
 keywords: roppongi,robataya,culture,kintaro,japan
 tags: [roppongi,robataya,culture,kintaro,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

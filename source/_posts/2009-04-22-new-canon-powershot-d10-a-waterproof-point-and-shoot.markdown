@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, sdhc, outdoors, Passions, leisure, photography, Waterproof, Canon D10]
 keywords: sdhc,outdoors,Passions,leisure,photography,Waterproof,Canon D10
 tags: [sdhc,outdoors,Passions,leisure,photography,Waterproof,Canon D10]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, virgin adventures, tokyo university, glenn wurst, newbie, zushi, yakuza ramen, shishamo, gaijin, allegheny college, japan]
 keywords: virgin adventures,tokyo university,glenn wurst,newbie,zushi,yakuza ramen,shishamo,gaijin,allegheny college,japan
 tags: [virgin adventures,tokyo university,glenn wurst,newbie,zushi,yakuza ramen,shishamo,gaijin,allegheny college,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

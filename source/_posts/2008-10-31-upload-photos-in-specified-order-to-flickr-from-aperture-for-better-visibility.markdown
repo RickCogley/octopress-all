@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, flickrexport, thomas hawk, connectedflow, flickr popularity, apple, aperture]
 keywords: productivity,flickrexport,thomas hawk,connectedflow,flickr popularity,apple,aperture
 tags: [productivity,flickrexport,thomas hawk,connectedflow,flickr popularity,apple,aperture]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

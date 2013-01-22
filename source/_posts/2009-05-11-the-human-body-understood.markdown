@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, humor, Facts]
 keywords: humor,Facts
 tags: [humor,Facts]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, tutorials, tips, software, google labs, gmail, imap, google]
 keywords: productivity,tutorials,tips,software,google labs,gmail,imap,google
 tags: [productivity,tutorials,tips,software,google labs,gmail,imap,google]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Agile Manifesto, software, Agile]
 keywords: Agile Manifesto,software,Agile
 tags: [Agile Manifesto,software,Agile]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Humoresque, School Songs, Carpenters]
 keywords: Humoresque,School Songs,Carpenters
 tags: [Humoresque,School Songs,Carpenters]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

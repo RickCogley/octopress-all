@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, iPhone, tip, tips, software, OS 3.0, apple]
 keywords: productivity,iPhone,tip,tips,software,OS 3.0,apple
 tags: [productivity,iPhone,tip,tips,software,OS 3.0,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

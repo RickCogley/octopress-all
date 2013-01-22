@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, Leading Zeros, Text Format, Numbers, iWork, apple]
 keywords: productivity,Leading Zeros,Text Format,Numbers,iWork,apple
 tags: [productivity,Leading Zeros,Text Format,Numbers,iWork,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

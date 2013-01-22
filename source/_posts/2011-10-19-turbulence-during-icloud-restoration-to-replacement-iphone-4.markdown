@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Japan, Software, Service, Business, Troubleshooting, Upgrades]
 keywords: iPhone,iOS 5,backup,Restore,iCloud,Joint Venture,apple
 tags: [iPhone,iOS 5,backup,Restore,iCloud,Joint Venture,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

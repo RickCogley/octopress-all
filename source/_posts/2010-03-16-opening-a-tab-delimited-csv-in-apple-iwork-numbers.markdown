@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, Tips]
 keywords: tab-delimited,CSV,TXT,TSV,tip,tips,Numbers,iWork,apple
 tags: [tab-delimited,CSV,TXT,TSV,tip,tips,Numbers,iWork,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

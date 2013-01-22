@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, us military fukaya communications base, culture, evacuation area, japan, earthquake, hinanjo]
 keywords: us military fukaya communications base,culture,evacuation area,japan,earthquake,hinanjo
 tags: [us military fukaya communications base,culture,evacuation area,japan,earthquake,hinanjo]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

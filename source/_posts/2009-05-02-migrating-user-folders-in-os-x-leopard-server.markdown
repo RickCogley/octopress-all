@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Leopard Server, tip, os x, tips, tutorial, Users, apple]
 keywords: Leopard Server,tip,os x,tips,tutorial,Users,apple
 tags: [Leopard Server,tip,os x,tips,tutorial,Users,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

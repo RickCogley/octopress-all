@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, pm, major projects, project management, inequities]
 keywords: pm,major projects,project management,inequities
 tags: [pm,major projects,project management,inequities]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

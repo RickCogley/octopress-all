@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Gracenote, productivity, iTunes, CD Text, software, cddb]
 keywords: Gracenote,productivity,iTunes,CD Text,software,cddb
 tags: [Gracenote,productivity,iTunes,CD Text,software,cddb]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

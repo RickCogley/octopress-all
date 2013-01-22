@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, culture, kintaro, kinataro-ame, japan]
 keywords: culture,kintaro,kinataro-ame,japan
 tags: [culture,kintaro,kinataro-ame,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

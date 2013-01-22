@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, photography, color profile, tutorials, tip, flock, tips, software, tutorial, icc, Firefox]
 keywords: productivity,photography,color profile,tutorials,tip,flock,tips,software,tutorial,icc,Firefox
 tags: [productivity,photography,color profile,tutorials,tip,flock,tips,software,tutorial,icc,Firefox]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, nobiru, niigata, miniskirt]
 keywords: nobiru,niigata,miniskirt
 tags: [nobiru,niigata,miniskirt]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

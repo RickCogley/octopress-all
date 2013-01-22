@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, balsamiq, productivity, dabbleboard, cross-platform, Open Labs, collaboration, software, mockup, iplotz, mockupscreens]
 keywords: balsamiq,productivity,dabbleboard,cross-platform,Open Labs,collaboration,software,mockup,iplotz,mockupscreens
 tags: [balsamiq,productivity,dabbleboard,cross-platform,Open Labs,collaboration,software,mockup,iplotz,mockupscreens]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

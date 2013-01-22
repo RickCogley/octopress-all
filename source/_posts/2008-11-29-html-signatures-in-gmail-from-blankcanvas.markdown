@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, Blank Canvas, Plugin, flock, software, gmail, Signature, HTML, Firefox, BlankCanvas]
 keywords: productivity,Blank Canvas,Plugin,flock,software,gmail,Signature,HTML,Firefox,BlankCanvas
 tags: [productivity,Blank Canvas,Plugin,flock,software,gmail,Signature,HTML,Firefox,BlankCanvas]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

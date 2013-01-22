@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, beiju, culture, birthday]
 keywords: beiju,culture,88,birthday
 tags: [beiju,culture,88,birthday]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

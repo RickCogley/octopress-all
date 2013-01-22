@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Language, Humor]
 keywords: senryuu,humor,elections,satire,sarasen,prime minister,poetry
 tags: [senryuu,humor,elections,satire,sarasen,prime minister,poetry]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

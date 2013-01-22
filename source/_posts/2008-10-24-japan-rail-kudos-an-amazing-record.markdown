@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan Rail, JR, Trains, japan]
 keywords: Japan Rail,JR,Trains,japan
 tags: [Japan Rail,JR,Trains,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

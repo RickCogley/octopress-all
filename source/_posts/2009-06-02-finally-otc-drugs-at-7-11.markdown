@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Health]
 keywords: Convenience,MHLW,OTC drugs,Gov't of Japan,PAL,7-11
 tags: [Convenience,MHLW,OTC drugs,Gov't of Japan,PAL,7-11]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -1,6 +1,6 @@
 ---           
 layout: post
-post_title: "Welcome to Snap:Japan"
+post_title: "Welcome to Snap!Japan"
 date: 2008-01-15 08:52:25 UTC
 updated: 2008-01-15 08:52:25 UTC
 comments: true

@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley]
 keywords: 
 tags: []
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 - [Panic - Transmit 3 - The next-generation Mac OS X FTP client!](http://www.panic.com/transmit)Transmit 3 is a great FTP client for the Mac. Must-have if you make websites. From the Panic Site: "Column view. idisk. sidebar. ftp/ssl. search. zooming. tabs. Transmit 3 takes mac os x ftp to the next level. "[tags](http://www.diigo.com/cloud/rickcogley): [ftp](http://www.diigo.com/user/rickcogley/ftp), [software](http://www.diigo.com/user/rickcogley/software), [mac](http://www.diigo.com/user/rickcogley/mac), [tools](http://www.diigo.com/user/rickcogley/tools), [transmit](http://www.diigo.com/user/rickcogley/transmit), [osx](http://www.diigo.com/user/rickcogley/osx), [macosx](http://www.diigo.com/user/rickcogley/macosx), [apple](http://www.diigo.com/user/rickcogley/apple), [sftp](http://www.diigo.com/user/rickcogley/sftp), [panic software](http://www.diigo.com/user/rickcogley/"panic software")

@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Technology, Software, Upgrades]
 keywords: Snow Leopard,10.7,os x,software,upgrade,Lion,apple
 tags: [Snow Leopard,10.7,os x,software,upgrade,Lion,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

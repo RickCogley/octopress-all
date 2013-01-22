@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, fiberglass mascot, megane drug, japan]
 keywords: fiberglass mascot,megane drug,japan
 tags: [fiberglass mascot,megane drug,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

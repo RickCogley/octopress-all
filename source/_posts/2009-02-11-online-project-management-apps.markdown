@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, SaaS, software, Online Project Management]
 keywords: productivity,SaaS,software,Online Project Management
 tags: [productivity,SaaS,software,Online Project Management]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

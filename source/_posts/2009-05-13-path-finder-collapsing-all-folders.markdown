@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, tip, Path Finder, CocoaTech, tips, software, collapse folders]
 keywords: tip,Path Finder,CocoaTech,tips,software,collapse folders
 tags: [tip,Path Finder,CocoaTech,tips,software,collapse folders]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

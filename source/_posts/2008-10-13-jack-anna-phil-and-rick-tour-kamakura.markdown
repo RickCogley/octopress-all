@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, omikuji, culture, kamakura, japan]
 keywords: omikuji,culture,kamakura,japan
 tags: [omikuji,culture,kamakura,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 [<img class="right" src="http://farm2.static.flickr.com/1288/624954004_9753b62cae_m.jpg" />](http://www.flickr.com/photos/81796435@N00/624954004 "View 'Jack, Anna, Phil and Rick Tour Kamakura' on Flickr.com")

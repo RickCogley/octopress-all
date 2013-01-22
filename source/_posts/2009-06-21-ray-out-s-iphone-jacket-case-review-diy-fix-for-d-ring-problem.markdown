@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Reviews, Gadgets, Mobile]
 keywords: Review,Ray-Out,DIY,Gadgets,レイアウト,RT-P1LC4/B,iPhone Case,iphone
 tags: [Review,Ray-Out,DIY,Gadgets,レイアウト,RT-P1LC4/B,iPhone Case,iphone]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

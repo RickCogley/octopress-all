@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, culture, emergency house]
 keywords: culture,emergency house
 tags: [culture,emergency house]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

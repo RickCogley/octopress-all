@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Music, Ameagari no yozora ni, RIP, Kiyoshiro Imawano]
 keywords: Music,Ameagari no yozora ni,RIP,Kiyoshiro Imawano
 tags: [Music,Ameagari no yozora ni,RIP,Kiyoshiro Imawano]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

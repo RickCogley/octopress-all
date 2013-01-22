@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, SysAdmin, Tips]
 keywords: productivity,command line,terminal,tr,crlf
 tags: [productivity,command line,terminal,tr,crlf]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

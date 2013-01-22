@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Language]
 keywords: leisure,Language,Japanese,Goroawase
 tags: [leisure,Language,Japanese,Goroawase]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

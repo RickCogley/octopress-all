@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, colorful, drugstore, aging population, japan]
 keywords: colorful,drugstore,aging population,japan
 tags: [colorful,drugstore,aging population,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

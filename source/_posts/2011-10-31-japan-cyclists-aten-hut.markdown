@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Cycling, Health, Upgrades]
 keywords: rules,law,交通ルール,guidelines,bicycle,自転車,cycling,japan,日本の自転車の法律
 tags: [rules,law,交通ルール,guidelines,bicycle,自転車,cycling,japan,日本の自転車の法律]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

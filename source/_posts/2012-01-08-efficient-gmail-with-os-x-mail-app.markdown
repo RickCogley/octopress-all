@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, Tips]
 keywords: productivity,os x,Archive,gmail,Google Apps,Lion,apple
 tags: [productivity,os x,Archive,gmail,Google Apps,Lion,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

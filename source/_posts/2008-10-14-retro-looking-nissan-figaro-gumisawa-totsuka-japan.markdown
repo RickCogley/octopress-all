@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, retro, gumisawa totsuka, nissan figaro, japan]
 keywords: retro,gumisawa totsuka,nissan figaro,japan
 tags: [retro,gumisawa totsuka,nissan figaro,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

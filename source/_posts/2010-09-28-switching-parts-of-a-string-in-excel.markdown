@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, Tips]
 keywords: productivity,tip,Excel,Formula
 tags: [productivity,tip,Excel,Formula]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

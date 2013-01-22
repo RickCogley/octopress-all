@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Humor]
 keywords: kafunsho,intestines,culture,humor,uniqueness,snow,Japanese,nihonjinron,japan,hay fever
 tags: [kafunsho,intestines,culture,humor,uniqueness,snow,Japanese,nihonjinron,japan,hay fever]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

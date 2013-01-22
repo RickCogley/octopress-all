@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Error, RapidWeaver, 301 Redirects, productivity, tutorial, .htaccess]
 keywords: Error,RapidWeaver,301 Redirects,productivity,tutorial,404,.htaccess
 tags: [Error,RapidWeaver,301 Redirects,productivity,tutorial,404,.htaccess]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

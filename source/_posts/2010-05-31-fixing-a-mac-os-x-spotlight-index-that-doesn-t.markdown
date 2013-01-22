@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, SysAdmin, Tips]
 keywords: spotlight,tip,mdutil,tips,Entire Message,cocktail,mdimporter,mail.app
 tags: [spotlight,tip,mdutil,tips,Entire Message,cocktail,mdimporter,mail.app]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

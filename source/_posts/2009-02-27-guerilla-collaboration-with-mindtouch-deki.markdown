@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Aaron Fulkerson, behavior, productivity, collaboration, gorilla, dekiwiki, mindtouch]
 keywords: Aaron Fulkerson,behavior,productivity,collaboration,gorilla,dekiwiki,mindtouch
 tags: [Aaron Fulkerson,behavior,productivity,collaboration,gorilla,dekiwiki,mindtouch]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

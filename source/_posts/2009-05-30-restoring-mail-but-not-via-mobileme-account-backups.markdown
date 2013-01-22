@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, os x, plist, software, Time Machine, mail, 10.5.7, mail.app, apple]
 keywords: productivity,os x,plist,software,Time Machine,mail,10.5.7,mail.app,apple
 tags: [productivity,os x,plist,software,Time Machine,mail,10.5.7,mail.app,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

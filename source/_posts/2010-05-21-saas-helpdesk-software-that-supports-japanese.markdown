@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Professional, Web, Reviews, Business, Service]
 keywords: helpdesk,zendesk,japanese,software as a service,SaaS,pricing,software,alternatives,helpdesk applications,processing,language
 tags: [helpdesk,zendesk,japanese,software as a service,SaaS,pricing,software,alternatives,helpdesk applications,processing,language]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

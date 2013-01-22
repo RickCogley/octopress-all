@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Jack Bauer, Doki-doki Camp]
 keywords: Jack Bauer,Doki-doki Camp,24
 tags: [Jack Bauer,Doki-doki Camp,24]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

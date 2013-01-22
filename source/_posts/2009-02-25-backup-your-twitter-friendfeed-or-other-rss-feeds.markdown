@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, backup, friendfeed, twitter, feedburner, rss]
 keywords: backup,friendfeed,twitter,feedburner,rss
 tags: [backup,friendfeed,twitter,feedburner,rss]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

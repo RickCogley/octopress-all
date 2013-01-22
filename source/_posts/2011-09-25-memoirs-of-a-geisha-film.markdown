@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Reviews]
 keywords: Reviews,culture,memoirs of a geisha,film,movie
 tags: [Reviews,culture,memoirs of a geisha,film,movie]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

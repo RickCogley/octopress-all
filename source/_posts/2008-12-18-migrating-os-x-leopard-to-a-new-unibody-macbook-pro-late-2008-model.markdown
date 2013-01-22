@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, MA, defaults, migration assistant, migrate, os x, new hardware, leopard, move, terminal]
 keywords: MA,defaults,migration assistant,migrate,os x,new hardware,leopard,move,terminal
 tags: [MA,defaults,migration assistant,migrate,os x,new hardware,leopard,move,terminal]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

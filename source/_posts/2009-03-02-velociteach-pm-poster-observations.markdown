@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, pm, velociteach, Lean, Agile Manifesto, Agile Principles, Agile, management, consulting]
 keywords: pm,velociteach,Lean,Agile Manifesto,Agile Principles,Agile,management,consulting
 tags: [pm,velociteach,Lean,Agile Manifesto,Agile Principles,Agile,management,consulting]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

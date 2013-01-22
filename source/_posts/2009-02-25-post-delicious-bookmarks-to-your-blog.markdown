@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, blogger, productivity, delicious, xml-rpc]
 keywords: blogger,productivity,delicious,xml-rpc
 tags: [blogger,productivity,delicious,xml-rpc]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

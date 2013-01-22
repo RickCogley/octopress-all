@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, free, freespot, wireless, wifi]
 keywords: free,freespot,wireless,wifi
 tags: [free,freespot,wireless,wifi]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

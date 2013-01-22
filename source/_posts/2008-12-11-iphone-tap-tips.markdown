@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, tap sequence, productivity, iPhone, tips, Tap Tips, keypress]
 keywords: tap sequence,productivity,iPhone,tips,Tap Tips,keypress
 tags: [tap sequence,productivity,iPhone,tips,Tap Tips,keypress]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, 25th Birthday, mac, apple]
 keywords: 25th Birthday,mac,apple
 tags: [25th Birthday,mac,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

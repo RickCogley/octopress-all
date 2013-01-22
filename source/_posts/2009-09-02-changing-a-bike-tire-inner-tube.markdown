@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Repair, leisure, Tube, DIY, Bike, cycling, Inner-tube]
 keywords: Repair,leisure,Tube,DIY,Bike,cycling,Inner-tube
 tags: [Repair,leisure,Tube,DIY,Bike,cycling,Inner-tube]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Humor]
 keywords: manzai,waraimeshi,non-style,humor,panku bubu,m1 grandprix
 tags: [manzai,waraimeshi,non-style,humor,panku bubu,m1 grandprix]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Humor]
 keywords: Horror,Toilet Paper,humor,Drop,Koji Suzuki
 tags: [Horror,Toilet Paper,humor,Drop,Koji Suzuki]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

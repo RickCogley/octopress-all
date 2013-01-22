@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, update, mac, cycling]
 keywords: update,mac,cycling
 tags: [update,mac,cycling]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

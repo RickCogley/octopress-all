@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Nakamise, Chinese Lantern Plant, asakusa, hozuki, matsuri, japan]
 keywords: Nakamise,Chinese Lantern Plant,asakusa,hozuki,matsuri,japan
 tags: [Nakamise,Chinese Lantern Plant,asakusa,hozuki,matsuri,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

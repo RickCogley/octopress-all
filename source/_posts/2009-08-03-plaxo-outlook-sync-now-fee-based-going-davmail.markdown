@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Snow Leopard, DavMail, Sync, Plaxo Premium, Plaxo]
 keywords: Snow Leopard,DavMail,Sync,Plaxo Premium,Plaxo
 tags: [Snow Leopard,DavMail,Sync,Plaxo Premium,Plaxo]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 [<img class="right" src="http://farm3.static.flickr.com/2054/3784473088_5c566e77f2_m.jpg" />](http://www.flickr.com/photos/81796435@N00/3784473088 "View 'DavMail Gateway Settings' on Flickr.com")

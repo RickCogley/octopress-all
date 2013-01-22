@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, leisure, tokyo, tapas, restaurants, hiroo]
 keywords: leisure,tokyo,tapas,restaurants,hiroo
 tags: [leisure,tokyo,tapas,restaurants,hiroo]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 <img class="right" src="http://rick.cogley.info/snapjapan/index_files/bruinhiroo_1.jpg" /><br />Baru in Hiroo between Tengenji and Platinum Street. Great Tapas!

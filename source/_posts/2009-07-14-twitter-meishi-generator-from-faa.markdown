@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Twitter Meishi Generator, twitter, QR Code, faa, Business Card]
 keywords: Twitter Meishi Generator,twitter,QR Code,faa,Business Card
 tags: [Twitter Meishi Generator,twitter,QR Code,faa,Business Card]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

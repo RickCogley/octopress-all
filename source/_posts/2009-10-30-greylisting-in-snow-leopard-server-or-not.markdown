@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, tip, Postfix, Greylisting, software, mail, Snow Leopard Server]
 keywords: productivity,10.6,tip,Postfix,Greylisting,software,mail,Snow Leopard Server
 tags: [productivity,10.6,tip,Postfix,Greylisting,software,mail,Snow Leopard Server]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

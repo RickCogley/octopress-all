@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Language]
 keywords: Japan Rail,Language,Interpretation,Pronunciation,Engrish
 tags: [Japan Rail,Language,Interpretation,Pronunciation,Engrish]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

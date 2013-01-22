@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, task list, productivity, software, google labs, gmail, google apps premier edition, google]
 keywords: task list,productivity,software,google labs,gmail,google apps premier edition,google
 tags: [task list,productivity,software,google labs,gmail,google apps premier edition,google]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

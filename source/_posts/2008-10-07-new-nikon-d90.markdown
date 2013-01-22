@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Passions, photography, nikon d90, gadgets]
 keywords: Passions,photography,nikon d90,gadgets
 tags: [Passions,photography,nikon d90,gadgets]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 I got a [Nikon D90](http://www.nikonusa.com/Find-Your-Nikon/Product/Digital-SLR/25446/D90.html) and it's a wonderful DSLR. Hope to be able to write some FAQs or Tutorials about it here. <br />

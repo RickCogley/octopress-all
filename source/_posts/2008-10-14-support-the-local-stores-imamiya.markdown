@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, local shop, culture, imamiya, japan]
 keywords: local shop,culture,imamiya,japan
 tags: [local shop,culture,imamiya,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

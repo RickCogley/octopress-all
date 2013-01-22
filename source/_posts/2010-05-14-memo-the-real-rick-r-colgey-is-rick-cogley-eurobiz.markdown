@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Professional, Personal, Errata]
 keywords: Proofreading,Mistake,Correction,Rick R. Colgey,Eurobiz
 tags: [Proofreading,Mistake,Correction,Rick R. Colgey,Eurobiz]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

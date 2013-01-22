@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, google labs, google apps premier edition, web applications, gape]
 keywords: productivity,google labs,google apps premier edition,web applications,gape
 tags: [productivity,google labs,google apps premier edition,web applications,gape]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

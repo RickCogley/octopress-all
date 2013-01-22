@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Convenience, キオスク, Japan Rail, metro, Kiosk, wicket, Vendor, suica, subway, japan]
 keywords: Convenience,キオスク,Japan Rail,metro,Kiosk,wicket,Vendor,suica,subway,japan
 tags: [Convenience,キオスク,Japan Rail,metro,Kiosk,wicket,Vendor,suica,subway,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

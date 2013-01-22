@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, social networking, terms of service, legal, tos, facebook, intellectual property]
 keywords: social networking,terms of service,legal,tos,facebook,intellectual property
 tags: [social networking,terms of service,legal,tos,facebook,intellectual property]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, superdrive, tip, tips, software, hardware, apple]
 keywords: superdrive,tip,tips,software,hardware,apple
 tags: [superdrive,tip,tips,software,hardware,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

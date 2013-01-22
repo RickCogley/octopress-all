@@ -1,6 +1,6 @@
 ---           
 layout: post
-post_title: "Convenient \"Snippets++\" with Code Collector Pro"
+post_title: "Convenient Snippets with Code Collector Pro"
 date: 2008-01-15 08:36:35 UTC
 updated: 2008-01-15 08:36:35 UTC
 comments: true

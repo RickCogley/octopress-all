@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, photography, apple, aperture]
 keywords: photography,3.0,apple,aperture
 tags: [photography,3.0,apple,aperture]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

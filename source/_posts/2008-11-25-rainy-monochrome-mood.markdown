@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan Rail, photography, Shinjuku, monochrome, black and white]
 keywords: Japan Rail,photography,Shinjuku,monochrome,black and white
 tags: [Japan Rail,photography,Shinjuku,monochrome,black and white]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

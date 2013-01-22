@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, raw, productivity, Apple Digital Camera Raw Compatibility Update, nikon d90, aperture]
 keywords: raw,productivity,Apple Digital Camera Raw Compatibility Update,nikon d90,aperture
 tags: [raw,productivity,Apple Digital Camera Raw Compatibility Update,nikon d90,aperture]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

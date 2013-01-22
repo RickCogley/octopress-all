@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, LDAP, Open Directory, tips, software, Troubleshooting, apple]
 keywords: LDAP,Open Directory,tips,software,Troubleshooting,apple
 tags: [LDAP,Open Directory,tips,software,Troubleshooting,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

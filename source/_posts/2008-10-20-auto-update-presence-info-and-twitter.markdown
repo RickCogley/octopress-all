@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, statz, productivity, twitterfeed, tinyurl, presence information, software, twitter, rss]
 keywords: statz,productivity,twitterfeed,tinyurl,presence information,software,twitter,rss
 tags: [statz,productivity,twitterfeed,tinyurl,presence information,software,twitter,rss]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 [<img class="right" src="http://static.flickr.com/3223/2927866779_1bb831065a.jpg" />](http://www.flickr.com/photos/81796435@N00/2927866779 "View 'Twitter Autoupdated by Twitterfeed' on Flickr.com")

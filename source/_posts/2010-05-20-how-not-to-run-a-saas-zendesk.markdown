@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Professional, Web, Reviews, Business, Service]
 keywords: zendesk,ethics,angry,SaaS,software,price increase,poor business practice
 tags: [zendesk,ethics,angry,SaaS,software,price increase,poor business practice]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

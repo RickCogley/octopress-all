@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Snow Leopard, productivity, D02HW, os x, EMobile, software, apple]
 keywords: Snow Leopard,productivity,D02HW,os x,EMobile,software,apple
 tags: [Snow Leopard,productivity,D02HW,os x,EMobile,software,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

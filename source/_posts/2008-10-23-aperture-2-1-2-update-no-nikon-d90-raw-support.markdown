@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, raw, nikon d90, aperture]
 keywords: raw,nikon d90,aperture,2.1.2
 tags: [raw,nikon d90,aperture,2.1.2]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

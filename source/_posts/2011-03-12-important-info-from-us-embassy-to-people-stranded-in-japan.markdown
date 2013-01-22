@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Japan, Emergency, Disaster]
 keywords: Stranded,Earthquake,Refugee,Emergency,Emergencies,Disasters,Notification,Evacuation,ACCJ,US Embassy,japan,American Chamber of Commerce in Japan
 tags: [Stranded,Earthquake,Refugee,Emergency,Emergencies,Disasters,Notification,Evacuation,ACCJ,US Embassy,japan,American Chamber of Commerce in Japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Agile Manifesto, software, project management, Agile Principles]
 keywords: Agile Manifesto,software,project management,Agile Principles
 tags: [Agile Manifesto,software,project management,Agile Principles]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

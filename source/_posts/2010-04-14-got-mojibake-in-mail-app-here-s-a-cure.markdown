@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, Tips]
 keywords: mojibake,tip,10.6.3,garbled japanese,terminal,mail.app,apple
 tags: [mojibake,tip,10.6.3,garbled japanese,terminal,mail.app,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

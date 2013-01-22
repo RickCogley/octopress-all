@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Popular, Language]
 keywords: Trends,Engrish,Language,500 yen,ワン コイン,One Coin
 tags: [Trends,Engrish,Language,500 yen,ワン コイン,One Coin]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

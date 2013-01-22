@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, social networking, productivity, ping.fm]
 keywords: social networking,productivity,ping.fm
 tags: [social networking,productivity,ping.fm]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

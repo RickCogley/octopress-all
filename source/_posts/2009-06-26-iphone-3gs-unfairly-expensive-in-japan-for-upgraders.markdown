@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, iPhone 3GS, Unfair, gadgets, Expensive, apple]
 keywords: iPhone 3GS,Unfair,gadgets,Expensive,apple
 tags: [iPhone 3GS,Unfair,gadgets,Expensive,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

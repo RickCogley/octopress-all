@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Web, Software, Technology, SysAdmin, Tips]
 keywords: indexing,concrete5,utilities,CMS,cron,geek,automation
 tags: [indexing,concrete5,utilities,CMS,cron,geek,automation]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

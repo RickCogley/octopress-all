@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Reviews]
 keywords: Convenience,Vollmer Design,tokyo,Getting Around,Informa,Tokyo Rail and Subway Map
 tags: [Convenience,Vollmer Design,tokyo,Getting Around,Informa,Tokyo Rail and Subway Map]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

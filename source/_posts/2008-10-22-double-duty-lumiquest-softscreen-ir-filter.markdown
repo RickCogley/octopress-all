@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, sb-900, ir filter, fujifilm, productivity, photography, su-800, nikon d90, sg-31r, nikon, gadgets, lumiquest, softscreen]
 keywords: sb-900,ir filter,fujifilm,productivity,photography,su-800,nikon d90,sg-31r,nikon,gadgets,lumiquest,softscreen
 tags: [sb-900,ir filter,fujifilm,productivity,photography,su-800,nikon d90,sg-31r,nikon,gadgets,lumiquest,softscreen]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

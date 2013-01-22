@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Facebook, Mixi, Twitter, SNS, japan, Thierry de Baillon]
 keywords: Facebook,Mixi,Twitter,SNS,japan,Thierry de Baillon
 tags: [Facebook,Mixi,Twitter,SNS,japan,Thierry de Baillon]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, glasses, zoff, spectacles, japan]
 keywords: glasses,zoff,spectacles,japan
 tags: [glasses,zoff,spectacles,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

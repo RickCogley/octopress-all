@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Personal, Reviews]
 keywords: Killspencer,Backpack,Military
 tags: [Killspencer,Backpack,Military]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

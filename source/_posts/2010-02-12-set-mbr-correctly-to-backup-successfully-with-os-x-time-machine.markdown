@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, backup, software, Time Machine, osx, mbr, partition map, apple]
 keywords: 10.6,backup,software,Time Machine,osx,mbr,partition map,apple
 tags: [10.6,backup,software,Time Machine,osx,mbr,partition map,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

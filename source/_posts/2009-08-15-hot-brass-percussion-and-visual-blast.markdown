@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Blast, leisure, Star of Indiana, Live Shows, Drum and Bugle Corps]
 keywords: Blast,leisure,Star of Indiana,Live Shows,Drum and Bugle Corps
 tags: [Blast,leisure,Star of Indiana,Live Shows,Drum and Bugle Corps]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

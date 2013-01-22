@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, iMovie, productivity, iLife, tip, tips, software, youtube, apple]
 keywords: iMovie,productivity,iLife,tip,tips,software,youtube,apple
 tags: [iMovie,productivity,iLife,tip,tips,software,youtube,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

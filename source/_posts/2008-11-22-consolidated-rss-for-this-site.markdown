@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, feed43, productivity, consolidated rss, subscription, html scraping, subscribe, yahoo, feedburner, web applications, rss, yahoo pipes]
 keywords: feed43,productivity,consolidated rss,subscription,html scraping,subscribe,yahoo,feedburner,web applications,rss,yahoo pipes
 tags: [feed43,productivity,consolidated rss,subscription,html scraping,subscribe,yahoo,feedburner,web applications,rss,yahoo pipes]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

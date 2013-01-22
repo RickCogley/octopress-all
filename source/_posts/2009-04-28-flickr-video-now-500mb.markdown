@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Video, tip, Flickr]
 keywords: Video,tip,Flickr
 tags: [Video,tip,Flickr]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, culture, bus tour, limousine bus, humor, japan]
 keywords: culture,bus tour,limousine bus,humor,japan
 tags: [culture,bus tour,limousine bus,humor,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

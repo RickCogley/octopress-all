@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Music, Performance, Street]
 keywords: Music,Chikara Saito,Street Performers,Sousuke Kawamoto,Street Jazz,Musicians,japan,George Kano
 tags: [Music,Chikara Saito,Street Performers,Sousuke Kawamoto,Street Jazz,Musicians,japan,George Kano]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

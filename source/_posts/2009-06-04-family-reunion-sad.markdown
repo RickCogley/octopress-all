@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, Japan, Culture, Family]
 keywords: New Years,Reunion,Oshogatsu,japan
 tags: [New Years,Reunion,Oshogatsu,japan]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

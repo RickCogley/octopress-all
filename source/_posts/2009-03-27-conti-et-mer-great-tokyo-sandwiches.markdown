@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, French, delivery, sandwiches, conti et mer]
 keywords: French,delivery,sandwiches,conti et mer
 tags: [French,delivery,sandwiches,conti et mer]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 [<img class="right" src="http://farm4.static.flickr.com/3589/3388829574_72d3a92f55_m.jpg" />](http://www.flickr.com/photos/81796435@N00/3388829574 "View 'Conti et Mer - Great Sandwiches in Tokyo' on Flickr.com")

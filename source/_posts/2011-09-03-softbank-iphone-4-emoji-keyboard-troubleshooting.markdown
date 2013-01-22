@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Japan, Software, Mobile, Gadgets, Productivity, Troubleshooting]
 keywords: Problem,keyboard,iPhone,emoji,softbank
 tags: [Problem,keyboard,iPhone,emoji,softbank]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

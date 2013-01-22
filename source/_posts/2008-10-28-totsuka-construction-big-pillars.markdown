@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, totsuka, signage, pillars, japan, construction]
 keywords: totsuka,signage,pillars,japan,construction
 tags: [totsuka,signage,pillars,japan,construction]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

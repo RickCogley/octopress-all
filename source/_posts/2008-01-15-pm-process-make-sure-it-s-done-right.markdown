@@ -1,6 +1,6 @@
 ---           
 layout: post
-post_title: "PM Process - Make sure it's done right."
+post_title: "PM Process - Make sure it is done right."
 date: 2008-01-15 08:36:22 UTC
 updated: 2008-01-15 08:36:22 UTC
 comments: true

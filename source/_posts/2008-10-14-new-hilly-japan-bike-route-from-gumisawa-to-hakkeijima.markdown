@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Bike Routes, fitness, cycling]
 keywords: Bike Routes,fitness,cycling
 tags: [Bike Routes,fitness,cycling]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

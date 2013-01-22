@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, Bike Routes, think tank photo, hakkeijima sea paradise, cycling]
 keywords: Bike Routes,think tank photo,hakkeijima sea paradise,cycling
 tags: [Bike Routes,think tank photo,hakkeijima sea paradise,cycling]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

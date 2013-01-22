@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, productivity, web2.0, automation, software, twitter, twautor]
 keywords: productivity,web2.0,automation,software,twitter,twautor
 tags: [productivity,web2.0,automation,software,twitter,twautor]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

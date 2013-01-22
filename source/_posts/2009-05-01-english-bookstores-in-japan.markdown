@@ -7,6 +7,10 @@ comments: true
 categories: [SnapJapan, yaesu book center, bookstores, maruzen, living, kinokuniya]
 keywords: yaesu book center,bookstores,maruzen,living,kinokuniya
 tags: [yaesu book center,bookstores,maruzen,living,kinokuniya]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 

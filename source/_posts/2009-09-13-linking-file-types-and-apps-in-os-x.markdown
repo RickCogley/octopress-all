@@ -7,6 +7,10 @@ comments: true
 categories: [Blog-Cogley, PDF, productivity, os x, tips, apple]
 keywords: PDF,productivity,os x,tips,apple
 tags: [PDF,productivity,os x,tips,apple]
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+description: xxxxxxx
+published: true
 ---
  
 
