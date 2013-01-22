@@ -4,7 +4,7 @@ post_title: "A successful year in 2003"
 date: 2008-01-15 08:36:17 UTC
 updated: 2008-01-15 08:36:17 UTC
 comments: true
-categories: [Blog-Cogley, wrapup, interesting]
+categories: [Blog-Cogley, Japan, Professional, Business]
 keywords: wrapup,2003,interesting
 tags: [wrapup,2003,interesting]
 ---
