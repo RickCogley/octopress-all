@@ -136,11 +136,11 @@ section{ font-family: $serif; }
 	h1{ 
 		margin-bottom: 0.1em;
 		a{
-			color: #bb0000; // top header color
-			&:hover{ color: #ff0000; } //top header hovered state color
+			color: #00b822; // top header color
+			&:hover{ color: #00e029; } //top header hovered state color
 		} 
 	}
-	h2{ font-style: italic; font-size: 1em; color: #aa0000; } //subheader color
+	h2{ font-style: italic; font-size: 1em; color: #007516; } //subheader color
 }
 
 .pullquote-right::before{
