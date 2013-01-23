@@ -4,12 +4,12 @@ post_title: "New Schwalbe Marathon Tires"
 date: 2008-09-02 01:59:24 UTC
 updated: 2008-09-02 01:59:24 UTC
 comments: true
-categories: [Blog-Cogley, streetrunner, marathon, leisure, geax, schwalbe, cycling]
+categories: [Blog-Cogley, Cycling, Gadgets]
 keywords: streetrunner,marathon,leisure,geax,schwalbe,cycling
 tags: [streetrunner,marathon,leisure,geax,schwalbe,cycling]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Schwalbe Marathon tires for MTB, by Rick Cogley.
 published: true
 ---
  

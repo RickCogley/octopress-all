@@ -13,7 +13,11 @@ description: Celebrating Phantom Regiment's 2008 DCI win - I am Spartacus!
 published: true
 ---
  
-[Phantom Regiment - Drum & Bugle Corps](http://www.regiment.org/) won the 2008 DCI [Drum Corps International](http://www.dci.org/news/view.cfm?news_id=95b6a866-ed90-41ec-8f88-498480c87c77) Championship yesterday with a evocative, powerfully emotional show based on the story of [Spartacus](http://en.wikipedia.org/wiki/Spartacus), the gladiator and slave-leader who led an army of slaves against Rome in the Servile Wars. The [1960 movie](http://www.imdb.com/title/tt0054331/) with Kirk Douglas has a famous scene that has been quoted and parodied, where the Romans demand Spartacus come forward, and his fellow slaves say "I am Spartacus" to try to sacrifice themselves to protect their leader. 
+_[Phantom Regiment - Drum & Bugle Corps](http://www.regiment.org/) won the 2008 DCI [Drum Corps International](http://www.dci.org/news/view.cfm?news_id=95b6a866-ed90-41ec-8f88-498480c87c77) Championship yesterday with a evocative, powerfully emotional show based on the story of [Spartacus](http://en.wikipedia.org/wiki/Spartacus), the gladiator and slave-leader who led an army of slaves against Rome in the Servile Wars._
+
+<!--more--> 
+
+The [1960 movie](http://www.imdb.com/title/tt0054331/) with Kirk Douglas has a famous scene that has been quoted and parodied, where the Romans demand Spartacus come forward, and his fellow slaves say "I am Spartacus" to try to sacrifice themselves to protect their leader. 
 
 Regiment did not represent the mass crucifixion on the _Appian_ Way, but did use stylized, theatrical violence in an operatic way, to show the tension between the Romans and the slaves. Their entrance to the field was epic, with "slave-master" hornplayers mimicing the brutal treatment slaves received at the hands of their Roman captors. The drum major Will Pitts was even wheeled out on his conductor's podium, as though it was a chariot or throne and he was the Roman Emperor. 
 

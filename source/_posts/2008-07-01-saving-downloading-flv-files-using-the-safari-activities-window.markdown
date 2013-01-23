@@ -13,7 +13,11 @@ description: How to save videos from websites using Safari Activities window, by
 published: true
 ---
  
-If you have a YouTube video you covet, you can save it to your hard drive using the videodownloader Firefox extension, or using other websites such as [KeepVid](http://keepvid.com). For sites that do not work this way, you can grab the file from Safari's "Activities" window. Here's how: 
+_If you have a YouTube video you covet, you can save it to your hard drive using the videodownloader Firefox extension, or using other websites such as [KeepVid](http://keepvid.com). For sites that do not work this way, there's still hope for Mac users._
+
+<!--more--> 
+
+You can grab the file from Safari's "Activities" window. Here's how: 
 
 1. Load the page with the video and let the video start playing. 
 1. Select Activity from the Window menu. 
