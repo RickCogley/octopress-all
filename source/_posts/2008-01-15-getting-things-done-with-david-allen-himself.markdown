@@ -13,7 +13,11 @@ description: Link to Youtube video of David Allen, of GTD fame.
 published: true
 ---
  
-Check out this YouTube video of David Allen himself, speaking about Getting Things Done, and two keys to sustaining a healthy life and work style. Mr. Allen is a good speaker, and self-effacing.
+_Check out this YouTube video of David Allen himself, speaking about Getting Things Done, and two keys to sustaining a healthy life and work style._ 
+
+<!--more--> 
+
+Mr. Allen is a good speaker, and self-effacing.
 
 {% youtube Qo7vUdKTlhk %} 
 

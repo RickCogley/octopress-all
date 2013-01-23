@@ -4,13 +4,16 @@ post_title: "Kamogawa-kan - Beautiful Ryokan in Chiba"
 date: 2008-08-11 12:36:55 UTC
 updated: 2008-08-11 12:36:55 UTC
 comments: true
-categories: [SnapJapan, leisure, kamogawa, passions, ryokan, kamogawa-kan, abalone, japan]
+categories: [SnapJapan, Japan, Family]
 keywords: leisure,kamogawa,passions,ryokan,kamogawa-kan,abalone,japan
 tags: [leisure,kamogawa,passions,ryokan,kamogawa-kan,abalone,japan]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on our 2008 visit to Kamogawa-kan in Chiba Japan, by Rick Cogley.
 published: true
 ---
  
-I took my family to [Kamogawa-kan](http://www.kamogawakan.co.jp) in Chiba for a couple days to relax in the onsen hotspring spa and sunbathe. Here's the brochure and general look of the place. All Cypress wood and quite beautiful inside. <br /><img class="right" src="http://rickcogley.smugmug.com/photos/349519220_5Jvgc-M.jpg" /><br />The below is a look at the front gate, and the menus for the kaiseki dinners (partial only). As well as a coaster with an artwork they own, of an "ama" diver gathering abalone, which was featured on the menu. <br />![](http://rickcogley.smugmug.com/photos/349519175_YL9gz-M.jpg "")<br />
+[{% img right http://farm4.staticflickr.com/3083/2752534811_28c2a2c9f4_d.jpg 400 'Click to view on Flickr: Kamogawa-kan Ryokan Brochure, Chiba 2008' 'Scan of Kamogawa-kan Ryokan Brochure.' %}](http://www.flickr.com/photos/rickcogley/2752534811/)I took my family to ["Kamogawa-kan"](http://www.kamogawakan.co.jp) in the Chiba peninsula for a couple days to relax in an onsen hotspring spa and sunbathe. Here's the brochure and general look of the ryokan spa facilities, right near Kamogawa Seaworld. It was all Cypress wood and quite beautiful inside. Abalone was featured on the delicious menu. We left red and well-fed. 
+
+
+ 

@@ -13,7 +13,11 @@ description: Tip on getting OS X version from command line, by Rick Cogley.
 published: true
 ---
 
-If you are logged into OS X as usual, you can get your system version from "About This Mac" in the Apple menu. This is not helpful when you are remotely connected to a server via SSH, however. So how do you do it? You can get OS X's version from the command line, like this:
+_If you are logged into OS X as usual, you can get your system version from "About This Mac" in the Apple menu. This is not helpful when you are remotely connected to a server via SSH, however. So how do you do it?_ 
+
+<!--more--> 
+
+You can get OS X's version from the command line, like this:
 
 {% codeblock Get Version of OS X lang:bash %}
 rcogley@RickMBP ~ % sw_vers

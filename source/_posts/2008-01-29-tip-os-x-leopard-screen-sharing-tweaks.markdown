@@ -13,9 +13,11 @@ description: Post on OS X Screen Sharing Tweaks, by Rick Cogley.
 published: true
 ---
  
-The default Leopard screen sharing app can be made a little more ARD-like, if you add some parameters via the "defaults write" command in Terminal. Check out the default style by sharing the screen of a neighboring computer in Finder. You can enable Screen Sharing on a machine in System Preferences, Sharing.
+_The default Leopard screen sharing app can be made a little more ARD-like, if you add some parameters via the "defaults write" command in Terminal. Check out the default style by sharing the screen of a neighboring computer in Finder, then read on to learn more._ 
 
-Now, to add the extra settings, first, open Terminal from your Applications, Utilities folder, then issue the following three commands (each is a single line):
+<!--more--> 
+
+You can enable Screen Sharing on a machine in System Preferences, Sharing. To add the extra settings, first, open Terminal from your Applications, Utilities folder, then issue the following three commands (each is a single line):
 
 {% codeblock Defaults Write for Screen Sharing Extensions lang:bash %}
 defaults write com.apple.ScreenSharing ShowBonjourBrowser_Debug 1

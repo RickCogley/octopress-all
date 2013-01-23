@@ -13,7 +13,11 @@ description: Post on the Japan Post, and how they are striving to provide better
 published: true
 ---
 
-A snap of the Japan Post Office logo, on our local post office's door. The sign you will see for the PO, or "yuubin kyoku" is a red T with two horizontal bars on the top. Lately, the PO has been marketing hard to better compete with private services - they have come round the office a couple of times to try to hawk their services. Much better than the PO of old, which was positively Imperious.
+_Here is a snap of the Japan Post Office logo, on our local post office's door. The sign you will see for the PO, or "yuubin kyoku" is a red T with two horizontal bars on the top._ 
+
+<!--more--> 
+
+Lately, the PO has been marketing hard to better compete with private services - they have come round the office a couple of times to try to hawk their services. Much better than the PO of old, which was positively Imperious. (Cue Death Star Music)
 
 {% img http://farm3.staticflickr.com/2258/2196809806_576d6b51f7_d.jpg %} 
 

@@ -13,9 +13,11 @@ description: Post on scheduling meetings across timezones, by Rick Cogley.
 published: true
 ---
 
-_In my job as a consultant, I often need to schedule meetings across timezones, and sometimes do not want to struggle with cross-platform incompatibilities between calendar software. There is some excellent software out there for this purpose, namely 1stClock on the Windows platform, or [Vela Terra](http://www.veladg.com "Vela Design Group") on Mac, but I thought I would roll my own quick solution with Automator channeling some shell script._
+_In my job as a consultant, I often need to schedule meetings across timezones, and sometimes do not want to struggle with cross-platform incompatibilities between calendar software. A few tips follow._
 
 <!--more-->
+
+There is some excellent software out there for this purpose, namely 1stClock on the Windows platform, or [Vela Terra](http://www.veladg.com "Vela Design Group") on Mac, but I thought I would roll my own quick solution with Automator channeling some shell script.
 
 Here's how to go about it, if you are on Mac OS X.
 

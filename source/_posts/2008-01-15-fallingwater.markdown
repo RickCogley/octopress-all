@@ -13,7 +13,9 @@ description: Photo of Falling Water in Bear Run, PA, by Rick Cogley.
 published: true
 ---
  
-The wonderful Frank Lloyd Wright-designed FallingWater in Bear Run, PA, USA never ceases to amaze. Here is a shot from a trip there in Jan 2008, with my parents. 
+_The wonderful Frank Lloyd Wright-designed FallingWater in Bear Run, PA, USA never ceases to amaze. Here is a shot from a trip there in Jan 2008, with my parents._ 
+
+<!--more--> 
 
 {% img http://farm2.static.flickr.com/1158/1425494100_b2dfbbd935.jpg %}
 
