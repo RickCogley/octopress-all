@@ -7,6 +7,10 @@ Business:
   awesomeicon: icon-money
   description: "Three quarters of my life is about doing business, and for 95% of my time in Japan, has been about running businesses. This is about that."
   image: /images/topic-business.jpg
+Celebration: 
+  awesomeicon: icon-beer
+  description: "Sometimes, you have to stop and smell the roses. Stop now. Celebrate before it's too late!"
+  image: /images/topic-celebration.jpg
 Culture: 
   awesomeicon: icon-globe
   description: "How we live and interact. Rights and privileges. Freedom vs restraint. Mores and morals, and maybe some morays. All your trends belong to us."

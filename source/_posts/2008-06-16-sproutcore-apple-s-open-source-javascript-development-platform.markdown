@@ -4,9 +4,9 @@ post_title: "SproutCore - Apple's Open Source Javascript Development Platform"
 date: 2008-06-16 23:39:01 UTC
 updated: 2008-06-16 23:39:01 UTC
 comments: true
-categories: [Blog-Cogley, javascript, sproutcore, software, web, apple]
-keywords: javascript,sproutcore,software,web,apple
-tags: [javascript,sproutcore,software,web,apple]
+categories: [Blog-Cogley, Web, Design]
+keywords: javascript,sproutcore,software,web,apple,appleinsider
+tags: [javascript,sproutcore,software,web,apple,appleinsider]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Sproutcore is Cocoa for the Web, they say, by Rick Cogley.

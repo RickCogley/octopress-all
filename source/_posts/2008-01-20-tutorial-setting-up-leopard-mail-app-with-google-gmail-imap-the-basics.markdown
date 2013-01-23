@@ -4,7 +4,7 @@ post_title: "Tutorial - Setting up Leopard Mail.app with Google Gmail IMAP - The
 date: 2008-01-20 12:13:13 UTC
 updated: 2008-01-20 12:13:13 UTC
 comments: true
-categories: [Blog-Cogley, tutorials, filter, google mail, gmail, imap, header, articles, mail.app]
+categories: [Blog-Cogley, Software, Tips, Productivity]
 keywords: tutorials,filter,google mail,gmail,imap,header,articles,mail.app
 tags: [tutorials,filter,google mail,gmail,imap,header,articles,mail.app]
 posticon: default
@@ -12,19 +12,20 @@ cover: /images/Rick_Casual_01.jpg
 description: Post on setting up OS X Leopard Mail.app to work with Google Gmail IMAP, by Rick Cogley.
 published: true
 ---
+
+_This tutorial describes how I set up Mail.app in OS X Leopard to handle both private and work email, using Google Mail accessed via the IMAP protocol, and sending mail via my ISP's SMTP server to avoid the Outlook "sent on behalf of" problem._
  
+<!--more--> 
+
 ## Tutorial Introduction
 
 I switched from Windows to Mac OS X Tiger on a MacBook Pro about two years ago in early 2006, and have been enjoying the experience immensely; even more so with Leopard. I purchased Entourage with Office 2004 for Mac and had been using it with my corporate Exchange server at my company [eSolia](http://www.esolia.com), but had grown weary of the monolithic local message store, so in December 2007, I decided to give Mail.app, iCal and Address Book a go on Leopard. Looking back, it's funny that I was so diehard Windows-only.
-
-
-This tutorial describes how I set up Mail.app in OS X Leopard to handle both private and work email, using Google Mail accessed via the IMAP protocol, and sending mail via my ISP's SMTP server to avoid the Outlook "sent on behalf of" problem.
-
 
 I'll make these naming conventions for this tutorial:
 
   - Your "private" email is your Google Mail account
   - Your "corporate" email is your account on a domain you or your company owns
+
 ## Prerequisites
 
 Here's what you need to prep before you begin:

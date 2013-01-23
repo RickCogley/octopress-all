@@ -4,12 +4,12 @@ post_title: "New Microsoft Remote Desktop Client for OS X"
 date: 2008-07-03 00:48:36 UTC
 updated: 2008-07-03 00:48:36 UTC
 comments: true
-categories: [Blog-Cogley]
-keywords: 
-tags: []
+categories: [Blog-Cogley, Software, Upgrades]
+keywords: Microsoft, Remote Desktop, Mac
+tags: [icrosoft, Remote Desktop, Mac]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: New Microsoft Remote Desktop client for Mac with multi-session feature, by Rick Cogley. 
 published: true
 ---
  

@@ -4,7 +4,7 @@ post_title: "Tip - Get the OS X Version from CLI"
 date: 2008-02-07 07:45:09 UTC
 updated: 2008-02-07 07:45:09 UTC
 comments: true
-categories: [Blog-Cogley, productivity, cli, tip, os x, command line, terminal, apple]
+categories: [Blog-Cogley, Tips, Software, SysAdmin]
 keywords: productivity,cli,tip,os x,command line,terminal,apple
 tags: [productivity,cli,tip,os x,command line,terminal,apple]
 posticon: default

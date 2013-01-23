@@ -4,9 +4,9 @@ post_title: "Brush Me Sign"
 date: 2008-01-20 12:02:12 UTC
 updated: 2008-01-20 12:02:12 UTC
 comments: true
-categories: [SnapJapan, culture, signage, japan]
-keywords: culture,signage,japan
-tags: [culture,signage,japan]
+categories: [SnapJapan, Japan, Culture]
+keywords: culture,signage,japan,automation
+tags: [culture,signage,japan,automation]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on finicky touch-me sensors on doors, by Rick Cogley.

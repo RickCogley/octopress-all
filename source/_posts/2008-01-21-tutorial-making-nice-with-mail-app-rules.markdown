@@ -4,7 +4,7 @@ post_title: "Tutorial - Making Nice with Mail.app Rules"
 date: 2008-01-21 05:25:04 UTC
 updated: 2008-01-21 05:25:04 UTC
 comments: true
-categories: [Blog-Cogley, rules, yai, tutorials, mail scripts, mail act on, mailtags, articles, omnifocus, mail.app, gtd, apple]
+categories: [Blog-Cogley, Productivity, Efficiency, Software, Tips]
 keywords: rules,yai,tutorials,mail scripts,mail act on,mailtags,articles,omnifocus,mail.app,gtd,apple
 tags: [rules,yai,tutorials,mail scripts,mail act on,mailtags,articles,omnifocus,mail.app,gtd,apple]
 posticon: default
@@ -12,13 +12,14 @@ cover: /images/Rick_Casual_01.jpg
 description: Post on wrangling OS X Mail.app rules, by Rick Cogley.
 published: true
 ---
+
+_This tutorial describes how I solve the challenge, marking my subscriptions and regular mails as "Expiring", so that I can use a smart folder to view and prune them regularly._
  
+<!--more--> 
+
 ## Tutorial Introduction
 
-I got Mail.app set up to use Gmail's IMAP, and wrote a bit about it in [this tutorial](http://rick.cogley.info/blog/index.php?id=4961479062255821102 "Tutorial for Mail.app and Gmail IMAP"). One of the next steps I wanted to take, was to somehow manage all the mail that comes in from subscriptions, or, regular announcements from colleagues regarding common reporting milestones. In Microsoft Entourage, I was using an AppleScript and Rules, so I reckoned I could use a similar approach in Mail.app.
-
-
-This tutorial describes how I solve the challenge, marking my subscriptions and regular mails as "Expiring", so that I can use a smart folder to view and prune them regularly.
+I got Mail.app set up to use Gmail's IMAP, and wrote a bit about it in [this tutorial](/articles/2008/01/20/tutorial-setting-up-leopard-mail-app-with-google-gmail-imap-the-basics/ "Tutorial for Mail.app and Gmail IMAP"). One of the next steps I wanted to take, was to somehow manage all the mail that comes in from subscriptions, or, regular announcements from colleagues regarding common reporting milestones. In Microsoft Entourage, I was using an AppleScript and Rules, so I reckoned I could use a similar approach in Mail.app.
 
 ## Prerequisites
 

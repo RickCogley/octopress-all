@@ -4,7 +4,7 @@ post_title: "Flushing DNS"
 date: 2008-02-10 22:47:50 UTC
 updated: 2008-02-10 22:47:50 UTC
 comments: true
-categories: [Blog-Cogley, resolver, dns, productivity, cli, tips, command line, cache, apple]
+categories: [Blog-Cogley, Tips, SysAmin, Software]
 keywords: resolver,dns,productivity,cli,tips,command line,cache,apple
 tags: [resolver,dns,productivity,cli,tips,command line,cache,apple]
 posticon: default

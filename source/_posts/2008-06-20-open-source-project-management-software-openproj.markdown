@@ -4,9 +4,9 @@ post_title: "Open Source Project Management Software - OpenProj"
 date: 2008-06-20 23:15:21 UTC
 updated: 2008-06-20 23:15:21 UTC
 comments: true
-categories: [Blog-Cogley, productivity, software, project management]
-keywords: productivity,software,project management
-tags: [productivity,software,project management]
+categories: [Blog-Cogley, Productivity, Software]
+keywords: projity,pm,openproj,project management
+tags: [projity,pm,openproj,project management]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post linking to Projity, full-blown open source PM app, by Rick Cogley. 
