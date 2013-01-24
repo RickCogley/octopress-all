@@ -12,17 +12,32 @@ keywords: Resources, Goodies
 tags: [Resources,Goodies]
 published: true
 ---  
-###Resources Page###
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut ```enim ad minim veniam, quis nostrud exercitation``` ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+###A Most Excellent Collection of Resources###
 
 * [Rick Cogley Bio]({{site.jrcbiopath}})
-* [Another](/resources/another)
+* [Keyboard Shortcuts](/resources/rick-cogley-keyboard-shortcuts)
+
+{% raw %}
+<div class="hero-unit">
+  <h1>Bio</h1>
+  <p>Rick Cogley's biographical info.</p>
+  <p>
+    <a href="/resources/bio/" class="btn btn-primary btn-large">
+      Read the Bio
+    </a>
+  </p>
+</div>
+<div class="hero-unit">
+  <h1>Keyboard Shortcuts</h1>
+  <p>We don't need no stinkin' mice.</p>
+  <p>
+    <a href="/resources/rick-cogley-keyboard-shortcuts" class="btn btn-success btn-large">
+      Get Immersed
+    </a>
+  </p>
+</div>
+{% endraw %} 
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
 
-1. this
-1. that
-1. the other
 
