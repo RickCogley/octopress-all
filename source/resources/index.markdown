@@ -12,7 +12,7 @@ keywords: Resources, Goodies
 tags: [Resources,Goodies]
 published: true
 ---  
-###A Most Excellent Collection of Resources###
+###A Most Excellent Collection...###
 _... From Yours Truly:_ 
 
 {% raw %}
