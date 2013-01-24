@@ -23,7 +23,7 @@
           <hr>
           <li class="small-text">
             {% for cat in page.categories %}
-              <a href="/articles/topics/{{ cat | downcase }}">{{ cat }}</a>, 
+              <a href="/articles/topics/{{ cat | downcase }}">{{ cat }}</a> {% unless forloop.last %},{% endunless%} 
             {% endfor %}
           </li>
           <hr>
