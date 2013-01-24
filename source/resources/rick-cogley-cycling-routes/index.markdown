@@ -14,6 +14,8 @@ published: true
 ---
 Here are some of my bike routes, entered into Google Maps. At this time Google Maps shows only the local language for any given country, so, the maps in Japan have mostly Japanese labels (there are some English labels at some levels of detail but it's sparse). This is not helpful for non-Japanese speakers, so I have annotated the maps a bit. 
 
+Also follow me on [Strava](http://app.strava.com/athletes/1097516).
+
 As a point of interest, the data for this page is held in a data table in eSolia's flexible cloud database ["PROdb"](http://www.esolia.com/prodb), and is being referenced in an iframe. _Feedback and additions are welcome._
 
 {% raw %} 
