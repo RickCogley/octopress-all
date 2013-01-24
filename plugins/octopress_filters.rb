@@ -6,6 +6,7 @@ require './plugins/post_filters'
 require './plugins/raw'
 require './plugins/date'
 require 'rubypants'
+require 'nokogiri'
 
 module OctopressFilters
   include BacktickCodeBlock
@@ -136,7 +137,7 @@ module OctopressLiquidFilters
 
   # Returns a title cased string based on John Gruber's title case http://daringfireball.net/2008/08/title_case_update
   def titlecase(input)
-    input.titlecase
+    input.to_s.titlecase
   end
 
 end

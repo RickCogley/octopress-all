@@ -3,6 +3,30 @@ module Jekyll
   # The BlogIndex class creates a single category page for the specified category.
   class TopPage < Page
 
+    def get_featured_projects
+      if Dir.exists?('source/_projects')
+        Dir.chdir('source/_projects')
+        Dir["*.yml"].each do |path|
+          name = File.basename(path, '.yml')
+          self.write_project_index(site, "source/_projects/#{path}", name)
+        end
+
+        Dir.chdir(site.source)
+        self.write_portfolio_index(site)
+      end
+    end
+
+    def get_projects()
+      {}.tap do |projects|
+        Dir['../source/_projects/*.yml'].each do |path|
+          name   = File.basename(path, '.yml')
+          config = YAML.load(File.read(File.join(path)))
+          projects[name] = config if config['featured']
+        end
+      end
+    end
+
+
     def initialize(site, base)
       @site = site
       @base = base
@@ -12,6 +36,7 @@ module Jekyll
       # Read the YAML data from the layout page.
       self.read_yaml(File.join(base, '_layouts'), 'top_page.html')
       self.data['featured_category'] = 'Featured'
+      self.data['featured_projects'] = get_projects().collect{|x,y| y}
       # Set the meta-description for this page. It works to pull from top_page.html, though...
       # self.data['description'] = "Rick Cogley Central is the website of Rick Cogley, an experienced, bilingual, multicultural consultant and manager, who has been based in Japan since 1987. Rick is founder and CEO of eSolia Inc. (http://www.esolia.com) an IT management firm assisting multinational corporations with their Japan operations and projects. Here you can find my blogs, photos, and other resources."
     end
