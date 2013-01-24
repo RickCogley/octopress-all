@@ -4,12 +4,12 @@ post_title: "Schwalbe Marathon Trip Report"
 date: 2008-09-06 08:23:07 UTC
 updated: 2008-09-06 08:23:07 UTC
 comments: true
-categories: [Blog-Cogley, marathon, leisure, gravel, schwalbe, cycling, google maps]
+categories: [Blog-Cogley, Cycling, Gadgets]
 keywords: marathon,leisure,gravel,schwalbe,cycling,google maps
 tags: [marathon,leisure,gravel,schwalbe,cycling,google maps]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on trip with new Schwalbe Marathon tires, by Rick Cogley.
 published: true
 ---
  
