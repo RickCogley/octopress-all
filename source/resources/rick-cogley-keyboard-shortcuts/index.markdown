@@ -17,7 +17,7 @@ One of the most confusing things for Mac beginners is that the keys are differen
 As a point of interest, the data for this page is held in a data table in eSolia's online database, PROdb, and is being referenced in an iframe. _Feedback and additions are welcome._ 
 
 {% raw %} 
-<iframe width='100%' frameborder='0' allowtransparency='true' scrolling='yes' src='https://pro.dbflex.net/secure/embedded/db/15331/view.aspx?id=983275'></iframe>
+<iframe width='100%' frameborder='0' allowtransparency='true' scrolling='no' src='https://pro.dbflex.net/secure/embedded/db/15331/view.aspx?id=983275'></iframe>
 {% endraw %}
 
 {% render_time Page generated at: %}
