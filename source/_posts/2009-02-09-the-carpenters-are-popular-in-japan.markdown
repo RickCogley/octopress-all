@@ -4,15 +4,14 @@ post_title: "The Carpenters are Popular in Japan"
 date: 2009-02-09 23:33:17 UTC
 updated: 2009-02-09 23:33:17 UTC
 comments: true
-categories: [SnapJapan, Humoresque, School Songs, Carpenters]
+categories: [SnapJapan, Japan, Culture, Humor, Popular]
 keywords: Humoresque,School Songs,Carpenters
 tags: [Humoresque,School Songs,Carpenters]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Japan schools playing The Carpenters a lot, by Rick Cogley. 
 published: true
 ---
- 
 
 **Every** morning on Japanese TV lately, there's a commercial segment that plays a cover of **"Top of the World" by The Carpenters**. I knew that _The Carpenters_ were popular here, having seen their songs on many a karaoke menu and heard them played pretty consistently. I had mentioned their popularity in Japan to an American friend, who was baffled by it, and I laughingly mentioned this to my wife this AM. 
 

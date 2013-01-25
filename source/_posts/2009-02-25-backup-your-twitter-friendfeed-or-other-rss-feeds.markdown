@@ -4,15 +4,14 @@ post_title: "Backup Your Twitter, Friendfeed or other RSS Feeds"
 date: 2009-02-25 03:32:54 UTC
 updated: 2009-02-25 03:32:54 UTC
 comments: true
-categories: [Blog-Cogley, backup, friendfeed, twitter, feedburner, rss]
-keywords: backup,friendfeed,twitter,feedburner,rss
-tags: [backup,friendfeed,twitter,feedburner,rss]
+categories: [Blog-Cogley, Software, Technology, Web]
+keywords: backup,friendfeed,twitter,feedburner,rss,recovery
+tags: [backup,friendfeed,twitter,feedburner,rss,recovery]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: After the Facebook TOS change, a post on how to back up your Twitter etc, by Rick Cogley.
 published: true
 ---
- 
 
 **The furor** over _Facebook's_ ill-advised and since-rescinded [claim](http://rick.cogley.info/blog/index.php?id=4731676640340199868) to own all your content made me think whether my Twitter tweets and FriendFeed posts have any sort of value. While their value to anyone except me is questionable, perhaps we can say that they may be of value as an archive, and, that they may gain in value over time, as more and more are built up. 
 

@@ -4,12 +4,12 @@ post_title: "How to Tag Wiki Pages - A Best Way?"
 date: 2009-02-09 04:14:10 UTC
 updated: 2009-02-09 04:14:10 UTC
 comments: true
-categories: [Blog-Cogley, Apple Wiki, tagging, Leopard Server, tip, hierarchy, categorization]
+categories: [Blog-Cogley, Efficiency, Process, Tips]
 keywords: Apple Wiki,tagging,Leopard Server,tip,hierarchy,categorization
 tags: [Apple Wiki,tagging,Leopard Server,tip,hierarchy,categorization]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on how to thinking about tagging, vis-a-vis wiki pages, by Rick Cogley. 
 published: true
 ---
  
@@ -44,4 +44,3 @@ These are different "data dimensions" one would use to talk about the content on
 
 This challenge reminds me of Google Gmail's concept "search not sort", which is in opposition to the sort paradigm of systems like Yahoo mail. Gmail's concept was hard to stomach at first, and may still be so, for people who like to sort things.  
 
-<br />

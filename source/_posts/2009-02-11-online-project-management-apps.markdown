@@ -4,12 +4,12 @@ post_title: "Online Project Management Apps"
 date: 2009-02-11 23:12:35 UTC
 updated: 2009-02-11 23:12:35 UTC
 comments: true
-categories: [Blog-Cogley, productivity, SaaS, software, Online Project Management]
+categories: [Blog-Cogley, Software, Process, Web, Technology]
 keywords: productivity,SaaS,software,Online Project Management
 tags: [productivity,SaaS,software,Online Project Management]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on a collection of project management systems, by Rick Cogley. 
 published: true
 ---
  

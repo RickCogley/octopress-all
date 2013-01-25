@@ -4,12 +4,12 @@ post_title: "The Facebook TOS Furor - \"Just Trust Us\""
 date: 2009-02-17 05:09:31 UTC
 updated: 2009-02-17 05:09:31 UTC
 comments: true
-categories: [Blog-Cogley, social networking, terms of service, legal, tos, facebook, intellectual property]
+categories: [Blog-Cogley, Professional, Web, Service]
 keywords: social networking,terms of service,legal,tos,facebook,intellectual property
 tags: [social networking,terms of service,legal,tos,facebook,intellectual property]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on the furore over Facebook's new terms of service, by Rick Cogley. 
 published: true
 ---
  
