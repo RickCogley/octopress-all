@@ -4,12 +4,12 @@ post_title: "Migrating OS X Leopard to a New \"Unibody\" Macbook Pro (Late 2008 
 date: 2008-12-18 09:17:10 UTC
 updated: 2008-12-18 09:17:10 UTC
 comments: true
-categories: [Blog-Cogley, MA, defaults, migration assistant, migrate, os x, new hardware, leopard, move, terminal]
+categories: [Blog-Cogley, Upgrades, Software, SysAdmin, Tips]
 keywords: MA,defaults,migration assistant,migrate,os x,new hardware,leopard,move,terminal
 tags: [MA,defaults,migration assistant,migrate,os x,new hardware,leopard,move,terminal]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on migrating OS X Leopard to a new Unibody Macbook Pro in 2008.
 published: true
 ---
  

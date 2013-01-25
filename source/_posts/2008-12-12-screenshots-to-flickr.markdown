@@ -4,12 +4,12 @@ post_title: "Screenshots to Flickr"
 date: 2008-12-12 15:05:46 UTC
 updated: 2008-12-12 15:05:46 UTC
 comments: true
-categories: [Blog-Cogley, snagit, grab, screenshots, screendumps, ambrosia software, techsmith]
+categories: [Blog-Cogley, Tips, Software]
 keywords: snagit,grab,screenshots,screendumps,ambrosia software,techsmith
 tags: [snagit,grab,screenshots,screendumps,ambrosia software,techsmith]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: A post on uploading screenshots to Flickr, by Rick Cogley.
 published: true
 ---
  

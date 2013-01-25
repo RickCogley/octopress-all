@@ -4,12 +4,12 @@ post_title: "URL for MobileMe iDisk Public Folder"
 date: 2008-12-19 00:20:52 UTC
 updated: 2008-12-19 00:20:52 UTC
 comments: true
-categories: [Blog-Cogley, productivity, tip, MobileMe, iDisk, tips, software, Public Folder]
+categories: [Blog-Cogley, Software, Tips, Web]
 keywords: productivity,tip,MobileMe,iDisk,tips,software,Public Folder
 tags: [productivity,tip,MobileMe,iDisk,tips,software,Public Folder]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on how to find the public iDisk folder in MobileMe, by Rick Cogley. 
 published: true
 ---
  

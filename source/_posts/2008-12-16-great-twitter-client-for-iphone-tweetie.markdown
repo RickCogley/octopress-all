@@ -4,12 +4,12 @@ post_title: "Great Twitter Client for iPhone - Tweetie"
 date: 2008-12-16 23:10:42 UTC
 updated: 2008-12-16 23:10:42 UTC
 comments: true
-categories: [Blog-Cogley, atebits, tweetie, iPhone, twitter, stone design, twittelator]
+categories: [Blog-Cogley, Software, Tips]
 keywords: atebits,tweetie,iPhone,twitter,stone design,twittelator
 tags: [atebits,tweetie,iPhone,twitter,stone design,twittelator]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: A post on iPhone twitter clients, by Rick Cogley.
 published: true
 ---
  

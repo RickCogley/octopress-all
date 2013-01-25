@@ -4,12 +4,12 @@ post_title: "iPhone Tap Tips"
 date: 2008-12-11 22:22:15 UTC
 updated: 2008-12-11 22:22:15 UTC
 comments: true
-categories: [Blog-Cogley, tap sequence, productivity, iPhone, tips, Tap Tips, keypress]
+categories: [Blog-Cogley, Tips]
 keywords: tap sequence,productivity,iPhone,tips,Tap Tips,keypress
 tags: [tap sequence,productivity,iPhone,tips,Tap Tips,keypress]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post about iPhone Tap Tips resource, by Rick Cogley. 
 published: true
 ---
  
@@ -21,7 +21,7 @@ published: true
 
 
 
-For convenience, I [compiled a list of iPhone "Tap Tips"](http://rick.cogley.info/goodies/reference/rick-cogley-iphone-tap-tips.php), or shortcuts for tapping and pressing the buttons and interface of the iPhone, which I hope will be useful to iPhone users. 
+For convenience, I [compiled a list of iPhone "Tap Tips"](/resources/rick-cogley-iphone-tap-tips/), or shortcuts for tapping and pressing the buttons and interface of the iPhone, which I hope will be useful to iPhone users. 
 
 
 For instance, _do you know what these sequences do?_ 
@@ -42,5 +42,5 @@ Double-tap space when entering text.
 
 
 
-If not, take a peek at my "[iPhone tap tips](http://rick.cogley.info/goodies/reference/rick-cogley-iphone-tap-tips.php)" list for the answers and more, and most of all, **Enjoy**! 
+If not, take a peek at my "[iPhone Tap Tips](/resources/rick-cogley-iphone-tap-tips/)" list for the answers and more, and most of all, **Enjoy**! 
 

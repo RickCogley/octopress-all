@@ -4,12 +4,12 @@ post_title: "Zany Sound Experiments"
 date: 2008-12-28 11:28:02 UTC
 updated: 2008-12-28 11:28:02 UTC
 comments: true
-categories: [SnapJapan, siren, sound, chorus, ponyo, cutie honey, doppler, experiment, japanese tv]
-keywords: siren,sound,chorus,ponyo,cutie honey,doppler,experiment,japanese tv
-tags: [siren,sound,chorus,ponyo,cutie honey,doppler,experiment,japanese tv]
+categories: [SnapJapan, Humor, Japan, Weird]
+keywords: siren,sound,chorus,ponyo,cutie honey,doppler,experiment,japanese tv,f1
+tags: [siren,sound,chorus,ponyo,cutie honey,doppler,experiment,japanese tv,f1]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on zany Japanese TV sound experiments, by Rick Cogley.
 published: true
 ---
  

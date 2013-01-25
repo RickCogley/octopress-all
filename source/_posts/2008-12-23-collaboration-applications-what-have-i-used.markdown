@@ -4,12 +4,12 @@ post_title: "Collaboration Applications - What Have I Used?"
 date: 2008-12-23 23:56:03 UTC
 updated: 2008-12-23 23:56:03 UTC
 comments: true
-categories: [Blog-Cogley, mantis, jira, basecamp, productivity, trackstudio, groove, collaboration, webtimesheet, confluence, harvest, google docs, email2case]
+categories: [Blog-Cogley, Efficiency, Productivity, Software, Professional]
 keywords: mantis,jira,basecamp,productivity,trackstudio,groove,collaboration,webtimesheet,confluence,harvest,google docs,email2case
 tags: [mantis,jira,basecamp,productivity,trackstudio,groove,collaboration,webtimesheet,confluence,harvest,google docs,email2case]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on collaboration systems I have used with my firm eSolia, by Rick Cogley.
 published: true
 ---
  

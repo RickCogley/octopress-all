@@ -4,12 +4,12 @@ post_title: "Enabling the Script Menu in OS X Leopard"
 date: 2008-12-17 12:10:21 UTC
 updated: 2008-12-17 12:10:21 UTC
 comments: true
-categories: [Blog-Cogley, Andreas Amann, scripts menu, productivity, os x, mail scripts, leopard, .menu]
+categories: [Blog-Cogley, Software, Tips]
 keywords: Andreas Amann,scripts menu,productivity,os x,mail scripts,leopard,.menu
 tags: [Andreas Amann,scripts menu,productivity,os x,mail scripts,leopard,.menu]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: A post on enabling the scripts menu in the menubar in OS X Leopard, by Rick Cogley. 
 published: true
 ---
  

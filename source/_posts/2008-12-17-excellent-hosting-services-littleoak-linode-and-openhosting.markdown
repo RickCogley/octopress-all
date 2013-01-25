@@ -4,12 +4,12 @@ post_title: "Excellent Hosting Services - LittleOak, Linode and OpenHosting"
 date: 2008-12-17 00:16:05 UTC
 updated: 2008-12-17 00:16:05 UTC
 comments: true
-categories: [Blog-Cogley, productivity, platform, utility pricing, lamp, shared, open hosting, little oak, vserver, linode, hosting, vps]
+categories: [Blog-Cogley, Reviews, Web]
 keywords: productivity,platform,utility pricing,lamp,shared,open hosting,little oak,vserver,linode,hosting,vps
 tags: [productivity,platform,utility pricing,lamp,shared,open hosting,little oak,vserver,linode,hosting,vps]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: A post on hosting services I like, by Rick Cogley.
 published: true
 ---
  
