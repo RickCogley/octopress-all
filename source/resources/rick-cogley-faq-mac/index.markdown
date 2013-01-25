@@ -99,5 +99,3 @@ Finally, if you use Amazon S3 for inexpensive storage, you can use Haystack Soft
 ###Do I need to have Adobe Acrobat to make PDFs?
 
 No, PDF creation is built into OS X. When you print, just click on the disclosure triangle next to the PDF button in the print dialog, and various options will come up.
-
-{% render_time Page generated at: %}

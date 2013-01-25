@@ -85,5 +85,3 @@ If you bend the chain laterally against the links and it bends into almost a U s
 ###Why are my brakes squealing?
 
 It's possible the brakes are just cheap ones, or improperly installed. Mechanics adjust the brake pads of typical V or Caliper brakes so their leading edges are tilted slightly in. When you inspect your brake pads, make sure they are not too worn, and that the brakes are never touching tire since this is a very dangerous condition. 
-
-{% render_time Page generated at: %}

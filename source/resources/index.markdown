@@ -98,7 +98,3 @@ _... From Yours Truly:_
   </p>
 </div>
 {% endraw %} 
-
-
-
-

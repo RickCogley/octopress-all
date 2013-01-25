@@ -19,6 +19,3 @@ As a point of interest, the data for this page is held in a data table in eSolia
 {% raw %} 
 <iframe width='100%' height='2800' frameborder='0' allowtransparency='true' scrolling='yes' src='https://pro.dbflex.net/secure/embedded/db/15331/view.aspx?id=983340'></iframe>
 {% endraw %}
-
-{% render_time Page generated at: %}
-

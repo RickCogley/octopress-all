@@ -74,5 +74,3 @@ Japan, Winter 2009
  [blog post introducing this article]: /articles/2009/01/31/between-the-lines-of-the-agile-manifesto/  
 
 [Previously Published Here](http://rick.cogley.info/goodies/reference/rick-cogley-between-the-lines-of-the-agile-manifesto.php "Previous Version of Reading between the Lines of the Agile Manifesto")
-
-{% render_time Page generated at: %}

@@ -117,5 +117,3 @@ Japan, Winter 2009
  [blog post introducing this article]: /articles/2009/02/04/on-the-principles-of-the-agile-manifesto/  
 
 [Previously Published Here](http://rick.cogley.info/goodies/reference/rick-cogley-on-agile-principles.php "Permalink to The Principles behind the Agile Manifesto")
-
-{% render_time Page generated at: %}
