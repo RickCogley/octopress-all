@@ -4,15 +4,14 @@ post_title: "Color Management in Flock (and Firefox)"
 date: 2009-04-29 09:50:47 UTC
 updated: 2009-04-29 09:50:47 UTC
 comments: true
-categories: [Blog-Cogley, productivity, photography, color profile, tutorials, tip, flock, tips, software, tutorial, icc, Firefox]
+categories: [Blog-Cogley, Photography, Tips, Software]
 keywords: productivity,photography,color profile,tutorials,tip,flock,tips,software,tutorial,icc,Firefox
 tags: [productivity,photography,color profile,tutorials,tip,flock,tips,software,tutorial,icc,Firefox]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on color management in Flock and Firefox, by Rick Cogley. 
 published: true
 ---
- 
 
 If you use anything but IE 7 you are still out of luck, but Safari users have had this functionality for quite a while. I refer to "[color management](http://en.wikipedia.org/wiki/Color_management)", which is the concept of adjusting the color properties of devices, like displays, monitors, printers or scanners, so that colors mean the same thing across devices, and more importantly look the same. The adjustment can be done in the operating system itself, which is what Mac OS X does (and one reason it is superior to Windows), or via _International Color Consortium_ "ICC" [profiles](http://en.wikipedia.org/wiki/ICC_profile) and other software trickery. 
 

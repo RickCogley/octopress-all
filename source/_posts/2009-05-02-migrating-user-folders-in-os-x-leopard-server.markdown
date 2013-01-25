@@ -4,15 +4,14 @@ post_title: "Migrating User Folders in OS X Leopard Server"
 date: 2009-05-02 02:12:55 UTC
 updated: 2009-05-02 02:12:55 UTC
 comments: true
-categories: [Blog-Cogley, Leopard Server, tip, os x, tips, tutorial, Users, apple]
+categories: [Blog-Cogley, Tips, SysAdmin]
 keywords: Leopard Server,tip,os x,tips,tutorial,Users,apple
 tags: [Leopard Server,tip,os x,tips,tutorial,Users,apple]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on migrating user folders on OS X Leopard Server, by Rick Cogley.
 published: true
 ---
- 
 
 I did an experiment on my test Leopard Server to migrate User Folders from the default /Users to another direct-attached volume based on some questions that came up. 
 

@@ -4,12 +4,12 @@ post_title: "\"Brasserie Bec\" in Yoyogi Uehara"
 date: 2009-04-30 00:39:31 UTC
 updated: 2009-04-30 00:39:31 UTC
 comments: true
-categories: [SnapJapan, Yoyogi-Uehara, Odakyu Line, Brasserie Bec, French]
+categories: [SnapJapan, Japan, Culture, Reviews]
 keywords: Yoyogi-Uehara,Odakyu Line,Brasserie Bec,French
 tags: [Yoyogi-Uehara,Odakyu Line,Brasserie Bec,French]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Yoyogi-Uehara Brasserie Bec, by Rick Cogley.
 published: true
 ---
  

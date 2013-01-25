@@ -4,12 +4,12 @@ post_title: "RIP Kiyoshiro Imawano"
 date: 2009-05-10 09:43:56 UTC
 updated: 2009-05-10 09:43:56 UTC
 comments: true
-categories: [SnapJapan, Music, Ameagari no yozora ni, RIP, Kiyoshiro Imawano]
+categories: [SnapJapan, Music, Culture, Japan, Popular]
 keywords: Music,Ameagari no yozora ni,RIP,Kiyoshiro Imawano
 tags: [Music,Ameagari no yozora ni,RIP,Kiyoshiro Imawano]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Lyrics for Ameagari-no-yozora-ni by Kiyoshiro Imawano, RIP, by Rick Cogley. 
 published: true
 ---
  
@@ -297,3 +297,5 @@ I can't believe I can't blast off tonight
 
 
 **Buttobase** in heaven, Kiyoshiro. RIP! 
+
+{% youtube AW4MiYudAJI %} 

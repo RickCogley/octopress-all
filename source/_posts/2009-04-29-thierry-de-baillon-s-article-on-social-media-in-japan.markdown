@@ -4,18 +4,16 @@ post_title: "Thierry de Baillon's Article on Social Media in Japan"
 date: 2009-04-29 11:34:49 UTC
 updated: 2009-04-29 11:34:49 UTC
 comments: true
-categories: [SnapJapan, Facebook, Mixi, Twitter, SNS, japan, Thierry de Baillon]
+categories: [SnapJapan, Japan, Service, Web, Culture]
 keywords: Facebook,Mixi,Twitter,SNS,japan,Thierry de Baillon
 tags: [Facebook,Mixi,Twitter,SNS,japan,Thierry de Baillon]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Thierry de Baillon Article on Social Media in Japan, by Rick Cogley.
 published: true
 ---
- 
 
 **Thierry de Baillon** wrote an [article](http://www.debaillon.com/2009/03/social-media-is-a-cultural-matter-the-japan-case/) about Japan and social media acceptance, which I thought I'd comment on. 
-
 
 I agree that _Social Networking Service_ acceptance, or lack thereof, is not a simple matter of Japanese being "shy". Just go to Shibuya, Harajuku, or Kabukicho to prove otherwise! I think SNS acceptance is driven by the marketing of the SNS, by whether it "feels right" and "fits right" for Japanese people, and by whether other people are using it. I think that's what Thierry is saying anyway, but my perspective is that SNS's like Mixi are Japanese to begin with and not a localized version of an application like Facebook or MySpace. 
 

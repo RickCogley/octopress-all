@@ -4,15 +4,14 @@ post_title: "New Canon PowerShot D10, a Waterproof Point-and-Shoot"
 date: 2009-04-22 13:15:58 UTC
 updated: 2009-04-22 13:15:58 UTC
 comments: true
-categories: [Blog-Cogley, sdhc, outdoors, Passions, leisure, photography, Waterproof, Canon D10]
+categories: [Blog-Cogley, Photography, Gadgets]
 keywords: sdhc,outdoors,Passions,leisure,photography,Waterproof,Canon D10
 tags: [sdhc,outdoors,Passions,leisure,photography,Waterproof,Canon D10]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on a new Canon PowerShot D10, waterproof camera, by Rick Cogley. 
 published: true
 ---
- 
 
 [](http://www.flickr.com/photos/81796435@N00/3464681974 "View 'Testing the New Canon D10 Waterproof P&S' on Flickr.com")Yesterday, I purchased the new **Canon PowerShot D10** at _Yodobashi Camera_ in Shinjuku, Tokyo, to take over for an old Canon IXY 500. The IXY has served us well and works OK still, but the waterproof and shockproof nature of the D10 were attractive because of the proximity to the Shonan beach area near where we live, and how often we've been nervous about taking electronics to the beach! It's going to be nice to drag the camera right into the surf or even underwater. 
 
