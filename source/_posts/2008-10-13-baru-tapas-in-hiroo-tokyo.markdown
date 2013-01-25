@@ -4,12 +4,12 @@ post_title: "Baru Tapas in Hiroo, Tokyo"
 date: 2008-10-13 06:03:12 UTC
 updated: 2008-10-13 06:03:12 UTC
 comments: true
-categories: [SnapJapan, culture, baru, tapas, restaurants, japan]
+categories: [SnapJapan, Japan, Culture]
 keywords: culture,baru,tapas,restaurants,japan
 tags: [culture,baru,tapas,restaurants,japan]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Baru, a Spanish tapas bar near Hiroo and Ebisu, by Rick Cogley. 
 published: true
 ---
  

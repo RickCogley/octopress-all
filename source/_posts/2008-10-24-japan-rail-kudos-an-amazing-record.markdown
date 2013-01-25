@@ -4,18 +4,16 @@ post_title: "Japan Rail Kudos - an amazing record"
 date: 2008-10-24 08:55:03 UTC
 updated: 2008-10-24 08:55:03 UTC
 comments: true
-categories: [SnapJapan, Japan Rail, JR, Trains, japan]
+categories: [SnapJapan, Japan, Culture, Efficiency]
 keywords: Japan Rail,JR,Trains,japan
 tags: [Japan Rail,JR,Trains,japan]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Japan Rail most always being on time, by Rick Cogley.
 published: true
 ---
- 
 
 [](http://www.flickr.com/photos/81796435@N00/2968186705 "View 'JR Japan Rail at Totsuka - Cogley 2008' on Flickr.com")
-
 
 I ride the Japan Rail trains daily in Japan, and sometimes take it for granted that they will be on time. Occassionally there is a problem and a delay, but there's amazingly always an alternative route and always a clear announcement (er, incessant announcements?). Japan Rail - here's to your professional approach and to getting people to where they need to go. Amazing years of basically accident free operation! 
 

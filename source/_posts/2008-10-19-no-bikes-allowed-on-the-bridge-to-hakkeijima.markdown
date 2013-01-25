@@ -4,15 +4,14 @@ post_title: "No Bikes Allowed on the Bridge to Hakkeijima"
 date: 2008-10-19 10:48:08 UTC
 updated: 2008-10-19 10:48:08 UTC
 comments: true
-categories: [Blog-Cogley, Bike Routes, think tank photo, hakkeijima sea paradise, cycling]
+categories: [Blog-Cogley, Cycling, Japan, Culture]
 keywords: Bike Routes,think tank photo,hakkeijima sea paradise,cycling
 tags: [Bike Routes,think tank photo,hakkeijima sea paradise,cycling]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Got blasted off my bike by a no-bikes-allowed announcement at Hakkejima, by Rick Cogley. 
 published: true
 ---
- 
 
 [](http://www.flickr.com/photos/81796435@N00/385220504 "View 'Papa and Ju at Sea Paradise - 17' on Flickr.com")
 

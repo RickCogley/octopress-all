@@ -4,12 +4,12 @@ post_title: "Aperture 2.1.2 Update - No Nikon D90 RAW Support"
 date: 2008-10-23 09:04:21 UTC
 updated: 2008-10-23 09:04:21 UTC
 comments: true
-categories: [Blog-Cogley, raw, nikon d90, aperture]
+categories: [Blog-Cogley, Photography, Software]
 keywords: raw,nikon d90,aperture,2.1.2
 tags: [raw,nikon d90,aperture,2.1.2]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Aperture 2.1.2 not supporting Nikon D90 RAW, by Rick Cogley. 
 published: true
 ---
  

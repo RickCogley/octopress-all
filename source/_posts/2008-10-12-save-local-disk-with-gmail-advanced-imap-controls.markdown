@@ -4,15 +4,15 @@ post_title: "Save Local Disk with Gmail \"Advanced IMAP Controls\""
 date: 2008-10-12 12:04:15 UTC
 updated: 2008-10-12 12:04:15 UTC
 comments: true
-categories: [Blog-Cogley, productivity, tutorials, tips, software, google labs, gmail, imap, google]
-keywords: productivity,tutorials,tips,software,google labs,gmail,imap,google
-tags: [productivity,tutorials,tips,software,google labs,gmail,imap,google]
+categories: [Blog-Cogley, Productivity, Tips, Software]
+keywords: productivity,tutorials,tips,software,google labs,gmail,imap,google,space,all-mail
+tags: [productivity,tutorials,tips,software,google labs,gmail,imap,google,space,all-mail]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on avoiding synching the All-Mail folder in Gmail, to save space, by Rick Cogley.
 published: true
 ---
- 
+
 
 [](http://www.flickr.com/photos/81796435@N00/2933421057 "View 'Google Labs GMail Advanced IMAP Controls' on Flickr.com")I outlined "[Setting up Leopard Mail.app with Google Gmail IMAP](http://rick.cogley.info/blog/index.php?id=4961479062255821102)" previously, and Google Labs has released a new feature for regular and Google Applications Premier Edition Gmail - [**Advanced IMAP Controls**](http://gmailblog.blogspot.com/2008/10/new-in-labs-advanced-imap-controls.html). This tip shows you how to avoid having to sync the GMail "All Mail" folder, thus saving a considerable amount of local hard disk space in many cases. Before enabling Google Labs features, note the caveat mentioned by Google on [this FAQ](http://mail.google.com/support/bin/answer.py?hl=en&ctx=mail&answer=29418). 
 

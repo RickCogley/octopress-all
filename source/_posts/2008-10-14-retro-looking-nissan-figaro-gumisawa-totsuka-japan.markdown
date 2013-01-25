@@ -4,15 +4,14 @@ post_title: "Retro-looking Nissan Figaro, Gumisawa Totsuka Japan"
 date: 2008-10-14 13:00:08 UTC
 updated: 2008-10-14 13:00:08 UTC
 comments: true
-categories: [SnapJapan, retro, gumisawa totsuka, nissan figaro, japan]
+categories: [SnapJapan, Japan, Photography]
 keywords: retro,gumisawa totsuka,nissan figaro,japan
 tags: [retro,gumisawa totsuka,nissan figaro,japan]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on a retro Nissan Figaro, I photographed near my home in Totsuka, by Rick Cogley.
 published: true
 ---
- 
 
 [](http://www.flickr.com/photos/81796435@N00/2937291914 "View 'Around Gumisawa 200810' on Flickr.com")
 

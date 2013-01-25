@@ -4,15 +4,14 @@ post_title: "Crumpler \"Sinking Barge\" SLR Camera and 15\" Laptop Bag"
 date: 2008-10-20 09:33:31 UTC
 updated: 2008-10-20 09:33:31 UTC
 comments: true
-categories: [Blog-Cogley, photography, crumpler, nikon d90, bags, sinking barge, review]
+categories: [Blog-Cogley, Photography, Reviews, Gadgets]
 keywords: photography,crumpler,nikon d90,bags,sinking barge,review
 tags: [photography,crumpler,nikon d90,bags,sinking barge,review]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Review of the Crumpler Sinking Barge (shinkingu-baaji in Japanese), by Rick Cogley. 
 published: true
 ---
- 
 
 [](http://www.flickr.com/photos/81796435@N00/2926211412 "View 'Crumpler Sinking Barge 2008 - 3' on Flickr.com")
 

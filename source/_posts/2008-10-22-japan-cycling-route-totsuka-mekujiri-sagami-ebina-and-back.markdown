@@ -4,12 +4,12 @@ post_title: "Japan Cycling Route - Totsuka, Mekujiri, Sagami, Ebina and back"
 date: 2008-10-22 13:48:29 UTC
 updated: 2008-10-22 13:48:29 UTC
 comments: true
-categories: [Blog-Cogley, Bike Routes, cycling, japan, river-sea-river japan cycling route]
+categories: [Blog-Cogley, Cycling, Japan, Health]
 keywords: Bike Routes,cycling,japan,river-sea-river japan cycling route
 tags: [Bike Routes,cycling,japan,river-sea-river japan cycling route]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: New cycling route down the Sagami river in Japan, by Rick Cogley. 
 published: true
 ---
  

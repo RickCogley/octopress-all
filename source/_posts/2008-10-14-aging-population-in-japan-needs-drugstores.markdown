@@ -4,12 +4,12 @@ post_title: "Aging Population in Japan Needs Drugstores"
 date: 2008-10-14 12:58:34 UTC
 updated: 2008-10-14 12:58:34 UTC
 comments: true
-categories: [SnapJapan, colorful, drugstore, aging population, japan]
-keywords: colorful,drugstore,aging population,japan
-tags: [colorful,drugstore,aging population,japan]
+categories: [SnapJapan, Photography, Japan, Culture]
+keywords: colorful,drugstore,aging population,japan,culture,pharmacy
+tags: [colorful,drugstore,aging population,japan,culture,pharmacy]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on drug stores and pharmacies popping up in Japan, by Rick Cogley. 
 published: true
 ---
  
@@ -19,4 +19,4 @@ published: true
 
 Japan's society is aging, so you see more and more pharmacies and drug stores popping up. This one is in Odoriba, near Totsuka Japan, and has the bases covered by selling typical household goods as well as pharmaceuticals. The colors struck me as I was walking by. Taken with a Nikon D90 and 60mm Micro Nikkor. 
 
-<br /><br /><br /><br /><br /><br />
+

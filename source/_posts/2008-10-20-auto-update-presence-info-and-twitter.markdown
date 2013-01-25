@@ -4,12 +4,12 @@ post_title: "Auto-update Presence Info and Twitter"
 date: 2008-10-20 14:12:26 UTC
 updated: 2008-10-20 14:12:26 UTC
 comments: true
-categories: [Blog-Cogley, statz, productivity, twitterfeed, tinyurl, presence information, software, twitter, rss]
+categories: [Blog-Cogley, Software, Efficiency, Web]
 keywords: statz,productivity,twitterfeed,tinyurl,presence information,software,twitter,rss
 tags: [statz,productivity,twitterfeed,tinyurl,presence information,software,twitter,rss]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Google Statz to update your social network statuses, by Rick Cogley. 
 published: true
 ---
  

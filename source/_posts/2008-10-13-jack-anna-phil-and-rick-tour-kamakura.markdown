@@ -4,12 +4,12 @@ post_title: "Jack, Anna, Phil and Rick Tour Kamakura"
 date: 2008-10-13 05:55:30 UTC
 updated: 2008-10-13 05:55:30 UTC
 comments: true
-categories: [SnapJapan, omikuji, culture, kamakura, japan]
+categories: [SnapJapan, Japan, Culture]
 keywords: omikuji,culture,kamakura,japan
 tags: [omikuji,culture,kamakura,japan]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on trying omikuji fortunes with Jack, Anna and Phil at Kamakura, by Rick Cogley.
 published: true
 ---
  
