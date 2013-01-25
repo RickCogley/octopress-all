@@ -4,7 +4,7 @@ post_title: "New Google Gadgetry in Gmail"
 date: 2008-10-28 04:56:56 UTC
 updated: 2008-10-28 04:56:56 UTC
 comments: true
-categories: [Blog-Cogley, Software, Web
+categories: [Blog-Cogley, Software, Web]
 keywords: google gadget,google labs,gmail
 tags: [google gadget,google labs,gmail]
 posticon: default
