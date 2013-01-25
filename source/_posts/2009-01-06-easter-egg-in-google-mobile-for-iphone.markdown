@@ -4,12 +4,12 @@ post_title: "Easter Egg in Google Mobile for iPhone"
 date: 2009-01-06 07:34:49 UTC
 updated: 2009-01-06 07:34:49 UTC
 comments: true
-categories: [Blog-Cogley, productivity, iPhone, tip, software]
+categories: [Blog-Cogley, Software, Tips]
 keywords: productivity,iPhone,tip,software
 tags: [productivity,iPhone,tip,software]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on a Google Mobile easter egg, by Rick Cogley.
 published: true
 ---
  

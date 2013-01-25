@@ -4,12 +4,12 @@ post_title: "Listing Open Directory Users on OS X Leopard Server"
 date: 2009-01-02 01:37:48 UTC
 updated: 2009-01-02 01:37:48 UTC
 comments: true
-categories: [Blog-Cogley, productivity, Leopard Server, LDAPv3, cli, os x, command line, tutorial, dscl]
+categories: [Blog-Cogley, Software, Tips, SysAdmin]
 keywords: productivity,Leopard Server,LDAPv3,cli,os x,command line,tutorial,dscl
 tags: [productivity,Leopard Server,LDAPv3,cli,os x,command line,tutorial,dscl]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on listing open directory users on OS X Leopard Server, by Rick Cogley.
 published: true
 ---
  

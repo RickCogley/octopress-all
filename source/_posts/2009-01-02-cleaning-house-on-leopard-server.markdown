@@ -4,12 +4,12 @@ post_title: "Cleaning House on Leopard Server"
 date: 2009-01-02 01:16:12 UTC
 updated: 2009-01-02 01:16:12 UTC
 comments: true
-categories: [Blog-Cogley, spotlight, Leopard Server, chown, chmod, permissions, cli, os x, chflags, ls, inherit]
+categories: [Blog-Cogley, SysAdmin, Software, Tips]
 keywords: spotlight,Leopard Server,chown,chmod,permissions,cli,os x,chflags,ls,inherit
 tags: [spotlight,Leopard Server,chown,chmod,permissions,cli,os x,chflags,ls,inherit]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on permissions and cleaning house on Leopard Server, by Rick Cogley.
 published: true
 ---
  
