@@ -21,8 +21,12 @@ Cycling:
   image: /images/topic-cycling.jpg
 Disaster: 
   awesomeicon: icon-bullhorn
-  description: "Natural disasters are a real and present concern in Japan. If I can provide information, I will."
+  description: "Natural disasters are a real and present concern in Japan. If I can provide information, I will, but if you live here, please be prepared by talking to your neighborhood organization (jichikai) and your local fire and police departments."
   image: /images/topic-disaster.jpg
+Efficiency: 
+  awesomeicon: icon-bolt
+  description: "You have have perfect efficiency in a process, but still not be productive or effective, so take some of one with some of the other."
+  image: /images/topic-efficiency.jpg
 Emergency: 
   awesomeicon: icon-ambulance
   description: "Emergencies in Japan can be trying, especially if you don't speak the language. I hope I can help here."
@@ -83,6 +87,10 @@ Popular:
   awesomeicon: icon-fire
   description: "Popular might indeed be 'of the people', but is it by the people and for the people? Popularity certainly does not guarantee that something is right or correct."
   image: /images/topic-popular.jpg
+Process: 
+  awesomeicon: icon-spinner
+  description: "Constant iteration, failure within success, and questioning of your process is how you improve; not by reading a book on what your process _should_ be."
+  image: /images/topic-process.jpg
 Productivity: 
   awesomeicon: icon-refresh
   description: "Personally I define productivity in a strict sense. I try not to think of it as a marketing buzzword, but rather simply as a situation of measuring whether I am producing and creative, or not. But I know this: being on Facebook all day is definitely not an example."

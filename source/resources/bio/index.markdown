@@ -27,6 +27,8 @@ Cogley's goal is to develop eSolia into a global consultancy, focused on providi
 
 ###Visit Me Elsewhere  
 
+[Contact me](/contact/) or let's connect via social networking sites: 
+
 {% raw %}
 <a class="btn btn-danger" href="https://plus.google.com/u/0/107046878530748803729/posts" target="_blank"><i class="icon-google-plus icon-large"></i> Google+</a>
 <a class="btn btn-success" href="http://twitter.com/rickcogley" target="_blank"><i class="icon-twitter icon-large"></i> Twitter</a>
@@ -37,6 +39,5 @@ Cogley's goal is to develop eSolia into a global consultancy, focused on providi
 <a class="btn btn-primary" href="https://www.facebook.com/rickcogley" target="_blank"><i class="icon-facebook-sign icon-large"></i> Facebook</a>
 <a class="btn btn-warning" href="http://www.youtube.com/user/rickcogley" target="_blank"><i class="icon-facetime-video icon-large"></i> Youtube</a>
 {% endraw %}
-
 
 {% render_time Page generated at: %}

@@ -13,8 +13,6 @@ tags: [Rick Cogley,Agile Manifesto,software,project management,Agile Principles]
 published: true
 ---
 
-# The Principles behind the Agile Manifesto
-
 Looking at the basics of Agile in more detail to help me apply it to general, non-development project management, the [principles][] behind the [Agile Manifesto][] are readily available for us to read and learn from. 
 
 ## Agile Principles, with Japanese Translation
@@ -95,9 +93,9 @@ Nothing in the principles suggests an anything-goes attitude is OK, but I can se
 
 In the principles, the emphasis is on face-to-face meetings, and on getting the business and technical members together daily. This implies a daily "scrum" like meeting, as well as the key ability to be able to communicate between the two sides. To do that well, experience is required but I agree wholeheartedly that it's a must. I wonder, are technical teams ignoring the need to continually bring in the business side? That's critical. 
 
-### Results are KingWorking software. 
+### Results are King
 
-This is the keystone, and it's biased toward results and results only. This is not to say that the method you use to get from requirement to working software is not important. Rather, it's an admonishment to not spend too much time writing volumes of documents, and to get down to the main point. Giving customers what they demanded quickly is much better than activities that don't really add value. 
+_Working software_. This is the keystone, and it's biased toward results and results only. This is not to say that the method you use to get from requirement to working software is not important. Rather, it's an admonishment to not spend too much time writing volumes of documents, and to get down to the main point. Giving customers what they demanded quickly is much better than activities that don't really add value. 
 
 ### Fight the Power
 
