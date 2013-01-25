@@ -4,12 +4,12 @@ post_title: "Velociteach PM Poster - Observations"
 date: 2009-03-02 01:32:44 UTC
 updated: 2009-03-02 01:32:44 UTC
 comments: true
-categories: [Blog-Cogley, pm, velociteach, Lean, Agile Manifesto, Agile Principles, Agile, management, consulting]
+categories: [Blog-Cogley, Process, Professional]
 keywords: pm,velociteach,Lean,Agile Manifesto,Agile Principles,Agile,management,consulting
 tags: [pm,velociteach,Lean,Agile Manifesto,Agile Principles,Agile,management,consulting]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on my observations regarding the Velociteach Project Management poster, by Rick Cogley.
 published: true
 ---
  

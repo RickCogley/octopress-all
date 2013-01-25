@@ -4,12 +4,12 @@ post_title: "Major Projects - Inequities Necessary?"
 date: 2009-03-09 23:03:02 UTC
 updated: 2009-03-09 23:03:02 UTC
 comments: true
-categories: [Blog-Cogley, pm, major projects, project management, inequities]
+categories: [Blog-Cogley, Process, Professional, Culture]
 keywords: pm,major projects,project management,inequities
 tags: [pm,major projects,project management,inequities]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: A post on inequities possibly necessary in major projects, by Rick Cogley. 
 published: true
 ---
  

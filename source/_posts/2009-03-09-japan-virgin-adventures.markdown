@@ -4,22 +4,19 @@ post_title: "Japan Virgin Adventures"
 date: 2009-03-09 08:46:40 UTC
 updated: 2009-03-09 08:46:40 UTC
 comments: true
-categories: [SnapJapan, virgin adventures, tokyo university, glenn wurst, newbie, zushi, yakuza ramen, shishamo, gaijin, allegheny college, japan]
+categories: [SnapJapan, Japan, Culture]
 keywords: virgin adventures,tokyo university,glenn wurst,newbie,zushi,yakuza ramen,shishamo,gaijin,allegheny college,japan
 tags: [virgin adventures,tokyo university,glenn wurst,newbie,zushi,yakuza ramen,shishamo,gaijin,allegheny college,japan]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on my first experiences in Japan, by Rick Cogley.
 published: true
 ---
- 
 
 **A conversation the other day** prompted me to recount some experiences of my first days in Japan, so I thought I would share.
 
 
 ### What? No NEX?
-
-
 
 When I was "fresh off the boat" at Narita way back in 1987, I gathered up my suitcases, met one of the daughters of my host family, and schlepped my too-heavy stuff onto the JR Yokosuka line, which was already full. Japan Rail had no Narita Express yet, so it was stop-by-stop the whole long trip to Zushi, an hour south of Tokyo. Unfortunately we hit rush hour at Tokyo station, so there was another sweaty, smelly hour on an absolutely packed train. Sardines! With two large suitcases. And a backpack. And a total lack of experience on trains at all. This made for a bumpy, crowded, jolting, lurching ride, and kind of sowed my hate for rush hour trains, I think! 
 

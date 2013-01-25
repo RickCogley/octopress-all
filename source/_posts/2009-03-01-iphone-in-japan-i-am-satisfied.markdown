@@ -4,12 +4,12 @@ post_title: "iPhone in Japan - I am Satisfied"
 date: 2009-03-01 22:07:04 UTC
 updated: 2009-03-01 22:07:04 UTC
 comments: true
-categories: [SnapJapan, cellphone, wired, softbank, wanseg, iphone]
+categories: [SnapJapan, Service, Gadgets]
 keywords: cellphone,wired,softbank,wanseg,iphone
 tags: [cellphone,wired,softbank,wanseg,iphone]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on my satisfaction with iPhone in Japan, by Rick Cogley.
 published: true
 ---
  
@@ -22,33 +22,13 @@ Japanese cell phones are indeed "cutting edge", sure, but a lot of the stuff on 
 
 People complain that the iPhone software and hardware is proprietary, but _you gotta be kidding me_. Japanese cell phones are all about proprietary, in my opinion, and here's a sample of my gripes over the years:
 
-
-
-
-
-Different interface per maker. Kyocera is different from Sony is different from Sharp.
-
-
-New software to sync with Outlook every time you buy a new phone and limited options to sync with Apple OS X Address Book. Different data format per phone, which makes migrations hard.
-
-
-Special formats required for built-in music players, especially Sony. What a chore to get mp3's onto a Sony for playback!
-
-
-Number portability was not an option until fairly recently. Now, at least you can keep your number from company to company, for a monthly fee.
-
-
-Limited standards adoption, for example in that only a proprietary bluetooth headset can be used with the device.
-
-
-Incredibly poor English language text entry handling. My last AU phone from Sony could not enter a space in certain modes and a carriage return in others!
-
-
-Limited ability to switch interface into English. Sony allows this, but my Sharp from a year before did not, for instance.
-
-
-
-
+1. Different interface per maker. Kyocera is different from Sony is different from Sharp.
+1. New software to sync with Outlook every time you buy a new phone and limited options to sync with Apple OS X Address Book. Different data format per phone, which makes migrations hard.
+1. Special formats required for built-in music players, especially Sony. What a chore to get mp3's onto a Sony for playback!
+1. Number portability was not an option until fairly recently. Now, at least you can keep your number from company to company, for a monthly fee.
+1. Limited standards adoption, for example in that only a proprietary bluetooth headset can be used with the device.
+1. Incredibly poor English language text entry handling. My last AU phone from Sony could not enter a space in certain modes and a carriage return in others!
+1. Limited ability to switch interface into English. Sony allows this, but my Sharp from a year before did not, for instance.
 
 Apple's user interfaces are truly high quality compared to those of Japanese cellphones, but there are indeed a number of aspects about the iPhone which would pose a barrier to adoption, especially for a person very used to the Japanese cellphone ways or modes. No infrared data or personal information exchange, none of the Japan-only stuff like Suica (train pass) or "wallet" function (auto-debit credit card), no hook for a strap, and a different text entry method are some of the things that feel like obstacles. 
 

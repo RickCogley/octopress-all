@@ -4,12 +4,12 @@ post_title: "Conti et Mer - Great Tokyo Sandwiches"
 date: 2009-03-27 00:15:24 UTC
 updated: 2009-03-27 00:15:24 UTC
 comments: true
-categories: [SnapJapan, French, delivery, sandwiches, conti et mer]
+categories: [SnapJapan, Culture, Japan, Tips]
 keywords: French,delivery,sandwiches,conti et mer
 tags: [French,delivery,sandwiches,conti et mer]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on great sandwiches from Conti et Mer, in Tokyo, by Rick Cogley. 
 published: true
 ---
  

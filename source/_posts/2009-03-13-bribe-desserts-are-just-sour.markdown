@@ -4,15 +4,14 @@ post_title: "Bribe Desserts are Just Sour"
 date: 2009-03-13 12:03:41 UTC
 updated: 2009-03-13 12:03:41 UTC
 comments: true
-categories: [SnapJapan, settai, culture, Lockheed, mizkan, vinegar, Kakuei Tanaka, Ichiro Ozawa]
+categories: [SnapJapan, Culture, Japan]
 keywords: settai,culture,Lockheed,mizkan,vinegar,Kakuei Tanaka,Ichiro Ozawa
 tags: [settai,culture,Lockheed,mizkan,vinegar,Kakuei Tanaka,Ichiro Ozawa]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on a discussion with a taxi driver about SOX legislation, by Rick Cogley.
 published: true
 ---
- 
 
 Since the Lockheed scandal brought Kakuei Tanaka down in the late 1970's, Japan has seen many and varied incidents, their occurrence only escalating in recent years. Even the Tanaka protege **Ichiro Ozawa**, who has been stressing a (rather two-faced) populist agenda of late, is now tainted by a bribe scandal via a top aide accused of taking corporate donations. Ozawa san, so much for that "for the people" agenda eh? Who's going to replace Aso?!
 
