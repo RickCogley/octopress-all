@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resources
 title: "Cycling Routes"
 date: 2013-01-13 20:59
 comments: false

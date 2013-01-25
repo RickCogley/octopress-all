@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resources
 title: "Command Line Equivalents"
 date: 2013-01-13 20:59
 comments: false

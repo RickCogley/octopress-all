@@ -79,28 +79,28 @@ slidertext3: Rick Cogley has led large and complex projects in Japan and abroad,
     <div class="span12 divider-strip"><h4>Site Highlights</h4><span class="strip-block"></span></div>
   </div>
 
-<div class="row">
+<div class="row-fluid">
 
- <div class="span3 block-info-h">
-      <h3><a href="/resources/bio/">Bio</a></h3>
-      <i class="icon-cogs" style="font-size:80px; color:#006b09; margin:50px auto 40px auto; display:block"></i>
-      <p>Hi, and welcome to my site. I'm an experienced Japan-based IT consultant, project manager, and CEO of <a href="http://www.esolia.com" target="_blank">eSolia Inc</a>, my IT management consultancy.</p>
-    </div>
-    <div class="span3 block-info-h">
-      <h3><a href="/articles/">Articles</a></h3>
-      <i class="icon-bullhorn" style="font-size:80px; color:#6b3e00; margin:50px auto 40px auto; display:block"></i>
-      <p>My articles on tech, productivity, Japan, business, all listed chronologically (creative, eh?).</p>
-    </div>
-    <div class="span3 block-info-h">
-      <h3><a href="/articles/topics/">Topics</a></h3>
-      <i class="icon-pushpin" style="font-size:80px; color:#003b6b; margin:50px auto 40px auto; display:block"></i>
-      <p>A list of the topics under which I'm grouping my articles on this site, such as Business, Humor, Tips, Troubleshooting, or Language.</p>
-    </div>
-    <div class="span3 block-info-h">
-      <h3><a href="/resources/">Resources</a></h3>
-      <i class="icon-magic" style="font-size:80px; color:#36006b; margin:50px auto 40px auto; display:block"></i>
-      <p>A most excellent set of resource pages I assembled, like FAQs on cycling and Mac use, keyboard shortcuts, and geeky terminal command equivalents.</p>
-    </div>
+  <div class="span3 block-info-h">
+    <h3><a href="/resources/bio/">Bio</a></h3>
+    <i class="icon-cogs" style="font-size:80px; color:#006b09; margin:50px auto 40px auto; display:block"></i>
+    <p>Hi, and welcome to my site. I'm an experienced Japan-based IT consultant, project manager, and CEO of <a href="http://www.esolia.com" target="_blank">eSolia Inc</a>, my IT management consultancy.</p>
+  </div>
+  <div class="span3 block-info-h">
+    <h3><a href="/articles/">Articles</a></h3>
+    <i class="icon-bullhorn" style="font-size:80px; color:#6b3e00; margin:50px auto 40px auto; display:block"></i>
+    <p>My articles on tech, productivity, Japan, business, all listed chronologically (creative, eh?).</p>
+  </div>
+  <div class="span3 block-info-h">
+    <h3><a href="/articles/topics/">Topics</a></h3>
+    <i class="icon-pushpin" style="font-size:80px; color:#003b6b; margin:50px auto 40px auto; display:block"></i>
+    <p>A list of the topics under which I'm grouping my articles on this site, such as Business, Humor, Tips, Troubleshooting, or Language.</p>
+  </div>
+  <div class="span3 block-info-h">
+    <h3><a href="/resources/">Resources</a></h3>
+    <i class="icon-magic" style="font-size:80px; color:#36006b; margin:50px auto 40px auto; display:block"></i>
+    <p>A most excellent set of resource pages I assembled, like FAQs on cycling and Mac use, keyboard shortcuts, and geeky terminal command equivalents.</p>
+  </div>
  
 </div>
 
@@ -111,38 +111,51 @@ slidertext3: Rick Cogley has led large and complex projects in Japan and abroad,
 ================================================== -->  
   
   <div class="row-fluid">
-    <div class="span6 divider-strip"><h4>Latest Articles</h4><span class="strip-block"></span></div>
-    <div class="span6 divider-strip"><h4>Featured Articles</h4><span class="strip-block"></span></div>
-  </div>
-
-  <div class="row">
-    {% for post in site.categories['Featured'] limit:2 %}
-      {% assign content = post.content %}
-      <div class="span3 blog-home">
-        <!-- <img src="assets/img/blog-examples/blog-home.jpg" alt=""> -->
-        <ul class="blog-meta meta pull-left">
-          <li class="data">{% include post/date.html %}{{ time }}</li>
-          <li class="post-format {% if post.posticon %}{{ post.posticon }}{% else %}default{% endif %}"><span></span></li>
-        </ul>
-        <h3><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h3> 
-        <p>{{ content | markdownify | summary | strip_html }}</p>
-        <a href="{{ root_url }}{{ post.url }}" class="btn">Read more</a>
+    <div class="span6 margin-bottom-big">
+      <div class="row-fluid">
+        <div class="span6 divider-strip"><h4>Latest Articles</h4><span class="strip-block"></span></div>
       </div>
-    {% endfor %}
-
-    {% for post in site.posts limit:2 %}
-      {% assign content = post.content %}
-      <div class="span3 blog-home">
-        <!-- <img src="assets/img/blog-examples/blog-home.jpg" alt=""> -->
-        <ul class="blog-meta meta pull-left">
-          <li class="data">{% include post/date.html %}{{ time }}</li>
-          <li class="post-format {% if post.posticon %}{{ post.posticon }}{% else %}default{% endif %}"><span></span></li>
-        </ul>
-        <h3><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h3> 
-        <p>{{ content | markdownify | summary | strip_html }}</p>
-        <a href="{{ root_url }}{{ post.url }}" class="btn">Read more</a>
+      <div class="row-fluid">
+        <div class="span12">
+          {% for post in site.categories['Featured'] limit:2 %}
+            {% assign content = post.content %}
+            <div class="span6 blog-home">
+              <!-- <img src="assets/img/blog-examples/blog-home.jpg" alt=""> -->
+              <ul class="blog-meta meta pull-left">
+                <li class="data">{% include post/date.html %}{{ time }}</li>
+                <li class="post-format {% if post.posticon %}{{ post.posticon }}{% else %}default{% endif %}"><span></span></li>
+              </ul>
+              <h3><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h3> 
+              <p>{{ content | markdownify | summary | strip_html }}</p>
+              <a href="{{ root_url }}{{ post.url }}" class="btn">Read more</a>
+            </div>
+          {% endfor %}
+        </div>
       </div>
-    {% endfor %}
+    </div>
+
+    <div class="span6">
+      <div class="row-fluid">
+        <div class="span6 divider-strip"><h4>Featured Articles</h4><span class="strip-block"></span></div>
+      </div>
+      <div class="row-fluid">
+        <div class="span12">
+          {% for post in site.posts limit:2 %}
+            {% assign content = post.content %}
+            <div class="span6 blog-home">
+              <!-- <img src="assets/img/blog-examples/blog-home.jpg" alt=""> -->
+              <ul class="blog-meta meta pull-left">
+                <li class="data">{% include post/date.html %}{{ time }}</li>
+                <li class="post-format {% if post.posticon %}{{ post.posticon }}{% else %}default{% endif %}"><span></span></li>
+              </ul>
+              <h3><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.title | titlecase }}{% else %}{{ post.title }}{% endif %}</a></h3> 
+              <p>{{ content | markdownify | summary | strip_html }}</p>
+              <a href="{{ root_url }}{{ post.url }}" class="btn">Read more</a>
+            </div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
   </div>
  
   <div class="divider"></div> 

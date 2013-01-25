@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: resources
 title: "On the Principles behind the Agile Manifesto"
 date: 2009-01-13 20:59
 comments: false

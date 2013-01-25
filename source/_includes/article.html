@@ -39,7 +39,7 @@
       {% if page.no_header %} {% else %} {% endif %}
 
         {% if index %}
-          <h1 class="post-title"><a href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.post_title | titlecase }}{% else %}{{ post.post_title }}{% endif %}</a></h1>
+          <h1 class="post-title"><a class="post-title-link" href="{{ root_url }}{{ post.url }}">{% if site.titlecase %}{{ post.post_title | titlecase }}{% else %}{{ post.post_title }}{% endif %}</a></h1>
         {% else %}
           <h1 class="post-title">{% if site.titlecase %}{{ page.post_title | titlecase }}{% else %}{{ page.post_title }}{% endif %}</h1>
         {% endif %}
