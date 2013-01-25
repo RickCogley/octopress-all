@@ -4,12 +4,12 @@ post_title: "Upload Photos in Specified Order to Flickr from Aperture for Better
 date: 2008-10-31 05:39:37 UTC
 updated: 2008-10-31 05:39:37 UTC
 comments: true
-categories: [Blog-Cogley, productivity, flickrexport, thomas hawk, connectedflow, flickr popularity, apple, aperture]
+categories: [Blog-Cogley, Tips, Photography]
 keywords: productivity,flickrexport,thomas hawk,connectedflow,flickr popularity,apple,aperture
 tags: [productivity,flickrexport,thomas hawk,connectedflow,flickr popularity,apple,aperture]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on how to force the upload order to Flickr, in Apple Aperture, by Rick Cogley.
 published: true
 ---
  

@@ -4,12 +4,12 @@ post_title: "Enable Google Labs in Google Apps Premier"
 date: 2008-11-14 03:55:24 UTC
 updated: 2008-11-14 03:55:24 UTC
 comments: true
-categories: [Blog-Cogley, productivity, google labs, google apps premier edition, web applications, gape]
-keywords: productivity,google labs,google apps premier edition,web applications,gape
-tags: [productivity,google labs,google apps premier edition,web applications,gape]
+categories: [Blog-Cogley, Software, Web]
+keywords: google labs,google apps premier edition,web applications,gape
+tags: [google labs,google apps premier edition,web applications,gape]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on enabling labs in Google Apps Premier Edition, by Rick Cogley. 
 published: true
 ---
  

@@ -4,12 +4,12 @@ post_title: "Word 2007 Performance Optimization Tips"
 date: 2008-10-31 11:43:18 UTC
 updated: 2008-10-31 11:43:18 UTC
 comments: true
-categories: [Blog-Cogley, snagit, tutorials, tip, software, tips, optimize, DOCX, Office 2007, performance, productivity, spell check, techsmith, microsoft, Office]
+categories: [Blog-Cogley, Tips, Software]
 keywords: snagit,tutorials,tip,software,tips,optimize,DOCX,Office 2007,performance,productivity,spell check,techsmith,microsoft,Office
 tags: [snagit,tutorials,tip,software,tips,optimize,DOCX,Office 2007,performance,productivity,spell check,techsmith,microsoft,Office]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Tip on how to optimize Microsoft Word 2007 usage, by Rick Cogley.
 published: true
 ---
  

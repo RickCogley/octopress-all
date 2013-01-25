@@ -4,7 +4,7 @@ post_title: "Chinese Domain Scam - Register Now or Else"
 date: 2008-11-17 11:48:48 UTC
 updated: 2008-11-17 11:48:48 UTC
 comments: true
-categories: [Blog-Cogley, cnnic, scam, spam, intellectual property, Internet, china]
+categories: [Blog-Cogley, Business, Culture]
 keywords: cnnic,scam,spam,intellectual property,Internet,china
 tags: [cnnic,scam,spam,intellectual property,Internet,china]
 posticon: default

@@ -4,12 +4,12 @@ post_title: "Japan is Mascot Land"
 date: 2008-10-31 01:23:02 UTC
 updated: 2008-10-31 01:23:02 UTC
 comments: true
-categories: [SnapJapan, fiberglass mascot, megane drug, japan]
+categories: [SnapJapan, Japan, Culture]
 keywords: fiberglass mascot,megane drug,japan
 tags: [fiberglass mascot,megane drug,japan]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on fibreglass mascots in Japan, by Rick Cogley. 
 published: true
 ---
  

@@ -4,12 +4,12 @@ post_title: "Address Book vCard to Windows User - Garbled Japanese Fonts etc."
 date: 2008-10-31 12:04:35 UTC
 updated: 2008-10-31 12:04:35 UTC
 comments: true
-categories: [Blog-Cogley, vCard, outlook, ical.app, software, garbled japanese, apple, productivity, VCF, fonts, Address Book, mail, mail.app]
-keywords: vCard,outlook,ical.app,ical,software,garbled japanese,apple,productivity,VCF,fonts,Address Book,mail,mail.app
-tags: [vCard,outlook,ical.app,ical,software,garbled japanese,apple,productivity,VCF,fonts,Address Book,mail,2.1,mail.app]
+categories: [Blog-Cogley, Tips, Efficiency, Software]
+keywords: vCard,outlook,ical.app,ical,software,garbled japanese,apple,VCF,fonts,Address Book,mail,mail.app
+tags: [vCard,outlook,ical.app,ical,software,garbled japanese,apple,VCF,fonts,Address Book,mail,2.1,mail.app]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post regarding problems sending vcards in Apple Address book, to Windows users, by Rick Cogley.
 published: true
 ---
  

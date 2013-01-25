@@ -4,12 +4,12 @@ post_title: "Consolidated RSS for this Site"
 date: 2008-11-22 14:44:56 UTC
 updated: 2008-11-22 14:44:56 UTC
 comments: true
-categories: [Blog-Cogley, feed43, productivity, consolidated rss, subscription, html scraping, subscribe, yahoo, feedburner, web applications, rss, yahoo pipes]
+categories: [Blog-Cogley, Web, Popular]
 keywords: feed43,productivity,consolidated rss,subscription,html scraping,subscribe,yahoo,feedburner,web applications,rss,yahoo pipes
 tags: [feed43,productivity,consolidated rss,subscription,html scraping,subscribe,yahoo,feedburner,web applications,rss,yahoo pipes]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on consolidated RSS feed for this site, by Rick Cogley.
 published: true
 ---
  

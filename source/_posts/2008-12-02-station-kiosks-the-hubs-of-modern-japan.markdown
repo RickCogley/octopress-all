@@ -4,12 +4,12 @@ post_title: "Station Kiosks - the Hubs of Modern Japan"
 date: 2008-12-02 13:16:19 UTC
 updated: 2008-12-02 13:16:19 UTC
 comments: true
-categories: [SnapJapan, Convenience, キオスク, Japan Rail, metro, Kiosk, wicket, Vendor, suica, subway, japan]
+categories: [SnapJapan, Japan, Culture, Featured, Photography]
 keywords: Convenience,キオスク,Japan Rail,metro,Kiosk,wicket,Vendor,suica,subway,japan
 tags: [Convenience,キオスク,Japan Rail,metro,Kiosk,wicket,Vendor,suica,subway,japan]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Japan's Kiosks, by Rick Cogley.
 published: true
 ---
  

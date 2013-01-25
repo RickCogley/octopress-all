@@ -35,6 +35,10 @@ Family:
   awesomeicon: icon-group
   description: "Family is the home base, the solid core and the crux of what's real."
   image: /images/topic-family.jpg
+Featured: 
+  awesomeicon: icon-screenshot
+  description: "The few, the proud, the Featured!"
+  image: /images/topic-featured.jpg
 Gadgets: 
   awesomeicon: icon-laptop
   description: "Sometimes simple is indeed best, but we live in a time with really, really great and inspiring gadgets. I cannot even imagine what my kids' kids will enjoy, but I really appreciate the tools I have today, compared to just a short time ago."

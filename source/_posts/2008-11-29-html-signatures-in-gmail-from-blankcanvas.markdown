@@ -4,12 +4,12 @@ post_title: "HTML Signatures in GMail from BlankCanvas"
 date: 2008-11-29 09:05:17 UTC
 updated: 2008-11-29 09:05:17 UTC
 comments: true
-categories: [Blog-Cogley, productivity, Blank Canvas, Plugin, flock, software, gmail, Signature, HTML, Firefox, BlankCanvas]
+categories: [Blog-Cogley, Tips]
 keywords: productivity,Blank Canvas,Plugin,flock,software,gmail,Signature,HTML,Firefox,BlankCanvas
 tags: [productivity,Blank Canvas,Plugin,flock,software,gmail,Signature,HTML,Firefox,BlankCanvas]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Tip on how to get HTML signatures in Gmail, by Rick Cogley.
 published: true
 ---
  
