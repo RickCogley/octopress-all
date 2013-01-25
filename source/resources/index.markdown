@@ -26,6 +26,24 @@ _... From Yours Truly:_
   </p>
 </div>
 <div class="hero-unit">
+  <h1>Between Agile Lines</h1>
+  <p>Reading between the lines of the Agile Manifesto.</p>
+  <p>
+    <a href="/resources/rick-cogley-between-the-lines-of-the-agile-manifesto/" class="btn btn-inverse btn-large">
+      Go Between Them!
+    </a>
+  </p>
+</div>
+<div class="hero-unit">
+  <h1>On Agile Principles</h1>
+  <p>My read of the principles in the Agile Manifesto.</p>
+  <p>
+    <a href="/resources/rick-cogley-on-agile-principles/" class="btn btn-info btn-large">
+      Get Agile!
+    </a>
+  </p>
+</div>
+<div class="hero-unit">
   <h1>Keyboard Shortcuts</h1>
   <p>We don't need no stinkin' mice.</p>
   <p>
