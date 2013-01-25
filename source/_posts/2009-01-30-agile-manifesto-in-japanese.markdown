@@ -4,12 +4,12 @@ post_title: "Agile Manifesto in Japanese"
 date: 2009-01-30 03:32:09 UTC
 updated: 2009-01-30 03:32:09 UTC
 comments: true
-categories: [Blog-Cogley, Agile Manifesto, software, Agile]
+categories: [Blog-Cogley, Process, Professional]
 keywords: Agile Manifesto,software,Agile
 tags: [Agile Manifesto,software,Agile]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on the Agile Manifesto, by Rick Cogley.
 published: true
 ---
  

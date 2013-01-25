@@ -4,12 +4,12 @@ post_title: "Mockup Mania!"
 date: 2009-01-29 15:11:28 UTC
 updated: 2009-01-29 15:11:28 UTC
 comments: true
-categories: [Blog-Cogley, balsamiq, productivity, dabbleboard, cross-platform, Open Labs, collaboration, software, mockup, iplotz, mockupscreens]
+categories: [Blog-Cogley, Reviews, Software]
 keywords: balsamiq,productivity,dabbleboard,cross-platform,Open Labs,collaboration,software,mockup,iplotz,mockupscreens
 tags: [balsamiq,productivity,dabbleboard,cross-platform,Open Labs,collaboration,software,mockup,iplotz,mockupscreens]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Mockup applications, from Rick Cogley. 
 published: true
 ---
  
