@@ -4,12 +4,12 @@ post_title: "JR Stations in Tokyo Soon Smoke-Free"
 date: 2009-02-25 10:00:35 UTC
 updated: 2009-02-25 10:00:35 UTC
 comments: true
-categories: [SnapJapan, Japan Rail, smoke-free, no smoking]
+categories: [SnapJapan, Japan, Culture, Health]
 keywords: Japan Rail,smoke-free,no smoking
 tags: [Japan Rail,smoke-free,no smoking]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Japan Rail stations becoming smoke-free, by Rick Cogley.
 published: true
 ---
  

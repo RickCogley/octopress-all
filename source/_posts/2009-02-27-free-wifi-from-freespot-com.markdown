@@ -4,12 +4,12 @@ post_title: "Free Wifi from freespot.com"
 date: 2009-02-27 00:04:57 UTC
 updated: 2009-02-27 00:04:57 UTC
 comments: true
-categories: [SnapJapan, free, freespot, wireless, wifi]
+categories: [SnapJapan, Japan, Business]
 keywords: free,freespot,wireless,wifi
 tags: [free,freespot,wireless,wifi]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Freespot offering free wifi in Japan, by Rick Cogley. 
 published: true
 ---
  

@@ -4,12 +4,12 @@ post_title: "Guerilla Collaboration with Mindtouch Deki?"
 date: 2009-02-27 23:08:03 UTC
 updated: 2009-02-27 23:08:03 UTC
 comments: true
-categories: [Blog-Cogley, Aaron Fulkerson, behavior, productivity, collaboration, gorilla, dekiwiki, mindtouch]
+categories: [Blog-Cogley, Software, Web, Process]
 keywords: Aaron Fulkerson,behavior,productivity,collaboration,gorilla,dekiwiki,mindtouch
 tags: [Aaron Fulkerson,behavior,productivity,collaboration,gorilla,dekiwiki,mindtouch]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on guerrilla collaboration with Deki Wiki, by Rick Cogley. 
 published: true
 ---
  

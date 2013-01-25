@@ -4,12 +4,12 @@ post_title: "Various OmniGroup Applications Now Free"
 date: 2009-02-25 23:28:12 UTC
 updated: 2009-02-25 23:28:12 UTC
 comments: true
-categories: [Blog-Cogley, Omni Group, Freeware]
+categories: [Blog-Cogley, Software, Business]
 keywords: Omni Group,Freeware
 tags: [Omni Group,Freeware]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Omni Group apps becoming free, by Rick Cogley. 
 published: true
 ---
  

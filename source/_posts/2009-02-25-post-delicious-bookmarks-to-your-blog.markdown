@@ -4,12 +4,12 @@ post_title: "Post Delicious Bookmarks to Your Blog"
 date: 2009-02-25 03:33:16 UTC
 updated: 2009-02-25 03:33:16 UTC
 comments: true
-categories: [Blog-Cogley, blogger, productivity, delicious, xml-rpc]
+categories: [Blog-Cogley, Tips, Web]
 keywords: blogger,productivity,delicious,xml-rpc
 tags: [blogger,productivity,delicious,xml-rpc]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on how to get Delicious bookmarks onto your blog, by Rick Cogley.
 published: true
 ---
  

@@ -4,12 +4,12 @@ post_title: "Niigata's Dubious Claim to \"Fame\" - The Shortest Skirts"
 date: 2009-02-27 23:56:18 UTC
 updated: 2009-02-27 23:56:18 UTC
 comments: true
-categories: [SnapJapan, nobiru, niigata, miniskirt]
+categories: [SnapJapan, Japan, Culture, Popular]
 keywords: nobiru,niigata,miniskirt
 tags: [nobiru,niigata,miniskirt]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Niigata shortest skirts, by Rick Cogley. 
 published: true
 ---
  

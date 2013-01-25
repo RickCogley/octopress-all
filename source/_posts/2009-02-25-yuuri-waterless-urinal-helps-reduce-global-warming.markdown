@@ -4,12 +4,12 @@ post_title: "Yuuri Waterless Urinal Helps Reduce Global Warming"
 date: 2009-02-25 09:42:21 UTC
 updated: 2009-02-25 09:42:21 UTC
 comments: true
-categories: [SnapJapan, conservation, global warming, waterless urinal, yuuri]
+categories: [SnapJapan, Japan, Culture, Business]
 keywords: conservation,global warming,waterless urinal,yuuri
 tags: [conservation,global warming,waterless urinal,yuuri]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post about the Yuuri waterless urinal, is itself sure to help reduce global warming, by Rick Cogley. 
 published: true
 ---
  

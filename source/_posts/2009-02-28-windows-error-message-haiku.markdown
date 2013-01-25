@@ -4,165 +4,111 @@ post_title: "Windows Error Message Haiku"
 date: 2009-02-28 01:50:13 UTC
 updated: 2009-02-28 01:50:13 UTC
 comments: true
-categories: [Blog-Cogley, humor]
-keywords: humor
-tags: [humor]
+categories: [Blog-Cogley, Japan, Humor]
+keywords: humor,haiku
+tags: [humor,haiku]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Windows error messages in Haiku form, by Rick Cogley. 
 published: true
 ---
- 
 
 It's said on the internets that Microsoft has replaced its Japanese Windows error messages with Haiku poems (5-7-5 syllables). Apologies to Basho and to the creative souls who made these originally. 
 
-
-> 
-
-
+{% blockquote %}
 Your file was so big.
-
-
 It might be very useful.
-
-
 But now it is gone.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 The web site you seek
-
-
 Cannot be located, but
-
-
 Countless more exist.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 Chaos reigns within.
-
-
 Reflect, repent, and reboot.
-
-
 Order will return.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 Program aborting:
-
-
 Close all that you have worked on.
-
-
 You ask far too much.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 Windows NT crashed.
-
-
 I am the Blue Screen of Death.
-
-
 No one hears your screams.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 Yesterday it worked.
-
-
 Today it is not working.
-
-
 Windows is like that.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 First snow, then silence.
-
-
 This thousand dollar screen dies
-
-
 So beautifully.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 With searching comes loss
-
-
 And the presence of absence:
-
-
 "My Novel" not found.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 The Tao that is seen
-
-
 Is not the true Tao--until
-
-
 You bring fresh toner.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 Stay the patient course.
-
-
 Of little worth is your ire.
-
-
 The network is down.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 A crash reduces
-
-
 Your expensive computer
-
-
 To a simple stone.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 Three things are certain:
-
-
 Death, taxes and lost data.
-
-
 Guess which has occurred?
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 You step in the stream,
-
-
 But the water has moved on.
-
-
 This page is not here.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 Out of memory.
-
-
 We wish to hold the whole sky,
-
-
 But we never will.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 Having been erased,
-
-
 The document you're seeking
-
-
 Must now be retyped.
+{% endblockquote %}
 
-<br />
+{% blockquote %}
 Serious error.
-
-
 All shortcuts have disappeared.
-
-
 Screen. Mind. Both are blank.
-
-<br />
+{% endblockquote %}
 
 
