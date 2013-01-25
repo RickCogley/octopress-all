@@ -4,12 +4,12 @@ post_title: "Google Labs Adds Task List to GMail"
 date: 2008-12-10 10:57:19 UTC
 updated: 2008-12-10 10:57:19 UTC
 comments: true
-categories: [Blog-Cogley, task list, productivity, software, google labs, gmail, google apps premier edition, google]
+categories: [Blog-Cogley, Efficiency, Software, Web, Tips]
 keywords: task list,productivity,software,google labs,gmail,google apps premier edition,google
 tags: [task list,productivity,software,google labs,gmail,google apps premier edition,google]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post about adding a task list to Gmail via Labs, by Rick Cogley.
 published: true
 ---
  

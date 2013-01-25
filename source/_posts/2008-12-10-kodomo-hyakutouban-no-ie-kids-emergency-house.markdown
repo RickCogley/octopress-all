@@ -4,12 +4,12 @@ post_title: "Kodomo Hyakutouban no Ie - \"Kids' Emergency House\""
 date: 2008-12-10 17:38:21 UTC
 updated: 2008-12-10 17:38:21 UTC
 comments: true
-categories: [SnapJapan, culture, emergency house]
-keywords: culture,emergency house
-tags: [culture,emergency house]
+categories: [SnapJapan, Japan, Culture, Emergency]
+keywords: culture,emergency house,子供１１０番の家
+tags: [culture,emergency house,子供１１０番の家]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post about the 110 emergency house for kids system, in Japan, by Rick Cogley.
 published: true
 ---
  

@@ -4,12 +4,12 @@ post_title: "Burning Audio CDs with Text Info in iTunes"
 date: 2008-12-09 23:54:43 UTC
 updated: 2008-12-09 23:54:43 UTC
 comments: true
-categories: [Blog-Cogley, Gracenote, productivity, iTunes, CD Text, software, cddb]
+categories: [Blog-Cogley, Tips, Music, Software]
 keywords: Gracenote,productivity,iTunes,CD Text,software,cddb
 tags: [Gracenote,productivity,iTunes,CD Text,software,cddb]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: How to burn a CD from iTunes with Text info, by Rick Cogley.
 published: true
 ---
  

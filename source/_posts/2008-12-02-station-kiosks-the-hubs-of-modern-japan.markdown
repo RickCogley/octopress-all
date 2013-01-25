@@ -9,7 +9,7 @@ keywords: Convenience,キオスク,Japan Rail,metro,Kiosk,wicket,Vendor,suica,su
 tags: [Convenience,キオスク,Japan Rail,metro,Kiosk,wicket,Vendor,suica,subway,japan]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: Post on Japan's Kiosks, by Rick Cogley.
+description: Post on Japan's ubiquitous Kiosks, by Rick Cogley.
 published: true
 ---
  
