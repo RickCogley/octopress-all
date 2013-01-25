@@ -100,7 +100,7 @@ ul.socicon li.last{ margin-right:0;}
 nav select{ display:none; width:100%;}
 nav ul{margin:30px 0; }
 nav ul li{float: left;margin:0 0 0 10px;position: relative;z-index:999; position:relative; line-height: 36px;}
-nav ul li a{display: inline;margin:0;padding: 11px 16px;font-size:12px;font-weight: 400;font-family: 'PT Sans', sans-serif;text-transform: uppercase;line-height: 15px;color: #7493b2;}
+nav ul li a{display: inline;margin:0;padding: 11px 16px;font-size:11px;font-weight: 400;text-transform: uppercase;line-height: 15px;color: #7493b2;}
 nav ul li a:hover, nav ul li.current > a{color: #577088;border: none;background:url(../img/bg-header.png) top center repeat-x;padding: 10px 15px;border:1px #e4e4e6 solid;}
 nav ul li a:hover{background:url(../img/bg-header.png) bottom center repeat-x;}
 nav ul li span.indicator { width:12px; height:13px; background:url(../img/sub-indicator.png) top center no-repeat; position:absolute; top:13px; right:3px; display:block;}
@@ -162,7 +162,7 @@ blockquote small{font-size:14px; font-style:normal; margin-top:25px;}
 /***** Portfolio *****/
 
 #pagehead {padding:25px 0;border-bottom:1px #e3e3e8 solid;} 
-#pagehead h1,.page-header h1{ font-size:30px; font-weight:700; text-transform:uppercase; color:#577088;}
+#pagehead h1,.page-header h1{ font-size:40px; font-weight:200; text-transform:uppercase; color:#577088;}
 section h2 { font-weight:400;}
 #pagehead h1 small{ font-weight:400; text-transform:lowercase; line-height:35px;}
 .service-home{margin-bottom:30px;margin-top:30px;}
