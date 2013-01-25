@@ -162,8 +162,8 @@ blockquote small{font-size:14px; font-style:normal; margin-top:25px;}
 /***** Portfolio *****/
 
 #pagehead {padding:25px 0;border-bottom:1px #e3e3e8 solid;} 
-#pagehead h1,.page-header h1{ font-size:30px; font-weight:700;font-family: 'Open Sans Condensed', sans-serif; text-transform:uppercase; color:#577088;}
-section h2 { font-weight:400;font-family: 'Open Sans Condensed', sans-serif;}
+#pagehead h1,.page-header h1{ font-size:30px; font-weight:700; text-transform:uppercase; color:#577088;}
+section h2 { font-weight:400;}
 #pagehead h1 small{ font-weight:400; text-transform:lowercase; line-height:35px;}
 .service-home{margin-bottom:30px;margin-top:30px;}
 .block-info{padding:0; margin-bottom:20px;}
@@ -203,7 +203,7 @@ ul#portfolio-filter li a:hover,ul.filter-data li a:hover{ background-position:0 
 .blog-home h3{ margin-top:10px;}
 .blog-home .carousel{ margin-bottom:0;}
 .meta{ margin:10px 10px 0 0; text-align:center;}
-.blog-meta{ margin:0;text-shadow:2px 2px 0 #e3e3e8;}
+.blog-meta{ text-shadow:2px 2px 0 #e3e3e8;}
 .blog-meta hr{ margin:5px 0;}
 .meta .data{ font-weight:400; padding:5px; background:#f8f8f8;-webkit-border-radius: 100px;-moz-border-radius: 100px;border-radius: 100px; }
 .blog-meta .data h3{ font-weight:700; font-style:italic;color:#577088; padding:5px 0 0 0; }
