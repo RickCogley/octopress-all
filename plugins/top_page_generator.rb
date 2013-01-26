@@ -21,6 +21,7 @@ module Jekyll
         Dir['../source/_projects/*.yml'].each do |path|
           name   = File.basename(path, '.yml')
           config = YAML.load(File.read(File.join(path)))
+          config['filename'] = name
           projects[name] = config if config['featured']
         end
       end

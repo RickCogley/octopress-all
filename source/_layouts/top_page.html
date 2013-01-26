@@ -171,7 +171,7 @@ slidertext3: Rick Cogley has led large and complex projects to success, includin
         {% for project in page.featured_projects %}
           <div class="span3 center-content">
             <img src="{{ project.image.url }}" alt="">
-            <p><a href="#">{{ project.title }}</a></p> 
+            <p><a href="/portfolio/{{ project.filename }}">{{ project.title }}</a></p> 
           </div>
         {% endfor %}
       </div>
