@@ -6,7 +6,7 @@ comments: false
 sharing: true
 sidebar: true
 footer: true
-categories: [Rick Cogley, About, Bio, Contact
+categories: [Rick Cogley, About, Bio, Contact]
 description: This is Rick Cogley's About, Biography and Contact-Me Page.
 keywords: Rick Cogley, Bio, CV, Biography, About, Colophon, vcard
 tags: [Rick Cogley,Bio,CV,Biography,About,Colophon,vcard]
