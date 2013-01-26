@@ -43,6 +43,10 @@ Featured:
   awesomeicon: icon-screenshot
   description: "The few, the proud, the Featured!"
   image: /images/topic-featured.jpg
+Food-and-Drink: 
+  awesomeicon: icon-food
+  description: "There will always be eating and drinking, so you might as well have the most desirous things."
+  image: /images/topic-food-and-drink.jpg
 Gadgets: 
   awesomeicon: icon-laptop
   description: "Sometimes simple is indeed best, but we live in a time with really, really great and inspiring gadgets. I cannot even imagine what my kids' kids will enjoy, but I really appreciate the tools I have today, compared to just a short time ago."
@@ -81,8 +85,12 @@ Personal:
   image: /images/topic-personal.jpg
 Photography: 
   awesomeicon: icon-camera-retro
-  description: "Photography is lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  description: "Photographs let you bring forward the past into the present, and the best ones capture a scintilla of all that's beautiful about life."
   image: /images/topic-photography.jpg
+Places: 
+  awesomeicon: icon-map-marker
+  description: "Why is it, the energy level spikes up when we are visiting somewhere new, even if it's close by? I love to go to cool places!"
+  image: /images/topic-places.jpg
 Popular: 
   awesomeicon: icon-fire
   description: "Popular might indeed be 'of the people', but is it by the people and for the people? Popularity certainly does not guarantee that something is right or correct."
