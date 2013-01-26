@@ -70,7 +70,7 @@ Japan, Winter 2009
 
  [eSolia's]: http://www.esolia.com
  [Agile Manifesto]: http://agilemanifesto.org
- [contact me]: /contact/ "Contact Me"
+ [contact me]: /about/ "Contact Me"
  [blog post introducing this article]: /articles/2009/01/31/between-the-lines-of-the-agile-manifesto/  
 
 [Previously Published Here](http://rick.cogley.info/goodies/reference/rick-cogley-between-the-lines-of-the-agile-manifesto.php "Previous Version of Reading between the Lines of the Agile Manifesto")

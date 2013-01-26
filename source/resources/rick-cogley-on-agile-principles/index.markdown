@@ -113,7 +113,7 @@ Japan, Winter 2009
  [principles]: http://agilemanifesto.org/principles.html
  [Agile Manifesto]: /articles/2009/01/30/agile-manifesto-in-japanese/
  [Reading between the lines of the Agile Manifesto]: /resources/rick-cogley-between-the-lines-of-the-agile-manifesto/
- [contact me]: /contact/ "Contact Me"
+ [contact me]: /about/ "Contact Me"
  [blog post introducing this article]: /articles/2009/02/04/on-the-principles-of-the-agile-manifesto/  
 
 [Previously Published Here](http://rick.cogley.info/goodies/reference/rick-cogley-on-agile-principles.php "Permalink to The Principles behind the Agile Manifesto")
