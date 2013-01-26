@@ -22,7 +22,13 @@
           <li class="small-text"><a href="{{site.jrcbiopath}}">{{ author }}</a></li>
           <hr>
           <li class="small-text">
-            {% for cat in page.categories %}
+            {% if post.categories %}
+              {% assign post_categs = post.categories %}
+            {% else %}
+              {% assign post_categs = page.categories %}
+            {% endif %}
+            
+            {% for cat in post_categs %}
               <a href="/articles/topics/{{ cat | downcase }}">{{ cat }}</a> {% unless forloop.last %},{% endunless%} 
             {% endfor %}
           </li>
