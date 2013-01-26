@@ -13,7 +13,7 @@ description: Post on Georgios Karamanis' Ladder photo, by Rick Cogley.
 published: true
 ---
 
-[](http://www.flickr.com/photos/karamanis/1106389375/ "photo sharing")I love this shot by [Georgios Karamanis](http://www.flickr.com/photos/karamanis/). Incredible color! [Flickr](http://rick.cogley.info/topics_files/Flickr.php) is such an incredible resource for finding great photos. 
+[](http://www.flickr.com/photos/karamanis/1106389375/ "photo sharing")I love this shot by [Georgios Karamanis](http://www.flickr.com/photos/karamanis/). Incredible color! [Flickr](http://www.flickr.com) is such an incredible resource for finding great photos. 
 
 
 

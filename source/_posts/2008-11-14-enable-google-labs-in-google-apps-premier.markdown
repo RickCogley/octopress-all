@@ -20,7 +20,7 @@ If you read my [post about enabling Google Labs in GMail](http://rick.cogley.inf
 https://mail.google.com/a/your-gape-domain.com/?labs=1#settings/labs
 
 
-Now you can have that [Google Labs](http://rick.cogley.info/topics_files/Google_Labs.php) goodness in GAPE. Enjoy! 
+Now you can have that [Google Labs](http://labs.google.com/) goodness in GAPE. Enjoy! 
 
 
 
