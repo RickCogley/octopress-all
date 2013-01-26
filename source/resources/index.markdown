@@ -20,7 +20,7 @@ _... From Yours Truly:_
   <h1>Bio</h1>
   <p>Rick Cogley's biographical info.</p>
   <p>
-    <a href="/resources/bio/" class="btn btn-primary btn-large">
+    <a href="/about/" class="btn btn-primary btn-large">
       Read the Bio!
     </a>
   </p>
