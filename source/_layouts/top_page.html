@@ -198,5 +198,12 @@ $(function(){
         { bottom: '35px',opacity: 1}, {easing: 'swing', duration: 1500});
     }
   });
+
+  $("nav ul").find('li').hover(function() {
+        $(this).children("ul").stop(true, true).fadeIn(300);
+    },
+    function() {
+        $(this).children("ul").stop(true, true).fadeOut(200);
+    });
 })
 </script>
