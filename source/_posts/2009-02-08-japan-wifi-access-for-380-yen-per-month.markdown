@@ -4,7 +4,7 @@ post_title: "Japan WiFi Access for 380 Yen per Month"
 date: 2009-02-08 09:22:50 UTC
 updated: 2009-02-08 09:22:50 UTC
 comments: true
-categories: [SnapJapan, Review, Japan]
+categories: [SnapJapan, Reviews, Japan]
 keywords: Wifi,Yodobashi Camera,Wireless Gate,connectivity
 tags: [Wifi,Yodobashi Camera,Wireless Gate,connectivity]
 posticon: default

@@ -4,7 +4,7 @@ post_title: "Totsuka Construction - Big Pillars"
 date: 2008-10-28 03:49:14 UTC
 updated: 2008-10-28 03:49:14 UTC
 comments: true
-categories: [SnapJapan, Japan]
+categories: [SnapJapan, Japan, Places]
 keywords: totsuka,signage,pillars,japan,construction
 tags: [totsuka,signage,pillars,japan,construction]
 posticon: default

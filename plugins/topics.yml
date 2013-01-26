@@ -19,6 +19,10 @@ Cycling:
   awesomeicon: icon-certificate
   description: "Not a hobby; a way of life. There's nothing like the freedom I feel when I'm on my bike, speeding into the sunrise along the river near my house in Totsuka. Nothing beats it."
   image: /images/topic-cycling.jpg
+Design: 
+  awesomeicon: icon-tint
+  description: "A clarity of thought, a singleness of purpose, and that which is not, will be apparent in a great design."
+  image: /images/topic-design.jpg
 Disaster: 
   awesomeicon: icon-bullhorn
   description: "Natural disasters are a real and present concern in Japan. If I can provide information, I will, but if you live here, please be prepared by talking to your neighborhood organization (jichikai) and your local fire and police departments."

@@ -4,7 +4,7 @@ post_title: "Kamogawa-kan - Beautiful Ryokan in Chiba"
 date: 2008-08-11 12:36:55 UTC
 updated: 2008-08-11 12:36:55 UTC
 comments: true
-categories: [SnapJapan, Japan, Family]
+categories: [SnapJapan, Japan, Family, Places, Food-and-Drink]
 keywords: leisure,kamogawa,passions,ryokan,kamogawa-kan,abalone,japan
 tags: [leisure,kamogawa,passions,ryokan,kamogawa-kan,abalone,japan]
 posticon: default

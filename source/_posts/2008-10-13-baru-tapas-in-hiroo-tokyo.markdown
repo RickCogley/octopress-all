@@ -4,7 +4,7 @@ post_title: "Baru Tapas in Hiroo, Tokyo"
 date: 2008-10-13 06:03:12 UTC
 updated: 2008-10-13 06:03:12 UTC
 comments: true
-categories: [SnapJapan, Japan, Culture]
+categories: [SnapJapan, Japan, Culture, Food-and-Drink]
 keywords: culture,baru,tapas,restaurants,japan
 tags: [culture,baru,tapas,restaurants,japan]
 posticon: default
