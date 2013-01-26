@@ -14,7 +14,7 @@ published: true
 ---
  
 
-[](http://www.flickr.com/photos/81796435@N00/3096904847 "View 'Google Labs Adds Task List' on Flickr.com")Wow, [Google Labs](http://rick.cogley.info/topics_files/Google_Labs.php) just keeps adding and adding functionality to the Google stable of apps. Now _you can have a task list in your GMail_ or Google Apps Premier Mail, made from the incoming mails you indicate. 
+[](http://www.flickr.com/photos/81796435@N00/3096904847 "View 'Google Labs Adds Task List' on Flickr.com")Wow, [Google Labs](http://labs.google.com/) just keeps adding and adding functionality to the Google stable of apps. Now _you can have a task list in your GMail_ or Google Apps Premier Mail, made from the incoming mails you indicate. 
 
 
 ### How to Enable Your GMail Task List

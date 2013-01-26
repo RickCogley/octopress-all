@@ -14,7 +14,7 @@ published: true
 ---
  
 
-[](http://www.flickr.com/photos/81796435@N00/3049540073 "View 'Consolidate RSS Feeds via Yahoo Pipes' on Flickr.com")I have RSS feeds from all different sources - my blogs, my topics Glossary, Flickr, SmugMug, Facebook and so on, and I imagine that this is not an uncommon problem for people using the latest technologies and social networking sites. I wanted a way to let visitors subscribe to the updates of my personal site, without complexity, and via either [RSS](http://rick.cogley.info/topics_files/RSS.php) if they are familiar, or, via the old standard email. 
+[](http://www.flickr.com/photos/81796435@N00/3049540073 "View 'Consolidate RSS Feeds via Yahoo Pipes' on Flickr.com")I have RSS feeds from all different sources - my blogs, my topics Glossary, Flickr, SmugMug, Facebook and so on, and I imagine that this is not an uncommon problem for people using the latest technologies and social networking sites. I wanted a way to let visitors subscribe to the updates of my personal site, without complexity, and via either [RSS](http://en.wikipedia.org/wiki/RSS) if they are familiar, or, via the old standard email. 
 
 
 ### How to Consolidate your RSS Feeds and Allow Subscriptions

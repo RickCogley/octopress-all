@@ -14,7 +14,7 @@ published: true
 ---
  
 
-[](http://www.flickr.com/photos/81796435@N00/2962355869 "View 'Apple Aperture 2.1.2 - Still No Nikon D90 RAW Support' on Flickr.com")Now the [Nikon D90](http://rick.cogley.info/topics_files/Nikon_D90.php) [RAW](http://rick.cogley.info/topics_files/Raw.php) format is supported by Aperture and iPhoto. You can get the update by going into Software Update in your OS X "Apple Menu", or, at Apple's [Digital Camera Raw Compatibility Update 2.3](http://www.apple.com/support/downloads/digitalcamerarawcompatibility23.html) page. The supported cameras are: 
+[](http://www.flickr.com/photos/81796435@N00/2962355869 "View 'Apple Aperture 2.1.2 - Still No Nikon D90 RAW Support' on Flickr.com")Now the [Nikon D90](http://www.nikonusa.com/en/Nikon-Products/Product/Digital-SLR-Cameras/25446/D90.html) [RAW](http://en.wikipedia.org/wiki/Raw_image_format) format is supported by Aperture and iPhoto. You can get the update by going into Software Update in your OS X "Apple Menu", or, at Apple's [Digital Camera Raw Compatibility Update 2.3](http://www.apple.com/support/downloads/digitalcamerarawcompatibility23.html) page. The supported cameras are: 
 
 
 - Nikon D90

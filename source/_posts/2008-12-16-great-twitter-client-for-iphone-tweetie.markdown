@@ -14,7 +14,7 @@ published: true
 ---
  
 
-[](http://www.flickr.com/photos/81796435@N00/3114542402 "View 'iPhone Twitter Client Tweetie' on Flickr.com")After getting an iPhone, I started looking around for the best [Twitter](http://rick.cogley.info/topics_files/Twitter.php) client for the iPhone. There are many, many Twitter clients, attesting to the service's huge popularity. I tried Twitterfon and NatsuLion, both of which are good, but I like the feature-set and general snappiness of [Tweetie](http://www.atebits.com/software/tweetie/) from AteBits (8 bits in a b[i|y]te, get it?!). Tweetie's full set of features, from their website: 
+[](http://www.flickr.com/photos/81796435@N00/3114542402 "View 'iPhone Twitter Client Tweetie' on Flickr.com")After getting an iPhone, I started looking around for the best [Twitter](http://twitter.com/) client for the iPhone. There are many, many Twitter clients, attesting to the service's huge popularity. I tried Twitterfon and NatsuLion, both of which are good, but I like the feature-set and general snappiness of [Tweetie](http://www.atebits.com/software/tweetie/) from AteBits (8 bits in a b[i|y]te, get it?!). Tweetie's full set of features, from their website: 
 
 
 > 
