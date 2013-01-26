@@ -1,47 +1,50 @@
-{% if site.pinboard_user %}
-<div class="accordion" id="pinboard-accordion">
-  <div class="accordion-group">
-    <div class="accordion-heading">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseOne">
-        <h3>My Pinboard</h3>
-      </a>
-    </div>
-    <div id="collapseOne" class="accordion-body collapse in">
-      <div class="accordion-inner">
-        <ul id="pinboard_all">Fetching linkroll...</ul>
-        <p><a href="http://pinboard.in/u:{{ site.pinboard_user }}">My Pinboard Bookmarks &raquo;</a></p>
-      </div>
-    </div>
-  </div>
-  {% if site.pinboard_tag1 %}
-  <div class="accordion-group">
-    <div class="accordion-heading">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseTwo">
-        <h3>Blogroll</h3>
-      </a>
-    </div>
-    <div id="collapseTwo" class="accordion-body collapse">
-      <div class="accordion-inner">
-        <ul id="pinboard_Blogroll">Fetching linkroll...</ul>
-      </div>
-    </div>
-  </div>
-  {% endif %}
-  {% if site.pinboard_tag2 %}
-  <div class="accordion-group">
-    <div class="accordion-heading">
-      <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseThree">
-        <h3>Highlights</h3>
-      </a>
-    </div>
-    <div id="collapseThree" class="accordion-body collapse">
-      <div class="accordion-inner">
-        <ul id="pinboard_Highlight">Fetching linkroll...</ul>
-      </div>
-    </div>
-  </div>
-  {% endif %}
-</div>
+<!-- sidebar pinboard links begin here -->
+<section>
+  <h1>Links</h1>
+	{% if site.pinboard_user %}
+	<div class="accordion" id="pinboard-accordion">
+	  <div class="accordion-group">
+		<div class="accordion-heading">
+		  <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseOne">
+			<h3>My Pinboard</h3>
+		  </a>
+		</div>
+		<div id="collapseOne" class="accordion-body collapse in">
+		  <div class="accordion-inner">
+			<ul id="pinboard_all">Fetching linkroll...</ul>
+			<p><a href="http://pinboard.in/u:{{ site.pinboard_user }}">My Pinboard Bookmarks &raquo;</a></p>
+		  </div>
+		</div>
+	  </div>
+	  {% if site.pinboard_tag1 %}
+	  <div class="accordion-group">
+		<div class="accordion-heading">
+		  <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseTwo">
+			<h3>Blogroll</h3>
+		  </a>
+		</div>
+		<div id="collapseTwo" class="accordion-body collapse">
+		  <div class="accordion-inner">
+			<ul id="pinboard_Blogroll">Fetching linkroll...</ul>
+		  </div>
+		</div>
+	  </div>
+	  {% endif %}
+	  {% if site.pinboard_tag2 %}
+	  <div class="accordion-group">
+		<div class="accordion-heading">
+		  <a class="accordion-toggle" data-toggle="collapse" data-parent="#pinboard-accordion" href="#collapseThree">
+			<h3>Highlights</h3>
+		  </a>
+		</div>
+		<div id="collapseThree" class="accordion-body collapse">
+		  <div class="accordion-inner">
+			<ul id="pinboard_Highlight">Fetching linkroll...</ul>
+		  </div>
+		</div>
+	  </div>
+	  {% endif %}
+	</div>
 
 <script type="text/javascript">
   var pinboard_user  = "{{ site.pinboard_user }}"; //id target for pinboard list
@@ -58,3 +61,4 @@
   });
 </script>
 {% endif %}
+</section> 
