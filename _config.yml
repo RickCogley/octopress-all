@@ -11,7 +11,7 @@ description: Web site of Rick Cogley, a Japan-based (Eng/Jpn bilingual) experien
 ogdescription: Web site of Rick Cogley with articles, bio page and resources. Rick is a Japan-based (Eng/Jpn bilingual) experienced technologist, consultant and manager, who is founder and CEO of eSolia Inc. (www.esolia.com), an IT management firm assisting multinational firms w/ Japan operations and projects.
 keywords: Rick Cogley, James Cogley, Portfolio, Biography, Japan, Productivity, Technology, Photography, Lean, Agile, Management, Efficiency
 jrcshortbio01: Welcome to Rick Cogley Central - with blog articles, photos and other resources. I'm an experienced IT consultant and project manager, and have been based in Japan since 1987. I run a company called eSolia Inc., and we provide IT management services to multinationals for their Japan operations and projects. 
-jrcbiopath: /resources/bio
+jrcbiopath: /about/
 cover: /images/Rick_Suit_01.jpg
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")

@@ -277,5 +277,5 @@ Everything else, I migrated. Most apps were well-behaved on the new system, and 
 There are probably many ways to do this, and, it might be quite a bit easier to just have Migration Assistant do the work for you, but again that assumes you have a working SuperDrive on the old machine. The benefit to doing things selectively like I did here is that you have a fresh OS underneath, and can get rid of a lot of baggage from years of upgrading. 
 
 
-As always, I hope someone benefits from this experience. Please [contact me directly](http://rick.cogley.info/contact/rick-cogley-contact-form.php), make a comment, but most of all **Enjoy**!.  
+As always, I hope someone benefits from this experience. Please [contact me directly](/about/), make a comment, but most of all **Enjoy**!.  
 

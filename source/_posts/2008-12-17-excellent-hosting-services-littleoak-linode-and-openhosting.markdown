@@ -89,5 +89,5 @@ Why would you go with any one of these services? Well, if you don't know why you
 Why would you choose a given VPS then? As above, Open Hosting's utility pricing and regular backups are something special but there are cases where you need to pick an OS. For instance, it is much easier to run Deki Wiki from Mindtouch on Debian or Ubuntu, than it is to run it on Cent OS. The assumptions the developers made when building that system were that certain packages are available. They are available, easily, if you use Debian, but on Cent OS, it's like an assault on K2 and I hope you love that compiler. 
 
 
-I hope this article helps someone decide on hosting. Please give me some feedback [directly](http://rick.cogley.info/contact/) or in the comments! I hope to hear from you and **Enjoy**!
+I hope this article helps someone decide on hosting. Please give me some feedback [directly](/about/) or in the comments! I hope to hear from you and **Enjoy**!
 

@@ -1,15 +1,15 @@
 ---
 layout: resources
-title: "Rick Cogley Bio"
+title: "About Rick Cogley"
 date: 2013-01-13 20:59
 comments: false
 sharing: true
 sidebar: true
 footer: true
-categories: [Rick Cogley,Bio]
-description: This is Rick Cogley's About or Biography Page.
-keywords: Rick Cogley, Bio, CV, Biography
-tags: [Rick Cogley,Bio,CV,Biography]
+categories: [Rick Cogley, About, Bio, Contact
+description: This is Rick Cogley's About, Biography and Contact-Me Page.
+keywords: Rick Cogley, Bio, CV, Biography, About, Colophon, vcard
+tags: [Rick Cogley,Bio,CV,Biography,About,Colophon,vcard]
 published: true
 ---
 {% img right /images/Rick_Suit_01.jpg 250 'Rick Cogley Photo' 'A photo of Rick Cogley, eSolia CEO' %} James Rickard Cogley is based in Tokyo Japan, and has been working in the consulting and support industry since 1990. He specializes in bilingual (Japanese - English) consulting and project management, and his company [eSolia](http://www.esolia.com) is a privately-held Japanese KK focused on the same.
@@ -24,10 +24,17 @@ In his spare time, Cogley enjoys blogging, drumming, watching films, studying to
 
 Cogley's goal is to develop eSolia into a global consultancy, focused on providing business-focused bilingual-liaison consulting to companies on the most challenging projects.
 
+###Contact Me
+
+Via email: 
+
+* _Personal_ - rick at cogley dot info
+* _Work_ - rick dot cogley at esolia dot co dot jp
+
 
 ###Visit Me Elsewhere  
 
-[Contact me](/contact/) or let's connect via social networking sites: 
+Let's connect via social networking sites: 
 
 {% raw %}
 <a class="btn btn-danger" href="https://plus.google.com/u/0/107046878530748803729/posts" target="_blank"><i class="icon-google-plus icon-large"></i> Google+</a>
