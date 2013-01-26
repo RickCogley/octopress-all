@@ -4,12 +4,12 @@ post_title: "Path Finder - Collapsing All Folders"
 date: 2009-05-13 07:33:23 UTC
 updated: 2009-05-13 07:33:23 UTC
 comments: true
-categories: [Blog-Cogley, tip, Path Finder, CocoaTech, tips, software, collapse folders]
-keywords: tip,Path Finder,CocoaTech,tips,software,collapse folders
-tags: [tip,Path Finder,CocoaTech,tips,software,collapse folders]
+categories: [Blog-Cogley, Tips, Software, Efficiency]
+keywords: Path Finder,CocoaTech,tips,software,collapse folders,disclosure triangle,expand folders
+tags: [Path Finder,CocoaTech,tips,software,collapse folders,disclosure triangle,expand folders]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on collapsing all subfolders in Path Finder from CocoaTech, by Rick Cogley.
 published: true
 ---
  

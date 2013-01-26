@@ -4,12 +4,12 @@ post_title: "The Human Body, Understood"
 date: 2009-05-11 12:47:52 UTC
 updated: 2009-05-11 12:47:52 UTC
 comments: true
-categories: [Blog-Cogley, humor, Facts]
-keywords: humor,Facts
-tags: [humor,Facts]
+categories: [Blog-Cogley, Humor]
+keywords: humoresque,funny,body,factoids,hair,thumb,conrete,saliva,skin
+tags: [humoresque,funny,body,factoids,hair,thumb,conrete,saliva,skin]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on funny meme circulating that compares thumb to penis, by Rick Cogley.
 published: true
 ---
  
@@ -17,11 +17,9 @@ published: true
 A random and very funny list circulating 'round the Internets. Understand your own body. 
 
 
-> 
-
+{% blockquote %}
 
 ### The Human Body
-
 
 
 It takes your food **seven seconds** to get from your mouth to your stomach.
@@ -59,8 +57,7 @@ Women reading this **will be finished** now.
 
 Men are still busy **checking their thumbs**.
 
-
-
+{% endblockquote %} 
 
 
 Lol. 

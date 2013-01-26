@@ -9,13 +9,15 @@ keywords: Music,Folk,Tulip,Saboten no Hana,Hitotsu Yane no Shita,Kazuo Zaitsu,Ly
 tags: [Music,Folk,Tulip,Saboten no Hana,Hitotsu Yane no Shita,Kazuo Zaitsu,Lyrics]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Kazuo Zaitsu Saboten-no-hana (the cactus flower) lyrics, by Rick Cogley.
 published: true
 ---
- 
 
+_**[Kazuo](http://www.zaitsukazuo.com/) [Zaitsu](http://wiki.d-addicts.com/Zaitsu_Kazuo)** (kanji: 財津和夫) of the Japanese band Tulip, is the singer of a favorite song of mine, "Saboten no Hana" or The Cactus Flower, which is a song about hope despite love lost._ 
 
-**[Kazuo](http://www.zaitsukazuo.com/) [Zaitsu](http://wiki.d-addicts.com/Zaitsu_Kazuo)** (kanji: 財津和夫) of the Japanese band Tulip, is the singer of a favorite song of mine, "_Saboten no Hana_" or The Cactus Flower, which is a song about hope despite love lost. It was the theme song of an enormously popular 1993 drama called "_[Hitotsu Yane no Shita](http://wiki.d-addicts.com/Hitotsu_Yane_no_Shita)_" or Under One Roof. Zaitsu san has a unique and pleasant voice that I like, and this song always brings a tear to my eye. The song features a simple piano solo in the bass register, which to me is the man's sad voice mixed with hope. 
+<!--more--> 
+
+This song was the theme song of an enormously popular 1993 drama called "_[Hitotsu Yane no Shita](http://wiki.d-addicts.com/Hitotsu_Yane_no_Shita)_" or Under One Roof. Zaitsu san has a unique and pleasant voice that I like, and this song always brings a tear to my eye. The song features a simple piano solo in the bass register, which to me is the man's sad voice mixed with hope. 
 
 
 

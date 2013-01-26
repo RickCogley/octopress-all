@@ -4,21 +4,18 @@ post_title: "Mac OS X Leopard 10.5.7 Update"
 date: 2009-05-16 00:40:13 UTC
 updated: 2009-05-16 00:40:13 UTC
 comments: true
-categories: [Blog-Cogley, tip, os x, tips, software, 10.5.7, apple]
-keywords: tip,os x,tips,software,10.5.7,apple
-tags: [tip,os x,tips,software,10.5.7,apple]
+categories: [Blog-Cogley, Software, Upgrades, Troubleshooting, Tips]
+keywords: os x,update,leopard,10.5.7,apple,hiccup,combo,delta,updater
+tags: [os x,update,leopard,10.5.7,apple,hiccup,combo,delta,updater]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on updating Mac OS X 10.5.7 Leopard, by Rick Cogley.
 published: true
 ---
- 
 
-I updated my MacBook Pro's OS X from 10.5.6 to 10.5.7 today, and there was a little hiccup. Here's what happened, but see UPDATES below: 
+I updated my MacBook Pro's OS X from 10.5.6 to 10.5.7 today, and there was a little hiccup. Here's what happened, and see the UPDATES below as well. 
 
-
-
-
+<!--more--> 
 
 I noticed there was an update available, so I shut down all the user applications and things like ExpanDrive and Plaxo, then tried Software Update from the Apple menu. Software update started to work, then stalled at around 150 MB of 450 MB downloaded, claiming to take another 8 hours to download. It's not my ISP because everything else is fine. Everyone must be hitting the server at once. Stopped the update during the download.
 
