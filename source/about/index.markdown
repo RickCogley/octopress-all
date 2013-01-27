@@ -52,7 +52,7 @@ Via email:
 
 {% raw %}
 <div id="hcard-James-Rickard-Cogley" class="vcard">
-  <img style="float:left; margin-right:4px" src="http://notes.cogley.info/images/Rick_Casual_01.jpg" alt="photo of James" class="photo"/>
+  <img style="float:left; margin-right:4px" src="http://notes.cogley.info/images/Rick/Rick_Casual_100x100.JPG" alt="photo of James" class="photo"/>
  <a class="url fn n" href="http://rick.cogley.info">  <span class="given-name">James</span>
   <span class="additional-name">Rickard</span>
   <span class="family-name">Cogley</span>
@@ -118,14 +118,14 @@ Let's connect via social networking sites:
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
       <div class="media">
   <a class="pull-left" href="#">
-    <img class="media-object" src="/images/Laugh.png">
+    <img class="media-object" src="/images/Rick/Rick_Casual_50x50.JPG">
   </a>
   <div class="media-body">
     <h4 class="media-heading">Some Heading</h4>
 	<p>lipsuLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est labo</p>
   </div>
   <a class="pull-left" href="#">
-    <img class="media-object" src="/images/Cool.png">
+    <img class="media-object" src="/images/Rick/Rick_Casual_50x50.JPG">
   </a>
   <div class="media-body">
     <h4 class="media-heading">Another Heading</h4>
