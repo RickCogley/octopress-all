@@ -151,7 +151,7 @@ Let's connect via social networking sites:
 						<a rel="me" class="url" href="https://www.facebook.com/rickcogley" target="_blank">Facebook</a>, 
 						<a rel="me" class="url" href="http://www.youtube.com/user/rickcogley" target="_blank">Youtube</a>.
 					</div>
-					<div><em>Tags:</em> <span class="category">Japan</span>, <span class="category">Business Owner</span>, <span class="category">Project Manager</span>, <span class="category">Bilingual</span></div>
+					<div class="note"><em>Tags:</em> <span class="category">Business Owner and CEO</span>, <span class="category">Japan Hand</span>, <span class="category">Project Manager</span>, <span class="category">Bilingual English and Japanese</span>, <span class="category">Cyclist</span>, <span class="category">Percussionist</span></div>
 				</div>
 			</div>
 		</div>
