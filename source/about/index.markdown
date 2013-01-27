@@ -13,8 +13,8 @@ tags: [Rick Cogley,Bio,CV,Biography,About,Colophon,hcard,vcard]
 published: true
 ---
 
-###I'm Rick Cogley
-... Thanks for dropping by...
+##I'm Rick Cogley
+... _Thanks for dropping by_ ...
 
 {% raw %}
 <div class="container-fluid">
@@ -22,7 +22,7 @@ published: true
     <div class="span2">
       <!--Sidebar content-->
       <h4>Professionally</h4>
-      <p>About me professionally...</p>
+      <p><em>About me professionally...</em></p>
     </div>
     <div class="span10">
       <!--Body content-->
@@ -36,20 +36,22 @@ published: true
     <div class="span2">
       <!--Sidebar content-->
       <h4>Personally</h4>
-      <p>About me personally...</p>
+      <p><em>About me personally...</em></p>
     </div>
     <div class="span10">
       <!--Body content-->
-      <p><img class="right" src="/images/Rick/Rick_Casual_200x200.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley">In my youth, I was a semi-professional drumset player in a local wedding band, and because of the great support of my older band mates, my weekend music work helped me save a little money to put towards tour fees for drum and bugle corps, and small purchases.</p>
-      <p>I was fortunate to be able to attend Allegheny College in Meadville, Pennsylvania, USA, where I was pre-med, majoring in Biology, with emphasis in sciences for the pre-med side of things, as well as taking a lot of Art History, for the "liberal arts" side of things. My Allegheny adviser gave me an introduction to a professor of pharmaceutics at Tokyo University, and a homestay opportunity made it possible to attend Tokyo U as a research student for one year in 1988. I made the decision to leave research, and leveraged my interest in the Fortran algorithms we used to analyze experimental data, as a stepping stone to a career in IT.</p>
-      <p>In my spare time, I like cycling, being with my family, tinkering around on my blog and with "web 2.0" tech, drumming, watching films, studying to develop myself professionally, and an occassional drink with friends.</p>
+      <p><img class="right" src="/images/Rick/Rick_Casual_200x200.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley">In my youth, I was a semi-professional drumset player in a local wedding band, and because of the great support of my older band mates, my weekend music work helped me save a little money to put towards tour fees for Drum and Bugle Corps, and small purchases.</p>
+      <p>Speaking of Drum and Bugle Corps, a summer athletic musical activity (a "spart", if you will) in which groups of 150 performers compete in stadiums nationwide in the US, I was blessed to get to march snare drum in DCI for 5 seasons, starting in 1981 at 15 years old in the General Butler Vagabonds of Butler, PA, continuing on with the Defenders of Rockland, MA in 1982, and finishing with the 27th Lancers for three years, from 1983 through 1985, when I was 19. Drum corps is a hard activity, and continues to be so today. Performers practice in hot and humid summer conditions for 12+ hours a day, tour the US staying in sometimes-not-so-nice facilities, all for intense 12 minute shows. The season culminates in a championship week, and every year yields shows that are just scintillating and unforgettable. I never regret that hard work, because it was the crucible and made me what I am today.</p>      
+      <p>I was fortunate to be able to attend Allegheny College in Meadville, Pennsylvania, USA, where I was majoring in Biology, with emphasis in science and math for the pre-med side of things, as well as taking a lot of Art History, for the "liberal arts" side of things. My Allegheny adviser gave me an introduction to a professor of pharmaceutics (Dr. Sugiyama in the Biopharmacokinetics Dept) at Tokyo University, and a homestay opportunity made it possible to attend Tokyo U as a research student for one year in 1988. I made the decision to leave research, and leveraged my interest in the Fortran algorithms we used to analyze experimental data, as a stepping stone to a career in IT.</p>
+      <p>In my spare time, I like cycling, being with my family, tinkering around on my blog and with "web 2.0" tech, drumming, watching films, studying to develop myself professionally, participating in Japanese cultural events, and an occassional drink with friends.</p>
+      <p>It has been a wild ride so far!</p>
     </div>
   </div>
   <div class="row-fluid">
     <div class="span2">
       <!--Sidebar content-->
       <h4>Contact</h4>
-      <p><a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/about/">Download my vCard</a> and stay in touch.</p>
+      <p><em><a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/about/">Download my vCard</a> and stay in touch.</em></p>
     </div>
     <div class="span10">
       <!--Body content-->
