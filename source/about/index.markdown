@@ -8,64 +8,12 @@ sidebar: true
 footer: true
 categories: [Rick Cogley, About, Bio, Contact]
 description: This is Rick Cogley's About, Biography and Contact-Me Page.
-keywords: Rick Cogley, Bio, CV, Biography, About, Colophon, vcard
-tags: [Rick Cogley,Bio,CV,Biography,About,Colophon,vcard]
+keywords: Rick Cogley, Bio, CV, Biography, About, Colophon, hcard, vcard
+tags: [Rick Cogley,Bio,CV,Biography,About,Colophon,hcard,vcard]
 published: true
 ---
-{% img right /images/Rick_Suit_01.jpg 250 'Rick Cogley Photo' 'A photo of Rick Cogley, eSolia CEO' %} James Rickard Cogley is based in Tokyo Japan, and has been working in the consulting and support industry since 1990. He specializes in bilingual (Japanese - English) consulting and project management, and his company [eSolia](http://www.esolia.com) is a privately-held Japanese KK focused on the same.
 
-Prior to starting eSolia, Cogley was a charter member, co-owner and the CIO of PTS, a professional IT training and services firm, which was acquired in 2000 by Datacraft Asia.
-
-In his youth, Cogley was a semi-professional drumset player, and his weekend music activities helped finance an education in pre-med Biology at Allegheny College, Meadville PA. His Allegheny adviser gave him an introduction to a professor of pharmaceutics at Tokyo University, and a homestay opportunity made it possible to attend Tokyo U as a research student for one year in 1988. He made the decision to leave research, and his interest in the Fortran algorithms used to analyze experimental data was the stepping stone to a career in IT.
-
-In his professional career, Cogley has led projects including Mobil's standard managed environment Japan localization effort, Boston Scientific Japan's IT re-structuring for SAP R/3, and project management training development and execution for UBS Japan IT, amongst others, and is now working on a combined IT-reorg and ERP rollout for a US multinational.
-
-In his spare time, Cogley enjoys blogging, drumming, watching films, studying to develop himself professionally, and an occassional drink with friends.
-
-Cogley's goal is to develop eSolia into a global consultancy, focused on providing business-focused bilingual-liaison consulting to companies on the most challenging projects.
-
-{% raw %}
-<div class="media">
-  <a class="pull-left" href="#">
-    <img class="media-object" src="/images/Laugh.png">
-  </a>
-  <div class="media-body">
-    <h4 class="media-heading">Some Heading</h4>
-	<p>lipsuLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est labo</p>
-  </div>
-  <a class="pull-left" href="#">
-    <img class="media-object" src="/images/Cool.png">
-  </a>
-  <div class="media-body">
-    <h4 class="media-heading">Another Heading</h4>
-	<p>lipsuLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est labo</p>
-  </div>
-</div>
-{% endraw %}
-
-###Contact Me
-
-Via email: 
-
-* _Personal_ - rick at cogley dot info
-* _Work_ - rick dot cogley at esolia dot co dot jp
-
-###Visit Me Elsewhere  
-
-Let's connect via social networking sites: 
-
-{% raw %}
-<a class="btn btn-danger" href="https://plus.google.com/u/0/107046878530748803729/posts" target="_blank"><i class="icon-google-plus icon-large"></i> Google+</a>
-<a class="btn btn-success" href="http://twitter.com/rickcogley" target="_blank"><i class="icon-twitter icon-large"></i> Twitter</a>
-<a class="btn btn-inverse" href="http://www.flickr.com/photos/rickcogley/" target="_blank"><i class="icon-camera-retro icon-large"></i> Flickr</a>
-<a class="btn btn-warning" href="http://rickcogley.dphoto.com" target="_blank"><i class="icon-th icon-large"></i> DPHOTO</a>
-<a class="btn btn-info" href="http://www.linkedin.com/in/rickcogley" target="_blank"><i class="icon-linkedin-sign icon-large"></i> LinkedIn</a>
-<a class="btn" href="https://pinboard.in/u:rickcogley" target="_blank"><i class="icon-pushpin icon-large"></i> Pinboard</a>
-<a class="btn btn-primary" href="https://www.facebook.com/rickcogley" target="_blank"><i class="icon-facebook-sign icon-large"></i> Facebook</a>
-<a class="btn btn-warning" href="http://www.youtube.com/user/rickcogley" target="_blank"><i class="icon-facetime-video icon-large"></i> Youtube</a>
-{% endraw %}
-
-###Testing Testing
+###I'm Rick Cogley, thanks for dropping by...
 
 {% raw %}
 <div class="container-fluid">
@@ -73,35 +21,38 @@ Let's connect via social networking sites:
     <div class="span2">
       <!--Sidebar content-->
       <h4>Professionally</h4>
-      <p>This is about me professionally...</p>
+      <p>About me professionally...</p>
     </div>
     <div class="span10">
       <!--Body content-->
-      <p><img class="right" src="/images/Rick/Rick_Suit_100x140.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley, eSolia CEO">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p><img class="right" src="/images/Rick/Rick_Suit_100x140.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley, eSolia CEO">I'm James Rickard Cogley, and I'm based in Tokyo Japan. I've been working in the consulting and support industry since 1990. I specialize in bilingual (Japanese - English) consulting and project management, and my company <a href="http://www.esolia.com" target="_blank">eSolia Inc.</a> where I'm the CEO and founder, is a privately-held Japanese KK focused on the same.</p>
+<p>Prior to starting eSolia, I was a charter member, co-owner and the CIO of PTS, a professional IT training and services firm, which was acquired in 2000 by Datacraft Asia.</p>
+<p>In my professional career so far, I've led projects including Mobil's standard managed environment Japan localization effort, Boston Scientific Japan's IT re-structuring for SAP R/3, project management training development and execution for UBS Japan IT, Ocular Sciences Japan and CooperVision Japan's ERP, EDI, and SOX compliance efforts, Cook Medical Japan's IT infrastructure and ERP rollouts, amongst others, and am now working on a combined IT-reorg and ERP rollout for a US multinational.</p>
+<p>My goal is to develop eSolia into a global consultancy, focused on providing business-focused bilingual-liaison consulting to companies, on the most challenging projects.</p>
     </div>
   </div>
   <div class="row-fluid">
     <div class="span2">
       <!--Sidebar content-->
       <h4>Personally</h4>
-      <p>This is about me personally...</p>
+      <p>About me personally...</p>
     </div>
     <div class="span10">
       <!--Body content-->
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p><img class="right" src="/images/Rick/Rick_Casual_100x100.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley">In my youth, I was a semi-professional drumset player in a local wedding band, and because of the great support of my older band mates, my weekend music work helped me save a little money to put towards tour fees for drum and bugle corps, and small purchases.</p>
+      <p>I was fortunate to be able to attend Allegheny College in Meadville, Pennsylvania, USA, where I was pre-med, majoring in Biology, with emphasis in sciences for the pre-med side of things, as well as taking a lot of Art History, for the "liberal arts" side of things. My Allegheny adviser gave me an introduction to a professor of pharmaceutics at Tokyo University, and a homestay opportunity made it possible to attend Tokyo U as a research student for one year in 1988. I made the decision to leave research, and leveraged my interest in the Fortran algorithms we used to analyze experimental data, as a stepping stone to a career in IT.</p>
+      <p>In my spare time, I like cycling, being with my family, tinkering around on my blog and with "web 2.0" tech, drumming, watching films, studying to develop myself professionally, and an occassional drink with friends.</p>
     </div>
   </div>
   <div class="row-fluid">
     <div class="span2">
       <!--Sidebar content-->
       <h4>Contact</h4>
-      <p>This content uses <a rel="profile" href="http://microformats.org/profile/hcard">hCard</a>. You can <a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/about/">Download my vCard</a> to save it to your address book.</p>
+      <p><a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/about/">Download my vCard</a> and stay in touch.</p>
     </div>
     <div class="span10">
       <!--Body content-->
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>This content uses the <a rel="profile" href="http://microformats.org/profile/hcard">hCard</a> microformat, to mark up my contact data, and you can download an automatically-generated <a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/about/">vCard</a> for your address book.</p>
       
 		<div class="row-fluid" style="background-color:#fffccc; padding:10px; border-radius:10px; -moz-border-radius:10px; -webkit-border-radius:10px;">
 			<div id="hcard-James-Rickard-Cogley" class="vcard">
@@ -113,7 +64,7 @@ Let's connect via social networking sites:
 					<div class="geo"><em>Geo Location (<a href="http://en.wikipedia.org/wiki/Totsuka-ku,_Yokohama" title="Totsuka Yokohama Japan on Wikipedia" target="_blank">Totsuka Japan</a>):</em> 
 						<abbr class="latitude" title="35.396389">35&deg;23&#39;47&quot;N</abbr>, <abbr class="longitude" title="139.5325">139&deg;31&#39;57&quot;E</abbr> <a href="http://toolserver.org/~geohack/geohack.php?pagename=Totsuka-ku,_Yokohama&params=35_23_47_N_139_31_57_E_type:city(274783)_region:JP" title="Geo Location of Totsuka Yokohama Japan" target="_blank">(Geo Tools)</a>
 					</div>
-					<div><em>Email:</em> <a class="email" href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%72%69%63%6B%40%63%6F%67%6C%65%79%2E%69%6E%66%6F"><span class="type">Personal</span> (<span class="type">Pref</span>erred): &#114;&#105;&#99;&#107;&#64;&#99;&#111;&#103;&#108;&#101;&#121;&#46;&#105;&#110;&#102;&#111;</a>, <a class="email" href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;%72%69%63%6B%2E%63%6F%67%6C%65%79%40%65%73%6F%6C%69%61%2E%63%6F%2E%6A%70"><span class="type">Work</span>: &#114;&#105;&#99;&#107;&#46;&#99;&#111;&#103;&#108;&#101;&#121;&#64;&#101;&#115;&#111;&#108;&#105;&#97;&#46;&#99;&#111;&#46;&#106;&#112;</a></div>
+					<div><em>Email:</em> <a class="email" href="mailto:rick@cogley.info"><span class="type">Personal</span> (<span class="type">Pref</span>erred): rick@cogley.info</a>, <a class="email" href="rick.cogley@esolia.co.jp"><span class="type">Work</span>: rick.cogley@esolia.co.jp</a></div>
 					<div><em>IM:</em> <a rel="me" class="url" href="skype:rickcogley">Skype</a>, <a rel="me" class="url" href="xmpp:rick.cogley@gmail.com">Google Chat</a></div>
 					<div><em>Tel:</em> 
 						<span class="tel">
@@ -151,7 +102,7 @@ Let's connect via social networking sites:
 						<a rel="me" class="url" href="https://www.facebook.com/rickcogley" target="_blank">Facebook</a>, 
 						<a rel="me" class="url" href="http://www.youtube.com/user/rickcogley" target="_blank">Youtube</a>.
 					</div>
-					<div class="note"><em>Tags:</em> <span class="category">Business Owner and CEO</span>, <span class="category">Japan Hand</span>, <span class="category">Project Manager</span>, <span class="category">Bilingual English and Japanese</span>, <span class="category">Cyclist</span>, <span class="category">Percussionist</span></div>
+					<div class="note"><em>Tags:</em> <span class="category">Business Owner and CEO</span>, <span class="category">Japan Hand</span>, <span class="category">Project Manager</span>, <span class="category">Bilingual English and Japanese</span>, <span class="category">Cyclist</span>, <span class="category">Percussionist</span>, <span class="category">Avid Technologist</span></div>
 				</div>
 			</div>
 		</div>
@@ -172,5 +123,20 @@ Let's connect via social networking sites:
     </div>
   </div>
 </div>
+{% endraw %}
+
+###Visit Me Elsewhere  
+
+Let's connect via social networking sites: 
+
+{% raw %}
+<a rel="me" class="btn btn-danger" href="https://plus.google.com/u/0/107046878530748803729/posts" target="_blank"><i class="icon-google-plus icon-large"></i> Google+</a>
+<a rel="me" class="btn btn-success" href="http://twitter.com/rickcogley" target="_blank"><i class="icon-twitter icon-large"></i> Twitter</a>
+<a rel="me" class="btn btn-inverse" href="http://www.flickr.com/photos/rickcogley/" target="_blank"><i class="icon-camera-retro icon-large"></i> Flickr</a>
+<a rel="me" class="btn btn-warning" href="http://rickcogley.dphoto.com" target="_blank"><i class="icon-th icon-large"></i> DPHOTO</a>
+<a rel="me" class="btn btn-info" href="http://www.linkedin.com/in/rickcogley" target="_blank"><i class="icon-linkedin-sign icon-large"></i> LinkedIn</a>
+<a rel="me" class="btn" href="https://pinboard.in/u:rickcogley" target="_blank"><i class="icon-pushpin icon-large"></i> Pinboard</a>
+<a rel="me" class="btn btn-primary" href="https://www.facebook.com/rickcogley" target="_blank"><i class="icon-facebook-sign icon-large"></i> Facebook</a>
+<a rel="me" class="btn btn-warning" href="http://www.youtube.com/user/rickcogley" target="_blank"><i class="icon-facetime-video icon-large"></i> Youtube</a>
 {% endraw %}
 
