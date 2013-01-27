@@ -27,14 +27,14 @@ Cogley's goal is to develop eSolia into a global consultancy, focused on providi
 {% raw %}
 <div class="media">
   <a class="pull-left" href="#">
-    <img class="media-object" data-src="/images/Laugh.png">
+    <img class="media-object" src="/images/Laugh.png">
   </a>
   <div class="media-body">
     <h4 class="media-heading">Some Heading</h4>
 	<p>lipsuLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est labo</p>
   </div>
   <a class="pull-left" href="#">
-    <img class="media-object" data-src="/images/Cool.png">
+    <img class="media-object" src="/images/Cool.png">
   </a>
   <div class="media-body">
     <h4 class="media-heading">Another Heading</h4>
@@ -116,10 +116,26 @@ Let's connect via social networking sites:
     <div class="span10">
       <!--Body content-->
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <div class="media">
+  <a class="pull-left" href="#">
+    <img class="media-object" src="/images/Laugh.png">
+  </a>
+  <div class="media-body">
+    <h4 class="media-heading">Some Heading</h4>
+	<p>lipsuLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est labo</p>
+  </div>
+  <a class="pull-left" href="#">
+    <img class="media-object" src="/images/Cool.png">
+  </a>
+  <div class="media-body">
+    <h4 class="media-heading">Another Heading</h4>
+	<p>lipsuLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est labo</p>
+  </div>
+</div>
        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
   </div>
 </div>
-{% raw %}
+{% endraw %}
 
 
