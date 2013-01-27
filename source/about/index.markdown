@@ -13,7 +13,8 @@ tags: [Rick Cogley,Bio,CV,Biography,About,Colophon,hcard,vcard]
 published: true
 ---
 
-###I'm Rick Cogley, thanks for dropping by...
+###I'm Rick Cogley
+... Thanks for dropping by...
 
 {% raw %}
 <div class="container-fluid">
@@ -25,7 +26,7 @@ published: true
     </div>
     <div class="span10">
       <!--Body content-->
-      <p><img class="right" src="/images/Rick/Rick_Suit_100x140.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley, eSolia CEO">I'm James Rickard Cogley, and I'm based in Tokyo Japan. I've been working in the consulting and support industry since 1990. I specialize in bilingual (Japanese - English) consulting and project management, and my company <a href="http://www.esolia.com" target="_blank">eSolia Inc.</a> where I'm the CEO and founder, is a privately-held Japanese KK focused on the same.</p>
+      <p><img class="right" src="/images/Rick/Rick_Suit_200x280.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley, eSolia CEO">I'm James Rickard Cogley, and I'm based in Tokyo Japan. I've been working in the consulting and support industry since 1990. I specialize in bilingual (Japanese - English) consulting and project management, and my company <a href="http://www.esolia.com" target="_blank">eSolia Inc.</a> where I'm the CEO and founder, is a privately-held Japanese KK focused on the same.</p>
 <p>Prior to starting eSolia, I was a charter member, co-owner and the CIO of PTS, a professional IT training and services firm, which was acquired in 2000 by Datacraft Asia.</p>
 <p>In my professional career so far, I've led projects including Mobil's standard managed environment Japan localization effort, Boston Scientific Japan's IT re-structuring for SAP R/3, project management training development and execution for UBS Japan IT, Ocular Sciences Japan and CooperVision Japan's ERP, EDI, and SOX compliance efforts, Cook Medical Japan's IT infrastructure and ERP rollouts, amongst others, and am now working on a combined IT-reorg and ERP rollout for a US multinational.</p>
 <p>My goal is to develop eSolia into a global consultancy, focused on providing business-focused bilingual-liaison consulting to companies, on the most challenging projects.</p>
@@ -39,7 +40,7 @@ published: true
     </div>
     <div class="span10">
       <!--Body content-->
-      <p><img class="right" src="/images/Rick/Rick_Casual_100x100.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley">In my youth, I was a semi-professional drumset player in a local wedding band, and because of the great support of my older band mates, my weekend music work helped me save a little money to put towards tour fees for drum and bugle corps, and small purchases.</p>
+      <p><img class="right" src="/images/Rick/Rick_Casual_200x200.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley">In my youth, I was a semi-professional drumset player in a local wedding band, and because of the great support of my older band mates, my weekend music work helped me save a little money to put towards tour fees for drum and bugle corps, and small purchases.</p>
       <p>I was fortunate to be able to attend Allegheny College in Meadville, Pennsylvania, USA, where I was pre-med, majoring in Biology, with emphasis in sciences for the pre-med side of things, as well as taking a lot of Art History, for the "liberal arts" side of things. My Allegheny adviser gave me an introduction to a professor of pharmaceutics at Tokyo University, and a homestay opportunity made it possible to attend Tokyo U as a research student for one year in 1988. I made the decision to leave research, and leveraged my interest in the Fortran algorithms we used to analyze experimental data, as a stepping stone to a career in IT.</p>
       <p>In my spare time, I like cycling, being with my family, tinkering around on my blog and with "web 2.0" tech, drumming, watching films, studying to develop myself professionally, and an occassional drink with friends.</p>
     </div>
@@ -64,7 +65,7 @@ published: true
 					<div class="geo"><em>Geo Location (<a href="http://en.wikipedia.org/wiki/Totsuka-ku,_Yokohama" title="Totsuka Yokohama Japan on Wikipedia" target="_blank">Totsuka Japan</a>):</em> 
 						<abbr class="latitude" title="35.396389">35&deg;23&#39;47&quot;N</abbr>, <abbr class="longitude" title="139.5325">139&deg;31&#39;57&quot;E</abbr> <a href="http://toolserver.org/~geohack/geohack.php?pagename=Totsuka-ku,_Yokohama&params=35_23_47_N_139_31_57_E_type:city(274783)_region:JP" title="Geo Location of Totsuka Yokohama Japan" target="_blank">(Geo Tools)</a>
 					</div>
-					<div><em>Email:</em> <a class="email" href="mailto:rick@cogley.info"><span class="type">Personal</span> (<span class="type">Pref</span>erred): rick@cogley.info</a>, <a class="email" href="rick.cogley@esolia.co.jp"><span class="type">Work</span>: rick.cogley@esolia.co.jp</a></div>
+					<div><em>Email:</em> <a class="email" href="mailto:rick@cogley.info"><span class="type">Personal</span> (<span class="type">Pref</span>erred): rick@cogley.info</a>, <a class="email" href="mailto:rick.cogley@esolia.co.jp"><span class="type">Work</span>: rick.cogley@esolia.co.jp</a></div>
 					<div><em>IM:</em> <a rel="me" class="url" href="skype:rickcogley">Skype</a>, <a rel="me" class="url" href="xmpp:rick.cogley@gmail.com">Google Chat</a></div>
 					<div><em>Tel:</em> 
 						<span class="tel">
@@ -118,8 +119,7 @@ published: true
     </div>
     <div class="span10">
       <!--Body content-->
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <aside>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</aside> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>To be written: Octopress, Jekyll, Fontkit web fonts, Ruby, HTML5 and CSS3, responsive, Twitter Bootstrap, Justi, Font Awesome, Glyphicons, Webfaction, git, microformats, etc, etc, etc. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </div>
   </div>
 </div>
