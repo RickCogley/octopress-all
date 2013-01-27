@@ -107,6 +107,7 @@ section{ font-family: $serif; }
 }
 
 $link-color: #00b822;
+$header-link-color: #ffffff;
 $link-hover-color: #00e029;;
 
 //wrapper on a project details page
@@ -124,7 +125,7 @@ $link-hover-color: #00e029;;
 	h1{ 
 		margin-bottom: 0.1em;
 		a{
-			color: $link-color; // top header color
+			color: $header-link-color; // top header color
 			&:hover{ color: $link-hover-color; } //top header hovered state color
 		} 
 	}
