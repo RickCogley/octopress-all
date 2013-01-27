@@ -50,32 +50,6 @@ Via email:
 * _Personal_ - rick at cogley dot info
 * _Work_ - rick dot cogley at esolia dot co dot jp
 
-{% raw %}
-<div id="hcard-James-Rickard-Cogley" class="vcard">
-  <img style="float:left; margin-right:4px" src="http://notes.cogley.info/images/Rick/Rick_Casual_100x100.JPG" alt="photo of James" class="photo"/>
- <a class="url fn n" href="http://rick.cogley.info">  <span class="given-name">James</span>
-  <span class="additional-name">Rickard</span>
-  <span class="family-name">Cogley</span>
-</a>
- <div class="org">eSolia Inc.</div>
- <a class="email" href="mailto:rick@cogley.info">rick@cogley.info</a>
- <div class="adr">
-  <div class="street-address">Gumisawa 3-1-2, Totsuka-ku</div>
-  <span class="locality">Yokohama</span>
-, 
-  <span class="region">Kanagawa</span>
-, 
-  <span class="postal-code">245-0061</span>
-
-  <span class="country-name">Japan</span>
-
- </div>
- <div class="tel">+81-90-9959-5452</div>
- <a class="url" href="xmpp:rick.cogley@gmail.com">Jabber</a>
-<div><span class="category">Japan</span>, <span class="category">Business Owner</span>, <span class="category">Project Manager</span>, <span class="category">Bilingual</span></div><p style="font-size:smaller;">This <a href="http://microformats.org/wiki/hcard">hCard</a> created with the <a href="http://microformats.org/code/hcard/creator">hCard creator</a>.</p>
-</div>
-{% endraw %}
-
 ###Visit Me Elsewhere  
 
 Let's connect via social networking sites: 
