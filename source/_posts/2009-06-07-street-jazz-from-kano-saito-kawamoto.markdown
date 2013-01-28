@@ -10,14 +10,14 @@ tags: [Music,Chikara Saito,Street Performers,Sousuke Kawamoto,Street Jazz,Musici
 posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: xxxxxxx
-published: true
+published: Performance by a street jazz band, by Rick Cogley. 
 ---
- 
 
+_I've seen this good, energetic "**Street Jazz**" trio at JR Shinjuku before, but today I waited for a good moment and got some materials from them. Read on if you like good jazz._
 
-[{% img right http://farm4.static.flickr.com/3346/3594888804_d4d21b7e56_m.jpg '' 'Street Tunisia' %}](http://www.flickr.com/photos/81796435@N00/3594888804 "View 'Street Tunisia' on Flickr.com")I've seen this good, energetic "**Street Jazz**" trio at JR Shinjuku before, but today I waited for a good moment and got some materials from them. The musicians were **George Kano** on drums, **Chikara Saito** on Alto Sax, and (probably) **Sousuke Kawamoto** on upright bass. The flyers I got were pretty clear on who the sax and drum players were, but I'm not so sure about the bass player. Either way, they are all really good musicians. 
+<!--more--> 
 
-
+[{% img right http://farm4.static.flickr.com/3346/3594888804_d4d21b7e56_m.jpg '' 'Street Tunisia' %}](http://www.flickr.com/photos/81796435@N00/3594888804 "View 'Street Tunisia' on Flickr.com")The musicians were **George Kano** on drums, **Chikara Saito** on Alto Sax, and (probably) **Sousuke Kawamoto** on upright bass. The flyers I got were pretty clear on who the sax and drum players were, but I'm not so sure about the bass player. Either way, they are all really good musicians. 
 
 
 As a drummer myself, I was really impressed with George. He's got a lightweight kit that he can probably pack in one or two relatively small bags, with roto-toms, the sound of which of course reminds me of the Bridgemen and of Bill Bruford.

@@ -9,25 +9,18 @@ keywords: Convenience,MHLW,OTC drugs,Gov't of Japan,PAL,7-11
 tags: [Convenience,MHLW,OTC drugs,Gov't of Japan,PAL,7-11]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Japan finally allowing OTC drugs, by Rick Cogley.
 published: true
 ---
- 
 
+_The **Pharmaceutical Affairs Law** "PAL" [was revised](http://search.japantimes.co.jp/cgi-bin/nn20090602a3.html) to allow convenience stores like 7-11, Lawson, Family Mart or others to sell most over-the-counter drugs, as long as they have a clerk who has registered and qualified with the local government. The fact that they no longer need a pharmacist is a big cost-saving difference from before, that also allows a big new income stream for the conbinis._
 
-[{% img right http://farm4.static.flickr.com/3049/2936432693_f70348065c_m.jpg '' 'Around Gumisawa 200810' %}](http://www.flickr.com/photos/81796435@N00/2936432693 "View 'Around Gumisawa 200810' on Flickr.com")The **Pharmaceutical Affairs Law** "PAL" [was revised](http://search.japantimes.co.jp/cgi-bin/nn20090602a3.html) to allow convenience stores like 7-11, Lawson, Family Mart or others to sell most over-the-counter drugs, so long as they have a clerk who has registered and qualified with the local government. The fact that they no longer need a pharmacist is a big cost-saving difference from before, that also allows a big new income stream for the conbinis. 
-
-
-
+<!--more--> 
 
 ### Cloudy for Some
 
 
-
-
-
-
-I'm not sure why, but the same revision to the PAL took the step of banning Internet sales of OTC drugs. The Ministry of Health Labor and Welfare cites the reason that the drugs should be sold with qualified registered clerks in attendance as the reason. 
+[{% img right http://farm4.static.flickr.com/3049/2936432693_f70348065c_m.jpg '' 'Around Gumisawa 200810' %}](http://www.flickr.com/photos/81796435@N00/2936432693 "View 'Around Gumisawa 200810' on Flickr.com")I'm not sure why, but the same revision to the PAL took the step of banning Internet sales of OTC drugs. The Ministry of Health Labor and Welfare cites the reason that the drugs should be sold with qualified registered clerks in attendance as the reason. 
 
 
 
