@@ -4,22 +4,20 @@ post_title: "iPhone OS 3.0 Tips on Parade"
 date: 2009-06-19 00:58:16 UTC
 updated: 2009-06-19 00:58:16 UTC
 comments: true
-categories: [Blog-Cogley, productivity, iPhone, tip, tips, software, OS 3.0, apple]
+categories: [Blog-Cogley, Tips, Software, Mobile, Upgrades]
 keywords: productivity,iPhone,tip,tips,software,OS 3.0,apple
 tags: [productivity,iPhone,tip,tips,software,OS 3.0,apple]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: A post on iOS 3 upgrade 
 published: true
 ---
- 
 
-Apple released yesterday an updated iPhone operating system, iPhone OS 3.0, with a number of useful improvements. For me, the update itself was seamless, and took about 15 minutes after clicking the update button in iTunes. I upgraded first thing in the morning, but colleagues who tried later in the day had some delays. I guess it's to be expected when so many people try to download at the same time. 
+_Apple released yesterday an updated iPhone operating system, iPhone OS 3.0, with a number of useful improvements. For me, the update itself was seamless, and took about 15 minutes after clicking the update button in iTunes. I upgraded first thing in the morning, but colleagues who tried later in the day had some delays. I guess it's to be expected when so many people try to download at the same time._
 
+<!--more--> 
 
 ### Some Tips for iPhone OS 3.0
-
-
 
 I took some screenshots of the obvious and not-so-obvious (by pressing the home and power buttons simultaneously in case you aren't aware how), so I'll introduce those to you now. 
 

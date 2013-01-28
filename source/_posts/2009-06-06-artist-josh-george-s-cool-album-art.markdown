@@ -4,7 +4,7 @@ post_title: "Artist Josh George's Cool Album Art"
 date: 2009-06-06 09:09:19 UTC
 updated: 2009-06-06 09:09:19 UTC
 comments: true
-categories: [Blog-Cogley, Music, Reviews]
+categories: [Blog-Cogley, Music, Reviews, Art]
 keywords: Music,leisure,Pat Metheny Trio,Josh George,Art
 tags: [Music,leisure,Pat Metheny Trio,Josh George,Art]
 posticon: default

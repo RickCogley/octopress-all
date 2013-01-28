@@ -9,57 +9,24 @@ keywords: Trends,Engrish,Language,500 yen,ワン コイン,One Coin
 tags: [Trends,Engrish,Language,500 yen,ワン コイン,One Coin]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on 'one coin' services popular in the down economy in Japan, by Rick Cogley. 
 published: true
 ---
- 
 
+_Japan morning TV reported that "One Coin" (ワンコイン) services are all the rage these days in Japan, due to the down economy. What, you say? Whassat? Well you're in luck:_
 
-[{% img right http://farm4.static.flickr.com/3377/3648805610_98334e6ef1_m.jpg '' '"One Coin" Service Trend' %}](http://www.flickr.com/photos/81796435@N00/3648805610 "View '"One Coin" Service Trend' on Flickr.com")Japan morning TV reported that "One Coin" (ワンコイン) services are all the rage these days in Japan, due to the down economy. What this phrase means is that you can buy a good or service with a single 500 yen coin, or about USD 5.00. 
+<!--more--> 
 
-
-
+[{% img right http://farm4.static.flickr.com/3377/3648805610_98334e6ef1_m.jpg '' '"One Coin" Service Trend' %}](http://www.flickr.com/photos/81796435@N00/3648805610 "View '"One Coin" Service Trend' on Flickr.com")What this Engrish phrase means is that you can buy a good or service with a single 500 yen coin, or about USD 5.00. 
 
 Indeed, you can see them here and there: 
 
+* "Makudonarudo" McDonald's has a 500 yen value set.
+* "One Coin" lunches at salary-man lunch joints.
+* Short foot massages for 500 yen.
+* "Test Esthe" at Miss Paris Esthetic Salon for "one coin".
+* Yoshinoya and Matsuya meat bowls for 500 yen.
 
-
-
-
-
-
-
-
-"Makudonarudo" McDonald's has a 500 yen value set.
-
-
-
-
-"One Coin" lunches at salary-man lunch joints.
-
-
-
-
-Short foot massages for 500 yen.
-
-
-
-
-"Test Esthe" at Miss Paris Esthetic Salon for "one coin".
-
-
-
-
-Yoshinoya and Matsuya meat bowls for 500 yen.
-
-
-
-
-
-
-
-
-
-Next time you're out and about in Tokyo, keep an eye out for "one coin" ワンコイン services. 
+Next time you're out and about in Tokyo, keep an eye out for "_one coin_" ワンコイン services. 
 
 

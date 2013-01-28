@@ -1,4 +1,8 @@
 --- 
+Art: 
+  awesomeicon: icon-picture
+  description: "Memorable art happens when someone bravely breaks with convention, forcing us to confront all we think is right, pleasing, or holy. We may not like it, but I look for art that washes away the 'dust of everyday life'."
+  image: /images/topic-art.jpg
 Blog-Cogley: 
   awesomeicon: icon-cogs
   description: "Blog-Cogley is Rick Cogley's general weblog. Topics I like, like efficiency, upgrade reports, geeky sysadmin stuff. Now with 50% more pith and 42% more sass."

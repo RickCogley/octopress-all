@@ -4,7 +4,7 @@ post_title: "Street Jazz from Kano, Saito, Kawamoto"
 date: 2009-06-07 10:54:10 UTC
 updated: 2009-06-07 10:54:10 UTC
 comments: true
-categories: [SnapJapan, Japan, Music, Performance, Street]
+categories: [SnapJapan, Japan, Music, Performance, Street, Art]
 keywords: Music,Chikara Saito,Street Performers,Sousuke Kawamoto,Street Jazz,Musicians,japan,George Kano
 tags: [Music,Chikara Saito,Street Performers,Sousuke Kawamoto,Street Jazz,Musicians,japan,George Kano]
 posticon: default
