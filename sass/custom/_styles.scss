@@ -172,7 +172,6 @@ $link-hover-color: #00e029;;
 
 ul.blog-meta{
 	list-style: none;
-	width: 100%;
 	.discuss-info{ font-size: 10px; }
 }
 
@@ -216,3 +215,5 @@ nav ul{ list-style: none;}
 nav ul li a { font-family: $sans; }
 
 .social-links a:hover{ text-decoration: none; }
+
+.full-width{ width: 100%; }
