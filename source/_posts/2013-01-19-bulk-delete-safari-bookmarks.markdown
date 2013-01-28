@@ -12,7 +12,7 @@ tags: [Safari Bookmarks Bulk-Delete Mass-Delete OSX]
 published: true
 ---
 
-_OS X Safari Bookmarks can "build up" in your system for various reasons, perhaps because of iCloud sync problems, or because you imported a lot of old ones from another browser. If you are moving to a service like {% raw %}<span class="label label-success">Pinboard.in</span>{% endraw %} and want to bulk-delete bookmarks in OS X Safari, it is not immediately apparent how to do it. Find out how after the jump._
+_OS X Safari Bookmarks can "build up" in your system for various reasons, perhaps because of iCloud sync problems, or because you imported a lot of old ones from another browser. If you are moving to a service like <span class="label label-success">Pinboard.in</span> and want to bulk-delete bookmarks in OS X Safari, it is not immediately apparent how to do it. Find out how after the jump._
 
 <!--more-->
 

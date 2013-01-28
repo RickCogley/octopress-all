@@ -43,7 +43,9 @@
 # Denote all files that are truly binary and should not be modified.
 *.png binary
 *.jpg binary
+*.JPG binary
 *.jpeg binary
+*.JPEG binary
 *.gif binary
 *.gz binary
 *.phar binary
