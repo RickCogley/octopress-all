@@ -12,21 +12,19 @@ cover: /images/Rick_Casual_01.jpg
 description: xxxxxxx
 published: true
 ---
- 
 
-<img class="right" src="http://farm4.static.flickr.com/3638/3537596446_606dcbdcba_m.jpg"/>
-[**Vollmer Design**](http://www.vollmer-design.com/)'s superior map of the _Tokyo rail and subway system_ is a must for any visitor to or resident of Tokyo. The map is printed on A3 paper, but is folded small to the size of "3 x 1 2/3 matches" according to the nicely-designed [Informa website](http://informa-v.com/EN/index.php) where the map is available. Very affordable, even inexpensive, at **JPY 270 yen online**, it's less than the cost of a Starbucks latte, or maybe a typical iPhone app. The map is thankfully bilingual, so a visitor can show it to a Japanese speaker and get help, while reading the romanized versions of the names. It also has clear icon markers of major tourist sites like the Tsukiji Fish Market near Ginza, and the Tokyo Tower.  
+_[**Vollmer Design**](http://www.vollmer-design.com/)'s superior map of the _Tokyo rail and subway system_ is a must for any visitor to or resident of Tokyo. The map is printed on A3 paper, but is folded small to the size of "3 x 1 2/3 matches" according to the nicely-designed [Informa website](http://informa-v.com/EN/index.php) where the map is available._
 
+<!--more--> 
 
+[{% img right http://farm4.staticflickr.com/3638/3537596446_606dcbdcba_d.jpg 300 'Click to view on Flickr: Vollmer Design Informa Tokyo Rail and Subway Map' 'Screenshot of Vollmer Design INFORMA Tokyo Rail and Subway Map.' %}](http://www.flickr.com/photos/rickcogley/3537596446/)Very affordable, even inexpensive, at **JPY 270 yen online**, it's less than the cost of a Starbucks latte, or maybe a typical iPhone app. The map is thankfully bilingual, so a visitor can show it to a Japanese speaker and get help, while reading the romanized versions of the names. It also has clear icon markers of major tourist sites like the Tsukiji Fish Market near Ginza, and the Tokyo Tower.  
 
 
 Vollmer Design was founded by [Ansgar Vollmer](http://www.vollmer-design.com/VD/page/vollmer) and [Yoshiko Tajima](http://www.vollmer-design.com/VD/page/tajima). The Informa [site](http://informa-v.com/EN/index.php) looks to be Vollmer Design's site specifically for this map. Here's what the Informa site tells us about the map's concept:
 
-
-
-
-> The R&S Map provides quick access to this complex city, and is of particular use to short-term visitors. Conventional route maps function only as route-finders and have been made obsolete by today's digital information systems. The R&S Map, on the other hand, serves as an orientation guide and gives a good conceptual view of the city.
-
+{% blockquote %}
+The R&S Map provides quick access to this complex city, and is of particular use to short-term visitors. Conventional route maps function only as route-finders and have been made obsolete by today's digital information systems. The R&S Map, on the other hand, serves as an orientation guide and gives a good conceptual view of the city.
+{% endblockquote %} 
 
 
 
