@@ -15,7 +15,7 @@ published: true
 
 {% raw %}
 <div class="container-fluid" itemscope itemtype="http://schema.org/AboutPage">
-<h2>I&#8217;m <span itemprop="author"></span>Rick Cogley</span></h2>
+<h2>I&#8217;m <span itemprop="author">Rick Cogley</span></h2>
 <p>&#8230; <em>Thanks for dropping by</em> &#8230;</p>
   <div class="row-fluid">
     <div class="span2">
@@ -26,10 +26,10 @@ published: true
     <div class="span10">
       <!--Body content-->
 <p>
-My full name is <span itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="http://rick.cogley.info"><em><span itemprop="givenName">James</span> <span itemprop="additionalName">Rickard</span> <span itemprop="familyName">Cogley</span></em></a>, though people call me "<span itemprop="nickname">Rick</span>". <span class="pullquote-right" data-pullquote="I&#8217;m an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan and fluent in Japanese." itemprop="description">I'm an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan, and fluent in Japanese.</span> I'm <span itemprop="title">Founder</span> and <span itemprop="title">CEO</span> of <a rel="bookmark" href="http://www.esolia.com" target="_blank"><span itemprop="affiliation">eSolia Inc.</span></a>, specializing in bilingual (English - Japanese) IT management services. 
+<div itemscope itemtype="http://schema.org/Person">My full name is <a itemprop="url" href="http://rick.cogley.info"><em><span itemprop="givenName">James</span> <span itemprop="additionalName">Rickard</span> <span itemprop="familyName">Cogley</span></em></a>, though people call me "<span itemprop="nickname">Rick</span>". <span class="pullquote-right" data-pullquote="I&#8217;m an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan and fluent in Japanese." itemprop="description">I'm an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan, and fluent in Japanese.</span> I'm <span itemprop="title">Founder</span> and <span itemprop="title">CEO</span> of <a rel="bookmark" href="http://www.esolia.com" target="_blank"><span itemprop="affiliation">eSolia Inc.</span></a>, specializing in bilingual (English - Japanese) IT management services. 
 </p>
 <p>
-You can <a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/about/">download my vCard</a>, and I can be reached at <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">Sawa Bldg. 6F, Nishi-Shinbashi 2-2-2</span>, <span itemprop="addressLocality">Minato-ku</span>, <span itemprop="addressRegion">Tokyo</span> <span itemprop="postalCode">105-0003</span>, <span itemprop="addressCountry">Japan</span> (<i class="icon-map-marker"></i> <a href="https://maps.google.com/maps?q=%E3%82%A4%E3%82%BD%E3%83%AA%E3%82%A2&amp;hl=en&amp;ie=UTF8&amp;sll=35.402381,139.530163&amp;sspn=0.482728,0.239983&amp;hq=%E3%82%A4%E3%82%BD%E3%83%AA%E3%82%A2&amp;t=m&amp;z=14" rel="bookmark" title="Map to eSolia Inc on Google Maps" target="_blank">map</a>), </span> <em>email:</em> <a itemprop="email" href="mailto:rick@cogley.info">rick@cogley.info</a> or <em>mobile:</em> <span itemprop="telephone">+81-3-6273-3501</span>.</span>
+You can <a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/about/">download my vCard</a>, and I can be reached at <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">Sawa Bldg. 6F, Nishi-Shinbashi 2-2-2</span>, <span itemprop="addressLocality">Minato-ku</span>, <span itemprop="addressRegion">Tokyo</span> <span itemprop="postalCode">105-0003</span>, <span itemprop="addressCountry">Japan</span> (<i class="icon-map-marker"></i> <a href="https://maps.google.com/maps?q=%E3%82%A4%E3%82%BD%E3%83%AA%E3%82%A2&amp;hl=en&amp;ie=UTF8&amp;sll=35.402381,139.530163&amp;sspn=0.482728,0.239983&amp;hq=%E3%82%A4%E3%82%BD%E3%83%AA%E3%82%A2&amp;t=m&amp;z=14" rel="bookmark" title="Map to eSolia Inc on Google Maps" target="_blank">map</a>), </span> <em>email:</em> <a itemprop="email" href="mailto:rick@cogley.info">rick@cogley.info</a> or <em>mobile:</em> <span itemprop="telephone">+81-3-6273-3501</span>.
 </p>
       <p>
         <img class="right" itemprop="image" src="/images/Rick/Rick_Suit_200x280.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley, eSolia CEO" />
@@ -44,6 +44,7 @@ You can <a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/abo
         My goal is to develop eSolia into a global consultancy, focused on providing business-focused bilingual-liaison 
         consulting to companies, on the most challenging projects.
       </p>
+      </div>
     </div>
   </div>
   <div class="row-fluid">
