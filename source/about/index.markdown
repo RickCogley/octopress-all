@@ -13,7 +13,7 @@ tags: [Rick Cogley,Bio,CV,Biography,About,Colophon,hcard,vcard]
 published: true
 ---
 
-##I'm Rick Cogley
+##I'm <span itemprop="author"></span>Rick Cogley</span>
 ... _Thanks for dropping by_ ...
 
 {% raw %}
@@ -27,16 +27,13 @@ published: true
     <div class="span10">
       <!--Body content-->
 <p>
-My full name is <span itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="http://rick.cogley.info"><span itemprop="author" itemprop="name"><em>James Rickard Cogley</em></span></a>, though people call me <span itemprop="nickname">"Rick"</span>. <span class="pullquote-right" data-pullquote="I&#8217;m an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan and fluent in Japanese." itemprop="description">I'm an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan, and fluent in Japanese.</span> I'm <span itemprop="title">Founder</span> and <span itemprop="title">CEO</span> of <a rel="bookmark" href="http://www.esolia.com" target="_blank"><span itemprop="affiliation">eSolia Inc.</span></a>, specializing in bilingual (English - Japanese) IT management services. 
+My full name is <span itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="http://rick.cogley.info"><em><span itemprop="givenName">James</span> <span itemprop="additionalName">Rickard</span> <span itemprop="familyName">Cogley</span></em></a>, though people call me "<span itemprop="nickname">Rick</span>". <span class="pullquote-right" data-pullquote="I&#8217;m an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan and fluent in Japanese." itemprop="description">I'm an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan, and fluent in Japanese.</span> I'm <span itemprop="title">Founder</span> and <span itemprop="title">CEO</span> of <a rel="bookmark" href="http://www.esolia.com" target="_blank"><span itemprop="affiliation">eSolia Inc.</span></a>, specializing in bilingual (English - Japanese) IT management services. 
 </p>
 <p>
-<img class="right" itemprop="image" src="/images/Rick/Rick_Suit_200x280.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley, eSolia CEO" />You can <a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/about/">download my vCard</a>, and I can be reached at <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">Sawa Bldg. 6F, Nishi-Shinbashi 2-2-2</span>, <span itemprop="addressLocality">Minato-ku</span>, <span itemprop="addressRegion">Tokyo</span> <span itemprop="postalCode">105-0003</span>, <span itemprop="addressCountry">Japan</span> (<i class="icon-map-marker"></i> <a href="https://maps.google.com/maps?q=%E3%82%A4%E3%82%BD%E3%83%AA%E3%82%A2&amp;hl=en&amp;ie=UTF8&amp;sll=35.402381,139.530163&amp;sspn=0.482728,0.239983&amp;hq=%E3%82%A4%E3%82%BD%E3%83%AA%E3%82%A2&amp;t=m&amp;z=14" rel="bookmark" title="Map to eSolia Inc on Google Maps" target="_blank">map</a>), </span> <em>email:</em> <a itemprop="email" href="mailto:rick@cogley.info">rick@cogley.info</a> or <em>mobile:</em> <span itemprop="telephone">+81-3-6273-3501</span>.</span>
+You can <a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/about/">download my vCard</a>, and I can be reached at <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">Sawa Bldg. 6F, Nishi-Shinbashi 2-2-2</span>, <span itemprop="addressLocality">Minato-ku</span>, <span itemprop="addressRegion">Tokyo</span> <span itemprop="postalCode">105-0003</span>, <span itemprop="addressCountry">Japan</span> (<i class="icon-map-marker"></i> <a href="https://maps.google.com/maps?q=%E3%82%A4%E3%82%BD%E3%83%AA%E3%82%A2&amp;hl=en&amp;ie=UTF8&amp;sll=35.402381,139.530163&amp;sspn=0.482728,0.239983&amp;hq=%E3%82%A4%E3%82%BD%E3%83%AA%E3%82%A2&amp;t=m&amp;z=14" rel="bookmark" title="Map to eSolia Inc on Google Maps" target="_blank">map</a>), </span> <em>email:</em> <a itemprop="email" href="mailto:rick@cogley.info">rick@cogley.info</a> or <em>mobile:</em> <span itemprop="telephone">+81-3-6273-3501</span>.</span>
 </p>
       <p>
-        Prior to starting eSolia, I was a charter member, co-owner and the CIO of PTS, a professional IT training and 
-        services firm, which was acquired in 2000 by Datacraft Asia.
-      </p>
-      <p>
+        <img class="right" itemprop="image" src="/images/Rick/Rick_Suit_200x280.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley, eSolia CEO" />
         In my professional career so far and prior to starting eSolia, I was a charter member, co-owner and the CIO 
         of PTS, a professional IT training and IT services firm. I've led projects including Mobil's standard managed
         environment Japan localization effort, Boston Scientific Japan's IT re-structuring for SAP R/3, project management
