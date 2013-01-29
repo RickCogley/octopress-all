@@ -17,8 +17,6 @@ _The other day I was asked by a friend to see a Ken Watanabe TV show we had reco
 
 <!--more--> 
 
-Japan_Life_Square_300x300-bJRC00844.JPG
-
 {% img right /images/Japan_Life_Square_300x300-bJRC00844.JPG 'Japan manhole cover for waste water.' 'Image of a Japan manhole cover for waste water.' %}After my wife and I got this request, a long saga ensued of us trying to give our friend a DVD of the recording we took with our Sharp Aquos DVD / HDD Recorder. You'd think that you would just be able to play such a DVD in any DVD player. Well, you can't. 
 
 At first, when we gave our friend the DVD, she returned it saying it was broken, and that she tried it on her normal DVD player and on her Windows PC. I tried it on a Mac and on a Windows PC, and indeed, it would not play back. 
