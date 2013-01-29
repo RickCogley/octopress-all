@@ -26,19 +26,21 @@ published: true
     <div class="span10">
       <!--Body content-->
 <p>
-<div itemscope itemtype="http://schema.org/Person">My full name is <a itemprop="url name fn" href="http://rick.cogley.info"><em><span itemprop="givenName">James</span> <span itemprop="additionalName">Rickard</span> <span itemprop="familyName">Cogley</span></em></a>, though people call me "Rick". <span class="pullquote-right" data-pullquote="I&#8217;m an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan and fluent in Japanese." itemprop="description">I'm an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan, and fluent in Japanese.</span> I'm <span itemprop="jobTitle">Founder</span> and <span itemprop="jobTitle">CEO</span> of <a rel="bookmark" href="http://www.esolia.com" target="_blank"><span itemprop="affiliation">eSolia Inc.</span></a>, specializing in bilingual (English - Japanese) IT management services. 
+<div itemscope itemtype="http://schema.org/Person">My full name is <a itemprop="url name" href="http://rick.cogley.info"><em><span itemprop="givenName">James</span> <span itemprop="additionalName">Rickard</span> <span itemprop="familyName">Cogley</span></em></a>, though people call me "Rick". <span class="pullquote-right" data-pullquote="I&#8217;m an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan and fluent in Japanese." itemprop="description">I'm an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan, and fluent in Japanese.</span> I'm <span itemprop="jobTitle">Founder</span> and <span itemprop="jobTitle">CEO</span> of <a rel="bookmark" href="http://www.esolia.com" target="_blank"><span itemprop="affiliation">eSolia Inc.</span></a>, specializing in bilingual (English - Japanese) IT management and support services. 
 </p>
 <p>
 You can <a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/about/">download my vCard</a>, and I can be reached at <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">Sawa Bldg. 6F, Nishi-Shinbashi 2-2-2</span>, <span itemprop="addressLocality">Minato-ku</span>, <span itemprop="addressRegion">Tokyo</span> <span itemprop="postalCode">105-0003</span>, <span itemprop="addressCountry">Japan</span> (<i class="icon-map-marker"></i> <a href="https://maps.google.com/maps?q=%E3%82%A4%E3%82%BD%E3%83%AA%E3%82%A2&amp;hl=en&amp;ie=UTF8&amp;sll=35.402381,139.530163&amp;sspn=0.482728,0.239983&amp;hq=%E3%82%A4%E3%82%BD%E3%83%AA%E3%82%A2&amp;t=m&amp;z=14" rel="bookmark" title="Map to eSolia Inc on Google Maps" target="_blank">map</a>), </span> <em>email:</em> <a itemprop="email" href="mailto:rick@cogley.info">rick@cogley.info</a> or <em>mobile:</em> <span itemprop="telephone">+81-3-6273-3501</span>.
 </p>
       <p>
-        <img class="right" itemprop="image" src="/images/Rick/Rick_Suit_200x280.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley, eSolia CEO" />
         In my professional career so far and prior to starting eSolia, I was a charter member, co-owner and the CIO 
-        of PTS, a professional IT training and IT services firm. I've led projects including Mobil's standard managed
-        environment Japan localization effort, Boston Scientific Japan's IT re-structuring for SAP R/3, project management
-        training development and execution for UBS Japan IT, Ocular Sciences Japan and CooperVision Japan's ERP, EDI, and 
-        SOX compliance efforts, Cook Medical Japan's IT infrastructure and ERP rollouts, amongst others, and am now 
-        working on a combined IT-reorg and ERP rollout for a US multinational.
+        of PTS, a professional IT training and IT services firm. 
+      </p>
+      <p>
+        <img class="right" itemprop="image" src="/images/Rick/Rick_Suit_200x280.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley, eSolia CEO" />
+        I've led projects including Mobil's standard managed environment Japan localization effort, Boston Scientific Japan's 
+        IT re-structuring for SAP R/3, project management training development and execution for UBS Japan IT, Ocular Sciences 
+        Japan and CooperVision Japan's ERP, EDI, and SOX compliance efforts, Cook Medical Japan's IT infrastructure and ERP 
+        rollouts, amongst others, and am now working on a combined IT-reorg and ERP rollout for a US multinational.
       </p>
       <p>
         My goal is to develop eSolia into a global consultancy, focused on providing business-focused bilingual-liaison 
