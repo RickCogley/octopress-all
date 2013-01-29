@@ -4,20 +4,20 @@ post_title: "iPhone 3GS Unfairly Expensive in Japan for Upgraders"
 date: 2009-06-26 02:56:40 UTC
 updated: 2009-06-26 02:56:40 UTC
 comments: true
-categories: [Blog-Cogley, iPhone 3GS, Unfair, gadgets, Expensive, apple]
+categories: [Blog-Cogley, Gadgets, Reviews, Service]
 keywords: iPhone 3GS,Unfair,gadgets,Expensive,apple
 tags: [iPhone 3GS,Unfair,gadgets,Expensive,apple]
 posticon: default
-cover: /images/Rick_Casual_01.jpg
+cover: /images/Japan_Life_Square_300x300-bJRC00848.JPG
 description: xxxxxxx
-published: true
+published: Post on ugly, complicated Softbank upgrade pricing to go from iPhone 3G to 3GS, by Rick Cogley. 
 ---
- 
 
-I went to a Softbank shop in Shibuya, Tokyo and asked how much it would cost to upgrade an iPhone 3G to an **iPhone 3GS**. The clerk told me that for the 16GB model it would be an _additional JPY 780 per month for 24 months_, totaling JPY 18,720, assuming the continuation of my current contract. That sounded about right to me, given the US prices. 
+_I went to a Softbank shop in Shibuya, Tokyo and asked how much it would cost to upgrade an iPhone 3G to an **iPhone 3GS**. The clerk told me that for the 16GB model it would be an _additional JPY 780 per month for 24 months_, totaling JPY 18,720, assuming the continuation of my current contract. That sounded about right to me, given the US prices. But of course there has to be a catch._
 
+<!--more--> 
 
-I wanted to see if I could just buy one outright, and slipped into another general electronics store that was selling iPhones from Softbank and other phones. Unfortunately, the clerk in the second store told me that the "discount" you get with a new contract _is not valid for the upgrade_, so you end up paying a total of about **JPY 70,000**. Additionally, you cannot just buy a phone in the US and have it activated for use here. 
+{% img right /images/Japan_Life_Square_300x300-bJRC00848.JPG 'Yellow traffic signal at Yazawa in Totsuka Yokohama Japan.' 'Image of a yellow traffic signal at Yazawa in Totsuka Yokohama Japan.' %}I wanted to see if I could just buy an iPhone 3S outright, and slipped into another general electronics store that was selling iPhones from Softbank and other phones. Unfortunately, the clerk in the second store told me that the "discount" you get with a new contract _is not valid for the upgrade_, so you end up paying a total of about **JPY 70,000**. Additionally, you cannot just buy a phone in the US and have it activated for use here. 
 
 
 Yep. That's a whopping **USD 700.00** for upgrading to an iPhone 3GS from Softbank Japan, and the "after discount" pricing is only for new contracts, not for upgraders. Wow, I'm stunned (while at the same time I'm hoping I'm wrong) at being penalized for wanting to upgrade. _What a way to engender loyalty_, Softbank.

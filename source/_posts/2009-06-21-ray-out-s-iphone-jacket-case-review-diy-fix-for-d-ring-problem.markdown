@@ -13,7 +13,7 @@ description: Post reviewing the Ray-Out Jacket iPhone Case, by Rick Cogley.
 published: true
 ---
 
-I purchased **Ray-Out**'s reasonably-priced leather "_Jacket_" case, model [RT-P1LC4/B](http://www.ray-out.co.jp/products/p1lc4/), perhaps three months ago from Yodobashi Camera. Here's what I think about it.
+_I purchased **Ray-Out**'s reasonably-priced leather "_Jacket_" case, model [RT-P1LC4/B](http://www.ray-out.co.jp/products/p1lc4/), perhaps three months ago from Yodobashi Camera. Here's what I think about it._
 
 <!--more--> 
 
@@ -47,11 +47,9 @@ I'm afraid the **cons** stand out, though:
 * The edges of the case sometimes get in the way of typing, especially in apps like Photogene, where the function icons are to the hard left of the screen. It's also kind of hard to move the icons around from page to page with this design.
 
 
-I'm afraid I would not buy this again. Here are a few photos of the case, just in case.
+I cannot say I would buy this again. Here are a few photos of the case, just in case.
 
 
-
-
-[![Ray-Out iPhone Case DIY](http://farm4.static.flickr.com/3639/3645881200_85c6dd8572_s.jpg)](http://www.flickr.com/photos/81796435@N00/3645881200 "View 'Ray-Out iPhone Case DIY' on Flickr.com")[![Ray-Out iPhone Case DIY](http://farm4.static.flickr.com/3662/3645880398_73e2c82a6b_s.jpg)](http://www.flickr.com/photos/81796435@N00/3645880398 "View 'Ray-Out iPhone Case DIY' on Flickr.com")[![Ray-Out iPhone Case DIY](http://farm4.static.flickr.com/3648/3645071385_6c493e2ef5_s.jpg)](http://www.flickr.com/photos/81796435@N00/3645071385 "View 'Ray-Out iPhone Case DIY' on Flickr.com")[![Ray-Out iPhone Case DIY](http://farm4.static.flickr.com/3343/3645070657_64d0e09e32_s.jpg)](http://www.flickr.com/photos/81796435@N00/3645070657 "View 'Ray-Out iPhone Case DIY' on Flickr.com")[![Ray-Out iPhone Case DIY](http://farm4.static.flickr.com/3601/3645069947_e3e8cea67b_s.jpg)](http://www.flickr.com/photos/81796435@N00/3645069947 "View 'Ray-Out iPhone Case DIY' on Flickr.com")[![Ray-Out iPhone Case DIY](http://farm4.static.flickr.com/3660/3645069155_1fab18c8d8_s.jpg)](http://www.flickr.com/photos/81796435@N00/3645069155 "View 'Ray-Out iPhone Case DIY' on Flickr.com")[![Ray-Out Leather iPhone Case RT-P1LC4/B](http://farm4.static.flickr.com/3652/3645004265_4aba04c36b_s.jpg)](http://www.flickr.com/photos/81796435@N00/3645004265 "View 'Ray-Out Leather iPhone Case RT-P1LC4/B' on Flickr.com")
+[![Ray-Out iPhone Case DIY](http://farm4.static.flickr.com/3639/3645881200_85c6dd8572_s.jpg)](http://www.flickr.com/photos/81796435@N00/3645881200 "View 'Ray-Out iPhone Case DIY' on Flickr.com")[![Ray-Out iPhone Case DIY](http://farm4.static.flickr.com/3662/3645880398_73e2c82a6b_s.jpg)](http://www.flickr.com/photos/81796435@N00/3645880398 "View 'Ray-Out iPhone Case DIY' on Flickr.com")[![Ray-Out iPhone Case DIY](http://farm4.static.flickr.com/3343/3645070657_64d0e09e32_s.jpg)](http://www.flickr.com/photos/81796435@N00/3645070657 "View 'Ray-Out iPhone Case DIY' on Flickr.com")[![Ray-Out iPhone Case DIY](http://farm4.static.flickr.com/3601/3645069947_e3e8cea67b_s.jpg)](http://www.flickr.com/photos/81796435@N00/3645069947 "View 'Ray-Out iPhone Case DIY' on Flickr.com")[![Ray-Out iPhone Case DIY](http://farm4.static.flickr.com/3660/3645069155_1fab18c8d8_s.jpg)](http://www.flickr.com/photos/81796435@N00/3645069155 "View 'Ray-Out iPhone Case DIY' on Flickr.com")[![Ray-Out Leather iPhone Case RT-P1LC4/B](http://farm4.static.flickr.com/3652/3645004265_4aba04c36b_s.jpg)](http://www.flickr.com/photos/81796435@N00/3645004265 "View 'Ray-Out Leather iPhone Case RT-P1LC4/B' on Flickr.com")
 
 

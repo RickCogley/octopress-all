@@ -4,20 +4,20 @@ post_title: "Tokyo Metro \"Do It At Home\" Manners Posters"
 date: 2009-06-25 00:43:59 UTC
 updated: 2009-06-25 00:43:59 UTC
 comments: true
-categories: [SnapJapan, Japan, Culture, Weird]
+categories: [SnapJapan, Japan, Culture, Weird, Design, Art]
 keywords: Manners Posters,Tokyo Metro,subway,Engrish,Tokyo Rail and Subway Map
 tags: [Manners Posters,Tokyo Metro,subway,Engrish,Tokyo Rail and Subway Map]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Bunpei Yorifuji manners posters for Tokyo Metro, by Rick Cogley. 
 published: true
 ---
- 
 
+_Artist **[Bunpei Yorifuji](http://www.bunpei.com/index1.html)** (寄藤文平) is creating a [series of manner posters](http://www.tokyometro.jp/anshin/kaiteki/poster/index.html) for the Tokyo metro, around the theme of "_Do It At Home_"._
 
-[{% img right http://farm4.static.flickr.com/3363/3636877693_96f3b9d2cb_m.jpg '' 'Please do it outside. Piston.' %}](http://www.flickr.com/photos/81796435@N00/3636877693 "View 'Please do it outside. Piston.' on Flickr.com")Artist **[Bunpei Yorifuji](http://www.bunpei.com/index1.html)** (寄藤文平) is creating a [series of manner posters](http://www.tokyometro.jp/anshin/kaiteki/poster/index.html) for the Tokyo metro, around the theme of "_Do It At Home_". Yorifuji was born in Nagano Prefecture, Japan, in 1973, and founded Bunpei Ginza in 2000 to specialize in mainly Art Direction, Illustration and Book Design.  
+<!--more--> 
 
-
+[{% img right http://farm4.static.flickr.com/3363/3636877693_96f3b9d2cb_m.jpg '' 'Please do it outside. Piston.' %}](http://www.flickr.com/photos/81796435@N00/3636877693 "View 'Please do it outside. Piston.' on Flickr.com")Yorifuji was born in Nagano Prefecture, Japan, in 1973, and founded Bunpei Ginza in 2000 to specialize in mainly Art Direction, Illustration and Book Design.  
 
 
 Yorifuji's manners posters address the most common complaints heard by the Metro, such as people who apply makeup, party, sit on the floor, take up too much room, jump through the closing doors at the last minute, wear Everest-assault-sized backbacks and so on. 

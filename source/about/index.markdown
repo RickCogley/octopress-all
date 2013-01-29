@@ -60,7 +60,7 @@ published: true
       <!--Body content-->
       <p>
         <img class="right" itemprop="image" src="/images/Rick/Rick_Casual_200x200.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley">
-        In my youth, I was a semi-professional drumset player in a local wedding band, and because of the great support 
+        As a teenager, I was a semi-professional drumset player in a local wedding band, and because of the great support 
         of my older band mates, my weekend music work helped me save a little money to put towards tour fees for 
         Drum and Bugle Corps, and small purchases.
       </p>
@@ -84,7 +84,9 @@ published: true
         interest in the Fortran algorithms we used to analyze experimental data, as a stepping stone to a career in IT.
       </p>
       <p>
-        In my spare time, I like cycling, being with my family, tinkering around on my blog and with "web 2.0" tech, 
+        I've come a long way from my <a href="/articles/2009/03/09/japan-virgin-adventures/" rel="bookmark" title="Post on Rick Cogley first adventures in Japan" target="_blank">first wide-eyed days</a> 
+        in Japan, but I stayed with it, grew roots, started companies, made a family and lifelong friends. I keep really busy, 
+        but in my spare time, I like cycling, being with my family, tinkering around on my blog and with "web 2.0" tech, 
         drumming, watching films, studying to develop myself professionally, participating in Japanese cultural events, 
         and an occassional drink with friends.
       </p>

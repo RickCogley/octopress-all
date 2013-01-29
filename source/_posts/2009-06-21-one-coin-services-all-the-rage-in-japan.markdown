@@ -13,7 +13,7 @@ description: Post on 'one coin' services popular in the down economy in Japan, b
 published: true
 ---
 
-_Japan morning TV reported that "One Coin" (ワンコイン) services are all the rage these days in Japan, due to the down economy. What, you say? Whassat? Well you're in luck:_
+_Japan morning TV reported that "One Coin" (ワンコイン) services are all the rage these days in Japan, due to the down economy. What, you say? Whassat?_
 
 <!--more--> 
 
