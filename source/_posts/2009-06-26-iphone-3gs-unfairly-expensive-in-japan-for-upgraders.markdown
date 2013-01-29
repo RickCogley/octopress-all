@@ -9,8 +9,8 @@ keywords: iPhone 3GS,Unfair,gadgets,Expensive,apple
 tags: [iPhone 3GS,Unfair,gadgets,Expensive,apple]
 posticon: default
 cover: /images/Japan_Life_Square_300x300-bJRC00848.JPG
-description: xxxxxxx
-published: Post on ugly, complicated Softbank upgrade pricing to go from iPhone 3G to 3GS, by Rick Cogley. 
+description: Post on ugly, complicated Softbank upgrade pricing to go from iPhone 3G to 3GS, by Rick Cogley. 
+published: true
 ---
 
 _I went to a Softbank shop in Shibuya, Tokyo and asked how much it would cost to upgrade an iPhone 3G to an **iPhone 3GS**. The clerk told me that for the 16GB model it would be an _additional JPY 780 per month for 24 months_, totaling JPY 18,720, assuming the continuation of my current contract. That sounded about right to me, given the US prices. But of course there has to be a catch._

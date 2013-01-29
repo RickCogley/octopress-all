@@ -4,7 +4,7 @@ post_title: "Tokyo Metro \"Do It At Home\" Manners Posters"
 date: 2009-06-25 00:43:59 UTC
 updated: 2009-06-25 00:43:59 UTC
 comments: true
-categories: [SnapJapan, Japan, Culture, Weird, Design, Art]
+categories: [SnapJapan, Japan, Culture, Weird, Humor, Design, Art]
 keywords: Manners Posters,Tokyo Metro,subway,Engrish,Tokyo Rail and Subway Map
 tags: [Manners Posters,Tokyo Metro,subway,Engrish,Tokyo Rail and Subway Map]
 posticon: default

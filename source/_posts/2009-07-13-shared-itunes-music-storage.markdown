@@ -4,26 +4,20 @@ post_title: "Shared iTunes Music Storage"
 date: 2009-07-13 05:18:29 UTC
 updated: 2009-07-13 05:18:29 UTC
 comments: true
-categories: [Blog-Cogley, productivity, Library, iTunes, software, 10.5.7, apple]
+categories: [Blog-Cogley, Tips, Software]
 keywords: productivity,Library,iTunes,software,10.5.7,apple
 tags: [productivity,Library,iTunes,8.2,software,10.5.7,apple]
 posticon: default
-cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+cover: /images/Tech_Square_300x300-bJRC00909.JPG
+description: Post on sharing iTunes storage within your family, by Rick Cogley.
 published: true
 ---
- 
 
-My family has a shared iMac G5 running Leopard OS X 10.5.7 and iTunes 8.2 (both the latest as of 13 July 2009), and recently I noticed we were running low on disk space, so I did some digging via du at the command line. I found that we were eating space by ingesting CDs into iTunes, which would get copied to our respective local user folders. 
+_My family has a shared iMac G5 running Leopard OS X 10.5.7 and iTunes 8.2 (both the latest as of 13 July 2009), and recently I noticed we were running low on disk space, so I did some digging via du at the command line. I found that we were eating space by ingesting CDs into iTunes, which would get copied to our respective local user folders. After a little research, I found the [Apple KB article](http://support.apple.com/kb/HT1203) that describes how to have a single storage location for music, so I set that up and made some other discoveries in the process. I thought I'd share how I did it._ 
 
+<!--more--> 
 
-After a little research, I found the [Apple KB article](http://support.apple.com/kb/HT1203) that describes how to have a single storage location for music, so I set that up and made some other discoveries in the process. I thought I'd share how I did it. 
-
-
-
-
-
-To determine **what folder is using what space**, you can use the "du" command in the Terminal. After you do a "sudo bash" to set the Terminal to root access, you can do a "cd /Users" and then a "du -hsc *" to check sizes of all the user folders under /Users.
+{% img right /images/Tech_Square_300x300-bJRC00909.JPG 'Guts inside of PC system.' 'Image of the inside of a PC system.' %}To determine **what folder is using what space**, you can use the "du" command in the Terminal. After you do a "sudo bash" to set the Terminal to root access, you can do a "cd /Users" and then a "du -hsc *" to check sizes of all the user folders under /Users.
 
 
 To **find a location** where your family's music can be shared, you need either a folder on an external drive or somewhere on the default internal drive. For now, we chose /Users/Shared/Music.
