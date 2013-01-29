@@ -14,9 +14,11 @@ published: true
 ---
 
 {% raw %}
-<div class="container-fluid" itemscope itemtype="http://schema.org/AboutPage">
+<div itemscope itemtype="http://schema.org/AboutPage">
 <h2>I&#8217;m <span itemprop="author">Rick Cogley</span></h2>
 <p>&#8230; <em>Thanks for dropping by</em> &#8230;</p>
+</div>
+<div class="container-fluid">
   <div class="row-fluid">
     <div class="span2">
       <!--Sidebar content-->
