@@ -17,25 +17,25 @@ _My family has a shared iMac G5 running Leopard OS X 10.5.7 and iTunes 8.2 (both
 
 <!--more--> 
 
-{% img right /images/Tech_Square_300x300-bJRC00909.JPG 'Guts inside of PC system.' 'Image of the inside of a PC system.' %}To determine **what folder is using what space**, you can use the "du" command in the Terminal. After you do a "sudo bash" to set the Terminal to root access, you can do a "cd /Users" and then a "du -hsc *" to check sizes of all the user folders under /Users.
+{% img right /images/Tech_Square_300x300-bJRC00909.JPG 'Guts inside of P.C. system.' 'Image of the inside of a P.C. system.' %}To determine **what folder is using what space**, you can use the `du` command in the Terminal. After you do a `sudo bash` to set the Terminal to root access, you can do a `cd /Users` and then a `du -hsc *` to check sizes of all the user folders under `/Users`.
 
 
-To **find a location** where your family's music can be shared, you need either a folder on an external drive or somewhere on the default internal drive. For now, we chose /Users/Shared/Music.
+To **find a location** where your family's music can be shared, you need either a folder on an external drive or somewhere on the default internal drive. For now, we chose `/Users/Shared/Music`.
 
 
 **Confirm where files are located** by selecting a song, and pressing cmd-I. In Summary, you'll see the path of the song in the "Where" section.
 
 
-**Create the Music folder in /Users/Shared** and set its permissions so all users can see it. If it is not set already you can do this via the cmd-I "information" interface for the folder, or, using chmod from the Terminal.
+**Create the Music folder in `/Users/Shared`** and set its permissions so all users can see it. If it is not set already you can do this via the cmd-I "information" interface for the folder, or, using chmod from the Terminal.
 
 
 In the first user, change the "**iTunes Music Folder Location**" in iTunes Preferences, Advanced. Also in Preferences, make sure "Keep iTunes Folder Organized" and "Copy Files to iTunes Music Folder when adding to Library" are checked. OK out of Preferences.
 
 
-Next do File, Library, **Consolidate Library**, which copies any files outside the shared library into the library's location, which is now /Users/Shared/Music. This takes a while for large libraries, and will move not only the files from your original iTunes library location, but also any files that you had dragged in from Downloads or the Desktop, for example. 
+Next do File, Library, **Consolidate Library**, which copies any files outside the shared library into the library's location, which is now `/Users/Shared/Music`. This takes a while for large libraries, and will move not only the files from your original iTunes library location, but also any files that you had dragged in from Downloads or the Desktop, for example. 
 
 
-After consolidation completes, confirm where your song files are located by selecting a song, and pressing cmd-I. In Summary, you'll see the path of the song in the "Where" section. It should now be **/Users/Shared/Music** or wherever you specified in Preferences.
+After consolidation completes, confirm where your song files are located by selecting a song, and pressing cmd-I. In Summary, you'll see the path of the song in the "Where" section. It should now be **`/Users/Shared/Music`** or wherever you specified in Preferences.
 
 
 Now, you are ready to **share with other users**, but before you do that, go to iTunes Preferences, Advanced, and turn off "Copy Files to iTunes Music Folder when adding to Library", remembering to turn that back on if and when you consolidate again.
@@ -47,7 +47,7 @@ Prove that CDs will add to the right location by importing a CD, and confirming 
 **Log into another user**, start iTunes, and repeat the location set, library consolidation process. Import a second CD into this second user's library, and confirm it is saved in /Users/Shared/Music.
 
 
-**Return to your original user**, and to add that CD the second user added to your library, do "File, Add to Library" and choose /Users/Shared/Music. By choosing the root of your library, iTunes will check what has not been added, and add it. Your original user should now be able to find the second user's CD in his or her library.
+**Return to your original user**, and to add that CD the second user added to your library, do "File, Add to Library" and choose `/Users/Shared/Music`. By choosing the root of your library, iTunes will check what has not been added, and add it. Your original user should now be able to find the second user's CD in his or her library.
 
 
 
