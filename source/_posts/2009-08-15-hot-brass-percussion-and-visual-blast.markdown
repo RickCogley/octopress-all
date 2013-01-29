@@ -4,21 +4,18 @@ post_title: "Hot Brass, Percussion and Visual - Blast!"
 date: 2009-08-15 10:53:31 UTC
 updated: 2009-08-15 10:53:31 UTC
 comments: true
-categories: [Blog-Cogley, Blast, leisure, Star of Indiana, Live Shows, Drum and Bugle Corps]
+categories: [Blog-Cogley, Performance, Reviews, Music, Art]
 keywords: Blast,leisure,Star of Indiana,Live Shows,Drum and Bugle Corps
 tags: [Blast,leisure,Star of Indiana,Live Shows,Drum and Bugle Corps]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Blast! stage show: brass, percussion and visual performance, by Rick Cogley. 
 published: true
 ---
- 
 
+_My daughter and I went to see what's said to be the final Japan tour of [**Blast!**](http://www.blasttheshow.com/). The brass, percussion and visual performers are young, but are among the best in the world on their instruments. The music and visual performance skills were out in force this afternoon._
 
-
-
-
-My daughter and I went to see what's said to be the final Japan tour of [**Blast!**](http://www.blasttheshow.com/). The brass, percussion and visual performers are young, but are among the best in the world on their instruments. The music and visual performance skills were out in force this afternoon. 
+<!--more--> 
 
 
 If you're not familiar with _Drum and Bugle Corps_, it's mostly a summer activity governed by the non-profit organization "[Drum Corps International](http://www.dci.org)", with corps members moving in around May to begin hard 12-hour "all days" rehearsals, and competing throughout the summer across the USA, until finals in August. Each corps has 150 members, which consist of brass, percussion and "color guard" members who do equipment work with rifles and flags while dancing. There are 12 corps competing for the top spot at finals, but many more corps at various skill levels competing all summer. These shows are performed on football fields in stadiums, but the similarity to college marching band ends there, since they exist to compete and perform like it too!

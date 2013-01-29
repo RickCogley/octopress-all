@@ -9,16 +9,14 @@ keywords: Japan Rail,Language,Interpretation,Pronunciation,Engrish
 tags: [Japan Rail,Language,Interpretation,Pronunciation,Engrish]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on voice change at Japan Rail East, by Rick Cogley. 
 published: true
 ---
- 
+
+_I noticed something interesting. The JR East Japan announcements about the next station are done in a female voice, and she used to say the station names with proper Japanese pronunciation. Like this:_
 
 
-I noticed something interesting. The JR East Japan announcements about the next station are done in a female voice, and she used to say the station names with proper Japanese pronunciation. 
-
-
-
+<!--more--> 
 
 > The next station is, SHIMbashi.
 

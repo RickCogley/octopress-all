@@ -4,17 +4,21 @@ post_title: "Plaxo Outlook Sync Now Fee-based, going DavMail"
 date: 2009-08-03 07:26:02 UTC
 updated: 2009-08-03 07:26:02 UTC
 comments: true
-categories: [Blog-Cogley, Snow Leopard, DavMail, Sync, Plaxo Premium, Plaxo]
+categories: [Blog-Cogley, Tips, Software, Web]
 keywords: Snow Leopard,DavMail,Sync,Plaxo Premium,Plaxo
 tags: [Snow Leopard,DavMail,Sync,Plaxo Premium,Plaxo]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on going DavMail when Plaxo became fee-based, by Rick Cogley.
 published: true
 ---
- 
+
+_Despite its once-poor reputation, I have been using **Plaxo** to keep my iCal and Exchange calendar sync'ed as well as a way to keep in touch with business contacts. I've been syncing using the Plaxo Outlook client on an old clunker of a Windows box at work, to go Outlook to Plaxo, and also using the Plaxo iCal client on Mac OS X, to go iCal to Plaxo. It also works to sync Address Book entries._
+
+<!--more--> 
+
 [<img class="right" src="http://farm3.static.flickr.com/2054/3784473088_5c566e77f2_m.jpg" />](http://www.flickr.com/photos/81796435@N00/3784473088 "View 'DavMail Gateway Settings' on Flickr.com")
-Despite its once-poor reputation, I have been using **Plaxo** to keep my iCal and Exchange calendar sync'ed as well as a way to keep in touch with business contacts. I've been syncing using the Plaxo Outlook client on an old clunker of a Windows box at work, to go Outlook to Plaxo, and also using the Plaxo iCal client on Mac OS X, to go iCal to Plaxo. It also works to sync Address Book entries. My goal in using it was to be able to use the Mail and iCal software in OS X, and not MS Entourage. I dislike Entourage because it puts your mail, calendar and address items in a single large monolithic database. Hard to back that up, and, it gets really, really large after a while.  
+My goal in using Plaxo was to be able to use the Mail and iCal software in OS X, and not MS Entourage. I dislike Entourage because it puts your mail, calendar and address items in a single large monolithic database. Hard to back that up, and, it gets really, really large after a while.  
 
 
 At any rate, that setup working around Plaxo has worked well for me, but last week as of 30 July 2009, Plaxo changed tacks and will start charging for the Outlook sync services. This is part of the announcement email they sent me: 
