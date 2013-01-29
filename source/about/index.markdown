@@ -13,11 +13,10 @@ tags: [Rick Cogley,Bio,CV,Biography,About,Colophon,hcard,vcard]
 published: true
 ---
 
-##I'm <span itemprop="author"></span>Rick Cogley</span>
-... _Thanks for dropping by_ ...
-
 {% raw %}
 <div class="container-fluid" itemscope itemtype="http://schema.org/AboutPage">
+<h2>I&#8217;m <span itemprop="author"></span>Rick Cogley</span></h2>
+<p>&#8230; <em>Thanks for dropping by</em> &#8230;</p>
   <div class="row-fluid">
     <div class="span2">
       <!--Sidebar content-->
