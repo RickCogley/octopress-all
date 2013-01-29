@@ -7,7 +7,7 @@ sharing: true
 sidebar: true
 footer: true
 categories: [Rick Cogley, About, Bio, Contact]
-description: This is Rick Cogley's About, Biography and Contact-Me Page.
+description: This is Rick Cogley's About, Biography and Contact-Me Page, and colophon about this site.
 keywords: Rick Cogley, Bio, CV, Biography, About, Colophon, hcard, vcard
 tags: [Rick Cogley,Bio,CV,Biography,About,Colophon,hcard,vcard]
 published: true
@@ -26,21 +26,21 @@ published: true
     </div>
     <div class="span10">
       <!--Body content-->
-      <p>
-        <img class="right" itemprop="image" src="/images/Rick/Rick_Suit_200x280.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley, eSolia CEO">
-        My full name is <span itemprop="author">James Rickard Cogley</span>, though people call me Rick, and I live in 
-        Yokohama and work in Tokyo Japan. I've been working in the consulting and support industry since 1990. I specialize 
-        in bilingual (Japanese - English) consulting and project management, and my company 
-        <a href="http://www.esolia.com" target="_blank">eSolia Inc.</a> where I'm the CEO and founder, is a privately-held Japanese KK focused on the same.
-      </p>
+<p>
+My full name is <span itemscope itemtype="http://schema.org/Person"><a itemprop="url" href="http://rick.cogley.info"><span itemprop="author" itemprop="name"><em>James Rickard Cogley</em></span></a>, though people call me <span itemprop="nickname">"Rick"</span>. <span class="pullquote-right" data-pullquote="I&#8217;m an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan and fluent in Japanese." itemprop="description">I'm an experienced technology manager and consultant, avid cyclist, and family man who is based in Japan, and fluent in Japanese.</span> I'm <span itemprop="title">Founder</span> and <span itemprop="title">CEO</span> of <a rel="bookmark" href="http://www.esolia.com" target="_blank"><span itemprop="affiliation">eSolia Inc.</span></a>, specializing in bilingual (English - Japanese) IT management services. 
+</p>
+<p>
+<img class="right" itemprop="image" src="/images/Rick/Rick_Suit_200x280.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley, eSolia CEO" />You can <a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/about/">download my vCard</a>, and I can be reached at <span itemprop="address" itemscope itemtype="http://schema.org/PostalAddress"><span itemprop="streetAddress">Sawa Bldg. 6F, Nishi-Shinbashi 2-2-2</span>, <span itemprop="addressLocality">Minato-ku</span>, <span itemprop="addressRegion">Tokyo</span> <span itemprop="postalCode">105-0003</span>, <span itemprop="addressCountry">Japan</span> (<i class="icon-map-marker"></i> <a href="https://maps.google.com/maps?q=%E3%82%A4%E3%82%BD%E3%83%AA%E3%82%A2&amp;hl=en&amp;ie=UTF8&amp;sll=35.402381,139.530163&amp;sspn=0.482728,0.239983&amp;hq=%E3%82%A4%E3%82%BD%E3%83%AA%E3%82%A2&amp;t=m&amp;z=14" rel="bookmark" title="Map to eSolia Inc on Google Maps" target="_blank">map</a>), </span> <em>email:</em> <a itemprop="email" href="mailto:rick@cogley.info">rick@cogley.info</a> or <em>mobile:</em> <span itemprop="telephone">+81-3-6273-3501</span>.</span>
+</p>
       <p>
         Prior to starting eSolia, I was a charter member, co-owner and the CIO of PTS, a professional IT training and 
         services firm, which was acquired in 2000 by Datacraft Asia.
       </p>
       <p>
-        In my professional career so far, I've led projects including Mobil's standard managed environment Japan 
-        localization effort, Boston Scientific Japan's IT re-structuring for SAP R/3, project management training 
-        development and execution for UBS Japan IT, Ocular Sciences Japan and CooperVision Japan's ERP, EDI, and 
+        In my professional career so far and prior to starting eSolia, I was a charter member, co-owner and the CIO 
+        of PTS, a professional IT training and IT services firm. I've led projects including Mobil's standard managed
+        environment Japan localization effort, Boston Scientific Japan's IT re-structuring for SAP R/3, project management
+        training development and execution for UBS Japan IT, Ocular Sciences Japan and CooperVision Japan's ERP, EDI, and 
         SOX compliance efforts, Cook Medical Japan's IT infrastructure and ERP rollouts, amongst others, and am now 
         working on a combined IT-reorg and ERP rollout for a US multinational.
       </p>
@@ -59,12 +59,12 @@ published: true
     <div class="span10">
       <!--Body content-->
       <p>
-        <img class="right" itemprop="image" src="/images/Rick/Rick_Casual_200x200.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley">
         As a teenager, I was a semi-professional drumset player in a local wedding band, and because of the great support 
         of my older band mates, my weekend music work helped me save a little money to put towards tour fees for 
         Drum and Bugle Corps, and small purchases.
       </p>
       <p>
+        <img class="right" itemprop="image" src="/images/Rick/Rick_Casual_200x200.JPG" title="Rick Cogley Photo" alt="A photo of Rick Cogley">
         Speaking of Drum and Bugle Corps, a summer athletic musical activity (a "spart", if you will) in which groups of 
         150 performers compete in stadiums nationwide in the US, I was blessed to get to march snare drum in DCI for 5 
         seasons, starting in 1981 at 15 years old in the General Butler Vagabonds of Butler, PA, continuing on with the 
@@ -171,7 +171,7 @@ published: true
 <p>You really need to be a bit of a hacker, to use a static site generator. Octopress was complete and polished enough that I could learn the related technologies at my own pace. An ulterior motive was that I wanted to learn how to use git, as all the cool kids are using it. The workflow of writing a post or page in markdown, adding it to my local git repository, committing it, pushing it, and deploying it to the site, has now become second nature. I am using Atech Media's <a rel="bookmark" href="http://www.codebasehq.com/" title="Atech Media CodebaseHQ git and subversion hosting." target="_blank">CodebaseHQ</a> and <a rel="bookmark" href="http://www.deployhq.com/" title="Atech Media DeployHQ to auto-copy a git repo to a server." target="_blank">DeployHQ</a> to host my repo and deploy its files to my site folder, over at the rock-solid <a rel="bookmark" href="http://www.webfaction.com?affiliate=rcogley" title="Webfaction hosting link." target="_blank">Webfaction</a>.</p>
 <p>I hired <span id="itemscope" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><em>Paul Serous</em></span>, <span itemprop="jobTitle">Web Developer</span>, (<a itemprop="url" href="http://about.me/paul_ser" title="Paul Ser profile page" target="_blank">Profile</a>)</span></span> who is based in the Ukraine, to coach me in learning git and the other technologies I need to know, and, to do the heavy ruby programming that I have no time or need to learn. He did an exemplary job not only on those things, but going the extra mile to adapt a responsive HTML5 and CSS3 <a rel="bookmark" href="http://themeforest.net/item/justi-responsive-html5css3-template/2733629" title="Justi HTML5 and CSS3 theme based on Twitter Bootstrap" target="_blank">theme</a> based on the famous and somewhat ubiquitous <a rel="bookmark" href="http://twitter.github.com/bootstrap/" title="Twitter Bootstrap - responsive HTML5 and CSS3 framework." target="_blank">Twitter Bootstrap</a>, up and running on this site. I really appreciate his quality work, help and patience.</p>
 <p>A lot goes into the cosmetic look of a site, namely with <a rel="bookmark" title="Permanent bookmark for Cascading Style Sheets" href="http://www.w3.org/Style/CSS/">CSS</a> for visual styling, and javascript such as <a href="http://jquery.com/" rel="bookmark" title="JQuery site." target="_blank">JQuery</a> or what Twitter has written into Bootstrap for effects. We started with a basic theme, but there are a lot of actors playing on the stage you see now. I'm using Adobe TypeKit <a href="https://typekit.com/colophons/opc8mtb" rel="bookmark" title="Webfonts from Adobe used in this site." target="_blank">webfonts</a>, namely <a href="https://typekit.com/fonts/freight-text-pro" rel="bookmark" title="Freight Text Pro web font details page." target="_blank">Freight Text Pro</a> for the body text, <a href="https://typekit.com/fonts/adelle-web" rel="bookmark" title="Adelle web font details page." target="_blank">Adelle</a> for the headings, and <a href="https://typekit.com/fonts/source-code-pro" rel="bookmark" title="Source Code Pro web font details page." target="_blank">Source Code Pro</a> for monospace code blocks, primarily because they look good, and it means a consistent look to the site for most viewers with modern browsers. Also, because <a href="http://fortawesome.github.com/Font-Awesome/" rel="bookmark" title="Font Awesome icon fonts" target="_blank">Font Awesome</a> icon fonts and <a href="http://glyphicons.com/" rel="bookmark" title="Glyphicon icons" target="_blank">Glyphicons</a> are included with Twitter Bootstrap, those too are taken advantage of in the design.</p>
-<p>As you browse around, you may see that "POSH" <a rel="bookmark" title="POSH link" href="http://microformats.org/wiki/posh">Plain Old Semantic HTML</a> is the base, while I'm using some now-well-accepted <a href="http://schema.org/" rel="bookmark" title="Canonical site for Microdata, Schema.org." target="_blank">Microdata</a> such as the <a href="http://schema.org/Person" rel="bookmark" title="Microdata Person schema." target="_blank">Person</a> schema, and <a href="http://microformats.org">Microformats</a> such as <a href="http://www.microformats.org/wiki/hcard" rel="bookmark" title="Permanent bookmark for hcard Microformat">hCard</a>, with <a href="http://www.microformats.org/wiki/rel-tag" rel="bookmark" title="Rel-tag Microformat">rel-tag</a> sprinkled in around the site.</p>
+<p>As you browse around, you may see that <a rel="bookmark" title="Semantic HTML Wikipedia article link" href="http://en.wikipedia.org/wiki/Semantic_HTML">Semantic HTML</a> is the base, while I'm using some now-well-accepted <a href="http://schema.org/" rel="bookmark" title="Canonical site for Microdata, Schema.org." target="_blank">Microdata</a> such as the <a href="http://schema.org/Person" rel="bookmark" title="Microdata Person schema." target="_blank">Person</a> schema, and <a href="http://microformats.org">Microformats</a> such as <a href="http://www.microformats.org/wiki/hcard" rel="bookmark" title="Permanent bookmark for hcard Microformat">hCard</a>, with <a href="http://www.microformats.org/wiki/rel-tag" rel="bookmark" title="Rel-tag Microformat">rel-tag</a> sprinkled in around the site.</p>
 <p><em>Now to get down to the content creation!</em></p>
     </div>
   </div>
