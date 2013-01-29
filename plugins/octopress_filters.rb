@@ -73,6 +73,10 @@ module OctopressLiquidFilters
     @doc.to_s
   end
 
+  def to_url(input)
+    input.to_s.gsub(/_|\P{Word}/, '-').gsub(/-{2,}/, '-').downcase
+  end
+
   # Extracts raw content DIV from template, used for page description as {{ content }}
   # contains complete sub-template code on main page level
   def raw_content(input)

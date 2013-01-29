@@ -7,13 +7,19 @@
 
 <div class="tab-content">
   <div class="tab-pane active" id="tab-related">
+  	{% if site.related_posts %}
 	<ul id="related_posts">
-		<p>Put related posts here, using jekyll plugin.</p>
+		{% for post in site.related_posts %}
+			<li><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></li>
+		{% endfor %}
 	</ul>
+	{% endif %}
   </div>
   <div class="tab-pane" id="tab-tags">
 	<ul class="tags_cloud">
-		<p>Put tags for this post only here.</p>
+		{% for categ in page.tags %}
+			<li><a href="/tags/{{ categ | to_url }}"> {{ categ }}</a>{% unless forloop.last %},{% endunless%}</li>
+		{% endfor %}
 	</ul>
   </div>
 </div>

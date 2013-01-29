@@ -123,15 +123,6 @@ function renderDeliciousLinks(items) {
   $('#delicious').html(output);
 }
 
-$(function() {
-  testFeatures();
-  wrapFlashVideos();
-  flashVideoFallback();
-  addCodeLineNumbers();
-  getNav();
-  addSidebarToggler();
-});
-
 // iOS scaling bug fix
 // Rewritten version
 // By @mathias, @cheeaun and @jdalton
@@ -166,7 +157,14 @@ b=j.userAgent.toLowerCase(),d=j.platform.toLowerCase(),g=d?/win/.test(d):/win/.t
 a&&b&&d&&i&&k){d+="";i+="";var p={};if(f&&typeof f===o)for(var m in f)p[m]=f[m];p.data=a;p.width=d;p.height=i;a={};if(c&&typeof c===o)for(var n in c)a[n]=c[n];if(e&&typeof e===o)for(var r in e)typeof a.flashvars!=l?a.flashvars+="&"+r+"="+e[r]:a.flashvars=r+"="+e[r];if(t(k))b=s(p,a,b),j.success=!0,j.ref=b}h&&h(j)},ua:g,getFlashPlayerVersion:function(){return{major:g.pv[0],minor:g.pv[1],release:g.pv[2]}},hasFlashPlayerVersion:t,createSWF:function(a,b,d){if(g.w3)return s(a,b,d)},getQueryParamValue:function(a){var b=
 i.location.search||i.location.hash;if(b){/\?/.test(b)&&(b=b.split("?")[1]);if(a==null)return u(b);for(var b=b.split("&"),d=0;d<b.length;d++)if(b[d].substring(0,b[d].indexOf("="))==a)return u(b[d].substring(b[d].indexOf("=")+1))}return""}}}();
 
-$(function(){
+$(function() {
+  testFeatures();
+  wrapFlashVideos();
+  flashVideoFallback();
+  addCodeLineNumbers();
+  getNav();
+  addSidebarToggler();
+
   // responsive drop-down menu
   $("nav ul").find('li').hover(function() {
       $(this).children("ul").stop(true, true).fadeIn(300);
@@ -174,4 +172,8 @@ $(function(){
   function() {
       $(this).children("ul").stop(true, true).fadeOut(200);
   });
+
+  $('#alt-menu-select').change(function(){
+    document.location = $(this).val();
+  })
 })
