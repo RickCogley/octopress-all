@@ -333,18 +333,18 @@ footer.footer h3 { margin:0 0 15px 0; padding:0 0 10px 0;border-bottom:#262626 1
 /***** Button Bootstrap *****/
 
 .btn-success {
-  background-color: #577088;
-  *background-color: #63829f;
-  background-image: -ms-linear-gradient(top, #7f9fbd, #63829f);
-  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#7f9fbd), to(#63829f));
-  background-image: -webkit-linear-gradient(top, #7f9fbd, #63829f);
-  background-image: -o-linear-gradient(top, #7f9fbd, #63829f);
-  background-image: -moz-linear-gradient(top, #7f9fbd, #63829f);
-  background-image: linear-gradient(top, #67f9fbd, #63829f);
+  background-color: #5bb75b;
+  *background-color: #51a351;
+  background-image: -ms-linear-gradient(top, #62c462, #51a351);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#62c462), to(#51a351));
+  background-image: -webkit-linear-gradient(top, #62c462, #51a351);
+  background-image: -o-linear-gradient(top, #62c462, #51a351);
+  background-image: -moz-linear-gradient(top, #62c462, #51a351);
+  background-image: linear-gradient(top, #62c462, #51a351);
   background-repeat: repeat-x;
-  border-color: #63829f #63829f #63829f;
+  border-color: #51a351 #51a351 #387038;
   border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#7f9fbd', endColorstr='#63829f', GradientType=0);
+  filter: progid:dximagetransform.microsoft.gradient(startColorstr='#62c462', endColorstr='#51a351', GradientType=0);
   filter: progid:dximagetransform.microsoft.gradient(enabled=false);
 }
 
@@ -353,8 +353,8 @@ footer.footer h3 { margin:0 0 15px 0; padding:0 0 10px 0;border-bottom:#262626 1
 .btn-success.active,
 .btn-success.disabled,
 .btn-success[disabled] {
-  background-color: #63829f;
-  *background-color: #63829f;
+  background-color: #51a351;
+  *background-color: #499249;
 }
 
 .btn-success:active,
