@@ -4,18 +4,18 @@ post_title: "Greylisting in Snow Leopard Server, or not"
 date: 2009-10-30 04:19:13 UTC
 updated: 2009-10-30 04:19:13 UTC
 comments: true
-categories: [Blog-Cogley, productivity, tip, Postfix, Greylisting, software, mail, Snow Leopard Server]
-keywords: productivity,10.6,tip,Postfix,Greylisting,software,mail,Snow Leopard Server
-tags: [productivity,10.6,tip,Postfix,Greylisting,software,mail,Snow Leopard Server]
+categories: [Blog-Cogley, SysAdmin, Tips, Troubleshooting]
+keywords: productivity,10.6,tip,Postfix,Greylisting,software,mail,Snow Leopard Server,smtp
+tags: [productivity,10.6,tip,Postfix,Greylisting,software,mail,Snow Leopard Server,smtp]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on how to disable greylisting in Snow Leopard Server mail server, by Rick Cogley. 
 published: true
 ---
- 
 
-Apple's OS X **Snow Leopard Server 10.6** implements [_Greylisting_](http://www.greylisting.org), an anti-spam technique based on forcing sending SMTP servers to "slow down" before they can deliver. This is great for reducing spam, but it also has the perhaps undesired effect of causing delivery delays. Sometimes really, really loooong delivery delays. 
+_Apple's OS X **Snow Leopard Server 10.6** implements [_Greylisting_](http://www.greylisting.org), an anti-spam technique based on forcing sending SMTP servers to "slow down" before they can deliver. This is great for reducing spam, but it also has the perhaps undesired effect of causing delivery delays. Sometimes really, really loooong delivery delays._ 
 
+<!--more--> 
 
 In SLS, when you enable anti-spam in your Mail server (which is postfix), greylisting is automatically enabled. Because there are no readily available manuals on how to use this feature, from Apple, you may want to turn it off. Note that I'm skittish about changing config files like in a normal Unix server in an Apple server, because Apple is known to simply change vast portions of their server products without much notice. It's possible that you'd spend time implementing, and they change the way it has to be done so you have to redo it. Anyway, here's how to disable:
 

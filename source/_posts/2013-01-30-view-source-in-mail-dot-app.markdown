@@ -16,7 +16,7 @@ _Want an easy way to see mail headers in Mail.app? They'll pop right up, and I p
 
 <!--more--> 
 
-I found this by accident, and it is useful so I thought I would share it. My finders are used to pressing {% raw %}<span class="label label-success">command-option-u</span>{% endraw %} to "view source" in browsers on my Mac. I was context-switched to Mail.app today when I tried viewing source on a web page, and what do you know? A window pops up with the html source of the selected email message. You can also view the headers _in situ_ in the mail message, by pressing {% raw %}<span class="label label-success">command-shift-h</span>{% endraw %}, if that is your preference.
+I found this by accident, and it is useful so I thought I would share it. My fingers are used to pressing {% raw %}<span class="label label-success">command-option-u</span>{% endraw %} to "view source" in browsers on my Mac. I was context-switched to Mail.app today when I tried viewing source on a web page, and what do you know? A window pops up with the html source of the selected email message. You can also view the headers _in situ_ in the mail message, by pressing {% raw %}<span class="label label-success">command-shift-h</span>{% endraw %}, if that is your preference.
 
 Good to know, good to know. 
 
