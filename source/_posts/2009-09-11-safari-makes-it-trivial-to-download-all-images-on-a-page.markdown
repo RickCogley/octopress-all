@@ -4,17 +4,20 @@ post_title: "Safari Makes it Trivial to Download All Images on a Page"
 date: 2009-09-11 03:35:54 UTC
 updated: 2009-09-11 03:35:54 UTC
 comments: true
-categories: [Blog-Cogley, productivity, tip, software, eSolia 10th Anniversary, Safari]
+categories: [Blog-Cogley, Software, Tips]
 keywords: productivity,tip,software,eSolia 10th Anniversary,Safari
 tags: [productivity,tip,software,eSolia 10th Anniversary,Safari]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on how to download all images on a web page in Safari, by Rick Cogley. 
 published: true
 ---
- 
 
-[](http://www.flickr.com/photos/81796435@N00/3908022113 "View 'Download All Images or Files in Safari Page' on Flickr.com")Of course it should not be used for nefarious purposes, but Apple's Safari browser makes it trivial to download all the images or files on a web page you are visiting. I had [The Logo Factory](http://www.thelogofactory.com) create a special logo for my company eSolia's 10th anniversary, and they prepared a page with the deliverables on it. I did not want to download each one individually, and I remembered that the Safari Activities window allows you to access the objects on a page directly, such as various file attachments on a page. 
+_Of course it should not be used for nefarious purposes, but Apple's Safari browser makes it trivial to download all the images or files on a web page you are visiting. Here's how:_
+
+<!--more--> 
+
+[](http://www.flickr.com/photos/81796435@N00/3908022113 "View 'Download All Images or Files in Safari Page' on Flickr.com")I had [The Logo Factory](http://www.thelogofactory.com) create a special logo for my company eSolia's 10th anniversary, and they prepared a page with the deliverables on it. I did not want to download each one individually, and I remembered that the Safari Activities window allows you to access the objects on a page directly, such as various file attachments on a page. 
 
 
 ### O' Sensei of Safari, How Do We Achieve this Magic?

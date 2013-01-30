@@ -9,18 +9,15 @@ keywords: senryuu,humor,elections,satire,sarasen,prime minister,poetry
 tags: [senryuu,humor,elections,satire,sarasen,prime minister,poetry]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Shibamata Taishakuten senryu, by Rick Cogley. 
 published: true
 ---
- 
 
+_The elections are again upon us here in Japan, and the satirists are hard at work writing Senryuu (川柳) poems about the subject. Senryuu are like Haiku in that they have the well-known 5-7-5 sound structure, but they differ in that they are not so much about _mother_ nature as about _human_ nature._
 
-The elections are again upon us here in Japan, and the satirists are hard at work writing Senryuu (川柳) poems about the subject. Senryuu are like Haiku in that they have the well-known 5-7-5 sound structure, but they differ in that they are not so much about _mother_ nature as about _human_ nature. 
+<!--more--> 
 
-
-
-
-You can see some Senryuu from my post about the annual [Salary-man Senryuu competition](http://rick.cogley.info/snapjapan/index.php?id=9131646779081025259) held by Dai-ichi Life Insurance, about the trials of the typical salaried worker (meaning, most of Japan's population). This time, the buzz is about the upcoming House of Representatives election, and [there are several](http://mainichi.jp/select/wadai/news/20090723k0000m040034000c.html) humorous Senyruu decorating the **Shibamata Taishakuten** (柴又帝釈天) Temple in Katsushika Ward, Tokyo. These will remain on display until around early September.
+You can see some Senryuu from my post about the annual [Salary-man Senryuu competition](/articles/2009/08/20/salaryman-senryu-sarasen-winners/) held by Dai-ichi Life Insurance, about the trials of the typical salaried worker (meaning, most of Japan's population). This time, the buzz is about the upcoming House of Representatives election, and [there are several](http://mainichi.jp/select/wadai/news/20090723k0000m040034000c.html) humorous Senyruu decorating the **Shibamata Taishakuten** (柴又帝釈天) Temple in Katsushika Ward, Tokyo. These will remain on display until around early September.
 
 
 

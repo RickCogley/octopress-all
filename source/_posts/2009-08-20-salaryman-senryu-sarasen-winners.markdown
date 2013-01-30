@@ -9,13 +9,15 @@ keywords: dai-ichi life,senryuu,haiku,humor,sarasen
 tags: [dai-ichi life,senryuu,haiku,humor,sarasen]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Dai-ichi Life Sarasen Salaryman Senryu winners, by Rick Cogley. 
 published: true
 ---
- 
 
+_**Dai-ichi Life Insurance** has announced their latest _Sarariiman Senryuu_ (Salaried Worker Senryuu, サラリーマン川柳) [competition winners](http://event.dai-ichi-life.co.jp/company/senryu/22th/best_10.html). It's the 22nd year for the competition, and people vote on the best humorous _senryu_ that come from the daily life of salaried workers and the news._
 
-**Dai-ichi Life Insurance** has announced their latest _Sarariiman Senryuu_ (Salaried Worker Senryuu, サラリーマン川柳) [competition winners](http://event.dai-ichi-life.co.jp/company/senryu/22th/best_10.html). It's the 22nd year for the competition, and people vote on the best humorous _senryu_ that come from the daily life of salaried workers and the news. Senryu are like Haiku but are less about nature than about human life, and you may recall that haiku are the poems with a cadence of 5, 7 then 5 syllables. Let's check some of the _sara-sen_ winners out with my translations: 
+<!--more--> 
+
+Senryu are like Haiku but are less about nature than about human life, and you may recall that haiku are the poems with a cadence of 5, 7 then 5 syllables. Let's check some of the _sara-sen_ winners out with my translations: 
 
 
 

@@ -4,18 +4,18 @@ post_title: "Changing a Bike Tire Inner-tube"
 date: 2009-09-02 22:41:17 UTC
 updated: 2009-09-02 22:41:17 UTC
 comments: true
-categories: [Blog-Cogley, Repair, leisure, Tube, DIY, Bike, cycling, Inner-tube]
+categories: [Blog-Cogley, Cycling, Troubleshooting, Tips]
 keywords: Repair,leisure,Tube,DIY,Bike,cycling,Inner-tube
 tags: [Repair,leisure,Tube,DIY,Bike,cycling,Inner-tube]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Changing a Bike Tire Inner-tube, by Rick Cogley. 
 published: true
 ---
- 
 
-I got a flat the last hill of my 100 km bike trip last Sunday. Thank heavens it did not happen at km 50 or something. I went to a bike shop in Shinjuku today to get a replacement tube, and they were kind enough to tutor me on how to replace it. 
+_I got a flat the last hill of my 100 km bike trip last Sunday. Thank heavens it did not happen at km 50 or something. I went to a bike shop in Shinjuku today to get a replacement tube, and they were kind enough to tutor me on how to replace it._
 
+<!--more--> 
 
 ### How to Change that Tube
 
