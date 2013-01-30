@@ -9,12 +9,15 @@ keywords: LDAP,Open Directory,tips,software,Troubleshooting,apple
 tags: [LDAP,Open Directory,tips,software,Troubleshooting,apple]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on recovering from a corrupt Apple Leopard Server Open Directory, by Rick Cogley. 
 published: true
 ---
- 
 
-I had a Leopard Server crash and burn so that nothing was responding, and when I forced the server to reboot (as well as rebooting a bunch of other ancillary servers and services just in case), I found an ominous sign in Server Admin, along with no user accounts in Workgroup Manager. Eek! Server Admin's **Open Directory** showed: 
+_I had a Leopard Server crash and burn so that nothing was responding, and when I forced the server to reboot (as well as rebooting a bunch of other ancillary servers and services just in case), I found an ominous sign in Server Admin, along with no user accounts in Workgroup Manager. Eek!_
+
+<!--more--> 
+
+Server Admin's **Open Directory** showed: 
 
 
 > 

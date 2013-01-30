@@ -1,23 +1,23 @@
-<!-- changed meta property to meta name so html5 will validate --!>
+<!-- meta property is supposed to work if facebook schema is in html tag-->
 
 <meta property="og:url" value="{{ site.url }}{{ page.url }}">
-<meta name="og:type" content="website" />
+<meta property="og:type" content="website" />
 {% if page.title %}
-	<meta name="og:title" value="{{ page.title }}">
+	<meta property="og:title" value="{{ page.title }}">
 {% else %}
-	<meta name="og:title" value="{{ site.title }}">
+	<meta property="og:title" value="{{ site.title }}">
 {% endif %}
 {% if page.ogdescription %}
-	<meta name="og:description" value="{{ page.ogdescription }}">
+	<meta property="og:description" value="{{ page.ogdescription }}">
 {% elsif page.description %}
-	<meta name="og:description" value="{{ page.description }}">
+	<meta property="og:description" value="{{ page.description }}">
 {% else %}
-	<meta name="og:description" value="{{ site.ogdescription }}">
+	<meta property="og:description" value="{{ site.ogdescription }}">
 {% endif %}
 {% if page.cover %}
-	<meta name="og:image" value="{{ site.url }}{{ page.cover }}">
+	<meta property="og:image" value="{{ site.url }}{{ page.cover }}">
 {% else %}
-	<meta name="og:image" value="{{ site.url }}{{ site.cover }}">
+	<meta property="og:image" value="{{ site.url }}{{ site.cover }}">
 {% endif %}
 
 

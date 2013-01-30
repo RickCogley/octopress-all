@@ -4,18 +4,20 @@ post_title: "Linking File Types and Apps in OS X"
 date: 2009-09-13 02:11:02 UTC
 updated: 2009-09-13 02:11:02 UTC
 comments: true
-categories: [Blog-Cogley, PDF, productivity, os x, tips, apple]
+categories: [Blog-Cogley, Tips]
 keywords: PDF,productivity,os x,tips,apple
 tags: [PDF,productivity,os x,tips,apple]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on linking up file types and apps, in OS X, by Rick Cogley.
 published: true
 ---
- 
 
-[](http://www.flickr.com/photos/81796435@N00/3913619255 "View 'Restore File Associations in OS X Finder' on Flickr.com")If you are an OS X user, and you find files of a certain type, say PDFs, are opening in one applications but you want them to open in a different one, you can easily change the association using Finder. 
+_If you are an OS X user, and you find files of a certain type, say PDFs, are opening in one applications but you want them to open in a different one, you can easily change the association using Finder._
 
+<!--more--> 
+
+[](http://www.flickr.com/photos/81796435@N00/3913619255 "View 'Restore File Associations in OS X Finder' on Flickr.com")
 
 ### How to Re-associate File Types with Applications in OS X
 
