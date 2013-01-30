@@ -7,10 +7,10 @@
 
 <div class="tab-content">
   <div class="tab-pane active" id="tab-related">
-  	{% if site.related_posts %}
+  	{% if page.related_posts %}
 	<ul id="related_posts">
-		{% for post in site.related_posts %}
-			<li><a href="{{ root_url }}{{ post.url }}">{{ post.title }}</a></li>
+		{% for post in page.related_posts %}
+			<li><a href="/articles/{{ post.url }}">{{ post.title }}</a></li>
 		{% endfor %}
 	</ul>
 	{% endif %}

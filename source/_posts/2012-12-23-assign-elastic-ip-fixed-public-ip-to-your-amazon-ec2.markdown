@@ -7,6 +7,9 @@ comments: true
 categories: [Blog-Cogley, Technology, Software, Web, Troubleshooting, Tips]
 keywords: Network,Fixed IP,Amazon,EC2,geek,AWS
 tags: [Network,Fixed IP,Amazon,EC2,geek,AWS]
+related_posts:
+  - {title: "A Test Post With Sourcecode Markup", url: "2013/01/01/a-test-post-with-source-code-markup/"}
+  - {title: "First Snow of 2013 in Yokohama", url: "2013/01/14/first-snow-of-2013-in-yokohama/"}
 ---
  
 <img class="right" src="http://farm9.staticflickr.com/8493/8301986608_803bf59f10.jpg"/>
