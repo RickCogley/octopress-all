@@ -4,24 +4,20 @@ post_title: "Aperture 3 Upgrade Observations"
 date: 2010-02-14 23:42:24 UTC
 updated: 2010-02-14 23:42:24 UTC
 comments: true
-categories: [Blog-Cogley, photography, apple, aperture]
+categories: [Blog-Cogley, Photography, Upgrades, Tips]
 keywords: photography,3.0,apple,aperture
 tags: [photography,3.0,apple,aperture]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post with some observations about upgrading Aperture 2 to 3, by Rick Cogley. 
 published: true
 ---
- 
 
-[](http://www.flickr.com/photos/81796435@N00/4357842914 "View 'Aperture 3 Confirm Faces Interface' on Flickr.com")My upgrade to Apple's [Aperture](http://www.apple.com/aperture/) 3 came over the weekend so I upgraded and started letting it analyze faces using the iPhoto-inspired "Faces and Places" feature. 
+_My upgrade to Apple’s Aperture 3 came over the weekend so I upgraded and started letting it analyze faces using the iPhoto-inspired “Faces and Places” feature._
 
+<!--more--> 
 
-Here's a few observations from the upgrade process and just a little use of the Faces feature. 
-
-
-
-
+[{% img right http://farm5.staticflickr.com/4028/4357842914_ccf46b3314_d.jpg 400 'Click to view on Flickr: Aperture 3 Confirm Faces Interface' 'Screenshot of Aperture 3 Confirm Faces Interface.' %}](http://www.flickr.com/photos/81796435@N00/4357842914)Here's a few observations from the upgrade process and just a little use of the Faces feature. 
 
 Aperture 3's icons are colorful, compared to its predecessor. I think they still look professional, but they are a little "friendlier" and more iPhoto-like.
 

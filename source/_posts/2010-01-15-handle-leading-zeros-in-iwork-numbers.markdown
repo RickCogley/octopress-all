@@ -11,6 +11,8 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on handling leading zeros in Apple iWork Numbers spreadsheet, by Rick Cogley.
 published: true
+related_posts:
+  - {title: "Opening a Tab-Delimited CSV in Numbers", url: "2010/03/16/opening-a-tab-delimited-csv-in-apple-iwork-numbers/"}
 ---
 
 _**Apple's iWork '09 Numbers** spreadsheet is a versatile app with a lot of power available if you open your mind and don't expect it to be Excel. I had some trouble with formatting leading zeros, and this post tells you how I dealt with it in Numbers._ 

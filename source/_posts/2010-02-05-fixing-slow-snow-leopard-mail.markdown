@@ -4,24 +4,27 @@ post_title: "Fixing Slow Snow Leopard Mail"
 date: 2010-02-05 03:56:23 UTC
 updated: 2010-02-05 03:56:23 UTC
 comments: true
-categories: [Blog-Cogley, Snow Leopard, smtp, slow, mail, send]
+categories: [Blog-Cogley, Tips, SysAdmin, Software, Troubleshooting]
 keywords: Snow Leopard,10.6.2,smtp,slow,mail,send
 tags: [Snow Leopard,10.6.2,smtp,slow,mail,send]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on a few ideas for fixing Apple Mail.app slowness, by Rick Cogley. 
 published: true
 ---
- 
 
-[](http://www.flickr.com/photos/81796435@N00/4331757548 "View 'OS X Snow Leopard Mail SMTP' on Flickr.com")Many upgrading Mac users have reported that Mail is "slow" in Snow Leopard 10.6. There are several things you can do to remedy the situation. Here's what you can try, but please make sure you have Time Machine backing up your system, or are running an alternative like [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) or CarbonCopyCloner. 
+_Many upgrading Mac users have reported that Mail is "slow" in Snow Leopard 10.6. There are several things you can try to do to remedy the situation, but make sure you have a backup in place like Time Machine or are running an alternative like [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) or CarbonCopyCloner._  
+
+<!--more--> 
 
 
 ### Reset SMTP Mail
 
+[](http://www.flickr.com/photos/81796435@N00/4331757548 "View 'OS X Snow Leopard Mail SMTP' on Flickr.com")
 
+ 
 
-One thing that sharp users observed on Apple's forums was that newly-created Mail accounts were not experiencing the slowness to send, that upgraders were commonly experiencing. You _can_ export your mail, recreate your accounts and re-import everything, but another way to mimic creating a new account is to re-set SMTP credentials. It's a bit voodoo, but it seems to work. 
+[{% img right http://farm5.staticflickr.com/4004/4331757548_1f4ba07eba_d.jpg 400 'Click to view on Flickr: OS X Snow Leopard Mail SMTP' 'Screenshot showing OS X Snow Leopard Mail SMTP settings.' %}](http://www.flickr.com/photos/81796435@N00/4331757548)One thing that sharp users observed on Apple's forums was that newly-created Mail accounts were not experiencing the slowness to send, that upgraders were commonly experiencing. You _can_ export your mail, recreate your accounts and re-import everything, but another way to mimic creating a new account is to re-set SMTP credentials. It's a bit voodoo, but it seems to work. 
 
 
 
@@ -52,19 +55,19 @@ Mail keeps an index of your messages in a sqlite database, and you can "vacuum" 
 
 
 
-yourhost:~ youruser$ ls -lah ~/Library/Mail/Envelope\ Index 
+`yourhost:~ youruser$ ls -lah ~/Library/Mail/Envelope\ Index` 
 
 
-yourhost:~ youruser$ /usr/bin/sqlite3 ~/Library/Mail/Envelope\ Index vacuum;
+`yourhost:~ youruser$ /usr/bin/sqlite3 ~/Library/Mail/Envelope\ Index vacuum;`
 
 
-yourhost:~ youruser$ ls -lah ~/Library/Mail/Envelope\ Index 
+`yourhost:~ youruser$ ls -lah ~/Library/Mail/Envelope\ Index` 
 
 
 
 
 
-The bookend "ls" commands just show how large your Envelope Index is in megabytes, so you can see the before and after, when running the vacuum command. The middle sqlite3 command vacuums the index. For reference, recently vacuuming my mail envelope index required about 10 minutes, but reduced its size from about 70MB to about 40MB. 
+The bookend "`ls`" commands just show how large your Envelope Index is in megabytes, so you can see the before and after, when running the vacuum command. The middle sqlite3 command vacuums the index. For reference, recently vacuuming my mail envelope index required about 10 minutes, but reduced its size from about 70MB to about 40MB. 
 
 
 ### Run Cocktail
