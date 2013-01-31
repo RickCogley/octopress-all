@@ -25,10 +25,11 @@ So, if you are looking for "Rick R. Colgey" of eSolia and not finding him, that 
 {% blockquote %}
 Rick Cogley
 CEO, eSolia Inc. 
-<+81-3-6273-3510>
-<http://rick.cogley.info>
-<http://www.esolia.com> 
+[+81-3-6273-3510](+81-3-6273-3510)
+[http://rick.cogley.info](http://rick.cogley.info)
+[http://www.esolia.com](http://www.esolia.com)
 {% endblockquote %} 
+
 
 Sincerely,
 Rick Cogley

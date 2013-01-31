@@ -9,7 +9,7 @@ keywords: Problem,Voigtlander Color-Skopar 20mm SL II,nikon,Lens Cap
 tags: [Problem,Voigtlander Color-Skopar 20mm SL II,nikon,Lens Cap]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: Post on the Voightlander Color-Skopar lens cap problem, by Rick Cogley. 
+description: Post on the Voigtlander Color-Skopar lens cap problem, by Rick Cogley. 
 published: true
 ---
 

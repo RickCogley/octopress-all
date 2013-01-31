@@ -9,16 +9,15 @@ keywords: helpdesk,zendesk,japanese,software as a service,SaaS,pricing,software,
 tags: [helpdesk,zendesk,japanese,software as a service,SaaS,pricing,software,alternatives,helpdesk applications,processing,language]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on SaaS software that supports Japanese, by Rick Cogley. 
 published: true
+related_posts:
+  - {title: "How Not to Run a SaaS Helpdesk", url: "2010/05/21/how-not-to-run-a-saas-zendesk/"}
 ---
- 
 
+_After the [Zendesk Price Fiasco](http://rick.cogley.info/blog/index.php?id=376560998858713850) of 19 May 2010, where Zendesk are proposing to significantly raise prices for their SaaS helpdesk solution, I am confident many users are looking elsewhere. This is one of the pitfalls of a SaaS solution, wherein the provider achieves external investment, and subsequently bows to pressure from said investors to raise prices or otherwise change a model that was working. At least for we users._
 
-After the [Zendesk Price Fiasco](http://rick.cogley.info/blog/index.php?id=376560998858713850) of 19 May 2010, where Zendesk are proposing to significantly raise prices for their SaaS helpdesk solution, I am confident many users are looking elsewhere. This is one of the pitfalls of a SaaS solution, wherein the provider achieves external investment, and subsequently bows to pressure from said investors to raise prices or otherwise change a model that was working. At least for we users. 
-
-
-
+<!--more--> 
 
 In our case, the cost of Zendesk, while was higher than others, was justified because it _somewhat_ supported the Japanese mails my firm gets. I say somewhat because certain mails would cause Zendesk to have a fit, but that is mostly calmed down now. 
 
@@ -33,35 +32,10 @@ That being said, now that Zendesk has basically doubled their prices for us and 
 It is important to note, that there are several aspects to "supporting Japanese" some of which include: 
 
 
-
-
-
-
-
-
-
-User Interface
-
-
-
-
-Ability to Email in and out of the Helpdesk
-
-
-
-
-Ability to search
-
-
-
-
-Ability to store Japanese data
-
-
-
-
-
-
+* User Interface
+* Ability to Email in and out of the Helpdesk
+* Ability to search
+* Ability to store Japanese data
 
 
 
