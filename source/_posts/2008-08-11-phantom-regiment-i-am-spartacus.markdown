@@ -25,4 +25,4 @@ There was love, there was betrayal, there were changing loyalties, and there wer
 
 Regiment did drum corps fans proud this season with this show, and not only won the title, but the high percussion trophy as well on awesome-sounding Dynasty equipment. Congratulations to the 2008 Phantom Regiment members and staff. Paul Rennick, I'm so proud of you - please keep producing the awesome drumlines you have been, and let me keep reliving my youth! I will never forget this show! 
 
-{% raw %}<span class="alert alert-success">**I am Spartacus!**</span>{% endraw %}
+{% raw %}<span class="alert alert-success"><strong>I am Spartacus!</strong></span>{% endraw %}

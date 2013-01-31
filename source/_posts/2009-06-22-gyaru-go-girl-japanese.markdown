@@ -19,24 +19,17 @@ _**Mezamashi TV** broadcasted a segment on the lastest 'gyaru' (gal) language. I
 
 Here's the three slang words I remember: 
 
-{% raw %}<div class="alert alert-success">**ムカTK mukaTK** - mukatsuku, to be pissed off. </div>{% endraw %}
+{% raw %}<div class="alert alert-success"><strong>ムカTK mukaTK</strong> - mukatsuku, to be pissed off. </div>{% endraw %}
 
 The original's just as easy, ladies.
 
-{% raw %}<div class="alert alert-success">**モレる moreru** - um, to be dressed up, with your hair in a bun with cute accessories. </div>{% endraw %} 
+{% raw %}<div class="alert alert-success"><strong>モレる moreru</strong> - um, to be dressed up, with your hair in a bun with cute accessories. </div>{% endraw %} 
 
 Comes from "moritsukeru" to decorate. 
 
-{% raw %}<div class="alert alert-success">**シカメ shikame** - from shikato and meeru, ignore mail. To have blown off answering someone's text message. </div>{% endraw %}
+{% raw %}<div class="alert alert-success"><strong>シカメ shikame</strong> - from shikato and meeru, ignore mail. To have blown off answering someone's text message. </div>{% endraw %}
 
 I hear that a large percentage of schoolkids get _really stressed_ about "shikame".
-
-
-
-
-
-
-
 
 
 At any rate, remembering these is one thing, but using them is another, so remember this: if an "oyaji" (middle-aged guy) like me uses gyaru-go, he's **ostracized** by his daughters and subjected to the "**uzai**" label for all time. :-)
