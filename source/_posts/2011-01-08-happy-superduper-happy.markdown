@@ -4,18 +4,20 @@ post_title: "Happy, SuperDuper! Happy."
 date: 2011-01-08 03:01:33 UTC
 updated: 2011-01-08 03:01:33 UTC
 comments: true
-categories: [Blog-Cogley, Software, Technology, Troubleshooting, SysAdmin, Tips]
+categories: [Blog-Cogley, Troubleshooting, SysAdmin, Tips]
 keywords: Seagate Momentus XT,sparseimage,SuperDuper,Shirt Pocket,2011,Hard Drive Failure,Recovery,apple
 tags: [Seagate Momentus XT,sparseimage,SuperDuper,Shirt Pocket,2011,Hard Drive Failure,Recovery,apple]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on how SuperDuper software saved my bacon, by Rick Cogley.
 published: true
 ---
- 
 
+_My hard-working Macbook Pro, which I keep running pretty much 24x7 without a break, had a hard disk failure yesterday. The dead disk was inconsolable, and no amount of [Disk Utility](http://en.wikipedia.org/wiki/Disk_Utility) or [fsck](http://support.apple.com/kb/TS1417) or [Applejack](http://applejack.sourceforge.net/) would cure its ills. Here's what I did._
 
-[{% img right http://farm6.static.flickr.com/5083/5334859714_f815a488ec_m.jpg '' 'SuperDuper! Saves the Bacon' %}](http://www.flickr.com/photos/81796435@N00/5334859714 "View 'SuperDuper! Saves the Bacon' on Flickr.com")My hard-working Macbook Pro, which I keep running pretty much 24x7 without a break, had a hard disk failure yesterday. The dead disk was inconsolable, and no amount of [Disk Utility](http://en.wikipedia.org/wiki/Disk_Utility) or [fsck](http://support.apple.com/kb/TS1417) or [Applejack](http://applejack.sourceforge.net/) would cure its ills. I tried the usual boot-from-install-dvd-and-run-disk-utility, but _that_ did not work either, and the fact that I do a daily Cocktail run to keep things clean wasn't relevant - a dead disk is a dead disk. Then I remembered I had been taking a nightly scheduled backup with [Shirt Pocket](http://www.shirt-pocket.com)'s super-duper utility "**SuperDuper!**", and so a little manual reading later, I was able to get back up and running in a jiffy.
+<!--more--> 
+
+[{% img right http://farm6.static.flickr.com/5083/5334859714_f815a488ec_m.jpg '' 'SuperDuper! Saves the Bacon' %}](http://www.flickr.com/photos/81796435@N00/5334859714 "View 'SuperDuper! Saves the Bacon' on Flickr.com")I tried the usual boot-from-install-dvd-and-run-disk-utility, but _that_ did not work either, and the fact that I do a daily Cocktail run to keep things clean wasn't relevant - a dead disk is a dead disk. Then I remembered I had been taking a nightly scheduled backup with [Shirt Pocket](http://www.shirt-pocket.com)'s super-duper utility "**SuperDuper!**", and so a little manual reading later, I was able to get back up and running in a jiffy.
 
 
 ### Here's How I Restored a SuperDuper! Backup to a New Hard Disk
@@ -51,8 +53,6 @@ There were a couple of things to do after the restore.
 
 - Since SuperDuper! excludes the sparseimage from indexing, your restored drive will also be excluded. Just go into Spotlight preferences, and remove the Macintosh HD from the Privacy exclusion list. 
 
-
-
-So, in conclusion, that nightly backup via SuperDuper! to an external FireWire drive really saved my bacon! **_Kudos and thanks_**, Shirt Pocket!
+So, in conclusion, that nightly backup via SuperDuper! to an external FireWire drive really saved my bacon! **_Kudos and thanks_**, [Shirt Pocket](http://www.shirt-pocket.com)!
 
 
