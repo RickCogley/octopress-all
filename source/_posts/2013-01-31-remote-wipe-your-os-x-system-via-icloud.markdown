@@ -20,7 +20,7 @@ _Concerned about losing your Macbook Pro or Air at the airport or at a bar? You 
 
 <!--more--> 
 
-[{% img right http://farm9.staticflickr.com/8051/8431560460_63f417c9b5_d.jpg 300 'Click to view on Flickr: Prep for remote wipe of OS X System.' 'Screenshot of OS X iCloud remote wipe setup.' %}](http://www.flickr.com/photos/rickcogley/8431560460/)Apple has made it relatively simple to remotely wipe your Mac, in the same way that you can remote-wipe an iPhone or iPod. There are enterprise suites like Casper that give an advantage in a large environment, but for small business, using the included tools makes good sense. 
+[{% img right http://farm9.staticflickr.com/8051/8431560460_63f417c9b5_d.jpg 400 'Click to view on Flickr: Prep for remote wipe of OS X System.' 'Screenshot of OS X iCloud remote wipe setup.' %}](http://www.flickr.com/photos/rickcogley/8431560460/)Apple has made it relatively simple to remotely wipe your Mac, in the same way that you can remote-wipe an iPhone or iPod. There are enterprise suites like Casper that give an advantage in a large environment, but for small business, using the included tools makes good sense. 
 
 To prepare for remote OS X wiping via iCloud: 
 
@@ -32,7 +32,7 @@ To prepare for remote OS X wiping via iCloud:
 
 ### How to Remotely Wipe your Mac
 
-[{% img right http://farm9.staticflickr.com/8232/8430490733_837ab27325_d.jpg 300 'Click to view on Flickr: Remote wipe an OS X System via iCloud.' 'Screenshot of remote wiping a system via Apple iCloud.' %}](http://www.flickr.com/photos/rickcogley/8430490733/)Then if the unspeakable happened, and you lost your Mac and need to perform a remote wipe, here's how to do that: 
+[{% img right http://farm9.staticflickr.com/8232/8430490733_837ab27325_d.jpg 400 'Click to view on Flickr: Remote wipe an OS X System via iCloud.' 'Screenshot of remote wiping a system via Apple iCloud.' %}](http://www.flickr.com/photos/rickcogley/8430490733/)Then if the unspeakable happened, and you lost your Mac and need to perform a remote wipe, here's how to do that: 
 
 * In Safari, log into the [iCloud website](http://www.icloud.com), then click "Find my iPhone". 
 * Click the "Devices" button, and then click your Mac.
