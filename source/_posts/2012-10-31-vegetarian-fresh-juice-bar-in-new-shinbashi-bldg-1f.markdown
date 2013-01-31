@@ -6,15 +6,19 @@ date: 2012-10-31 08:15:20 UTC
 updated: 2012-10-31 08:15:20 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Health]
-keywords: Juice,Shinbashi,Vegetarian
-tags: [Juice, Shinbashi, Vegetarian]
+keywords: Juice,Shinbashi,Vegetarian,Fresh
+tags: [Juice, Shinbashi, Vegetarian, Fresh]
+description: Post on Shinbashi Vegetarian fresh juice bar, by Rick Cogley.
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+published: true
 ---
- 
 
+_The "Vegetarian" Fresh Juice Bar located in the New Shinbashi building 1st floor, has been in business for 40 years. It is worth a visit if you are in the area (Shinbashi station is just south of Tokyo station on the Yamanote line.)_
 
-[{% img right http://farm9.staticflickr.com/8471/8121272008_06f8bd18ec.jpg '' 'Shinbashi Vegetarian Juice Bar 20121025' %}](http://www.flickr.com/photos/81796435@N00/8121272008 "View 'Shinbashi Vegetarian Juice Bar 20121025' on Flickr.com")The "Vegetarian" Fresh Juice Bar located in the New Shinbashi building 1st floor, has been in business for 40 years. They have various types of juice, but everything is in Japanese, so you would be well served with some ability in it, or to bring a friend to help. Prices are reasonable at 300 to 700 JPY, with egg or veg-fruit sandwiches available cheaply for juice customers.
+<!--more--> 
 
-
+[{% img right http://farm9.staticflickr.com/8471/8121272008_06f8bd18ec.jpg '' 'Shinbashi Vegetarian Juice Bar 20121025' %}](http://www.flickr.com/photos/81796435@N00/8121272008 "View 'Shinbashi Vegetarian Juice Bar 20121025' on Flickr.com")Vegetarian juice bar has various types of juice, but everything is in Japanese, so you would be well served with some ability in it, or to bring a friend to help. Prices are reasonable at 300 to 700 JPY, with egg or veg-fruit sandwiches available cheaply for juice customers.
 
 
 Example juices - 
@@ -46,26 +50,13 @@ Example juices -
 
 ... and various others. Most of the juices have a bit of fruit in them, and they seem to be putting red grapefruit in with the parsley and kale juice. The "hard" yasai is 7 types of veg mixed together, and is veg only, and "harder to drink" according to the hardworking ladies of Vegetarian. 
 
-
-
-
- 
-
-
-
-
+{% raw %}<div class="alert alert-success">
 **Address** - New Shinbashi Bldg 1F, Shinbashi 2-16-1, Minato-ku, Tokyo 105-0004
-
-
-
 
 **Tel** - 03-3591-8676
 
-
-
-
 **Hours** - 7:30AM to 8:30PM M-F, 9:30AM to 19:00PM Sat.
-
+</div>{% endraw %}
 
 
 

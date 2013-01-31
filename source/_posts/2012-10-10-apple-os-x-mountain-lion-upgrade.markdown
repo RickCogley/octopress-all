@@ -4,20 +4,20 @@ post_title: "Apple OS X \"Mountain Lion\" Upgrade"
 date: 2012-10-10 06:24:59 UTC
 updated: 2012-10-10 06:24:59 UTC
 comments: true
-categories: [Blog-Cogley, Technology, Software, Upgrades]
+categories: [Blog-Cogley, Software, Upgrades]
 keywords: Mountain Lion,10.8,os x,apple
 tags: [Mountain Lion,10.8,os x,apple]
+description: Post on Apple OS X Mountain Lion Upgrade, by Rick Cogley.
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+published: true
 ---
- 
 
+_There is not much over-the-top wow about the OS X 10.8 "Mountain Lion" upgrade, and it seems like the small upgrade fee goes to more subtle changes this time around. The upgrade itself was uneventful, but took a while due to database changes in Mail and Calendar, which needed to convert._
 
-There is not much over-the-top wow about the OS X 10.8 "Mountain Lion" upgrade, and it seems like the small upgrade fee goes to more subtle changes this time around. The upgrade itself was uneventful, but took a while due to database changes in Mail and Calendar, which needed to convert.
-
-
-
+<!--more--> 
 
 As for functionality after the upgrade, here are a few things I found to be worth remembering - 
-
 
 - More apps that work with Retina displays. Personally, I am all for better displays, and am pleased with the Retina displays on both my MacBook Pro and iPad. There are some apps, such as Acrobat X which render fonts horribly on a Retina display, but Preview still works for displaying PDFs. I am hopeful for Acrobat XI.
 

@@ -10,7 +10,12 @@ categories: [SnapJapan, Japan]
 tags: [Snow, 2013, Totsuka, Yokohama]
 published: true
 ---
-Today was the first snow of 2013 here in Yokohama. Usually this area gets one or two days of snow per year, which is a big contrast from central or northern Japan, areas like Nagano where the Winter Olympic games were held. See the short YouTube video: 
+
+_Today was the first snow of 2013 here in Yokohama. Usually this area gets one or two days of snow per year, which is a big contrast from central or northern Japan, areas like Nagano where the Winter Olympic games were held._
+
+<!--more--> 
+
+See the short YouTube video I took of the snow in our front yard: 
 
 {% youtube pn_TlRtIHKI %}  
 

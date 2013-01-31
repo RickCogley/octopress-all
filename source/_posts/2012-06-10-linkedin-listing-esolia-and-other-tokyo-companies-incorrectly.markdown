@@ -5,14 +5,17 @@ date: 2012-06-10 01:19:46 UTC
 updated: 2012-06-10 01:19:46 UTC
 comments: true
 categories: [Blog-Cogley, Japan, Business, Service, Reviews, Troubleshooting]
-keywords: logic error,location,LinkedIn,search listing,bug,eSolia
-tags: [logic error,location,LinkedIn,search listing,bug,eSolia]
+keywords: logic error,location,LinkedIn,search listing,bug,eSolia,23 wards
+tags: [logic error,location,LinkedIn,search listing,bug,eSolia,23 wards]
+description: Post on eSolia and other Tokyo companies incorrectly listed in LinkedIn search, by Rick Cogley.
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+published: true
 ---
- 
 
+_I pointed this out to LinkedIn 10 days ago, but am getting nowhere with support who seems to think I will just let it drop hearing their platitudes, so I will post about the problem here in the hope that another company with a similar problem will join me in requesting a fix._
 
-I pointed this out to LinkedIn 10 days ago, but am getting nowhere with support who seems to think I will just let it drop hearing their platitudes, so I will post about the problem here in the hope that another company with a similar problem will join me in requesting a fix.
-
+<!--more--> 
 
 ### Linked-In has re-located us outside Tokyo...
 
