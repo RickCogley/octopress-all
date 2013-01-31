@@ -4,31 +4,23 @@ post_title: "New: \"Special Ops\" Backpack from KILLSPENCER"
 date: 2011-02-09 04:48:25 UTC
 updated: 2011-02-09 04:48:25 UTC
 comments: true
-categories: [Blog-Cogley, Personal, Reviews]
-keywords: Killspencer,Backpack,Military
-tags: [Killspencer,Backpack,Military]
+categories: [Blog-Cogley, Personal, Reviews, Gadgets]
+keywords: Killspencer,Backpack,Military,bag,rucksack
+tags: [Killspencer,Backpack,Military,bag,rucksack]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on new Killspencer Special Ops backpack, by Rick Cogley. 
 published: true
 ---
- 
 
+_After quite a bit of back-and-forth, since my Japan-based credit card and [Killspencer's](http://www.killspencer.com) card processing software were working together as well as oil and water, I finally got my [Special Ops backpack](http://killspencer.com/product.php?id_product=35) the other day. Killspencer's founder Spencer Nikosey was fantastic while working through the card issues, and he soon reported that the bag had been made and was being shipped, after about two weeks' lead time._
 
-[{% img right http://farm6.static.flickr.com/5296/5429359239_df550733a4_m.jpg '' 'Killspencer Special Ops Backpack 2011' %}](http://www.flickr.com/photos/81796435@N00/5429359239 "View 'Killspencer Special Ops Backpack 2011' on Flickr.com")After quite a bit of back-and-forth, since my Japan-based credit card and [Killspencer's](http://www.killspencer.com) card processing software were working together as well as oil and water, I finally got my [Special Ops backpack](http://killspencer.com/product.php?id_product=35) the other day. Killspencer's founder Spencer Nikosey was fantastic while working through the card issues, and he soon reported that the bag had been made and was being shipped, after about two weeks' lead time.
+<!--more--> 
 
-
-
-
-I wanted to buy a backpack not a brief, because I cycle to the station and back, and so welcome the stability, however I did not want to look like I was going to _mount an assault on Everest _(Dude, don't forget your crampons, and you got the pick-axe?), and, I wanted to get one that was sufficiently business-like that I would not be embarrassed to take it to a meeting. I wanted the pack to be a little lighter than what I was using, a [Crumpler Sinking Barge](http://rick.cogley.info/blog/index.php?id=8965010998905011777) backpack for a laptop and a medium size DSLR, but I wanted it to be more compact, because the ol' Barge is Bulbous. Really, really bulbous. I find myself making sheepish excuses for the Crumpler's girth - say, can I move this meeting table so I can fit my bag in the room? Uh, no.
-
-
+[{% img right http://farm6.static.flickr.com/5296/5429359239_df550733a4_m.jpg '' 'Killspencer Special Ops Backpack 2011' %}](http://www.flickr.com/photos/81796435@N00/5429359239 "View 'Killspencer Special Ops Backpack 2011' on Flickr.com")I wanted to buy a backpack not a brief, because I cycle to the station and back, and so welcome the stability, however I did not want to look like I was going to _mount an assault on Everest_ (Dude, don't forget your crampons, and you got the pick-axe?), and, I wanted to get one that was sufficiently business-like that I would not be embarrassed to take it to a meeting. I wanted the pack to be a little lighter than what I was using, a [Crumpler Sinking Barge](http://rick.cogley.info/blog/index.php?id=8965010998905011777) backpack for a laptop and a medium size DSLR, but I wanted it to be more compact, because the ol' Barge is Bulbous. Really, really bulbous. I find myself making sheepish excuses for the Crumpler's girth - say, can I move this meeting table so I can fit my bag in the room? Uh, no.
 
 
 Since I just need my 15" Macbook Pro, accessories, phone, wallet, and since I mostly carry the somewhat-compact Ricoh GXR camera, I thought there must be a smaller, slimmer, more compact backpack available _somewhere_. So, tenacious researcher that I am (er, anal retentive?), for a couple of months I researched. I looked at a _lot_ of bags in person and on line, including all the usual suspects like _Brenthaven, Tumi, Schlesinger, Samsonite, Tom Bihn, Spire_, various hand-made bags and some Japanese brands like _Manhattan Passage_ and _Porter_.
-
-
-
 
 I own or have owned the following:
 
@@ -86,8 +78,6 @@ First impressions over two days of use were these:
 
 ### A Couple Small Things
 
-
-
 There were a couple small challenges I am working through:
 
 
@@ -99,27 +89,14 @@ There were a couple small challenges I am working through:
 
 
 
- 
-
-
-
-
 I do get the irony of a decidedly non-military desk-jockey like me being attracted to this bag, steeped as it is in military terminology and history. But in the end, what I like about the KILLSPENCER approach is, the respect he has for both the modern "road warriors" who might buy this bag, and the real warriors in our military.
-
-
 
 
 Well, that is about it. I am really impressed with the bag, and like it a lot! Please see the photoset [here](http://www.flickr.com/photos/rickcogley/sets/72157626008300072).
 
 
-
-
 Hope this review helps someone.
 
-
-
-
- 
 
 
 

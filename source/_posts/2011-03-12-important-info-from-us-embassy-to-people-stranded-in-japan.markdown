@@ -5,21 +5,20 @@ date: 2011-03-12 09:33:31 UTC
 updated: 2011-03-12 09:33:31 UTC
 comments: true
 categories: [Blog-Cogley, Japan, Emergency, Disaster]
-keywords: Stranded,Earthquake,Refugee,Emergency,Emergencies,Disasters,Notification,Evacuation,ACCJ,US Embassy,japan,American Chamber of Commerce in Japan
-tags: [Stranded,Earthquake,Refugee,Emergency,Emergencies,Disasters,Notification,Evacuation,ACCJ,US Embassy,japan,American Chamber of Commerce in Japan]
+keywords: Stranded,Earthquake,Refugee,Emergency,Emergencies,Disasters,Notification,Evacuation,ACCJ,US Embassy,japan,American Chamber of Commerce in Japan,warden message
+tags: [Stranded,Earthquake,Refugee,Emergency,Emergencies,Disasters,Notification,Evacuation,ACCJ,US Embassy,japan,American Chamber of Commerce in Japan,warden message]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post re-publishing the information from the US Embassy via the ACCJ, by Rick Cogley. 
 published: true
 ---
- 
+
+_The American Chamber of Commerce sent this "warden message" from the US Embassy in Japan. Please forward._
+
+<!--more--> 
 
 
-The American Chamber of Commerce sent this message from the US Embassy in Japan. Please forward.
-
-
-> 
-
+{% blockquote %}
 **March 12, 2011  14:20**
 
 
@@ -171,6 +170,10 @@ For telephone inquiries, please call **202-501-4444 or 1-888-407-4747**.
 
 
 **US Embassy Tokyo**
+
+{% endblockquote %} 
+
+
 
 
 
