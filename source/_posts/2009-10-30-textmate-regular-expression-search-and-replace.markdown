@@ -4,17 +4,20 @@ post_title: "Textmate Regular Expression Search and Replace"
 date: 2009-10-30 03:30:40 UTC
 updated: 2009-10-30 03:30:40 UTC
 comments: true
-categories: [Blog-Cogley, Editor, productivity, software, textmate]
+categories: [Blog-Cogley, Software, Tips]
 keywords: Editor,productivity,software,textmate
 tags: [Editor,productivity,software,textmate]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on using Regular Expressions with TextMate, by Rick Cogley. 
 published: true
 ---
- 
 
-I use and love the text editor **Textmate**, which has some powerful functions. One thing that it can help with is quickly editing text files, and for example today I used it for searching lines in a mail system's "aliases" file. I wanted to remove 50-odd lines with the word _owner_ in them, so I used the Find command with Regular Expression checked. 
+_I use and love the text editor **Textmate**, which has some powerful functions including the use of regular expressions in search._ 
+
+<!--more--> 
+
+One thing that it can help with is quickly editing text files, and for example today I used it for searching lines in a mail system's "aliases" file. I wanted to remove 50-odd lines with the word _owner_ in them, so I used the Find command with Regular Expression checked. 
 
 
 The search string is: 
