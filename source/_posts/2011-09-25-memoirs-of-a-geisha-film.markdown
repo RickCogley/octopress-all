@@ -9,26 +9,21 @@ keywords: Reviews,culture,memoirs of a geisha,film,movie
 tags: [Reviews,culture,memoirs of a geisha,film,movie]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Memoirs of a Geisha film, by Rick Cogley. 
 published: true
 ---
- 
 
+_Hulu is finally available in Japan, for more money and with less content than in the US, but it is nice to be able to see even a limited amount of programming. It seems like they are releasing according to how much translation is done, however, I guess I'll take it._
 
-Hulu is finally available in Japan, for more money and with less content than in the US, but it is nice to be able to see even a limited amount of programming. It seems like they are releasing according to how much translation is done, however, I guess I'll take it.
-
-
-
+<!--more--> 
 
 One film that piqued my interest was "Memoirs of a Geisha", after having put off viewing it, having heard negative reviews. I thought it was well done, with lush visuals and a great attention to detail. There were a number of memorable scenes in the film, which really set the tone of longing of Chiyo / Sayuri, for the Chairman. The story was plausible, as it is well-known that destitute families sold off their daughters, at that time of our history.
-
-
 
 
 Several irritations or questions come to mind:
 
 
-- Taking nothing away from the three lovely and skilled Chinese and Malaysian leads, there are plenty of lovely, skilled Japanese actresses, so why not feature more of them? I know some of them speak English too. Kudos to the Japanese they _did_ cast. 
+- Taking nothing away from the three lovely and skilled Chinese and Malaysian leads, there are plenty of lovely, skilled Japanese actresses, so why not feature more of them? I know some of them speak English too. I'm grateful for the Japanese they _did_ cast. 
 
 - I read that there was a lot of controversy about the written Chinese kanji characters used for words that mean geisha, because they have different meanings in Japan and China. With all those Chinese speakers involved, you would think that that sort of thing would be vetted better. 
 
@@ -41,8 +36,6 @@ Several irritations or questions come to mind:
 - It is supposed to be set in Kyoto, so why not get the "background language" right, for the various conversations you can hear but are not part of the dialogue. Pretty clunky, and it had me thinking Edo, not Gion.
 
 - The musical score is vaguely Chinese-sounding, probably due to instrumentation. Perhaps they could have worked in a slightly more Japanese sound, though they certainly did use a lot of shakuhachi. 
-
-
 
 I think this could have been a master work, had they just taken the extra steps needed to apply just that extra one layer of polish. I am picky because I live here, but overall, I did like it.
 

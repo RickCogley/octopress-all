@@ -4,19 +4,20 @@ post_title: "Efficient Gmail with OS X Mail.app"
 date: 2012-01-08 13:03:11 UTC
 updated: 2012-01-08 13:03:11 UTC
 comments: true
-categories: [Blog-Cogley, Software, Technology, Troubleshooting, Productivity, Tips]
+categories: [Blog-Cogley, Troubleshooting, Efficiency, Tips]
 keywords: productivity,os x,Archive,gmail,Google Apps,Lion,apple
 tags: [productivity,os x,Archive,gmail,Google Apps,Lion,apple]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on setting up OS X Mail.app to work with Gmail, by Rick Cogley. 
 published: true
 ---
- 
 
+_Greetings and Happy New Year. I am using Mail.app on OS X Lion, to retrieve mail in my Google Apps for Business Gmail account, and I wanted to blog about my setup, because I think it is optimized and might help others._
 
-[{% img right http://farm8.staticflickr.com/7003/6530579107_ff553c075c_m.jpg '' '1000 Cranes - one by one effort' %}](http://www.flickr.com/photos/81796435@N00/6530579107 "View '1000 Cranes - one by one effort' on Flickr.com")Greetings and Happy New Year. I am using Mail.app on OS X Lion, to retrieve mail in my Google Apps for Business Gmail account, and I wanted to blog about my setup, because I think it is relatively efficient and might help others. My goals are:
+<!--more--> 
 
+[{% img right http://farm8.staticflickr.com/7003/6530579107_ff553c075c_m.jpg '' '1000 Cranes - one by one effort' %}](http://www.flickr.com/photos/81796435@N00/6530579107 "View '1000 Cranes - one by one effort' on Flickr.com")Let me start off with what my goals are:
 
 - To keep my inbox small, to allow Mail.app to perform well. This goes for any mailer, really. The larger the mail store, the slower it will get. 
 
@@ -25,8 +26,6 @@ published: true
 - To be able to have a backup of mail just in case, outside the mail client. 
 
 ### My Formula for Mail.app Gmail Efficiency
-
-
 
 Here is what I am doing:
 

@@ -4,18 +4,20 @@ post_title: "OS X 10.7 Lion and Lion Server Upgrade Notes"
 date: 2011-08-02 23:50:19 UTC
 updated: 2011-08-02 23:50:19 UTC
 comments: true
-categories: [Blog-Cogley, Technology, Software, Upgrades]
+categories: [Blog-Cogley, Software, Upgrades]
 keywords: Snow Leopard,10.7,os x,software,upgrade,Lion,apple
 tags: [Snow Leopard,10.7,os x,software,upgrade,Lion,apple]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on OS X 10.7 Lion and Lion Server upgrade notes, by Rick Cogley. 
 published: true
 ---
- 
 
+_In this post I will share my notes on the upgrade from OS X 10.6 "Snow Leopard" to 10.7 "Lion". This is not meant to be a comprehensive review but I hope someone can find some benefit in this information._
 
-In this post I will share my notes on the upgrade from OS X 10.6 "Snow Leopard" to 10.7 "Lion". This is not meant to be a comprehensive review but I hope someone can find some benefit in this information. I am an early adopter in most cases and a software lover (fanatic or addict might be a more appropriate adjective!), so I bit the bullet for this upgrade as soon as I could get it, knowing that I would be in for some trouble here or there. As for my background, I am a technologist mostly on the management side these days but do have a clue, and since I am not doing OS X or iOS development nor did I have time to read too much about Lion before the release, these notes represent fairly fresh eyes on the product.
+<!--more--> 
+
+I am an early adopter in most cases and a software lover (fanatic or addict might be a more appropriate adjective!), so I bit the bullet for this upgrade as soon as I could get it, knowing that I would be in for some trouble here or there. As for my background, I am a technologist mostly on the management side these days but do have a clue, and since I am not doing OS X or iOS development nor did I have time to read too much about Lion before the release, these notes represent fairly fresh eyes on the product.
 
 
 
@@ -214,13 +216,9 @@ Setting up notifications on the wiki was difficult, because apparently the wiki 
 
 
 
-
- 
-
-
 ## In Conclusion
 
-### <span style="font-weight: normal; font-size: medium;">I will add more as I discover. Hope this was helpful.</span>
+I will add more if and as I discover. Hope this was helpful.
 
 
 

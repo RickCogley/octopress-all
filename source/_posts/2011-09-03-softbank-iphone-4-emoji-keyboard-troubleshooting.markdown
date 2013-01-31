@@ -4,26 +4,22 @@ post_title: "Softbank iPhone 4 Emoji Keyboard Troubleshooting"
 date: 2011-09-03 02:41:12 UTC
 updated: 2011-09-03 02:41:12 UTC
 comments: true
-categories: [Blog-Cogley, Japan, Software, Mobile, Gadgets, Productivity, Troubleshooting]
+categories: [Blog-Cogley, Japan, Mobile, Gadgets, Troubleshooting]
 keywords: Problem,keyboard,iPhone,emoji,softbank
 tags: [Problem,keyboard,iPhone,emoji,softbank]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on Softbank iPhone 4 emoji troubleshooting, by Rick Cogley. 
 published: true
 ---
- 
 
+_My daughter came to me with an interesting problem with her iPhone, so I thought I would share what I learned and how I fixed the problem. The problem was, no matter what she did, the "emoji" (graphical emoticon icons) would not show up in her email app. I rarely use emoji except when emailing or texting my daughters, so I had to jump in and learn about it._
 
-[{% img right http://farm7.static.flickr.com/6187/6107940448_d52327d1e9_m.jpg '' 'Softbank iPhone emoji keyboard' %}](http://www.flickr.com/photos/81796435@N00/6107940448 "View 'Softbank iPhone emoji keyboard' on Flickr.com")My daughter came to me with an interesting problem with her iPhone, so I thought I would share what I learned and how I fixed the problem. The problem was, no matter what she did, the "emoji" (graphical emoticon icons) would not show up in her email app. I rarely use emoji except when emailing or texting my daughters, so I had to jump in and learn about it.
-
+<!--more--> 
 
 ### How to Fix the "Emoji Keyboard Does Not Appear in Mail" Problem on iPhone 4
 
-
-
-First, I wanted to define the problem:
-
+[{% img right http://farm7.static.flickr.com/6187/6107940448_d52327d1e9_m.jpg '' 'Softbank iPhone emoji keyboard' %}](http://www.flickr.com/photos/81796435@N00/6107940448 "View 'Softbank iPhone emoji keyboard' on Flickr.com")First, I wanted to define the problem:
 
 - When pressing the globe icon, the emoji keyboard does not appear but it should. You can long-press or repeatedly tap the globe to get the choices to appear and indeed, it does not. 
 
@@ -62,15 +58,10 @@ There is something in the code that controls how the emoji keyboard appears or n
 ### The Cause of All This Strife
 
 
-
 I believe the root cause of this problem is the automatic installer that Softbank recommends you use when setting up. When I logged in and tried setting up with it, it did not install correctly, failing to set SSL to ON, and I had to get in contact with Softbank about that one. I think that the installer also sets the main SMTP incorrectly, and is ultimately the reason so many people have this problem.
 
 
-
-
 Besides being extremely lazy about this, since their auto-installer does not work, Softbank engineers are thinking too much but not enough, and ultimately causing trouble for their customers. They are trying to "make it simple" by providing an automatic scripted solution for people to get set up, but as Apple surely knows, automation like that is one of the hardest things to do because you have to consider so many angles. Better to simply leave it up to the user to learn that: "emoji work only with email accounts that can read them" because they not only did not get the installer right, they ultimately caused a greater problem with emoji not working for many.
-
-
 
 
 I hope this little post helps someone out there with their emoji issues.

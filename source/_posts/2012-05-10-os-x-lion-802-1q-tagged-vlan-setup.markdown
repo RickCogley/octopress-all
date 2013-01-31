@@ -4,17 +4,18 @@ post_title: "OS X Lion 802.1q Tagged VLAN Setup"
 date: 2012-05-10 04:08:27 UTC
 updated: 2012-05-10 04:08:27 UTC
 comments: true
-categories: [Blog-Cogley, Software, Technology, SysAdmin, Tips]
+categories: [Blog-Cogley, Software, SysAdmin, Tips]
 keywords: system administration,vlan,10.7,technology,os x,802.1q,interface,Ethernet,tagged,osx,apple
 tags: [system administration,vlan,10.7,technology,os x,802.1q,interface,Ethernet,tagged,osx,apple]
+description: Post on OS X Lion 802.1q Tagged VLAN setup, by Rick Cogley.
+posticon: default
+cover: /images/Rick_Casual_01.jpg
+published: true
 ---
- 
 
+_Apple obviously works hard to make things as easy as possible for users, but sometimes in their zeal for simplicity, technical things that _should_ be represented simply in the GUI, are actually made more difficult and opaque._
 
-Apple obviously works hard to make things as easy as possible for users, but sometimes in their zeal for simplicity, technical things that _should_ be represented simply in the GUI, are actually made more difficult and opaque. 
-
-
-
+<!--more--> 
 
 One such example is setting up [802.1q VLANs](http://en.wikipedia.org/wiki/IEEE_802.1Q) in OS X Lion 10.7. In  System Preferences, Network, you can use the gear icon at the bottom of the interface list, to _Manage Virtual Interfaces,_ but you can only link a vlan you create there (or in the CLI) to the main Ethernet interface, and not to any secondary interface you create. However, it is indeed possible to create the vlan on the main interface, then give it the IP address you require. 
 
