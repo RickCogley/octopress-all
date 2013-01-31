@@ -29,7 +29,7 @@ Let's review how lines are terminated by default on Windows, Mac and Unix.
 
 There are a number of ready-made command line programs like `unix2dos`, `dos2unix`, `mac2dos`, `dos2mac` and so on, that can be used to convert line endings. Note that you can also use the tr or perl commands as well. `Tr` is available on Macs by default and on almost any unix. Perl is pretty ubiquitous as well. E.g:
 
-{% codeblock Line ending conversions lang:bash %}
+{% codeblock Line ending conversions lang:bat %}
 [root@server /path/to/files]# tr '\r' '\r\n' win-crlf-file.csv
 [root@server /path/to/files]# tr '\n' '\r\n' win-crlf-file.csv
 [root@server /path/to/files]# perl -pe 's/\r\n|\n|\r/\r\n/g' unix-lf-file.csv > win-crlf-file.csv
@@ -37,7 +37,7 @@ There are a number of ready-made command line programs like `unix2dos`, `dos2uni
 
 If you want to find out whether a file has the expected line terminators, you can use the `_file_` command on *nix or Mac. Here's what that looks like: 
 
-{% codeblock Using file command lang:console %}
+{% codeblock Using file command lang:bat %}
 [root@server /path/to/files]# file inputfile1.csv 
 inputfile1.csv: ASCII text, with CRLF line terminators
 [root@server /path/to/files]# file inputfile2.csv 
@@ -46,7 +46,7 @@ inputfile2.csv: ASCII text, with CR line terminators
 
 You can also use the cat command to show line endings, with its -e switch. Do a _man cat_ for more info, because you can also get line numbers, for instance. The first file below has CRLF, which shows up in cat's output as ^M$, and the second file has only a ^, which is equivalent to the Mac CR line ending only situation. What you need will depend upon the import program. 
 
-{% codeblock Using cat command lang:console %}
+{% codeblock Using cat command lang:bat %}
 [root@server /path/to/files]# cat -e inputfile1.csv
 Part,Cust,Price,StartDate,EndDate,Reason**^M$**
 123-ABC-456,CUST000001,100,6-01-2010,05-31-2011,Regular Update**^M$**
