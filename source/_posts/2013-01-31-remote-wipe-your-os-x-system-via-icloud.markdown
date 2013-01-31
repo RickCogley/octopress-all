@@ -30,6 +30,8 @@ To prepare for remote OS X wiping via iCloud:
 * Close System Preferences.
 * In Safari, log into the [iCloud website](http://www.icloud.com), then in "Find my iPhone", confirm you can see your Mac on the map. Click the "Devices" button to see a list. 
 
+### How to Remotely Wipe your Mac
+
 [{% img right http://farm9.staticflickr.com/8232/8430490733_837ab27325_d.jpg 300 'Click to view on Flickr: Remote wipe an OS X System via iCloud.' 'Screenshot of remote wiping a system via Apple iCloud.' %}](http://www.flickr.com/photos/rickcogley/8430490733/)Then if the unspeakable happened, and you lost your Mac and need to perform a remote wipe, here's how to do that: 
 
 * In Safari, log into the [iCloud website](http://www.icloud.com), then click "Find my iPhone". 
@@ -38,7 +40,7 @@ To prepare for remote OS X wiping via iCloud:
 
 I did not try this yet (luckily I have not had to), and it goes without saying that you must have good backups in case you need to perform a drastic step such as remote-wiping your system. For your reference, I use these systems for my backups: 
 
-* [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - I use the [Godsend SuperDuper!](/articles/2011/01/08/happy-superduper-happy/) to take a nightly backup to a direct-connected Thunderbolt drive. 
+* [SuperDuper!](http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - I use the Godsend [SuperDuper!](/articles/2011/01/08/happy-superduper-happy/) to take a nightly backup to a direct-connected Thunderbolt drive. 
 * [Arq](http://www.haystacksoftware.com/arq/) - Arq backs up certain folders on my system incrementally to Amazon S3 and Glacier. Both of these options are inexpensive, but backups to S3 are immediately accessible, whereas backups to Glacier require you to wait a few yours for restoration. 
 * iCloud - I back up my iPhone and certain OS files, like bookmarks, to iCloud. 
 * DropBox - I use DropBox for backup of certain file types, that I feel comfortable putting on a cloud system. 
