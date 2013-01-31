@@ -51,12 +51,17 @@ Example juices -
 ... and various others. Most of the juices have a bit of fruit in them, and they seem to be putting red grapefruit in with the parsley and kale juice. The "hard" yasai is 7 types of veg mixed together, and is veg only, and "harder to drink" according to the hardworking ladies of Vegetarian. 
 
 {% raw %}<div class="alert alert-success">
-**Address** - New Shinbashi Bldg 1F, Shinbashi 2-16-1, Minato-ku, Tokyo 105-0004
-
-**Tel** - 03-3591-8676
-
-**Hours** - 7:30AM to 8:30PM M-F, 9:30AM to 19:00PM Sat.
-</div>{% endraw %}
+<p>
+<strong>Address</strong> - New Shinbashi Bldg 1F, Shinbashi 2-16-1, Minato-ku, Tokyo 105-0004
+</p>
+<p>
+<strong>Tel</strong> - 03-3591-8676
+</p>
+<p>
+<strong>Hours</strong> - 7:30AM to 8:30PM M-F, 9:30AM to 19:00PM Sat.
+</p>
+</div>
+{% endraw %}
 
 
 
