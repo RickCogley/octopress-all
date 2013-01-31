@@ -9,52 +9,27 @@ keywords: Proofreading,Mistake,Correction,Rick R. Colgey,Eurobiz
 tags: [Proofreading,Mistake,Correction,Rick R. Colgey,Eurobiz]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Correction - my name is Rick Cogley not Rick R. Colgey, by Rick Cogley. 
 published: true
 ---
- 
+
+_I just noticed that **Eurobiz Japan** inanely published my article on _Interim IT Management Services_ in their May 2010 issue under the name "Rick R. Colgey". Aw, come on!_
+
+<!--more--> 
+
+The Eurobiz editors took the time to painstakingly "correct" my American spelling during proofreading, then got my name wildly incorrect in the article. Thanks a bunch, folks. `</sarcasm>`
 
 
-I just noticed that **Eurobiz Japan** inanely published my article on _Interim IT Management Services_ in their May 2010 issue under the name "Rick R. Colgey". They took the time to painstakingly "correct" my American spelling during proofreading, then got my name wildly incorrect in the article. Thanks a bunch, folks. 
+So, if you are looking for "Rick R. Colgey" of eSolia and not finding him, that would be me. Please see the contacts below, with details on my [about](/about/) page. 
 
-
-
-
-So, if you are looking for "Rick R. Colgey" of eSolia and not finding him, that would be me. Please see the contacts below.
-
-
-
-
-> 
-
-
-
-
+{% blockquote %}
 Rick Cogley
-
-
-
-
-CEO, eSolia Inc.
-
-
-
-
-http://rick.cogley.info
-
-
-
-
-http://www.esolia.com 
-
-
-
-
-
-
-
-
+CEO, eSolia Inc. 
+<+81-3-6273-3510>
+<http://rick.cogley.info>
+<http://www.esolia.com> 
+{% endblockquote %} 
 
 Sincerely,
-
+Rick Cogley
 
