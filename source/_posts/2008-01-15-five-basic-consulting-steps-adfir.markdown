@@ -4,7 +4,7 @@ post_title: "Five Basic Consulting Steps - ADFIR"
 date: 2008-01-15 08:36:20 UTC
 updated: 2008-01-15 08:36:20 UTC
 comments: true
-categories: [Blog-Cogley, Management, Professional]
+categories: [Blog-Cogley, Process, Professional]
 keywords: adfir,management,article,consulting
 tags: [adfir,management,article,consulting]
 posticon: default

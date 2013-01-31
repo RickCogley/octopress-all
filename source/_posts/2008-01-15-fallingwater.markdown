@@ -4,7 +4,7 @@ post_title: "FallingWater"
 date: 2008-01-15 08:36:31 UTC
 updated: 2008-01-15 08:36:31 UTC
 comments: true
-categories: [Blog-Cogley, leisure, fallingwater, frank lloyd wright]
+categories: [Blog-Cogley, Design, Places, Popular]
 keywords: leisure,fallingwater,frank lloyd wright
 tags: [leisure,fallingwater,frank lloyd wright]
 posticon: default

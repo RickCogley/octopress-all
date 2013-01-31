@@ -4,7 +4,7 @@ post_title: "Corrupt Apple Leopard Server Open Directory Services"
 date: 2009-10-15 13:24:33 UTC
 updated: 2009-10-15 13:24:33 UTC
 comments: true
-categories: [Blog-Cogley, LDAP, Open Directory, tips, software, Troubleshooting, apple]
+categories: [Blog-Cogley, Tips, SysAdmin]
 keywords: LDAP,Open Directory,tips,software,Troubleshooting,apple
 tags: [LDAP,Open Directory,tips,software,Troubleshooting,apple]
 posticon: default
