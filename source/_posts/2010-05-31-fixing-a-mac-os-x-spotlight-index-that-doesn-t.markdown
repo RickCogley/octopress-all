@@ -45,7 +45,7 @@ I use the excellent [Cocktail](http://www.maintain.se/cocktail) for this but you
 
 Using Terminal, use launchctl to unload the indexer by controlling the appropriate launchd command, use mdutil to turn off indexing for the root folder (the /) of the local hard drive, use rm to delete the index itself (.Spotlight-V100 in the root of the drive), and finally trash Spotlight's plist. 
 
-{% codeblock Preparing the Index lang:bash %}
+{% codeblock Preparing the Index lang:console %}
 [user@system]$  sudo bash
 Password: *******
 [root@system]# launchctl unload -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plist
@@ -71,7 +71,7 @@ The system will take a while to get into Safe Mode. After you press and hold Shi
 
 Again in Terminal, issue some commands to rebuild. 
 
-{% codeblock Safe Mode Index Rebuild of the Index lang:bash %}
+{% codeblock Safe Mode Index Rebuild of the Index lang:console %}
 [user@system]$ sudo bash
 Password: *******
 [root@system]# launchctl load -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plist
@@ -90,7 +90,7 @@ There are a few things you can do to observe and confirm Spotlight's activities,
 
 Check the size of the Spotlight index using du (directory usage):
 
-{% codeblock Check Directory Size lang:bash %}
+{% codeblock Check Directory Size lang:console %}
 [root@system]# du -hsc /.Spot*
 1.1G/.Spotlight-V100
 1.1Gtotal
@@ -100,7 +100,7 @@ Note that this should be a fairly large file. If it is only a megabyte or so, so
 
 Check Spotlight-related processes with ps (process lister):
 
-{% codeblock Check Processes lang:bash %}
+{% codeblock Check Processes lang:console %}
 [root@system]# ps axcru |sed '1p;/ md/!d'
 USER       PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
 root       352   0.0  2.8  3696728 117196   ??  Ss    8:44AM  24:25.73 mds
@@ -110,7 +110,7 @@ rcogley   6664   0.0  1.2  2638620  48240   ??  SNs   3:19AM   0:02.95 mdworker
 
 Check index status with mdutil:
 
-{% codeblock Check index status lang:bash %}
+{% codeblock Check index status lang:console %}
 [root@system]# mdutil -as
 /:
 Indexing enabled. 
@@ -126,20 +126,20 @@ Indexing enabled.
 
 List open files in /System/Library related to Spotlight, using lsof (list open files):
 
-{% codeblock Check open files lang:bash %}
+{% codeblock Check open files lang:console %}
 [root@system]# lsof -c md |grep -v /System/Library |grep -v Spotlight
 {% endcodeblock %} 
 
 Get general system information with df and diskutil: 
 
-{% codeblock Check general system info lang:bash %}
+{% codeblock Check general system info lang:console %}
 [root@system]# df -lh
 [root@system]# diskutil info /
 {% endcodeblock %} 
 
 Show commands you have entered in the bash shell:
 
-{% codeblock Check index status lang:bash %}
+{% codeblock Check index status lang:console %}
 [root@system]# history
 {% endcodeblock %} 
 

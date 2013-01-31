@@ -21,7 +21,7 @@ Assuming OS X 10.5.5 and that all your mail is already up on the server, first, 
 
 Next, shut down Mail.app, to get it to release the folder we'll now work on. Then bring up a Terminal, `cd` into the appropriate IMAP folder and confirm and delete the contents using the `rm` command (again, this assumes you have the mail up on the server already): 
 
-{% codeblock Delete Inbox in Preparation for Re-Download lang:bash %}
+{% codeblock Delete Inbox in Preparation for Re-Download lang:console %}
 [user@system]$ cd ~/Library/Mail/
 [user@system]$ ls -la
 [user@system]$ cd IMAP-myaccount@mailhost.mydomain.com
@@ -32,7 +32,7 @@ Next, shut down Mail.app, to get it to release the folder we'll now work on. The
 
 Before you delete, check what is in there using the `ls` command, and the size of the folders using the `du` command:
 
-{% codeblock Use du to get folder sizes lang:bash %}
+{% codeblock Use du to get folder sizes lang:console %}
 rcogley@RickMBP ~/Library/Mail/V2 % du -hsc *
 2.2G	IMAP-rcogley_work@mail.webfaction.com
  15G	IMAP-rick.cogley@imap.gmail.com

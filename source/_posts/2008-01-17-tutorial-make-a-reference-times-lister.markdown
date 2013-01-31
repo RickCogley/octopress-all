@@ -27,7 +27,7 @@ First, start Automator, and save the Automator workflow as "Timezone List to Cli
 
 Next set the Shell to "/bin/bash", and paste the following code into the text box:
 
-{% codeblock Timezone Lister Shell Snippet lang:bash /source/downloads/code/timezone_lister_shell_snip_for_automator.sh Download Shell Snippet %}
+{% codeblock Timezone Lister Shell Snippet lang:console /source/downloads/code/timezone_lister_shell_snip_for_automator.sh Download Shell Snippet %}
 echo == Reference Times ==
 echo -e "Tokyo - \t" `TZ=Asia/Tokyo date "+%Z (%z) %R %a %e %b %Y";`
 echo -e "Hong Kong - \t" `TZ=Hongkong date "+%Z (%z) %R %a %e %b %Y";`
