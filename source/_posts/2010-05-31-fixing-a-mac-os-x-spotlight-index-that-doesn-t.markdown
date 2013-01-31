@@ -45,16 +45,16 @@ I use the excellent [Cocktail](http://www.maintain.se/cocktail) for this but you
 
 Using Terminal, use launchctl to unload the indexer by controlling the appropriate launchd command, use mdutil to turn off indexing for the root folder (the /) of the local hard drive, use rm to delete the index itself (.Spotlight-V100 in the root of the drive), and finally trash Spotlight's plist. 
 
-{% codeblock Preparing the Index lang:terminal %}
-$ sudo bash
+{% codeblock Preparing the Index lang:bash %}
+[user@system]$  sudo bash
 Password: *******
-# launchctl unload -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plist
-# mdutil -i off -E /
-# cd /
-# rm -rf .Spotlight-V100
-# rm -rf ~/Library/Preferences/com.apple.spotlight.plist 
-# exit
-$
+[root@system]# launchctl unload -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plist
+[root@system]# mdutil -i off -E /
+[root@system]# cd /
+[root@system]# rm -rf .Spotlight-V100
+[root@system]# rm -rf ~/Library/Preferences/com.apple.spotlight.plist 
+[root@system]# exit
+[user@system]$
 {% endcodeblock %} 
 
 To explain, note the sudo bash and exit lines, bookending the procedure. This gets you a root prompt (the #) after you enter the admin password and then exits the root prompt at the end (returning to the $ prompt). You can also use sudo before every command, to be extra safe. 
@@ -71,15 +71,15 @@ The system will take a while to get into Safe Mode. After you press and hold Shi
 
 Again in Terminal, issue some commands to rebuild. 
 
-{% codeblock Safe Mode Index Rebuild of the Index lang:terminal %}
-$ sudo bash
+{% codeblock Safe Mode Index Rebuild of the Index lang:bash %}
+[user@system]$ sudo bash
 Password: *******
-# launchctl load -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plist
-# mdutil -i on -E /
+[root@system]# launchctl load -w /System/Library/LaunchDaemons/com.apple.metadata.mds.plist
+[root@system]# mdutil -i on -E /
 /:
 Indexing enabled.
-# exit
-$
+[root@system]# exit
+[user@system]$
 {% endcodeblock %} 
 
 After a few minutes you should see the Spotlight icon start to pulsate, but this time, the "Calculating Indexing Time" should change to some value, and a blue progress bar, which means the indexing is actually working. You can restart into regular mode, and the indexing just picked up where it left off, for me. However, do not connect any additional drives until it is done indexing the main drive.
@@ -90,8 +90,8 @@ There are a few things you can do to observe and confirm Spotlight's activities,
 
 Check the size of the Spotlight index using du (directory usage):
 
-{% codeblock Check Directory Size lang:terminal %}
-# du -hsc /.Spot*
+{% codeblock Check Directory Size lang:bash %}
+[root@system]# du -hsc /.Spot*
 1.1G/.Spotlight-V100
 1.1Gtotal
 {% endcodeblock %} 
@@ -100,18 +100,18 @@ Note that this should be a fairly large file. If it is only a megabyte or so, so
 
 Check Spotlight-related processes with ps (process lister):
 
-{% codeblock Check Processes lang:terminal %}
-# ps axcru |sed '1p;/ md/!d'
+{% codeblock Check Processes lang:bash %}
+[root@system]# ps axcru |sed '1p;/ md/!d'
 USER       PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
 root       352   0.0  2.8  3696728 117196   ??  Ss    8:44AM  24:25.73 mds
-_spotlight  6677   0.0  0.2  2532748  10292   ??  SNs   3:19AM   0:00.33 mdworker
+ _spotlight  6677   0.0  0.2  2532748  10292   ??  SNs   3:19AM   0:00.33 mdworker
 rcogley   6664   0.0  1.2  2638620  48240   ??  SNs   3:19AM   0:02.95 mdworker
 {% endcodeblock %} 
 
 Check index status with mdutil:
 
-{% codeblock Check index status lang:terminal %}
-# mdutil -as
+{% codeblock Check index status lang:bash %}
+[root@system]# mdutil -as
 /:
 Indexing enabled. 
 /Volumes/COGLEY-WD:
@@ -126,21 +126,21 @@ Indexing enabled.
 
 List open files in /System/Library related to Spotlight, using lsof (list open files):
 
-{% codeblock Check open files lang:terminal %}
-# lsof -c md |grep -v /System/Library |grep -v Spotlight
+{% codeblock Check open files lang:bash %}
+[root@system]# lsof -c md |grep -v /System/Library |grep -v Spotlight
 {% endcodeblock %} 
 
 Get general system information with df and diskutil: 
 
-{% codeblock Check general system info lang:terminal %}
-# df -lh
-# diskutil info /
+{% codeblock Check general system info lang:bash %}
+[root@system]# df -lh
+[root@system]# diskutil info /
 {% endcodeblock %} 
 
 Show commands you have entered in the bash shell:
 
-{% codeblock Check index status lang:terminal %}
-# history
+{% codeblock Check index status lang:bash %}
+[root@system]# history
 {% endcodeblock %} 
 
 Note that if you use an alternative shell like fish, some of the above commands will not work. From fish, just do sudo bash to get a bash-based root prompt. Be sure also to check the Console GUI application in /Applications/Utilities. This will show crash information for the mdworker program, which may give you hints to what is going on. 

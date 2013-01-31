@@ -19,10 +19,10 @@ _The default Leopard screen sharing app can be made a little more ARD-like, if y
 
 You can enable Screen Sharing on a machine in System Preferences, Sharing. To add the extra settings, first, open Terminal from your Applications, Utilities folder, then issue the following three commands (each is a single line):
 
-{% codeblock Defaults Write for Screen Sharing Extensions lang:terminal %}
-defaults write com.apple.ScreenSharing ShowBonjourBrowser_Debug 1
-defaults write com.apple.ScreenSharing 'NSToolbar Configuration ControlToolbar' -dict-add 'TB Item Identifiers' '(Scale,Control,Share,Curtain,Capture,FullScreen,GetClipboard,SendClipboard,Quality)'
-defaults write com.apple.ScreenSharing 'TB Is Shown' 1
+{% codeblock Defaults Write for Screen Sharing Extensions lang:bash %}
+[user@system ~]$ defaults write com.apple.ScreenSharing ShowBonjourBrowser_Debug 1
+[user@system ~]$ defaults write com.apple.ScreenSharing 'NSToolbar Configuration ControlToolbar' -dict-add 'TB Item Identifiers' '(Scale,Control,Share,Curtain,Capture,FullScreen,GetClipboard,SendClipboard,Quality)'
+[user@system ~]$ defaults write com.apple.ScreenSharing 'TB Is Shown' 1
 {% endcodeblock %}
 
 You will now be able to open Screen Sharing and see local computers on your network that can be controlled, and, there are some additional buttons to use related to scaling, curtaining (display blackout), clipboard, quality (set to low quality for faster response) and screen capture.

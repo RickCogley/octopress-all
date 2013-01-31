@@ -19,7 +19,7 @@ _If you are logged into OS X as usual, you can get your system version from "Abo
 
 You can get OS X's version from the command line, like this:
 
-{% codeblock Get Version of OS X lang:terminal %}
+{% codeblock Get Version of OS X lang:bash %}
 rcogley@RickMBP ~ % sw_vers
 ProductName:	Mac OS X
 ProductVersion:	10.8.2
