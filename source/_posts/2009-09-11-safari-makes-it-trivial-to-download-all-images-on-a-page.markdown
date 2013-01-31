@@ -17,33 +17,17 @@ _Of course it should not be used for nefarious purposes, but Apple's Safari brow
 
 <!--more--> 
 
-[](http://www.flickr.com/photos/81796435@N00/3908022113 "View 'Download All Images or Files in Safari Page' on Flickr.com")I had [The Logo Factory](http://www.thelogofactory.com) create a special logo for my company eSolia's 10th anniversary, and they prepared a page with the deliverables on it. I did not want to download each one individually, and I remembered that the Safari Activities window allows you to access the objects on a page directly, such as various file attachments on a page. 
+[{% img right http://farm4.staticflickr.com/3265/3908022113_5e52255079_d.jpg 400 'Click to view on Flickr: Download All Images or Files in Safari Page' 'Screenshot of Download All Images or Files in Safari Page.' %}](http://www.flickr.com/photos/81796435@N00/3908022113)I had [The Logo Factory](http://www.thelogofactory.com) create a special logo for my company eSolia's 10th anniversary, and they prepared a page with the deliverables on it. I did not want to download each one individually, and I remembered that the Safari Activities window allows you to access the objects on a page directly, such as various file attachments on a page. 
 
 
 ### O' Sensei of Safari, How Do We Achieve this Magic?
 
-
-
 You can use Safari's Activity and Downloads windows, both available in the Window menu in Safari, in this way: 
 
-
-
-
-
-Browse the page you want to download from, then open Activity from the Window menu.
-
-
-Find the page among the other pages if you have multiple tabs open. Use the disclosure triangle to open the outline of the objects on the page.
-
-
-Find and select your download targets. Press Cmd-C to copy to clipboard.
-
-
-Display the Downloads dialog, also available in the Window menu, then paste into it. Cmd-v.
-
-
- 
-
+1. Browse the page you want to download from, then open Activity from the Window menu.
+1. Find the page among the other pages if you have multiple tabs open. Use the disclosure triangle to open the outline of the objects on the page.
+1. Find and select your download targets. Press Cmd-C to copy to clipboard.
+1. Display the Downloads dialog, also available in the Window menu, then paste into it. Cmd-v.
 
 You should see the images or files start to download in the Downloads window. I hope this is helpful to someone. 
 

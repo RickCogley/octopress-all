@@ -17,28 +17,17 @@ _Is Directory Utility, which has been available in /Applications/Utilities, miss
 
 <!--more--> 
 
-No, it's just been moved to _Core Services_. Access it this way: 
+[{% img right http://farm4.staticflickr.com/3482/3902386044_ba39c0c7f3_d.jpg 400 'Click to view on Flickr: TITLE' 'ALTDESCN.' %}](http://www.flickr.com/photos/81796435@N00/3902386044) No, it's just been moved to _Core Services_. Access it this way: 
 
+* Open Apple Menu, System Preferences.
 
+* Enter Accounts, clicking the lock to authenticate as needed.
 
-[](http://www.flickr.com/photos/81796435@N00/3902386044 "View 'Snow Leopard Directory Utility Hidden' on Flickr.com")
+* Click Login Options at the bottom of the accounts list.
 
-Open Apple Menu, System Preferences.
+* Click Edit, to the right of "Network Account Server."
 
-
-Enter Accounts, clicking the lock to authenticate as needed.
-
-
-Click Login Options at the bottom of the accounts list.
-
-
-Click Edit, to the right of "Network Account Server."
-
-
-Click Open Directory Utility.
-
-
-
+* Click Open Directory Utility.
 
 
 You use Directory Utility to connect to Active Directory, Open Directory, or other LDAP servers. 
