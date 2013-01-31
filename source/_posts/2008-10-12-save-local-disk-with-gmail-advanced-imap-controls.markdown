@@ -29,7 +29,7 @@ At any rate, here's how to enable Advanced IMAP Controls:
 [{% img right http://farm4.static.flickr.com/3015/2934286100_9ff0e98cf0_m.jpg 300 'Click to view on Flickr: Google Labs - Configuring Gmail I.M.A.P. Folder Syncing' 'Screenshot showing Google Labs - Configuring Gmail I.M.A.P. Folder Syncing.' %}](http://www.flickr.com/photos/81796435@N00/2934286100)
 You can easily delete your local copy of the All Mail folder from Terminal. Use the sudo command to run a bash shell within your shell, and feed the password prompt your administrator password. You can check the size of the various folders using du, and rm -rf to force-delete the folder. Exit will get you out of the sudo'ed bash prompt and back to your normal prompt. 
 
-{% codeblock Cleaning up IMAP lang:bash %}
+{% codeblock Cleaning up IMAP lang:terminal %}
 jrc $ cd ~/Library/Mail/IMAP-rick.cogley\@imap.gmail.com/[Gmail]
 jrc $ sudo bash
 Password: *********

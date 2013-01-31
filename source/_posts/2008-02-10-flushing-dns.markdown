@@ -19,12 +19,12 @@ _When accessing websites or mailservers, your DNS resolver caches the request so
 
 Here are some command line commands for flushing the DNS cache on your local machine:
 
-{% codeblock Flush DNS on OS X lang:bash %}
+{% codeblock Flush DNS on OS X lang:terminal %}
 rcogley@RickMBP-Tiger ~ % lookupd -flushcache
 rcogley@RickMBP-Leopard+ ~ % dscacheutil -flushcache
 {% endcodeblock %} 
 
-{% codeblock Flush DNS on Windows lang:bash %}
+{% codeblock Flush DNS on Windows lang:terminal %}
 rcogley@win01 $> ipconfig /flushdns
 {% endcodeblock %} 
 
