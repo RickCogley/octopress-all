@@ -33,7 +33,7 @@ Not good. Never fear, though.
 
 First, don't panic. Apple's forums show you can use "slapd -Tt" to check the configuration. 
 
-{% codeblock TITLEOFBLOCK lang:console %}
+{% codeblock Check the Config lang:console %}
 myhost:~ administrator$ sudo bash
 Password: ********
 bash-3.2# /usr/libexec/slapd -Tt
@@ -53,7 +53,7 @@ slap_startup failed (test would succeed using the -u switch)
 
 The "run recovery" here means to run the db_recovercommand (a.k.a. slapd_db_recoveron other *nix LDAPs). Use the -v switch to make the result verbose. 
 
-{% codeblock TITLEOFBLOCK lang:console %}
+{% codeblock Recover OD lang:console %}
 bash-3.2# db_recover-v -h /var/db/openldap/openldap-
 openldap-data/  openldap-slurp/ 
 bash-3.2# db_recover -v -h /var/db/openldap/openldap-data/
@@ -66,7 +66,7 @@ db_recover: Maximum transaction ID 80000225 Recovery checkpoint [6][4190936]
 
 Ah, that looked nice. Then run slapd -Tt again to test, and if all is well, exit out of the sudo'ed bash shell. 
 
-{% codeblock TITLEOFBLOCK lang:console %}
+{% codeblock Check the Config lang:console %}
 bash-3.2# /usr/libexec/slapd -Tt
 overlay_config(): warning, overlay "dynid" already in list
 overlay_config(): warning, overlay "dynid" already in list
