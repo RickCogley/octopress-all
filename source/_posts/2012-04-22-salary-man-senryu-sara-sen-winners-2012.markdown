@@ -17,7 +17,7 @@ _**Dai-ichi Life Insurance** announced their latest _Sarariiman Senryuu_ (Salari
 
 <!--more--> 
 
-In this sara-sen competition, people submit and vote on the best humorous _senryu_ that come from the daily life of salaried workers and the news. Senryu are like Haiku but are about human life rather than nature, and have the same familiar haiku cadence of 5, 7, then 5 syllables. Let's look at some of the _sara-sen_ this year, with my annotations and a shot at translations:
+In this sara-sen competition, people submit and vote on the best humorous _senryu_ that come from the daily life of salaried workers and the news.	 Senryu are like Haiku but are about human life rather than nature, and have the same familiar haiku cadence of 5, 7, then 5 syllables. Let's look at some of the _sara-sen_ this year, with my annotations and a shot at translations:
 
 
 
