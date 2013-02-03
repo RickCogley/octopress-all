@@ -15,7 +15,7 @@
 
 	{% if has_date != '0' %}
 	  	<time datetime="{{ date | datetime | date_to_xmlschema }}">
-	  		on {{ date_formatted | date: "%d %b" }}, {{ date_formatted | date: "%Y" }}
+	  		on {{ page.date_formatted }}
 		</time>
 	{% endif %}
 
