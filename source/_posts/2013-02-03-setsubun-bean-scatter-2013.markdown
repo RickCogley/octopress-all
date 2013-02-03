@@ -3,7 +3,7 @@ layout: post
 post_title: "Setsubun Bean Scatter 2013"
 posticon: video
 cover: /images/Rick_Casual_01.jpg
-date: 2013-02-01 21:04
+date: 2013-02-03 21:04
 comments: true
 description: Youtube video from Rick Cogley showing the setsubun bean scatter festival in 2013.
 keywords: Yokohama, Setsubun, Bean, Mamemaki, Lucky, Oni, Devil, 2013, 大豆, 節分, 豆まき, 鬼は外, 福は内
