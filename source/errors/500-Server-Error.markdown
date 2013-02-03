@@ -8,4 +8,4 @@ footer: true
 
 ###Uh Oh###
 
-The server threw a fit and gave an error. We hope it settles down soon. 
+Thanks for your visit. The server threw a fit and gave an error. We hope it settles down soon. 
