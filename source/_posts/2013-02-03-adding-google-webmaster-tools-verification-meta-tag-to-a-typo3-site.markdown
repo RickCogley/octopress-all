@@ -34,10 +34,7 @@ First log into the backend of your TYPO3 site as an admin. Then,
 Now on the Google Webmaster Tools side, you can click verify, and it should succeed if you entered the code correctly. Even after you verify, leave the tag in, because Google will revisit the site from time to time to check. 
 
 {% raw %}
-<span class="alert alert-info">
-<p><strong>N.b.</strong>- we added two codes, one for each of the domains our TYPO3 site is servicing,</p>
-<p>and it has worked fine so far.</p>
-</span>
+<span class="alert alert-info"><strong>N.b.</strong>- adding a meta for each domain our TYPO3 serves is working for us.</span>
 {% endraw %}
 
 If this helped you, please link to this article from your own site, or let me know in the comments. _Thanks for visiting!_
