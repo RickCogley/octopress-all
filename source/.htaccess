@@ -7,7 +7,7 @@ ErrorDocument 500 /errors/500-Server-Error.html
 RewriteEngine On
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=8835418616432697593$
-RewriteRule   ^(.*)$ http://notes.cogley.info/articles/2012/12/24/assign-elastic-ip-fixed-public-ip-to-your-amazon-ec2   [R=301,L]
+RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2012/12/24/assign-elastic-ip-fixed-public-ip-to-your-amazon-ec2   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=2176266549657372814$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2012/10/10/apple-os-x-mountain-lion-upgrade   [R=301,L]
