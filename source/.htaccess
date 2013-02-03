@@ -4,9 +4,7 @@ ErrorDocument 403 /errors/403-Forbidden.html
 ErrorDocument 404 /errors/404-Not-Found.html
 ErrorDocument 500 /errors/500-Server-Error.html
 
-RedirectMatch 301 /blog/index.php?categories=(?i)(.*) /tags/$1/
 Redirect 301 /blog/Rick /about
-Redirect 301 /blog /articles
 Redirect 301 /bio /about
 Redirect 301 /sitemap/sitemap.html /errors/general.html
 Redirect 301 /sitemap /errors/general.html
