@@ -33,4 +33,4 @@ Now on the Google Webmaster Tools side, you can click verify, and it should succ
 
 {% raw %}<span class="label label-info"><strong>N.b.</strong>- we added two codes, one for each of the domains our TYPO3 site is servicing, and it has worked fine so far.</span>{% endraw %}
 
-If this helped you, please [link to this article]({% post_url %}) from your own site, or let me know in the comments. _Thanks for visiting!_
+If this helped you, please link to this article from your own site, or let me know in the comments. _Thanks for visiting!_
