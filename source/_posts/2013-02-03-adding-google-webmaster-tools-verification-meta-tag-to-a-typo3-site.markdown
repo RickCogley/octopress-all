@@ -24,8 +24,8 @@ To use it for your sites, or Google Analytics for that matter, you have to verif
 
 First log into the backend of your TYPO3 site as an admin. Then, 
 
-1. Select your home page in the directory tree (middle pane)
-1. Select Template from the left pane
+1. Select your home page in the directory tree (middle pane).
+1. Select Template from the left pane.
 1. Select Info/Modify from the right pane, and click the pencil icon on the Setup section.
 1. At the bottom, add this line: `page.meta.google-site-verification = YOUR-VERIFICATION-CODE`, replacing the YOUR-VERIFICATION-CODE part with your actual code, of course.
 1. Save and exit, logging out if appropriate.
@@ -33,6 +33,11 @@ First log into the backend of your TYPO3 site as an admin. Then,
 
 Now on the Google Webmaster Tools side, you can click verify, and it should succeed if you entered the code correctly. Even after you verify, leave the tag in, because Google will revisit the site from time to time to check. 
 
-{% raw %}<span class="alert alert-info"><strong>N.b.</strong>- we added two codes, one for each of the domains our TYPO3 site is servicing, and it has worked fine so far.</span>{% endraw %}
+{% raw %}
+<span class="alert alert-info">
+<p><strong>N.b.</strong>- we added two codes, one for each of the domains our TYPO3 site is servicing,</p>
+<p>and it has worked fine so far.</p>
+</span>
+{% endraw %}
 
 If this helped you, please link to this article from your own site, or let me know in the comments. _Thanks for visiting!_
