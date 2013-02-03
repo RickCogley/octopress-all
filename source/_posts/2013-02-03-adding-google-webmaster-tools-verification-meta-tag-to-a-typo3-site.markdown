@@ -37,4 +37,6 @@ Now on the Google Webmaster Tools side, you can click verify, and it should succ
 <span class="alert alert-info"><strong>N.b.</strong>- adding a meta for each domain our TYPO3 serves is working for us.</span>
 {% endraw %}
 
-If this helped you, please link to this article from your own site, or let me know in the comments. _Thanks for visiting!_
+If this helped you, please link to this article from your own site, or let me know in the comments. 
+
+_Thanks for visiting!_

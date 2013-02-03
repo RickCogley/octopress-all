@@ -1,13 +1,6 @@
-ErrorDocument 400 /errors/400-Bad-Request.html
-ErrorDocument 401 /errors/401-Auth-Required.html
-ErrorDocument 403 /errors/403-Forbidden.html
-ErrorDocument 404 /errors/404-Not-Found.html
-ErrorDocument 500 /errors/500-Server-Error.html
-
-RewriteEngine On
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=8835418616432697593$
-RewriteRule   ^(.*)$ http://notes.cogley.info/articles/2012/12/24/assign-elastic-ip-fixed-public-ip-to-your-amazon-ec2   [R=301,L]
+RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2012/12/24/assign-elastic-ip-fixed-public-ip-to-your-amazon-ec2   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=2176266549657372814$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2012/10/10/apple-os-x-mountain-lion-upgrade   [R=301,L]
@@ -830,29 +823,4 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/12/11/kodomo-hyakutou
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=5345758441560409787$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/12/18/baru-in-hiroo   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
-RewriteCond   %{QUERY_STRING}   ^id=909004746984203287$
-RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/01/15/welcome-to-snap-japan   [R=301,L]
-
-Redirect 301 /blog /articles
-Redirect 301 /eblog /articles
-Redirect 301 /blogcogley/2003/11/27th_lancers_dr.html /articles
-Redirect 301 /blogcogley/2003/11/what_makes_a_go.html /articles
-Redirect 301 /blogcogley/2003/12/tie_dyeing_extr.html /articles
-Redirect 301 /blogcogley/2004/12/hell.html /articles
-Redirect 301 /blog/Rick /about
-Redirect 301 /bio /about
-Redirect 301 /contact /about
-Redirect 301 /about/rick-cogley-info-colophon.html /about
-Redirect 301 /contact/rick-cogley-contact-form.php /about
-Redirect 301 /contact/rick-cogley-feedback.php /about
-Redirect 301 /sitemap/sitemap.html /errors/general.html
-Redirect 301 /sitemap /errors/general.html
-Redirect 301 /goodies/glossary/rick_cogley_glossary_index.html /errors/general.html
-Redirect 301 /goodies/glossary /errors/general.html
-Redirect 301 /topics.php /articles/topics
-Redirect 301 /topics /articles/topics
-Redirect 301 /goodies/topics /articles/topics
-Redirect 301 /snapjapan/feeds/posts/default http://feeds.feedburner.com/RickCogleyRssFeeds?format=xml
-Redirect 301 /snapjapan/feeds/posts/default?orderby=published http://feeds.feedburner.com/RickCogleyRssFeeds?format=xml
-Redirect 301 /topics_files/archive-nov-2008.php /goodies/topics/index_files/archive-nov-2008.php
+Redirect 301 /blog/index.php?id=909004746984203287 /articles/2008/01/15/welcome-to-snap-japan
