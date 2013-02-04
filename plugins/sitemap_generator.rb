@@ -46,7 +46,7 @@ module Jekyll
   SITEMAP_FILE_NAME = "sitemap.xml"
 
   # Any files to exclude from being included in the sitemap.xml
-  EXCLUDED_FILES = ["atom.xml","400-Bad-Request.html","401-Auth-Required.html","403-Forbidden.html","404-Not-Found.html","500-Server-Error.html","categories.html","snippets.html","topics.html"]
+  EXCLUDED_FILES = ["atom.xml","400-Bad-Request.markdown","401-Auth-Required.markdown","403-Forbidden.markdown","404-Not-Found.markdown","500-Server-Error.markdown","categories.markdown","snippets.markdown","topics.markdown"]
   
 
 
