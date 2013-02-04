@@ -19,9 +19,9 @@
         <ul class="blog-meta meta pull-left full-width">
           <li class="data">{% include post/date.html %}{{ time }}</li>
           <li class="post-format {% if posticon %}{{ posticon }}{% else %}default{% endif %}"><span></span></li>
-          <li class="small-text"><a href="{{site.jrcbiopath}}">{{ author }}</a></li>
-          <hr>
-          <li class="small-text">
+          <li class="small-text no-print"><a href="{{site.jrcbiopath}}">{{ author }}</a></li>
+          <hr class="no-print">
+          <li class="small-text no-print">
             {% if post.categories %}
               {% assign post_categs = post.categories %}
             {% else %}
@@ -32,8 +32,8 @@
               <a href="/articles/topics/{{ cat | downcase }}">{{ cat }}</a>{% unless forloop.last %},{% endunless%} 
             {% endfor %}
           </li>
-          <hr>
-          <li class="discuss-info">
+          <hr class="no-print">
+          <li class="discuss-info no-print">
             {% if site.disqus_short_name and page.comments != false and post.comments != false and site.disqus_show_comment_count == true %}
               <a href="{% if index %}{{ root_url }}{{ post.url }}{% endif %}#disqus_thread">Comments</a>
             {% endif %}
