@@ -6,9 +6,9 @@ cover: /images/Rick_Casual_01.jpg
 date: 2013-02-04 07:54
 comments: true
 description: This is the metadata and og tag description.
-keywords: this, that, the other
+keywords: apache, .htaccess, redirect, redirectmatch, parent, child, folder, subfolder
 categories: [Blog-Cogley, SysAdmin, Web, Tips]
-tags: [apache, .htaccess, redirect, redirectmatch]
+tags: [apache, .htaccess, redirect, redirectmatch, parent, child, folder, subfolder]
 published: false
 ---
 
