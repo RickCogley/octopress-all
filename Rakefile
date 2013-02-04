@@ -392,3 +392,60 @@ task :list do
   puts "Tasks: #{(Rake::Task.tasks - [Rake::Task[:list]]).join(', ')}"
   puts "(type rake -T for more detail)\n\n"
 end
+
+############
+# Pinging  #
+############
+
+desc 'Ping pubsubhubbub server'
+task :pubsubhubbub do
+  require 'cgi'
+  require 'net/http'
+  printHeader 'Pinging pubsubhubbub server'
+  data = 'hub.mode=publish&hub.url=' + CGI::escape("http://rick.cogley.info/atom.xml")
+  http = Net::HTTP.new('pubsubhubbub.appspot.com', 80)
+  resp, data = http.post('http://pubsubhubbub.appspot.com/publish',
+                         data,
+                         {'Content-Type' => 'application/x-www-form-urlencoded'})
+
+  puts "Ping error: #{resp}, #{data}" unless resp.code == "204"
+end
+
+desc 'Ping pingomatic'
+task :pingomatic do
+  begin
+    require 'xmlrpc/client'
+    puts '* Pinging ping-o-matic'
+    XMLRPC::Client.new('rpc.pingomatic.com', '/').call('weblogUpdates.extendedPing', 'cogley.info' , 'http://rick.cogley.info', 'http://rick.cogley.info/atom.xml')
+  rescue LoadError
+    puts '! Could not ping ping-o-matic, because XMLRPC::Client could not be found.'
+  end
+end
+
+desc 'Notify Google of the new sitemap'
+task :sitemapgoogle do
+  begin
+    require 'net/http'
+    require 'uri'
+    puts '* Pinging Google about our sitemap'
+    Net::HTTP.get('www.google.com', '/webmasters/tools/ping?sitemap=' + URI.escape('http://rick.cogley.info/sitemap.xml'))
+  rescue LoadError
+    puts '! Could not ping Google about our sitemap, because Net::HTTP or URI could not be found.'
+  end
+end
+
+desc 'Notify Bing of the new sitemap'
+task :sitemapbing do
+  begin
+    require 'net/http'
+    require 'uri'
+    puts '* Pinging Bing about our sitemap'
+    Net::HTTP.get('www.bing.com', '/webmaster/ping.aspx?siteMap=' + URI.escape('http://rick.cogley.info/sitemap.xml'))
+  rescue LoadError
+    puts '! Could not ping Bing about our sitemap, because Net::HTTP or URI could not be found.'
+  end
+end
+
+desc "Notify various services about new content"
+task :notify => [:pubsubhubbub, :pingomatic, :sitemapgoogle, :sitemapbing] do
+end
