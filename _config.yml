@@ -111,8 +111,8 @@ delicious_user:
 delicious_count: 2
 
 # Disqus Comments
-disqus_short_name: rickcogley
-disqus_show_comment_count: true
+disqus_short_name: 
+disqus_show_comment_count: 
 
 # Google Analytics
 google_analytics_tracking_id: UA-1040233-5
