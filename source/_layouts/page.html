@@ -5,7 +5,7 @@ layout: default
 <section>
   <div class="row">
     <!-- posts list-->
-    <div class="span9 page-content">
+    <div class="{% if page.sidebar == true %}span9{% else %}span12{% endif %} page-content">
       {{ content }}
 
       {% if site.disqus_short_name and page.comments == true %}
