@@ -12,12 +12,12 @@ image:
   alt: CooperVision Japan ERP and IT Mgt
 layout: project
 project_description: >
-  I was asked to initially perform some investigative consulting, but this turned into a longer term management of multiple projects... 
+  When I started at CooperVision it was not yet CooperVision, but rather called Ocular Sciences. I was by asked to initially perform some investigative consulting by local CFO Yoshihiro Kamikura and global CIO Ken Hurley, relating to some unexplained project investments for a logistics center. That is an interesting story in and of itself, but suffice to say, the investigation was the launching point for a few years of consulting work in an organization with an established local IT department, working to do multiple challenging projects on top of an ERP rollout. Or actually, a couple of ERP rollouts. 
   <br /> <br />
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+  After we established exactly how much investment into the logistics center had already been made, we moved on to trying to define that operation, while starting to plan out an ERP system. Ocular Sciences had acquired some entities in Japan, who had their own systems including an antiquated, home-rolled business system running on AS/400. This system was far removed from being able to be connected with any central US systems, so the US executive team wanted visibility, and to give that, US IT was trying to replace the AS/400 with something else. There were larger plans than just Japan though, so we started all the many steps needed to implement an ERP system. 
   <br /> <br />
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? 
-  <br /> <br /> 
+  Ken Hurley had hired experienced ERP project director Jack Czajowski to take the reins of the global ERP rollout, and it was through their skillful leadership that a platform was chosen, and a vendor was chosen to roll it out globally. ... more to come
+  <br /> <br />
   
 published: true
 short:     CooperVision Japan ERP

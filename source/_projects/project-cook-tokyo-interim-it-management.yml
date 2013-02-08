@@ -8,8 +8,8 @@ endorsements:
   role: Infrastructure Manager
 image:
   url: /images/projects/Tech_Square_220x220-bJRC00901.JPG
-  title: Cook Japan Interim IT Management
-  alt: Cook Japan IT
+  title: Cook Japan Interim IT Management and Systems Setup
+  alt: Photo representing Cook Japan Interim IT Management and Systems Setup
 layout: project
 project_description: >
   I was asked to assist in handling a vendor meeting, and met two of Cook's global IT operations managers, Michael Kohlman and Ted Hickman. After discussing the situation, I participated in the meeting to suss out the project status in Japanese. It became apparent that interim IT management and project management were going to be critical, if Cook Japan were going to meet its deadlines and operational goals. 
@@ -24,7 +24,9 @@ project_description: >
   <br /> <br /> 
   Besides the telecomms, we deployed a door security system, structured cabling with 5 HP racks, a Cisco switch stack with fibre connections between the main office floor and the warehouse in the ground floor, HP KVM switches and all the needed servers. This was all tied together with independent electrical circuits feeding APC UPSs in each rack, in the end, cooled by a proper independent ceiling A/C unit. 
   <br /> <br /> 
-  After the initial setup, it was all about ongoing IT management and user support, where we established all the usual processes and procedures where there were essentially none before we started, working within the policy mandates that came to us from the US.
+  After the initial setup, it has been all about ongoing IT management and user support, starting with the usual processes and procedures we (my firm eSolia) established where there were essentially none before we started, working within the policy mandates that came to us from the US, and continuing on through the present where we support a Cook Japan IT staffer hired after the site was sufficiently stable.
+  <br /> <br /> 
+  Sincere thanks to Mike and Ted for giving us the chance, to Glenn Ostlund, Barry Thomas on the local and regional management side for keeping it going, and later to Kazu Yagome and Jithendra Nair on the management and IT side respectively, for letting us continue. It's by your grace we can thrive as a business.
   <br /> <br /> 
 published: true
 short:     Cook Japan IT Startup
