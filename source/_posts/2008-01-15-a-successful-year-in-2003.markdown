@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post from Rick Cogley, wrapping up 2003.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/dVoH4Yzwkym
 ---
 
 _My company [eSolia](http://www.esolia.com) had a very successful year coming off a weak one. I'm thankful for how things went! Thanks to our faithful customers, my incredible executive partners Yuui and Takumi, the dogged perseverance of our very professional staff Hiroki, Ena, Maki, Momo, Scott, Yasu et al, and the saintly patience of our capital partner, we pulled the company back into the black._
