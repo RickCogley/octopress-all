@@ -12,11 +12,11 @@ image:
   alt: CooperVision Japan ERP and IT Mgt
 layout: project
 project_description: >
-  When I started at CooperVision it was not yet CooperVision, but rather called Ocular Sciences. I was by asked to initially perform some investigative consulting by local CFO Yoshihiro Kamikura and global CIO Ken Hurley, relating to some unexplained project investments for a logistics center. That is an interesting story in and of itself, but suffice to say, the investigation was the launching point for a few years of consulting work in an organization with an established local IT department, working to do multiple challenging projects on top of an ERP rollout. Or actually, a couple of ERP rollouts. 
+  When I started at CooperVision, it was actually Ocular Sciences before they were acquired. I was asked to initially perform some investigative consulting by local CFO Yoshihiro Kamikura and global CIO Ken Hurley, relating to some unexplained project investments for a logistics center. That is an interesting story in and of itself, but suffice to say, the investigation was the launching point for a few years of consulting work in an organization with an established local IT department, working to do multiple challenging projects on top of an ERP rollout (and all the drama that goes with). Or actually, a couple of ERP rollouts. 
   <br /> <br />
-  After we established exactly how much investment into the logistics center had already been made, we moved on to trying to define that operation, while starting to plan out an ERP system. Ocular Sciences had acquired some entities in Japan, who had their own systems including an antiquated, home-rolled business system running on AS/400. This system was far removed from being able to be connected with any central US systems, so the US executive team wanted visibility, and to give that, US IT was trying to replace the AS/400 with something else. There were larger plans than just Japan though, so we started all the many steps needed to implement an ERP system. 
+  After we established exactly how much investment into the logistics center had already been made, we moved on to establishing that operation, while we began to plan out an ERP system. Ocular Sciences had acquired some entities in Japan, who had their own systems including an antiquated, home-rolled business system running on AS/400. This system was far removed from being able to be connected with any central US systems (or any domestic ones for that matter), so to give the US executive team their required visibility, US IT was trying to replace the Japan AS/400 with something flexible and modern. There were larger plans than just Japan though, so we kicked off the many steps needed to implement an ERP system. 
   <br /> <br />
-  Ken Hurley had hired experienced ERP project director Jack Czajowski to take the reins of the global ERP rollout, and it was through their skillful leadership that a platform was chosen, and a vendor was chosen to roll it out globally. ... more to come
+  Ken Hurley hired experienced top ERP project director Jack Czajowski to take the reins of the global ERP rollout and establish a Program Management Office, and it was through their skillful leadership that we chose an ERP platform, and a vendor to deploy the system globally. The difference in the nature of the platforms we considered, mainly SAP and Oracle, was as interesting as the differences between the potential roll-out vendors. SAP was all about an almost paternalistic pre-built modularity, while Oracle was all about not assuming what is required, and building a bespoke system. The extensive vendor presentations we observed ranged from an arrogant "how dare you ask us questions" to a very new-age, almost comically meditative approach. 
   <br /> <br />
   
 published: true
@@ -24,3 +24,19 @@ short:     CooperVision Japan ERP
 title:     CooperVision Japan ERP and Interim IT Management & Systems Setup
 website:   http://www.coopervision.com/
 featured: true
+
+Folks I have an announcement
+
+you don't have a Gantt
+critical decisions - 
+no gantt / lean
+weekly / agile
+don't convert all data
+don't customize except where absolutely needed
+
+anecdote about smear
+duplicitous consultant
+
+
+
+
