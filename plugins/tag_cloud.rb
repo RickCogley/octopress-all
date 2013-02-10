@@ -60,11 +60,10 @@ module Jekyll
 
       # get the minimum, and maximum tag count
       min, max = count.map(&:last).minmax
-
       # map: [[tag name, tag count]] -> [[tag name, tag weight]]
       weighted = count.map do |name, count|
         # logarithmic distribution
-        weight = (Math.log(count) - Math.log(min))/(Math.log(max) - Math.log(min))
+        weight = (min == 1 && max == 1) ? count : (Math.log(count) - Math.log(min))/(Math.log(max) - Math.log(min))
         [name, weight]
       end
 
