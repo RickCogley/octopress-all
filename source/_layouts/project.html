@@ -1,7 +1,7 @@
 ---
 layout: page
 ---
-<div class="project-details row">
+<div class="project-details">
   <div class="row">
     {% if page.image %}
       <div class="span3 logo">
@@ -9,8 +9,8 @@ layout: page
       </div>
     {% endif %}
 
-    <div class="span5">
-      <p><large><em>{{ page.description }} {% if page.website %}<a href="{{ page.website }}">({{ page.website }})</a>{% endif %}</em></large></p>
+    <div class="span5 project-short-description">
+      {{ page.description }} {% if page.website %}<a href="{{ page.website }}">({{ page.website }})</a>{% endif %}
     </div>
   </div>
   
