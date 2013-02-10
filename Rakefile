@@ -116,6 +116,7 @@ task :new_post, :title do |t, args|
     post.puts "keywords: this, that, the other"    
     post.puts "categories: [Blog-Cogley, SnapJapan, Japan, Technology etc]"
     post.puts "tags: [this, that, the other]"
+    post.puts "googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC"
     post.puts "published: false"
     post.puts "---"
   end
