@@ -19,7 +19,7 @@
         <ul class="blog-meta meta pull-left full-width">
           <li class="data">{% include post/date.html %}{{ time }}</li>
           <li class="post-format {% if posticon %}{{ posticon }}{% else %}default{% endif %}"><span></span></li>
-          <li class="small-text no-print"><a href="{{site.jrcbiopath}}">{{ author }}</a></li>
+          <li class="small-text no-print"><a href="{{site.jrcbiopath}}" rel="author">{{ author }}</a></li>
           <hr class="no-print">
           <li class="small-text no-print">
             {% if post.categories %}
