@@ -10,6 +10,7 @@ tags: [productivity,os x,Archive,gmail,Google Apps,Lion,apple]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on setting up OS X Mail.app to work with Gmail, by Rick Cogley. 
+googleplus_post: https://plus.google.com/106441590644824941284/posts/WU8JrM17rj8
 published: true
 ---
 

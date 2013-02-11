@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on Kazuo Zaitsu Saboten-no-hana (the cactus flower) lyrics, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/Qbfb1amr9qT
 ---
 
 _**[Kazuo](http://www.zaitsukazuo.com/) [Zaitsu](http://wiki.d-addicts.com/Zaitsu_Kazuo)** (kanji: 財津和夫) of the Japanese band Tulip, is the singer of a favorite song of mine, "Saboten no Hana" or The Cactus Flower, which is a song about hope despite love lost._ 

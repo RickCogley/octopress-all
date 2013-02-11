@@ -835,6 +835,7 @@ RewriteCond   %{QUERY_STRING}   ^id=909004746984203287$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/01/15/welcome-to-snap-japan   [R=301,L]
 
 RedirectMatch 301 ^/blog$ /articles
+RedirectMatch 301 ^/blog/$ /articles
 Redirect 301 /eblog /articles
 Redirect 301 /blogcogley/2003/11/27th_lancers_dr.html /articles
 Redirect 301 /blogcogley/2003/11/what_makes_a_go.html /articles

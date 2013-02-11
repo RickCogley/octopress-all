@@ -10,6 +10,7 @@ keywords: osx, remote, wipe, icloud, backup, arq, superduper, dropbox
 categories: [Blog-Cogley, Tips, Troubleshooting]
 tags: [osx, remote, wipe, icloud, arq, superduper, dropbox]
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/YzpCBKCZby4
 related_posts:
   - {title: "Happy SuperDuper!, Happy", url: "2011/01/08/happy-superduper-happy/"}
   - {title: "Set MBR Correctly for Successful Time Machine Backup", url: "2010/02/12/set-mbr-correctly-to-backup-successfully-with-os-x-time-machine/"}

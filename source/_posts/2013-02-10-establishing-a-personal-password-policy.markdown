@@ -37,6 +37,9 @@ Iatcom5TwI
 
 … and so on. Do whatever you can do that is easy to remember, but not easy to guess, and different from system to system. It takes a while to change but it is worth doing. 
 
+This is a test. Are you a good enough typist to use the HEPPY CHACK key of board? 
 
 
+テスト
+test
 

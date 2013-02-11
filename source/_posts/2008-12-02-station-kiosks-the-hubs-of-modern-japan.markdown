@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on Japan's ubiquitous Kiosks, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/BkFscUdZyqW
 ---
  
 

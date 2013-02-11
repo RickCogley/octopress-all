@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on my satisfaction with iPhone in Japan, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/6Kf2JJeXxTu
 ---
  
 

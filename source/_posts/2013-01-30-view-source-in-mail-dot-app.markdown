@@ -10,6 +10,7 @@ keywords: Mail.app, keyboard shortcut, view source, email headers
 categories: [Blog-Cogley, Tips]
 tags: [Mail.app, keyboard shortcut, view source, email headers]
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/DwUNKPPootE
 ---
 
 _Want an easy way to see mail headers in Mail.app? They'll pop right up, and I promise you'll like it._

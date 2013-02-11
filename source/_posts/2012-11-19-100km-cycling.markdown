@@ -9,6 +9,7 @@ tags: [Cycling, 100km, Cherubim, Tsukui Lake]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Cycled out to near Tsukui lake for 100km cycling.
+googleplus_post: https://plus.google.com/106441590644824941284/posts/Cj8r9qd3E6B
 published: true
 ---
 

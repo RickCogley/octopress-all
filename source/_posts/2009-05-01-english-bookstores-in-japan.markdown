@@ -10,6 +10,7 @@ tags: [yaesu book center,bookstores,maruzen,living,kinokuniya]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: List of some English bookstores in Tokyo, by Rick Cogley.
+googleplus_post: https://plus.google.com/106441590644824941284/posts/7fYaQdU2i6j
 published: true
 ---
 

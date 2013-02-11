@@ -9,7 +9,7 @@ keywords: cnnic,scam,spam,intellectual property,Internet,china
 tags: [cnnic,scam,spam,intellectual property,Internet,china]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: xxxxxxx
+description: Post on a Chinese domain scam attempting blackmail if you do not register a domain name, by Rick Cogley. 
 published: true
 ---
  

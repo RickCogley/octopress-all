@@ -10,6 +10,7 @@ tags: [logic error,location,LinkedIn,search listing,bug,eSolia,23 wards]
 description: Post on eSolia and other Tokyo companies incorrectly listed in LinkedIn search, by Rick Cogley.
 posticon: default
 cover: /images/Rick_Casual_01.jpg
+googleplus_post: https://plus.google.com/106441590644824941284/posts/86rfFdwsKot
 published: true
 ---
 

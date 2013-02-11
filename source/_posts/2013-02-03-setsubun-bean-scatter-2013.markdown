@@ -10,6 +10,7 @@ keywords: Yokohama, Setsubun, Bean, Mamemaki, Lucky, Oni, Devil, 2013, 大豆, �
 categories: [SnapJapan, Japan, Culture]
 tags: [Yokohama, Setsubun, Bean, Mamemaki, Lucky, Oni, Devil, 2013, 大豆, 節分, 豆まき, 鬼は外, 福は内]
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/LLyykmApXoL
 ---
 
 _Today was the setsubun, or the day before the first day of Spring in Japan. It was appropriately fairly warm, and we did the traditional thing. Read on to find out what that is._

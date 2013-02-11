@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on Dai-ichi Life Sarasen Salaryman Senryu winners, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/dipPQTFtK1X
 ---
 
 _**Dai-ichi Life Insurance** has announced their latest _Sarariiman Senryuu_ (Salaried Worker Senryuu, サラリーマン川柳) [competition winners](http://event.dai-ichi-life.co.jp/company/senryu/22th/best_10.html). It's the 22nd year for the competition, and people vote on the best humorous _senryu_ that come from the daily life of salaried workers and the news._
