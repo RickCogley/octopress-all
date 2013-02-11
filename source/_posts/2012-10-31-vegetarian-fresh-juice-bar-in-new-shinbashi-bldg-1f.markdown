@@ -11,6 +11,7 @@ tags: [Juice, Shinbashi, Vegetarian, Fresh]
 description: Post on Shinbashi Vegetarian fresh juice bar, by Rick Cogley.
 posticon: default
 cover: /images/Rick_Casual_01.jpg
+googleplus_post: https://plus.google.com/106441590644824941284/posts/MR3jod8aEv8
 published: true
 ---
 

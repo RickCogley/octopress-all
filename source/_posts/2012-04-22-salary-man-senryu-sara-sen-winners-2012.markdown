@@ -10,6 +10,7 @@ tags: [dai-ichi life,senryuu,川柳,humor,Senryu]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on Dai-ichi Life Salaryman Senryu Competition 2012 highlights, by Rick Cogley. 
+googleplus_post: https://plus.google.com/106441590644824941284/posts/QWHWfGS5D3D
 published: true
 ---
 

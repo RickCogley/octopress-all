@@ -10,6 +10,7 @@ keywords: typo3, metatags, webmaster tools, google, verification, template, page
 categories: [Blog-Cogley, SysAdmin, Web, Tips]
 tags: [typo3, metatags, webmaster tools, google, verification, template, page.meta]
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/HFTdtWRjXNw
 ---
 
 _The TYPO3 CMS is complex, so oftentimes you cannot simply put files in the root to verify site ownership. Here's how to do it with a meta tag, for Google Webmaster Tools._

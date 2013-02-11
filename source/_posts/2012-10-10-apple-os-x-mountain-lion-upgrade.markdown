@@ -10,6 +10,7 @@ tags: [Mountain Lion,10.8,os x,apple]
 description: Post on Apple OS X Mountain Lion Upgrade, by Rick Cogley.
 posticon: default
 cover: /images/Rick_Casual_01.jpg
+googleplus_post: https://plus.google.com/106441590644824941284/posts/DoeWuHtFqo5
 published: true
 ---
 

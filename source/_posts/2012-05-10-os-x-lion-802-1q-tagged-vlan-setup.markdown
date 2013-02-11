@@ -10,6 +10,7 @@ tags: [system administration,vlan,10.7,technology,os x,802.1q,interface,Ethernet
 description: Post on OS X Lion 802.1q Tagged VLAN setup, by Rick Cogley.
 posticon: default
 cover: /images/Rick_Casual_01.jpg
+googleplus_post: https://plus.google.com/106441590644824941284/posts/fnEcX5CChS4
 published: true
 ---
 
