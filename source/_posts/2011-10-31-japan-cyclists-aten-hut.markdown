@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on rules of cycling in Japan, by Rick Cogley
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/NWgRp5DY6RU
 ---
 
 _Recently Japan law regarding bicycles has been strengthened, and it is a popular topic on TV "_wide shows_" (variety shows) as I write this, in Autumn 2011._

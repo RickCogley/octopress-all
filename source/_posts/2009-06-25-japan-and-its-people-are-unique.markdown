@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Japan_Life_Square_300x300-bJRC00851.JPG
 description: Post on 'uniqueness' of Japan and its people, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/Q8TwoGsJhv3
 ---
 
 _At least that is what they tell me! Japan's my home, and I have had many interesting, enjoyable and indeed unique [experiences](/articles/2009/03/09/japan-virgin-adventures/) here, otherwise I would not have stayed on in this country since 1987. But over the years, I've had an earful of people telling me directly or indirectly how unique Japan and its people are, and I've had to burst more than one person's bubble. Sometimes incorrectly. But let me vent._
