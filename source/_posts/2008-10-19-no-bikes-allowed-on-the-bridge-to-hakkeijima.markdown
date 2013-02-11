@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Got blasted off my bike by a no-bikes-allowed announcement at Hakkejima, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/bSq3AUfdYNH
 ---
 
 [](http://www.flickr.com/photos/81796435@N00/385220504 "View 'Papa and Ju at Sea Paradise - 17' on Flickr.com")

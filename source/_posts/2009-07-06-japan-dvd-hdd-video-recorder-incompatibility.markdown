@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Japan_Life_Square_300x300-bJRC00844.JPG
 description: Post about us trying and failing to give a friend a DVD from a Sharp Aquos recorder for her to watch, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/W95xaa1SmA3
 ---
 
 _The other day I was asked by a friend to see a Ken Watanabe TV show we had recorded, because the friend had missed it. Long story short, in the end we could not provide our friend a DVD with this show on it._ 

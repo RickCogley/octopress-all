@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on migrating from Entourage to Mail.app and adding rules to sort mail, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/hSXUshyzV1N
 ---
  
 _As a New Year's project, besides biking a lot up and down along the Sakai River on my new Centurion, I decided to try switching from Entourage 2004 and its monolithic mail store file, to the Mail.app that comes with OS/X Leopard and use Gmail IMAP. Here's what I did:_

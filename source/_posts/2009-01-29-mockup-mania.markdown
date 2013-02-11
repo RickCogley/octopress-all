@@ -11,15 +11,16 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on Mockup applications, from Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/g3XbweqZS1J
 ---
- 
 
-[](http://www.flickr.com/photos/81796435@N00/3234719887 "View 'Balsamiq Mockup for Teamwork Work Management' on Flickr.com")If you do mockups of software interfaces, you might find this post of interest. Although I can write shell scripts and simple perl or ruby scripts well, I am not a developer. However, participating in a session with Pietro, a senior developer of the _work management application_ "**Teamwork**" from Open Labs, I found the Balsamiq application refreshingly easy to use. I was able to open Pietro's Balsamiq file, add a few things, and submit it back to him for his comments. This exchange prompted me to see what kind of mockup applications were out there, despite of course being able to do mockups in Visio or Omni Graffle. 
+_If you do mockups of software interfaces, you might find this post of interest. Although I can write shell scripts and simple perl or ruby scripts well, I am not a developer. However, participating in a session with Pietro, a senior developer of the _work management application_ "**Teamwork**" from Open Labs, I found the Balsamiq application refreshingly easy to use._
 
+<!--more--> 
+
+[{% img right http://farm4.staticflickr.com/3420/3234719887_14344e5999_d.jpg 400 'Click to view on Flickr: Balsamiq Mockup for Teamwork Work Management' 'Screenshot of - Balsamiq Mockup for Teamwork Work Management.' %}](http://www.flickr.com/photos/81796435@N00/3234719887)I was able to open Pietro's Balsamiq file, add a few things, and submit it back to him for his comments. This exchange prompted me to see what kind of mockup applications were out there, despite of course being able to do mockups in Visio or Omni Graffle. 
 
 ### Selected Mockup Applications
-
-
 
 Here's what I found, briefly: 
 

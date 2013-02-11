@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on making Spotlight index, even when she says no, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/5DLgEcEc2L5
 ---
 
 _After a spate of Mail.app problems probably related to having too damn many mail accounts and messages, I had to do the "Mail.app Reimport Samba" taking hours to let Mail.app reimport the entire mail store. After that got resolved, I found out that my Mail.app "Entire Message" selection in Search was greyed out. Did you get this and are wondering why? Read on for a clue._

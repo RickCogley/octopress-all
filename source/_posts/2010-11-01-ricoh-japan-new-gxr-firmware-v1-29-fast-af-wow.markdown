@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on upgrading Ricoh firmware to v1.29, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/iz8rr7yZLSa
 ---
 
 _Ricoh Japan just released the new GXR firmware, version 1.29, [on their Japan site](http://www.ricoh.co.jp/dc/download/gxr.html), and the _autofocus speed is now really, really fast_. How do you upgrade to it? Read on._ 

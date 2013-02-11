@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on converting line endings in text files, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/LXTBkRaTqxD
 ---
 
 _When transferring files from system to system, for instance, using csv files to transfer data from one db to another, sometimes there are problems where programs will not process a file because of its line endings. This happens especially if you process a file on one platform, say Mac, and try to use the file on another, say Windows. What can you do about it?_

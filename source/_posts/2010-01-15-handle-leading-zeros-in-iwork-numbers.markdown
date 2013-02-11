@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on handling leading zeros in Apple iWork Numbers spreadsheet, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/TPpkwzwLHwn
 related_posts:
   - {title: "Opening a Tab-Delimited CSV in Numbers", url: "2010/03/16/opening-a-tab-delimited-csv-in-apple-iwork-numbers/"}
 ---

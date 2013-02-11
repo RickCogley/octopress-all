@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post with some observations about upgrading Aperture 2 to 3, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/NfD2fb7NcCa
 ---
 
 _My upgrade to Apple’s Aperture 3 came over the weekend so I upgraded and started letting it analyze faces using the iPhoto-inspired “Faces and Places” feature._

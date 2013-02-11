@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on opening a tab separated text file in Apple Numbers, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/QSN6zZ9JcsF
 related_posts:
   - {title: "Handle leading zeros in Numbers", url: "2010/01/15/handle-leading-zeros-in-iwork-numbers/"}
 ---

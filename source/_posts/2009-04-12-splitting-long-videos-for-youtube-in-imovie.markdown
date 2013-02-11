@@ -11,10 +11,12 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on splitting log videos for YouTube, in iMovie, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/ACmqySXUxir
 ---
 
-**iMovie**, included among other excellent consumer applications in Apple's _iLife 09_, now provides an easy way to share your videos on Google's **YouTube** video sharing service. You just prep your video, and then use the Share menu to share it in various ways. However, YouTube has a 10 minute, 1GB limit. 
+_**iMovie**, included among other excellent consumer applications in Apple's _iLife 09_, now provides an easy way to share your videos on Google's **YouTube** video sharing service. You just prep your video, and then use the Share menu to share it in various ways. However, YouTube has a 10 minute, 1GB limit. Read on to find how to get around that._
 
+<!--more--> 
 
 ### Using iMovie 09 with YouTube
 

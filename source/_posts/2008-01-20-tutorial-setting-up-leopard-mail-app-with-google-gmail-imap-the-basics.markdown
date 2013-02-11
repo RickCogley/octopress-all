@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on setting up OS X Leopard Mail.app to work with Google Gmail IMAP, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/QNNV4v95wd1
 ---
 
 _This tutorial describes how I set up Mail.app in OS X Leopard to handle both private and work email, using Google Mail accessed via the IMAP protocol, and sending mail via my ISP's SMTP server to avoid the Outlook "sent on behalf of" problem._

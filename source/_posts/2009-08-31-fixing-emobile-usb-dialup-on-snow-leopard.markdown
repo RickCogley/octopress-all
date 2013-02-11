@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on Fixing EMobile USB Dialup on OS X Snow Leopard, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/aeupHyaQUYS
 ---
 
 _I just installed Snow Leopard OS X 10.6 with no problems after getting a replacement for a bad Family Pack install disk (the Shibuya Apple Store said that many people reported the same), and found that my **EMobile Huawei D02HW** USB Wireless Dialup card, which was fine in Leopard, _died when Snow Leopard was installed_._ 

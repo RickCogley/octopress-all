@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on Changing a Bike Tire Inner-tube, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/TYYmxY4DF61
 ---
 
 _I got a flat the last hill of my 100 km bike trip last Sunday. Thank heavens it did not happen at km 50 or something. I went to a bike shop in Shinjuku today to get a replacement tube, and they were kind enough to tutor me on how to replace it._

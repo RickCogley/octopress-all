@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on using Regular Expressions with TextMate, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/8UqgxGWP4YV
 ---
 
 _I use and love the text editor **Textmate**, which has some powerful functions including the use of regular expressions in search._ 

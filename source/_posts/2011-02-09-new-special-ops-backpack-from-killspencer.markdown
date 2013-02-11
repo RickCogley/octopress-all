@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on new Killspencer Special Ops backpack, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/4jLtiVNP8CQ
 ---
 
 _After quite a bit of back-and-forth, since my Japan-based credit card and [Killspencer's](http://www.killspencer.com) card processing software were working together as well as oil and water, I finally got my [Special Ops backpack](http://killspencer.com/product.php?id_product=35) the other day. Killspencer's founder Spencer Nikosey was fantastic while working through the card issues, and he soon reported that the bag had been made and was being shipped, after about two weeks' lead time._

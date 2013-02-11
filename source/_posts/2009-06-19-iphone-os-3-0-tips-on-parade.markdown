@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: A post on iOS 3 upgrade 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/JXDKZWSAhUN
 ---
 
 _Apple released yesterday an updated iPhone operating system, iPhone OS 3.0, with a number of useful improvements. For me, the update itself was seamless, and took about 15 minutes after clicking the update button in iTunes. I upgraded first thing in the morning, but colleagues who tried later in the day had some delays. I guess it's to be expected when so many people try to download at the same time._

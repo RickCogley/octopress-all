@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Bust out cool O'Reilly book covers like the pros, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/4m37f1s7Ws3
 ---
 
 Ever wanted to bust out a cool book cover just like the ones O'Reilly does? Well now you can, thanks to www.oreillymaker.com. When you hit publish, you get your [very own cover URL](http://www.oreillymaker.com/link/17821/panic-sweat-fear/) to show to all your friends. <br /><br /><img class="right" src="http://rick.cogley.info/blog/index_files/oreillymkerrollyourowno_1.jpg" /><br /><br /><br /><br />[<br />](http://farm4.static.flickr.com/3085/2585730158_e478ceb5f3_o.jpg)

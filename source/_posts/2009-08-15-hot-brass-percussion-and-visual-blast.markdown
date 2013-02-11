@@ -11,12 +11,12 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on Blast! stage show with brass, percussion and visual performance, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/EpJpAxMKMfB
 ---
 
 _My daughter and I went to see what's said to be the final Japan tour of [**Blast!**](http://www.blasttheshow.com/). The brass, percussion and visual performers are young, but are among the best in the world on their instruments. The music and visual performance skills were out in force this afternoon._
 
 <!--more--> 
-
 
 If you're not familiar with _Drum and Bugle Corps_, it's mostly a summer activity governed by the non-profit organization "[Drum Corps International](http://www.dci.org)", with corps members moving in around May to begin hard 12-hour "all days" rehearsals, and competing throughout the summer across the USA, until finals in August. Each corps has 150 members, which consist of brass, percussion and "color guard" members who do equipment work with rifles and flags while dancing. There are 12 corps competing for the top spot at finals, but many more corps at various skill levels competing all summer. These shows are performed on football fields in stadiums, but the similarity to college marching band ends there, since they exist to compete and perform like it too!
 
@@ -29,6 +29,7 @@ The Japan Blast! tour features snare drummer **Naoki Ishikawa**, who was a champ
 
 The Blast! performers did all the hot drum corps favorites like "Everybody Loves the Blues", "Appalachian Spring", "Medea", and "Malaguena" as well as a number of great numbers that were new to me. Overall, the show was about 2 hours of exciting music and visual performance, which had the audience on their feet by the end. 
 
+{% youtube Kxx2910Y_l0 %}  
 
 Kudos to Blast! for a great show! 
 

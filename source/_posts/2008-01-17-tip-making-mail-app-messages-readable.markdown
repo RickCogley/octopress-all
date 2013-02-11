@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on making font size readable in Mail.app in OS X Leopard, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/fyV7L5uA4dM
 ---
 
 _I have a Macbook Pro, and I noticed upon upgrading to OS X Leopard, that the default message size for Mail.app messages was too small to read. Sure, you can add a button to your toolbar to increase font size on a per-message basis, but this gets old after the 1000th time. What to do about it?_

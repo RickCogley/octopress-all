@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on wrangling OS X Mail.app rules, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/6KytHMxNx88
 ---
 
 _This tutorial describes how I solve the challenge, marking my subscriptions and regular mails as "Expiring", so that I can use a smart folder to view and prune them regularly._

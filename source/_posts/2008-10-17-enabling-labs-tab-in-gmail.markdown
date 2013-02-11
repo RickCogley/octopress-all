@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on how to show the labs tag in Gmail if you cannot see it, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/ZCzUhXgUEHk
 ---
 
 If you would like to use some of the Google Labs features in Gmail but cannot find the Labs tab, you can enable it by visiting the following URL after you log in: 

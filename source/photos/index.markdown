@@ -14,5 +14,5 @@ published: true
 ---
 
 {% raw %} 
-<iframe width='100%' height='2000' frameborder='0' allowtransparency='true' scrolling='yes' src='http://rickcogley.dphoto.com'></iframe>
+<iframe width='100%' height='2000' frameborder='0' allowtransparency='true' scrolling='no' src='http://rickcogley.dphoto.com'></iframe>
 {% endraw %}

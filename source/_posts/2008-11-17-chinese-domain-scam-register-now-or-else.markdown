@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on a Chinese domain scam attempting blackmail if you do not register a domain name, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/NFTk8La8zLY
 ---
  
 

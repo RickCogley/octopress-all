@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Install TextMate text editor with Japanese input bundle, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/HnSG3ddrt4g
 ---
  
 I use [TextMate](http://macromates.com) for text editing in OS X and love its clean interface and features, but the defaults do not allow Japanese input and choosing Fonts has been problematic. Never fear. [Hetima san](http://hetima.com/about.php), the developer of [SafariStand](http://hetima.com/safari/stand-e.html), released a bundle called [CJKInput](http://hetima.com/textmate/CJKInput20061110.zip) for [TextMate](http://macromates.com) to allow Japanese input, and has a font to boot. I searched a few times for this in English and Japanese, but for some reason never came across it despite its having been around for quite some time. 

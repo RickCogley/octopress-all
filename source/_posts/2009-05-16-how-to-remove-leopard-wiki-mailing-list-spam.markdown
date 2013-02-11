@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: How to remove OS X Leopard Server Wiki Mailing List spam, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/P6ZwcbAaMZo
 ---
  
 If you have group mailing lists set up in Leopard Server, these conveniently link to the Leopard Wiki page for the group. However, spam can sully the look of your page, so you may need to perform some routine maintenance at some point. Here's how you can do this. 

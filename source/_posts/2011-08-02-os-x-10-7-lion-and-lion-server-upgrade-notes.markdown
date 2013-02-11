@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on OS X 10.7 Lion and Lion Server upgrade notes, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/QSGHDnXmGsz
 ---
 
 _In this post I will share my notes on the upgrade from OS X 10.6 "Snow Leopard" to 10.7 "Lion". This is not meant to be a comprehensive review but I hope someone can find some benefit in this information._

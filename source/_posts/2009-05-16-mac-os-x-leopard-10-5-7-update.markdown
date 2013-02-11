@@ -11,14 +11,14 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on updating Mac OS X 10.5.7 Leopard, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/FphLWngWQi3
 ---
 
-I updated my MacBook Pro's OS X from 10.5.6 to 10.5.7 today, and there was a little hiccup. Here's what happened, and see the UPDATES below as well. 
+_I updated my MacBook Pro's OS X from 10.5.6 to 10.5.7 today, and there was a little hiccup. Here's what happened, and see the UPDATES below as well._ 
 
 <!--more--> 
 
 I noticed there was an update available, so I shut down all the user applications and things like ExpanDrive and Plaxo, then tried Software Update from the Apple menu. Software update started to work, then stalled at around 150 MB of 450 MB downloaded, claiming to take another 8 hours to download. It's not my ISP because everything else is fine. Everyone must be hitting the server at once. Stopped the update during the download.
-
 
 Intending to use the "combo updater", which is just the full update download, I found the update on Apple's download site. There are two updaters: the [Delta](http://support.apple.com/downloads/Mac_OS_X_10_5_7_Update) Updater, and the [Combo](http://support.apple.com/downloads/Mac_OS_X_10_5_7_Combo_Update) Updater. The 450+ MB Delta is just labeled as "Update" and is for updating from 10.5.6 to 10.5.7. The 700+ MB Combo is for any 10.5, to 10.5.7. Decided to try the Delta. 
 

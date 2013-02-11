@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on recovering from a corrupt Apple Leopard Server Open Directory, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/N9FUf17Vyke
 ---
 
 _I had a Leopard Server crash and burn so that nothing was responding, and when I forced the server to reboot (as well as rebooting a bunch of other ancillary servers and services just in case), I found an ominous sign in Server Admin, along with no user accounts in Workgroup Manager. Eek!_

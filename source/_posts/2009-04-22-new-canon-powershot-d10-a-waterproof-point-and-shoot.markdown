@@ -4,24 +4,23 @@ post_title: "New Canon PowerShot D10, a Waterproof Point-and-Shoot"
 date: 2009-04-22 13:15:58 UTC
 updated: 2009-04-22 13:15:58 UTC
 comments: true
-categories: [Blog-Cogley, Photography, Gadgets]
+categories: [Blog-Cogley, Photography, Gadgets, Review]
 keywords: sdhc,outdoors,Passions,leisure,photography,Waterproof,Canon D10
 tags: [sdhc,outdoors,Passions,leisure,photography,Waterproof,Canon D10]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
-description: Post on a new Canon PowerShot D10, waterproof camera, by Rick Cogley. 
+description: Post on a new Canon PowerShot D10, waterproof camera with mini-review, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/F6ojZuxBpVo
 ---
 
-[](http://www.flickr.com/photos/81796435@N00/3464681974 "View 'Testing the New Canon D10 Waterproof P&S' on Flickr.com")Yesterday, I purchased the new **Canon PowerShot D10** at _Yodobashi Camera_ in Shinjuku, Tokyo, to take over for an old Canon IXY 500. The IXY has served us well and works OK still, but the waterproof and shockproof nature of the D10 were attractive because of the proximity to the Shonan beach area near where we live, and how often we've been nervous about taking electronics to the beach! It's going to be nice to drag the camera right into the surf or even underwater. 
+_Yesterday, I purchased the new **Canon PowerShot D10** at _Yodobashi Camera_ in Shinjuku, Tokyo, to take over for an old Canon IXY 500. The IXY has served us well and works OK still, but the waterproof and shockproof nature of the D10 were attractive because of the proximity to the Shonan beach area near where we live, and how often we've been nervous about taking electronics to the beach! It's going to be nice to drag the camera right into the surf or even underwater._
 
+<!--more--> 
 
-I compared this D10 with other waterproof and shockproof models from Olympus (the Tough-8000) and Panasonic (the Lumix TS-1 or FS-1), but ultimately chose the Canon. I liked the way it felt in my hands at the store, and there were too many quirks in reviews about the others. At any rate, I thought I would share some first impressions and photos with everyone. 
-
+[{% img right http://farm4.staticflickr.com/3664/3464681974_e63d8f725a_d.jpg 400 'Click to view on Flickr: Testing the New Canon D10 Waterproof PNS' 'Photo of Testing the New Canon D10 Waterproof Point and Shoot.' %}](http://www.flickr.com/photos/81796435@N00/3464681974)I compared this D10 with other waterproof and shockproof models from Olympus (the Tough-8000) and Panasonic (the Lumix TS-1 or FS-1), but ultimately chose the Canon. I liked the way it felt in my hands at the store, and there were too many quirks in reviews about the others. At any rate, I thought I would share some first impressions and photos with everyone. 
 
 ### Specifications of the Canon PowerShot D10
-
-
 
 Let me summarize some of the specs. 
 

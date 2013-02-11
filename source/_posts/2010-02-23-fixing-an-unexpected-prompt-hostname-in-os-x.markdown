@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on fixing the hostname in the prompt, on OS X, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/TRAC1gz6Zmn
 ---
 
 _In Mac OS X, you may have noticed if you use the Terminal that OS X automatically picks up what it thinks your hostname should be and sets it. This is nice, but the problem with it is if any utility uses your hostname to set config files, you'll have a different config file every time._ 

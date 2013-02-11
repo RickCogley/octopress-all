@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on Zendesk arrogant price increase, by Rick Cogley. 
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/9EPZSy8W1U4
 related_posts:
   - {title: "Apology Accepted, Thank You", url: "2010/05/21/apology-accepted-zendesk-thank-you/"}
   - {title: "SaaS Helpdesk Software that Supports Japanese", url: "2010/05/21/saas-helpdesk-software-that-supports-japanese/"}

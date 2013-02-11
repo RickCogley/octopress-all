@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on saving Google My Maps as KML data to import elsewhere, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/Sqh5cedyFhq
 ---
  
 I have been spending some time making Google Maps in "My Maps", such as [this bike route](http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=103784915361440638280.00045507229fde71c84ca&ll=35.357416,139.43985&spn=0.15596,0.360489&z=12) down the Sakai river, then along the Shonan coast, and back home.

@@ -11,6 +11,7 @@ posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on OS X Screen Sharing Tweaks, by Rick Cogley.
 published: true
+googleplus_post: https://plus.google.com/106441590644824941284/posts/AGHrMEsrjek
 ---
  
 _The default Leopard screen sharing app can be made a little more ARD-like, if you add some parameters via the "defaults write" command in Terminal. Check out the default style by sharing the screen of a neighboring computer in Finder, then read on to learn more._ 
