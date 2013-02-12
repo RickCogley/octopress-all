@@ -10,6 +10,7 @@ keywords: this, that, the other
 categories: [Blog-Cogley, SnapJapan, Japan, Technology etc]
 tags: [this, that, the other]
 published: false
+googleplus_post: 
 ---
 
 
