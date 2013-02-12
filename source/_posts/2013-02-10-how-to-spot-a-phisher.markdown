@@ -11,6 +11,7 @@ categories: [Blog-Cogley, SnapJapan, Japan, Technology etc]
 tags: [this, that, the other]
 googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC
 published: false
+googleplus_post: 
 ---
 
 

@@ -856,4 +856,4 @@ Redirect 301 /topics /articles/topics
 Redirect 301 /goodies/topics /articles/topics
 Redirect 301 /snapjapan/feeds/posts/default http://feeds.feedburner.com/RickCogleyRssFeeds?format=xml
 Redirect 301 /snapjapan/feeds/posts/default?orderby=published http://feeds.feedburner.com/RickCogleyRssFeeds?format=xml
-Redirect 301 /topics_files/archive-nov-2008.php /goodies/topics/index_files/archive-nov-2008.php
+Redirect 301 /snapjapan/index.php?categories=japan /articles/topics/japan/
