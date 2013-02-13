@@ -9,7 +9,7 @@ description: A post on RC Central re-launch in static site generator Octopress, 
 keywords: launch,website,octopress,jekyll,ruby,static
 categories: [Blog-Cogley, Web, Featured]
 tags: [launch,website,octopress,jekyll,ruby,static]
-googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC
+googleplus_post: https://plus.google.com/106441590644824941284/posts/Vckco5MBFJ3
 published: true
 ---
 
