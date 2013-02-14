@@ -402,7 +402,7 @@ desc 'Ping pubsubhubbub server'
 task :pubsubhubbub do
   require 'cgi'
   require 'net/http'
-  printHeader 'Pinging pubsubhubbub server'
+  # printHeader 'Pinging pubsubhubbub server'
   data = 'hub.mode=publish&hub.url=' + CGI::escape("http://rick.cogley.info/atom.xml")
   http = Net::HTTP.new('pubsubhubbub.appspot.com', 80)
   resp, data = http.post('http://pubsubhubbub.appspot.com/publish',
