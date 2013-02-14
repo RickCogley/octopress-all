@@ -10,7 +10,7 @@ keywords: apache, .htaccess, redirect, redirectmatch, parent, child, folder, sub
 categories: [Blog-Cogley, SysAdmin, Web, Tips]
 tags: [apache, .htaccess, redirect, redirectmatch, parent, child, folder, subfolder]
 published: false
-googleplus_post: 
+googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC
 ---
 
 _Want to redirect a website parent folder, but not its children? Here is how to use rules in .htaccess to do it._
