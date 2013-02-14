@@ -1,3 +1,13 @@
+@import "custom/fonts";
+
+.sans { font-family: $sans; }
+body { font-family: $serif; }
+.mono { font-family: $mono; }
+
+aside.sidebar li{
+   font-family: "freight-text-pro-n3", "freight-text-pro", sans-serif;
+}
+
 #searchbar, #sidebar, #main-menu{
 	display:none;
 }
@@ -39,3 +49,20 @@ img.right{
 	list-style: none;
 }
 .no-print{ display: none; }
+
+.content ol {
+font-size: 17px;
+}
+
+li {
+line-height: 17px;
+}
+
+.entry-content ul, .entry-content ol {
+	font-size: 17px;
+}
+
+.a-post ul {
+	list-style: disc !important;
+	list-style-type: disc;
+}
