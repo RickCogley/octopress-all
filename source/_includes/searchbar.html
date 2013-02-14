@@ -9,7 +9,12 @@
     <form action="{{ site.simple_search }}" method="get">
       <fieldset role="search">
         <input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}" />
-        <input class="search" type="text" name="q" results="0" placeholder="Search"/>
+        <!-- <input class="search" type="text" name="q" results="0" placeholder="Search"/>  for google search --> 
+        <input type="text" class="search" name="sp_q" placeholder="Search">
+        <input type="hidden" name="sp_a" value="sp10050168">
+        
+        <input type="hidden" name="sp_p" value="all">
+        <input type="hidden" name="sp_f" value="UTF-8">
       </fieldset>
     </form>
   {% endif %}
