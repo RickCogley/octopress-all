@@ -4,7 +4,7 @@ post_title: "New Canon PowerShot D10, a Waterproof Point-and-Shoot"
 date: 2009-04-22 13:15:58 UTC
 updated: 2009-04-22 13:15:58 UTC
 comments: true
-categories: [Blog-Cogley, Photography, Gadgets, Review]
+categories: [Blog-Cogley, Photography, Gadgets, Reviews]
 keywords: sdhc,outdoors,Passions,leisure,photography,Waterproof,Canon D10
 tags: [sdhc,outdoors,Passions,leisure,photography,Waterproof,Canon D10]
 posticon: default

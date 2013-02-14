@@ -119,6 +119,10 @@ Reviews:
   awesomeicon: icon-check
   description: "What's the skinny? Get it served up hot right here."
   image: /images/topic-reviews.jpg
+Security: 
+  awesomeicon: icon-key
+  description: "Strong security is inversely proportional to convenience. The only way to ensure perfect computer security, is by disconnecting from all of your networks altogether. In lieu of that, I can recommend at least a few reasonable practices to implement."
+  image: /images/topic-security.jpg  
 Service: 
   awesomeicon: icon-heart
   description: "Service industry? Customer service? Service as a concept? A large number of us work in service to others, and you might find a post or two on that here. I believe my primary purpose in life is to be of service to others."
