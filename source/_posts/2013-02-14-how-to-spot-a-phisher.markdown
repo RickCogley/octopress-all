@@ -9,7 +9,7 @@ description: I got a Twitter DM from a friend, which turned out to be a phishing
 keywords: twitter,phishing,secure
 categories: [Blog-Cogley, Tips, Security]
 tags: [twitter,phishing,secure]
-googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC
+googleplus_post: https://plus.google.com/106441590644824941284/posts/LvTvabS3nxH
 published: true
 ---
 
