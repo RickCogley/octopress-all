@@ -857,3 +857,6 @@ Redirect 301 /goodies/topics /articles/topics
 Redirect 301 /snapjapan/feeds/posts/default http://feeds.feedburner.com/RickCogleyRssFeeds?format=xml
 Redirect 301 /snapjapan/feeds/posts/default?orderby=published http://feeds.feedburner.com/RickCogleyRssFeeds?format=xml
 Redirect 301 /snapjapan/index.php?categories=japan /articles/topics/japan/
+Redirect 301 /goodies/reference/rick-cogley-iphone-tap-tips.php /resources/rick-cogley-iphone-tap-tips/
+Redirect 301 /goodies/reference/rick-cogley-mac-keyboard-shortcuts.php /resources/rick-cogley-keyboard-shortcuts/
+RedirectMatch 301 ^/photos/rick-cogley.*.php$ /photos/
