@@ -5,6 +5,15 @@ ErrorDocument 404 /errors/404-Not-Found.html
 ErrorDocument 500 /errors/500-Server-Error.html
 
 RewriteEngine On
+
+RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{QUERY_STRING}   published-(.*)
+RewriteRule   ^(.*)$ http://rick.cogley.info/blog-cogley/   [R=301,L]
+
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
+RewriteCond   %{QUERY_STRING}   published-(.*)
+RewriteRule   ^(.*)$ http://rick.cogley.info/snapjapan/   [R=301,L]
+
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=8835418616432697593$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2012/12/24/assign-elastic-ip-fixed-public-ip-to-your-amazon-ec2   [R=301,L]
@@ -833,14 +842,6 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/12/18/baru-in-hiroo  
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=909004746984203287$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/01/15/welcome-to-snap-japan   [R=301,L]
-
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
-RewriteCond   %{QUERY_STRING}   ^published-(.*)$
-RewriteRule   ^(.*)$ http://rick.cogley.info/articles/   [R=301,L]
-
-RewriteCond   %{REQUEST_URI}    ^snapjapan/index.php$
-RewriteCond   %{QUERY_STRING}   ^published-(.*)$
-RewriteRule   ^(.*)$ http://rick.cogley.info/snapjapan/   [R=301,L]
 
 RewriteCond %{QUERY_STRING} categories=(.*)
 RewriteRule (.*) /tags/%1? [R=301,L]
