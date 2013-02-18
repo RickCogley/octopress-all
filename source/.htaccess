@@ -635,10 +635,10 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/01/15/a-successful-ye
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=379600458968931690$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2012/10/31/-vegetarian-fresh-juice-bar-in-new-shinbashi-bldg-1f   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=3154023455161539430$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2012/04/22/salary-man-senryu-sara-sen-winners-2012   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=7603387075370434462$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2011/10/31/japan-cyclists-aten-hut   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
@@ -653,7 +653,7 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/12/20/panku-bubu-wins
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=4571766832116713325$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/11/15/39-goroawase-japanese-word-play   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=121396029259052280$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/09/21/yanagihara-kanako-senryu-haiku   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
@@ -665,7 +665,7 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/08/19/japan-rail-is-m
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=323264021829600505$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/07/20/japan-marine-day-umi-no-hi-s-roots   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=6411143908657011647$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/07/13/kenkoshindan-health-check   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
@@ -677,10 +677,10 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/06/23/-gyaru-go-girl-
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=5915788384963941324$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/06/22/-one-coin-services-all-the-rage-in-japan   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=267518165908747805$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/06/25/tokyo-metro-do-it-at-home-manners-posters   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=2751482896954571463$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/06/21/ray-out-s-iphone-jacket-case-review-diy-fix-for-d-ring-problem   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
@@ -689,40 +689,40 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/06/20/drop-enough-to-
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=2814207982854324815$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/06/07/street-jazz-from-kano-saito-kawamoto   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=4151712372627874559$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/06/04/family-reunion-sad   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=4324817564530604525$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/06/02/finally-otc-drugs-at-7-11   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=9131646779081025259$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/08/20/salaryman-senryu-sarasen-winners   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=7123493890084647785$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/05/17/saboten-no-hana-lyrics-kazuo-zaitsu   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=3894237429251795391$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/05/21/best-tokyo-subway-map-vollmer-design   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=2333544041079638384$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/05/16/how-to-gargle-ugai-garagara   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=8431130555903187221$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/05/15/salaryman-neo-s-salaryman-calisthenics   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=7566321844629918694$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/05/10/rip-kiyoshiro-imawano   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=2759816063569626106$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/05/01/english-bookstores-in-japan   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=8867724646355322321$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/04/29/thierry-de-baillon-s-article-on-social-media-in-japan   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=4556274119798954445$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/04/19/kakaki-italian-in-kugenuma-kaigan-near-enoshima   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=1449388519839273836$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/04/11/yamate-brass-21st-annual-2009-abba-medley   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
@@ -734,7 +734,7 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/04/30/-brasserie-bec-
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=595444350150370037$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/03/13/bribe-desserts-are-just-sour   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=1179954821681942485$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/03/09/japan-virgin-adventures   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
@@ -749,7 +749,7 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/02/28/niigata-s-dubio
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=1486281845395590908$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/02/27/free-wifi-from-freespot-com   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=3000258216352523969$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/02/25/jr-stations-in-tokyo-soon-smoke-free   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
@@ -758,7 +758,7 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/02/25/yuuri-waterless
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=4762151778437070695$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/02/14/novartis-zaditen-allergy-medicine-available-in-japan   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=4098209511718917976$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2009/02/13/rick-s-new-zoff-glasses   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
@@ -776,10 +776,10 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/12/02/station-kiosks-
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=1534794622170280131$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/12/01/asakusa-nakamise-during-hozuki-matsuri   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=1762006489871022801$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/11/26/rainy-monochrome-mood   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=1650000536694505960$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/10/31/japan-is-mascot-land   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
@@ -788,7 +788,7 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/10/28/totsuka-constru
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=9192364355070158388$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/10/24/japan-rail-kudos-an-amazing-record   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=8013210402614678079$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/10/18/beiju-88th-birthday   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
@@ -797,7 +797,7 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/10/14/support-the-loc
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=148890515698711145$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/10/13/japanese-evacuation-centers-are-well-marked   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=125270204205660126$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/10/14/aging-population-in-japan-needs-drugstores   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
@@ -815,24 +815,32 @@ RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/08/11/kamogawa-kan-be
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=5947495499770316094$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/01/20/brush-me-sign   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=3365326702501891072$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/10/13/baru-tapas-in-hiroo-tokyo   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=4083080289153791319$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/10/13/jack-anna-phil-and-rick-tour-kamakura   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=1033042156548398458$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/01/17/japan-post-office   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=2520497684244013149$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/12/11/kodomo-hyakutouban-no-ie-kids-emergency-house   [R=301,L]
-RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{REQUEST_URI}    ^/snapjapan/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=5345758441560409787$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/12/18/baru-in-hiroo   [R=301,L]
 RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
 RewriteCond   %{QUERY_STRING}   ^id=909004746984203287$
 RewriteRule   ^(.*)$ http://rick.cogley.info/articles/2008/01/15/welcome-to-snap-japan   [R=301,L]
+
+RewriteCond   %{REQUEST_URI}    ^/blog/index.php$
+RewriteCond   %{QUERY_STRING}   ^published-(.*)$
+RewriteRule   ^(.*)$ http://rick.cogley.info/articles/   [R=301,L]
+
+RewriteCond   %{REQUEST_URI}    ^snapjapan/index.php$
+RewriteCond   %{QUERY_STRING}   ^published-(.*)$
+RewriteRule   ^(.*)$ http://rick.cogley.info/snapjapan/   [R=301,L]
 
 RewriteCond %{QUERY_STRING} categories=(.*)
 RewriteRule (.*) /tags/%1? [R=301,L]
