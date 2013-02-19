@@ -11,7 +11,7 @@ description: This is Rick Cogley's essay on reading between the lines of the Agi
 keywords: Rick Cogley,Agile Manifesto,software,project management,Agile Principles
 tags: [Rick Cogley,Agile Manifesto,software,project management,Agile Principles]
 published: true
-changefreq: monthly
+change_frequency: monthly
 priority: 0.9
 ---
 

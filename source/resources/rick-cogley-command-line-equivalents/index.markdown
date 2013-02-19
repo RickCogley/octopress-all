@@ -11,7 +11,7 @@ description: This is Rick Cogley's command-line equivalents page.
 keywords: Rick Cogley,productivity,command-line,cli,equivalent,dos,linux,terminal 
 tags: [Rick Cogley,productivity,command-line,cli,equivalent,dos,linux,terminal]
 published: true
-changefreq: monthly
+change_frequency: monthly
 priority: 0.9
 ---
 When moving from one version to another, or, from a known system to an unknown system, it is useful to have a reference point for comparison. For example, if I know that ``dir`` lists the directory in DOS, then it would help me, when I am learning Linux, to know that ``dir`` is ``ls``, to help bootstrap my efforts. The below tables are an attempt to compare typical DOS and Linux command line interface commands. 

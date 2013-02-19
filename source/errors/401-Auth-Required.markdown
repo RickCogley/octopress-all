@@ -4,7 +4,7 @@ title: "401 - Authorization is Required"
 comments: false
 sharing: false
 footer: true
-changefreq: yearly
+change_frequency: yearly
 priority: 0.0
 ---
 

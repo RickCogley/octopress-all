@@ -4,7 +4,7 @@ title: "404 - File Not Found"
 comments: false
 sharing: false
 footer: true
-changefreq: yearly
+change_frequency: yearly
 priority: 0.0
 ---
 

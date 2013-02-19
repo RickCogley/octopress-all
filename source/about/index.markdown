@@ -11,7 +11,7 @@ description: This is Rick Cogley's About, Biography and Contact-Me Page, and col
 keywords: Rick Cogley, Bio, CV, Biography, About, Colophon, hcard, vcard
 tags: [Rick Cogley,Bio,CV,Biography,About,Colophon,hcard,vcard]
 published: true
-changefreq: monthly
+change_frequency: monthly
 priority: 1.0
 ---
 

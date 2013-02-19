@@ -11,7 +11,7 @@ description: Rick Cogley Central resources including a bio page, colophon and ot
 keywords: Resources, Goodies
 tags: [Resources,Goodies]
 published: true
-changefreq: always
+change_frequency: always
 priority: 1.0
 ---  
 ###A Most Excellent Collection...###

@@ -4,7 +4,7 @@ title: "500 - Server Error"
 comments: false
 sharing: false
 footer: true
-changefreq: yearly
+change_frequency: yearly
 priority: 0.0
 ---
 
