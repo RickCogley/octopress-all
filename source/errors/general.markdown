@@ -4,6 +4,8 @@ title: "General"
 comments: false
 sharing: false
 footer: true
+changefreq: yearly
+priority: 0.1
 ---
 
 ###Uh Oh###

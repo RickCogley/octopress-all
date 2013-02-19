@@ -11,6 +11,8 @@ description: This is Rick Cogley's iPhone Tap Tips page.
 keywords: Rick Cogley,productivity,iphone,tip,tap,tapping,keystroke,shortcut,usage 
 tags: [Rick Cogley,productivity,iphone,tip,tap,tapping,keystroke,shortcut,usage]
 published: true
+changefreq: monthly
+priority: 0.9
 ---
 There are plenty of tips on tapping and pressing on the iPhone, including Apple’s own “Finger Tips”. The below table is my contribution to making the iPhone (or iPod Touch) a little easier to use. 
 

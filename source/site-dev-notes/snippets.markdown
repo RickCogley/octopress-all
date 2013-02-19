@@ -5,6 +5,8 @@ date: 2013-01-16 06:30
 comments: false
 sharing: false
 footer: true
+changefreq: never
+priority: 0.0
 ---
 
 

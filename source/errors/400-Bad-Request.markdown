@@ -4,6 +4,8 @@ title: "400 - Bad Request"
 comments: false
 sharing: false
 footer: true
+changefreq: yearly
+priority: 0.0
 ---
 
 ###Uh Oh###

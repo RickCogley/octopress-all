@@ -11,6 +11,8 @@ description: This is Rick Cogley's essay on the principles behind the Agile Mani
 keywords: Rick Cogley,Agile Manifesto,software,project management,Agile Principles
 tags: [Rick Cogley,Agile Manifesto,software,project management,Agile Principles]
 published: true
+changefreq: monthly
+priority: 0.9
 ---
 
 Looking at the basics of Agile in more detail to help me apply it to general, non-development project management, the [principles][] behind the [Agile Manifesto][] are readily available for us to read and learn from. 

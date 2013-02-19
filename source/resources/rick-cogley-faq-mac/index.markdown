@@ -11,6 +11,8 @@ description: This is Rick Cogley's Mac FAQ.
 keywords: Rick Cogley,mac,faq,configuration,questions,answers,apple,macintosh
 tags: [Rick Cogley,mac,faq,configuration,questions,answers,apple,macintosh]
 published: true
+changefreq: monthly
+priority: 0.9
 ---
 I believe the Mac platform is the best available, since switching in 2005. Although corporations use Windows mostly, still, I personally want to use an interface that I love and _want_ to use. It can be confusing at first for a user switching from Microsoft Windows, so I put together this FAQ. _I hope it helps someone._ 
 

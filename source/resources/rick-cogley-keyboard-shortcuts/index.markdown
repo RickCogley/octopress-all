@@ -11,6 +11,8 @@ description: This is Rick Cogley's keyboard shortcut page.
 keywords: Rick Cogley,productivity,keyboard,software,accelerator,mac,shortcut,keystrokes 
 tags: [Rick Cogley,productivity,keyboard,software,accelerator,mac,shortcut,keystrokes]
 published: true
+changefreq: monthly
+priority: 0.9
 ---
 One of the most confusing things for Mac beginners is that the keys are differently configured from those on a Windows PC. The below table is my attempt to help you make some sense out of Mac Keyboard or Keystroke Shortcuts. 
 

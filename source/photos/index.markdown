@@ -11,6 +11,8 @@ description: This is Rick Cogley's photo gallery at DPHOTO.
 keywords: Rick Cogley,photos,photography,gallery,images,dphoto 
 tags: [Rick Cogley,photos,photography,gallery,images,dphoto]
 published: true
+changefreq: always
+priority: 1.0
 ---
 
 {% raw %} 

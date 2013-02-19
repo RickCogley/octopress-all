@@ -11,6 +11,8 @@ description: This is Rick Cogley's essay on reading between the lines of the Agi
 keywords: Rick Cogley,Agile Manifesto,software,project management,Agile Principles
 tags: [Rick Cogley,Agile Manifesto,software,project management,Agile Principles]
 published: true
+changefreq: monthly
+priority: 0.9
 ---
 
 Lately I have been thinking a lot about my firm [eSolia's][] way of managing support and projects. We have a lot of experience with PM for both business and IT, and have applied that experience repeatedly to improving our process. However, one day I was reading something about Agile teams and a Lean approach to doing business, and I started to notice that our approach already matched what was being discussed. Perhaps our approach would benefit from what was being discussed "in the literature". 

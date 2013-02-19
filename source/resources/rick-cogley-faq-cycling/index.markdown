@@ -11,6 +11,8 @@ description: This is Rick Cogley's cycling FAQ.
 keywords: Rick Cogley,cycling,biking,bike,faq,questions,beginner
 tags: [Rick Cogley,cycling,biking,bike,faq,questions,beginner]
 published: true
+changefreq: monthly
+priority: 0.9
 ---
 I started cycling seriously in 2007, so I thought I would record some of the things I asked and learned when I was starting out, in this FAQ. _May it help you._
 

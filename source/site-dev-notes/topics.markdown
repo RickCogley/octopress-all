@@ -5,6 +5,8 @@ date: 2013-01-12 06:30
 comments: false
 sharing: false
 footer: true
+changefreq: never
+priority: 0.0
 ---
 
 Topics are used for static "article" pages, which are different from chronological blog posts. Alistapart.com has a good topics structure. 
