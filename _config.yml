@@ -65,7 +65,7 @@ default_asides: [asides/select_blog.html, asides/tabs.html, custom/asides/social
 blog_index_asides: [asides/select_blog.html, asides/tabs.html, custom/asides/social.html, asides/pinboard.html]
 
 # post_asides:
-post_asides: [asides/select_blog.html, custom/asides/tabs-singlepost.html, custom/asides/social.html, asides/pinboard.html]
+post_asides: [asides/select_blog.html, custom/asides/tabs-singlepost.html, asides/lettering.html, custom/asides/social.html, asides/pinboard.html]
 
 # page_asides:
 page_asides: [asides/select_blog.html, asides/tabs.html, custom/asides/social.html, asides/pinboard.html]
