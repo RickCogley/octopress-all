@@ -11,7 +11,7 @@ categories: [Blog-Cogley, Security, Tips]
 tags: [encryption,passwords,mnemonic,memory,lastpass,1password,yubico,yubikey]
 googleplus_post: https://plus.google.com/106441590644824941284/posts/W6iau5g9aWS
 published: true
-lettering: Testing lettering plugin for styling some custom text
+lettering: A practical Security scheme for personal password protection.
 related_posts:
   - {title: "How to Spot a Phisher", url: "2013/02/14/how-to-spot-a-phisher/"}
 ---
