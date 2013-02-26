@@ -65,3 +65,5 @@
 *.SVG binary
 *.eot binary
 *.EOT binary
+*.otf binary
+*.OTF binary
