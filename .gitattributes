@@ -57,3 +57,11 @@
 *.ICO binary
 *.icns binary
 *.ICNS binary
+*.woff binary
+*.WOFF binary
+*.ttf binary
+*.TTF binary
+*.svg binary
+*.SVG binary
+*.eot binary
+*.EOT binary
