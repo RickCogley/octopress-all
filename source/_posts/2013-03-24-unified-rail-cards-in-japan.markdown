@@ -9,7 +9,7 @@ description: A post on Japan rail companies finally consolidating the rail pass 
 keywords: Rail Card,Subway Card,Unified,Suica,Pasmo,Kitaca,Icoca,Manaca,Toica,PiTaPa,Hayakaken,Nimoca,Sugoca,e-money,electronic money,e-ticket,electronic ticketing,スイカ,パスモ,キタカ,イコカ,マナカ,トイカ,ピタパ,ハヤカケン,ニモカ,スゴカ
 categories: [SnapJapan, Japan, Culture]
 tags: [Rail Card,Subway Card,Unified,Suica,Pasmo,Kitaca,Icoca,Manaca,Toica,PiTaPa,Hayakaken,Nimoca,Sugoca,e-money,electronic money,e-ticket,electronic ticketing,スイカ,パスモ,キタカ,イコカ,マナカ,トイカ,ピタパ,ハヤカケン,ニモカ,スゴカ]
-googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC
+googleplus_post: https://plus.google.com/u/0/106441590644824941284/posts/9UQAfAkmv3p
 published: true
 lettering: Rejoice- Japan Rail-Cards finally allow trans-company use.
 related_posts:
