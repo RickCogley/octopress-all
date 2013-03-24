@@ -11,7 +11,7 @@ categories: [SnapJapan, Japan, Culture]
 tags: [Rail Card,Subway Card,Unified,Suica,Pasmo,Kitaca,Icoca,Manaca,Toica,PiTaPa,Hayakaken,Nimoca,Sugoca,e-money,electronic money,e-ticket,electronic ticketing,スイカ,パスモ,キタカ,イコカ,マナカ,トイカ,ピタパ,ハヤカケン,ニモカ,スゴカ]
 googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC
 published: true
-lettering: Rejoice: Japan Rail-Cards finally allow trans-company use.
+lettering: Rejoice- Japan Rail-Cards finally allow trans-company use.
 related_posts:
   - {title: "Japan Railway Station Kiosks", url: "2008/12/02/station-kiosks-the-hubs-of-modern-japan/"}
   - {title: "Japan Rail Basically Accident-Free", url: "2008/10/24/japan-rail-kudos-an-amazing-record/"}
