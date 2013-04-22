@@ -9,7 +9,7 @@ description: LIFE Noble Note notebooks are great for fountain pen writing, by Ri
 keywords: LIFE, Shitamachi, Paper, Stationery, Noble Note, Quality, Fountain Pen, Ink
 categories: [SnapJapan, Japan, Art, Featured, Reviews]
 tags: [LIFE, Shitamachi, Paper, Stationery, Noble Note, Quality, Fountain Pen, Ink]
-googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC
+googleplus_post: https://plus.google.com/u/0/106441590644824941284/posts/E9urCXxCcq1
 lettering: LIFE Inc NOBLE Note features high-quality paper.
 published: true
 ---
@@ -18,14 +18,14 @@ _The stationers I use near my office, [Okamotoya Toranomon][1], introduced me to
 
 <!--more-->
 
-[{% img right http://farm9.staticflickr.com/8524/8639967610_85aa57d35f_d.jpg 300 'Click to view on Flickr: Noble Note' 'Noble Note from LIFE.' %}](http://www.flickr.com/photos/rickcogley/8639967610)After using their _Noble Note_ series in pad and bound forms for a while and loving it, a little poking around the web and I learned that __L!FE__ is based in Tokyo's "Shitamachi" area, and more specifically, [in East Kanda](http://goo.gl/maps/tQXI7), and has another office in Osaka, as well as a distribution center in Adachi Tokyo. 
+[{% img right http://farm9.staticflickr.com/8524/8639967610_85aa57d35f_d.jpg 100 'Click to view on Flickr: Noble Note' 'Noble Note from LIFE.' %}](http://www.flickr.com/photos/rickcogley/8639967610)After using their _Noble Note_ series in pad and bound forms for a while and loving it, a little poking around the web and I learned that __L!FE__ is based in Tokyo's "Shitamachi" area, and more specifically, [in East Kanda](http://goo.gl/maps/tQXI7), and has another office in Osaka, as well as a distribution center in Adachi Tokyo. 
 
 L!FE Noble Note notebooks are "hand made" according to the stationers, and their website. While I surprised about this, because of the lack of variation in the bindings, I would assume meticulousness when it comes to Japanese craftsmen. Here's what their site says: 
 
 {% blockquote %}
-[% img right http://farm9.staticflickr.com/8542/8670370548_dce02f797b_d.jpg 400 'Click to view on Flickr: LIFE Noble Series website' 'Screenshot of the LIFE Noble Series marketing blurb from their website.' %]Noble Note notebooks are the distillation of the ideal of handmade craft, since the establishment of L!FE Co. This smooth-writing report paper is designed with superior quality in mind. The robust and beautiful bindings are made with care, one by one in Tokyo's Shitamachi district. All are made with pride, thinking of those who love to write. 
-
-These were the original notebooks to include L!FE's "LIFE Writing Paper". Smoothness of writing is a given, but the paper is also supple when turning the pages, and softly colored to look at. This paper can be used in various products, including publications, notetaking, drawing etc, and has a trademarked laid pattern developed with a paper manufacturer. 
+[{% img right http://farm9.staticflickr.com/8542/8670370548_dce02f797b_d.jpg 400 'Click to view on Flickr: LIFE Noble Series website' 'Screenshot of the LIFE Noble Series marketing blurb from their website.' %}](http://www.flickr.com/photos/rickcogley/8670370548)Noble Note notebooks are the distillation of the ideal of handmade craft, since the establishment of L!FE Co. This smooth-writing report paper is designed with superior quality in mind. The robust and beautiful bindings are made with care, one by one in Tokyo's Shitamachi district. All are made with pride, thinking of those who love to write.  
+  
+These were the original notebooks to include L!FE's "LIFE Writing Paper". Smoothness of writing is a given, but the paper is also supple when turning the pages, and softly colored to look at. This paper can be used in various products, including publications, notetaking, drawing etc, and has a trademarked laid pattern developed with a paper manufacturer.  
   
 We hope you'll have your pens dance on our paper.
 {% endblockquote %} 
@@ -37,6 +37,7 @@ At any rate, I'm really pleased with the balance between quality and cost, in th
 One very important aspect to me, is the paper quality when used with fountain pens and ink. It's very good. In the bound version, using Pilot Iroshizuku inks and a fairly wet nib, you can see a faint impression of the characters on the previous page when you look underleaf, but it is not like the poor Moleskine bound notebook, where the ink just seeps through. 
 
 L!FE make a bunch of other interesting products, but unfortunately their website is Japanese only. Here's a few links, so you can at least enjoy the pictures: 
+
 * [Noble Note Series][8] - quality writing paper
 * [Shijira-ori Series][9] - notebooks with beautiful "shijira-ori" textile covers
 * [Outdoor Series][10] - water-resistant outdoor notebooks
