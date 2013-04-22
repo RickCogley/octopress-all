@@ -32,7 +32,7 @@ We hope you'll have your pens dance on our paper.
 
 The "laid" paper in the above is written as レイド on the site, so it is not easy to find the English equivalent because of the fact Japanese don't have r's and l's in their speech. From doing a little research, it turns out that "[laid paper][7]" is writing paper that is characterized by having a watermark of lines or ribs, running across its grain. 
 
-[{% img left http://farm9.staticflickr.com/8524/8639967610_85aa57d35f_d.jpg 200 'Click to view on Flickr: Noble Note' 'Noble Note from LIFE.' %}](http://www.flickr.com/photos/rickcogley/8639967610)At any rate, I'm really pleased with the balance between quality and cost, in the Noble Note series. An A4 size bound Noble Note with 100 sheets costs about 1500 JPY, which is half the cost of a bound A4 Rhodia here in Tokyo, and more if you compare sheet counts. 
+[{% img right http://farm9.staticflickr.com/8524/8639967610_85aa57d35f_d.jpg 150 'Click to view on Flickr: Noble Note' 'Noble Note from LIFE.' %}](http://www.flickr.com/photos/rickcogley/8639967610)At any rate, I'm really pleased with the balance between quality and cost, in the Noble Note series. An A4 size bound Noble Note with 100 sheets costs about 1500 JPY, which is half the cost of a bound A4 Rhodia here in Tokyo, and more if you compare sheet counts. 
 
 One very important aspect to me, is the paper quality when used with fountain pens and ink. It's very good. In the bound version, using Pilot Iroshizuku inks and a fairly wet nib, you can see a faint impression of the characters on the previous page when you look underleaf, but it is not like the poor Moleskine bound notebook, where the ink just seeps through. 
 
