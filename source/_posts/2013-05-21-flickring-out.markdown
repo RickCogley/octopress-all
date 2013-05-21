@@ -9,7 +9,7 @@ description: The Flickr May 2013 re-design is just more lipstick on a pig.
 keywords: Flickr, Redesign, Failure, Downgrade
 categories: [Blog-Cogley, Web, Reviews, Design]
 tags: [Flickr, Redesign, Failure, Downgrade]
-googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC
+googleplus_post: https://plus.google.com/u/0/106441590644824941284/posts/aHC9dkZrCpA
 lettering: May 2013 Flickr Redesign just feels wrong.
 published: true
 ---
