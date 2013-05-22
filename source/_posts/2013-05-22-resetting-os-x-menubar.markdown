@@ -11,7 +11,7 @@ categories: [Blog-Cogley, Software, Tips, Sysadmin]
 tags: [OS X, tip, tips, menubar, killall, dock, finder, apple]
 published: true
 lettering: How to killall frozen UI in OSX.
-googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC
+googleplus_post: https://plus.google.com/u/0/106441590644824941284/posts/6Zf4KHWsGGZ
 ---
 
 _Has your OS X menubar, Dock or Finder crashed? These very simple Terminal commands should do the trick._
