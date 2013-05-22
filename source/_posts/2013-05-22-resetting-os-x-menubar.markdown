@@ -20,15 +20,15 @@ _Has your OS X menubar, Dock or Finder crashed? These very simple Terminal comma
 
 If you find yourself in those situations, just start up Terminal (hint: just type it in Spotlight and press Enter), and issue the appropriate command. 
 
-{% codeblock Kill the Menubar. lang:Console %}
+{% codeblock Kill the Menubar. lang:console %}
 >killall -KILL SystemUIServer
 {% endcodeblock %}
 
-{% codeblock Kill the Dock or Spaces. lang:Console %}
+{% codeblock Kill the Dock or Spaces. lang:console %}
 >killall -KILL Dock
 {% endcodeblock %}
 
-{% codeblock Kill the Finder. lang:Console %}
+{% codeblock Kill the Finder. lang:console %}
 >killall -KILL Finder
 {% endcodeblock %}
 
