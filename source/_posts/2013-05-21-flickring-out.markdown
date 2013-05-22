@@ -27,9 +27,13 @@ Yahoo "upgraded" the Flickr site today, and the outpouring of foot-stamping, bil
 * For users who have uploaded photos with frames that looked good on the standard Flickr white background, well, you're SOL, because the background's now black. 
 * The load performance is poor, and the massive grid of photos does not load very well. 
 
-{% pullquote %}Anyway, despite the breathless gushing praise for the 1 TB for free users, in the end I think it's a clear example of more Yahoo clumsiness. Well, if we're to continue on with Flickr, we have to accept that it is what it is, but what I think is going on is this: Yahoo is offering a very attractive free-but-ad-based deal at the expense of all their "dead wood" Pro users and their soddin' feelings. {" Yahoo expect their ad revenue to exceed the sum total of what the current 25 USD / year Pro users are paying, so, they're content to force the issue to bulk up that particular ad revenue stream. "} It feels like a good opportunity for everyone else - Google+, [DPHOTO][2], Zenfolio, Smugmug and so on.{% endpullquote %}
+{% pullquote %}Anyway, despite the breathless gushing praise for the 1 TB for free users, in the end I think it's a clear example of more Yahoo clumsiness. Well, if we're to continue on with Flickr, we have to accept that it is what it is, but what I think is going on is this: Yahoo is offering a very attractive free-but-ad-based deal at the expense of all their "dead wood" Pro users and their soddin' feelings. {" Yahoo expect their ad revenue to exceed the sum total of what the current 25 USD / year Pro users are paying, so, they're content to force the issue to bulk up that particular revenue stream. "} It feels like a good opportunity for everyone else - Google+, [DPHOTO][2], Zenfolio, Smugmug and so on.{% endpullquote %}
 
 Isn't it nice to be part of the grand Yahoo strategy? I'm feeling a bit of motion sickness from this particular ride.
+
+###Updates###
+  
+* _23 May 2013_ - there was talk of a 300MB upload limit per month, but this has apparently been lifted and was a bug. So it won't take you 1000s of years to use up that Terabyte. Performance is still poor, and CSS was broken yesterday. I did get an email that talked about existing recurring Pro users getting the same pricing going forward for unlimited space, essentially being "grandfathered in", and it appears I need to decide whether to accept that, or, go with the free, ads-supported 1-TB model by Aug this year.
 
 [1]:	http://www.flickr.com/help/forum/en-us/72157633547442506/ "Flickr Support Forum Thread"
 [2]:	http://www.dphoto.com "DPHOTO"

@@ -34,4 +34,4 @@ If you find yourself in those situations, just start up Terminal (hint: just typ
 
 ... or, _Ctrl-Option-Click_ the Finder icon in the Dock. 
 
-I hope this helps someone with a crashed Finder, Dock or Menubar in Apple OS X. 
+So try this if you're running OS X and find yourself with a crashed Finder, Dock or Menubar, so you can get started again quickly without a reboot. 
