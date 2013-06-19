@@ -9,7 +9,7 @@ description: A post on how Linkedin has finally fixed its location bug, after a 
 keywords: logic error,location,LinkedIn,search listing,bug,eSolia,23 wards
 categories: [Blog-Cogley, Japan, Business, Service, Reviews, Troubleshooting]
 tags: [logic error,location,LinkedIn,search listing,bug,eSolia,23 wards]
-googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC
+googleplus_post: https://plus.google.com/106441590644824941284/posts/9S37ZgmY9C7
 published: true
 lettering: Tokyo search Bug finally fixed by Linkedin.
 related_posts:
@@ -31,7 +31,9 @@ Here's what I observed -
 * It's arrogant of Linkedin development, to use a designator like "inside the 23 wards of Tokyo" or "outside the 23 wards of Tokyo" about a geography for which they haven't a clue, and then get it exactly wrong. An example of unchecked engineering overcomplicating matters. Just take the designator out, if you cannot get it right!
 * Linkedin support could only offer up half-baked duct-tape-and-spit workarounds, such as changing my zipcode to one that _is_ working, and then, the little gremlins would make some change where even _that_ would fail. So, if I accepted this "fix" I would have to chase it up every so often, to check if it is still working. This was exacerbated by the fact that they'd never follow up, despite saying they would. 
 
-This all recently came to a head, when I paid for a job posting about a month ago, and it of course picked up our incorrect address. I was told there was "no way" to change the mistaken address since I had entered it that way when I created the job posting! It was ironic that Linkedin support also then told me to fix my postal code, even though they had told me to set it incorrectly to resolve the problem in the first place. In other words, they did not even look at past tickets, nor were they aware of the issue. 
+This all recently came to a head, when I paid for a job posting about a month ago, and it of course picked up our incorrect address. I was told there was "no way" to change the mistaken address since I had entered it that way when I created the job posting! They did offer a credit, but I just wanted this problem fixed, so I persisted. 
+
+It was ironic that Linkedin support also then told me to fix my postal code, even though they had told me to set it incorrectly to resolve the problem in the first place. In other words, they did not even look at past tickets, nor were they aware of the issue. 
 
 Well, the positive is now it works like it _should always have_, and I can stop thinking about it. Thanks for wasting my time over the last year, Linkedin. 
 
