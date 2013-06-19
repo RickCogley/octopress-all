@@ -7,7 +7,7 @@ date: 2013-06-19 12:35
 comments: true
 description: A post on how Linkedin has finally fixed its location bug, after a year of asking, by Rick Cogley.
 keywords: logic error,location,LinkedIn,search listing,bug,eSolia,23 wards
-categories: [[Blog-Cogley, Japan, Business, Service, Reviews, Troubleshooting]
+categories: [Blog-Cogley, Japan, Business, Service, Reviews, Troubleshooting]
 tags: [logic error,location,LinkedIn,search listing,bug,eSolia,23 wards]
 googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC
 published: true
