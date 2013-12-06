@@ -16,5 +16,6 @@ priority: 1.0
 ---
 
 {% raw %} 
-<iframe width='100%' height='800' frameborder='0' allowtransparency='true' scrolling='no' src='http://rickcogley.dphoto.com'></iframe>
+<!-- 500pxWidget -->
+<iframe src="http://500pxwidget.com/in/?u=cmlja2NvZ2xleXxpbnwyNTB8M3wzfHx5ZXN8M3w=" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:789px; height: 789px" ></iframe>
 {% endraw %}
