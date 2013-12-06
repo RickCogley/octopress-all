@@ -1,6 +1,6 @@
 ---
 layout: resources
-title: "Photos from Rick Cogley at DPHOTO"
+title: "Photos from Rick Cogley at 500px"
 date: 2013-02-11 9:59
 comments: false
 sharing: true
@@ -14,8 +14,12 @@ published: true
 change_frequency: always
 priority: 1.0
 ---
-
+Visit my full photo gallery [at 500px](http://500px.com/rickcogley). 
+  
 {% raw %} 
 <!-- 500pxWidget -->
 <iframe src="http://500pxwidget.com/in/?u=cmlja2NvZ2xleXxpbnwyNTB8M3wzfHx5ZXN8M3w=" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden; width:789px; height: 789px" ></iframe>
 {% endraw %}
+  
+This 500px display widget is by [500pxWidget](http://500pxwidget.com/).  
+  
