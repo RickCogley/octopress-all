@@ -7,9 +7,9 @@ sharing: true
 sidebar: false
 footer: true
 categories: [Photos]
-description: This is Rick Cogley's photo gallery at DPHOTO.
-keywords: Rick Cogley,photos,photography,gallery,images,dphoto 
-tags: [Rick Cogley,photos,photography,gallery,images,dphoto]
+description: This is Rick Cogley's photo gallery at 500px.
+keywords: Rick Cogley,photos,photography,gallery,images,500px 
+tags: [Rick Cogley,photos,photography,gallery,images,500px]
 published: true
 change_frequency: always
 priority: 1.0
