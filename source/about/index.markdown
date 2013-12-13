@@ -145,7 +145,7 @@ You can <a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/abo
   						<a rel="me" class="url" href="https://plus.google.com/u/0/107046878530748803729/posts" target="_blank">Google+</a>, 
   						<a rel="me" class="url" href="http://twitter.com/rickcogley" target="_blank">Twitter</a>, 
   						<a rel="me" class="url" href="http://flickr.com/rickcogley/" target="_blank">Flickr</a>, 
-  						<a rel="me" class="url" href="http://rickcogley.dphoto.com" target="_blank">DPHOTO</a>, 
+  						<a rel="me" class="url" href="http://500px.com/rickcogley" target="_blank">500px</a>, 
   						<a rel="me" class="url" href="http://www.linkedin.com/in/rickcogley" target="_blank">Linkedin</a>, 
   						<a rel="me" class="url" href="https://pinboard.in/u:rickcogley" target="_blank">Pinboard</a>, 
   						<a rel="me" class="url" href="https://www.facebook.com/rickcogley" target="_blank">Facebook</a>, 
@@ -186,7 +186,7 @@ Let's connect via social networking sites:
 <a rel="me" class="btn btn-danger" href="https://plus.google.com/u/0/107046878530748803729/posts" target="_blank"><i class="icon-google-plus icon-large"></i> Google+</a>
 <a rel="me" class="btn btn-success" href="http://twitter.com/rickcogley" target="_blank"><i class="icon-twitter icon-large"></i> Twitter</a>
 <a rel="me" class="btn btn-inverse" href="http://www.flickr.com/photos/rickcogley/" target="_blank"><i class="icon-camera-retro icon-large"></i> Flickr</a>
-<a rel="me" class="btn btn-warning" href="http://rickcogley.dphoto.com" target="_blank"><i class="icon-th icon-large"></i> DPHOTO</a>
+<a rel="me" class="btn btn-warning" href="http://500px.com/rickcogley" target="_blank"><i class="icon-th icon-large"></i> 500px</a>
 <a rel="me" class="btn btn-info" href="http://www.linkedin.com/in/rickcogley" target="_blank"><i class="icon-linkedin-sign icon-large"></i> LinkedIn</a>
 <a rel="me" class="btn" href="https://pinboard.in/u:rickcogley" target="_blank"><i class="icon-pushpin icon-large"></i> Pinboard</a>
 <a rel="me" class="btn btn-primary" href="https://www.facebook.com/rickcogley" target="_blank"><i class="icon-facebook-sign icon-large"></i> Facebook</a>
