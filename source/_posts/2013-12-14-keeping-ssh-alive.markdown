@@ -9,7 +9,7 @@ description: A post on how to keep ssh sessions alive in OS X Terminal, by Rick 
 keywords: sysadmin,ssh,session,keepalive,openssh
 categories: [Blog-Cogley, Troubleshooting, Software, Sysadmin, Tips]
 tags: [sysadmin,ssh,session,keepalive,openssh]
-googleplus_post: https://plus.google.com/106441590644824941284/posts/9S37ZgmY9C7
+googleplus_post: https://plus.google.com/106441590644824941284/posts/7mL5knzVhza
 published: true
 lettering: Keep those OSX terminal ssh sessions alive
 ---
