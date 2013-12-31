@@ -9,7 +9,7 @@ description: A post on how to display markdown textfiles directly from your Drop
 keywords: Markdown,MDWiki,Dropbox,OSS,opensource
 categories: [Blog-Cogley, Software, Sysadmin, Tips, Productivity]
 tags: [Markdown,MDWiki,Dropbox,OSS,opensource]
-googleplus_post: https://plus.google.com/106441590644824941284/posts/7mL5knzVhza
+googleplus_post: https://plus.google.com/106441590644824941284/posts/T8NxFxF3QYK
 published: true
 lettering: Display a Markdown file directly from Dropbox
 ---
