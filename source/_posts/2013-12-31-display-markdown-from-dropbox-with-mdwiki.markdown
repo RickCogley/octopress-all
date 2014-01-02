@@ -38,11 +38,11 @@ You can [create a Dropbox account for free](https://t.co/EJKPA6EUih). Just enter
 
 ###So, how do you display a markdown file via Dropbox?###
 
-If you have not signed up for Dropbox, [do it now for free](https://t.co/EJKPA6EUih) and install the software. Once done, you will find a Public folder inside your Dropbox folder, and that's where you need to put your folder and files. For example, make a folder called ``Markdown`` for storing your text files.
+If you have not signed up for Dropbox, [do it now for free](https://t.co/EJKPA6EUih) and install the software. Once done, you will need to enable your Public Folder using [this link](https://www.dropbox.com/enable_public_folder). Once that is done, you will find a Public folder inside your Dropbox folder, and that's where you need to put your folder and files. For example, make a folder called ``!Shared`` for storing your text files. 
 
 The key to this solution is the wonderful opensource software ["MDwiki"](http://dynalon.github.io/mdwiki/#!index.md). Download the latest release [here](https://github.com/Dynalon/mdwiki/releases/latest), or my backup of the 0.6.1 version [here](https://dl.dropboxusercontent.com/u/5987939/!backups/MDwiki/mdwiki-0.6.1.zip). 
 
-Extract the MDwiki zip, and copy its ``mdwiki.html`` and ``README.md`` files to your Markdown text file folder (remember Dropbox has a local folder in your hard disk, the contents of which are automatically synced to the Dropbox server in the cloud). Log into Dropbox.com on the web, navigate to the Public folder and your ``Markdown`` folder. Then right click on the ``mdwiki.html`` file, and copy its Public URL. 
+Extract the MDwiki zip, and copy its ``mdwiki.html`` and ``README.md`` files to your Markdown text file folder (remember Dropbox has a local folder in your hard disk, the contents of which are automatically synced to the Dropbox server in the cloud). Log into Dropbox.com on the web, navigate to the Public folder and your ``!Shared`` folder. Then right click on the ``mdwiki.html`` file, and copy its Public URL. 
 
 Any Markdown-formatted text file will do for this experiment, so let's start by displaying the ``README.md`` file. Paste the Public URL from above into your Internet browser address box, remove the s from the https, and add ``!#`` followed by the filename of the Markdown text file. Like so: 
   
@@ -81,3 +81,13 @@ You can tune this solution further. Here are a few ideas:
 * If your Markdown filenames have spaces, use a ``%20`` to escape the space. For example if my file is ``Repository Managers.md``, I would need to enter ``Repository%20Managers.md`` in the URL.
 
 Did this help you? Let me know in the comments and **Happy New Year**!
+
+###Updates###
+  
+**20140102** -  
+  
+* Added link to the iPad editor OMZ Editorial.
+* Updated per: MDwiki Author [Timo Doerr](https://twitter.com/timodoerr) mentioned via Twitter that new Dropbox accounts have their Public folder _disabled_ by default. He cited [this article](http://techdows.com/2012/10/create-public-folder-dropbox-new-account.html) as to how to enable. 
+
+
+
