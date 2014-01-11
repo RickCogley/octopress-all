@@ -28,6 +28,15 @@ _... From Yours Truly:_
   </p>
 </div>
 <div class="hero-unit">
+  <h1>Goroawase</h1>
+  <p>Nihongo "Goroawase" is Japanese wordplay.</p>
+  <p>
+    <a href="/resources/rick-cogley-goroawase-japanese-wordplay/" class="btn btn-success btn-large">
+      Play!
+    </a>
+  </p>
+</div>
+<div class="hero-unit">
   <h1>Between Agile Lines</h1>
   <p>Reading between the lines of the Agile Manifesto.</p>
   <p>
