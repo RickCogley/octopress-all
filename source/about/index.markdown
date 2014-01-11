@@ -185,13 +185,13 @@ Let's connect via social networking sites:
 {% raw %}
 <a rel="me" class="btn btn-danger" href="https://plus.google.com/+RickCogley" target="_blank"><i class="icon-google-plus icon-large"></i> Google+</a>
 <a rel="me" class="btn btn-success" href="http://twitter.com/rickcogley" target="_blank"><i class="icon-twitter icon-large"></i> Twitter</a>
-<a rel="me" class="btn btn-primary" href="https://alpha.app.net/rickcogley" target="_blank"><i class="icon-comments-alt icon-large"></i> App.net</a>
-<a rel="me" class="btn btn-inverse" href="http://www.flickr.com/photos/rickcogley/" target="_blank"><i class="icon-camera-retro icon-large"></i> Flickr</a>
-<a rel="me" class="btn btn-warning" href="http://500px.com/rickcogley" target="_blank"><i class="icon-th icon-large"></i> 500px</a>
+<a rel="me" class="btn btn-primary" href="https://alpha.app.net/rickcogley" target="_blank"><i class="icon-adn icon-large"></i> App.net</a>
+<a rel="me" class="btn btn-inverse" href="http://www.flickr.com/photos/rickcogley/" target="_blank"><i class="icon-flickr icon-large"></i> Flickr</a>
+<a rel="me" class="btn btn-warning" href="http://500px.com/rickcogley" target="_blank"><i class="icon-camera-retro icon-large"></i> 500px</a>
 <a rel="me" class="btn btn-info" href="http://www.linkedin.com/in/rickcogley" target="_blank"><i class="icon-linkedin-sign icon-large"></i> LinkedIn</a>
 <a rel="me" class="btn" href="https://pinboard.in/u:rickcogley" target="_blank"><i class="icon-pushpin icon-large"></i> Pinboard</a>
 <a rel="me" class="btn btn-primary" href="https://www.facebook.com/rickcogley" target="_blank"><i class="icon-facebook-sign icon-large"></i> Facebook</a>
-<a rel="me" class="btn btn-warning" href="http://www.youtube.com/user/rickcogley" target="_blank"><i class="icon-play-sign icon-large"></i> Youtube</a>
+<a rel="me" class="btn btn-warning" href="http://www.youtube.com/user/rickcogley" target="_blank"><i class="icon-youtube-play icon-large"></i> Youtube</a>
 <a rel="me" class="btn btn-success" href="http://vimeo.com/rickcogley" target="_blank"><i class="icon-facetime-video icon-large"></i> Vimeo</a>
 {% endraw %}
 
