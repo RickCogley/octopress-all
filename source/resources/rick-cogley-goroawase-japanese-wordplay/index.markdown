@@ -7,7 +7,7 @@ sharing: true
 sidebar: false
 footer: true
 categories: [Resources, Japan, Culture, Personal, Resources, Weird]
-description: This is Rick Cogley's "goroawase" Japanese wordplay page.
+description: This is Rick Cogley's goroawase Japanese wordplay page.
 keywords: Rick Cogley,language,goroawase,wordplay,japanese
 tags: [Rick Cogley,language,goroawase,wordplay,japanese]
 published: true
