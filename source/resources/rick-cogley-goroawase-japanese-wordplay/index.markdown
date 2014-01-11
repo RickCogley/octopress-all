@@ -25,15 +25,16 @@ As a point of interest, the data for this page is held in a data table in eSolia
 #Visitor Submissions
 
 {% raw %}
-<form name="frm" method="post" action="https://pro.dbflex.net/secure/gateway.aspx?action=WebToRecord&amp;app=15331&amp;table=200059"><!--
-Specify the complete URL to which users should be directed after they submit their information. 
-This could be a "thank you" page or your company's home page. 
---><input type="hidden" name="retURL" value="http://rick.cogley.info/resources/rick-cogley-goroawase-japanese-wordplay/"><table class="fs-gridtable" border="0" cellspacing="1" cellpadding="4" width="100%" style="border-collapse:separate">
-    <tr>
-      <th align="right" valign="top" width="13%">
-        <font color="#000000">Submit your goroawase here:</font>
-      </th>
-      <td valign="top" colspan="7" width="87%" bgcolor="#EEEEEE"><textarea name="f_4484965" rows="15" cols="40" style="width:100%"></textarea></td>
-    </tr>
-  </table><input type="submit"></form>
+<form name="frm" method="post" action="https://pro.dbflex.net/secure/gateway.aspx?action=WebToRecord&amp;app=15331&amp;table=200059">
+<input type="hidden" name="retURL" value="http://rick.cogley.info/resources/rick-cogley-goroawase-japanese-wordplay/">
+	<table class="fs-gridtable" border="0" cellspacing="1" cellpadding="4" width="100%" style="border-collapse:separate">
+	    <tr>
+	      <th align="right" valign="top" width="13%">
+	        <font color="#000000">Submit your goroawase here:</font>
+	      </th>
+	      <td valign="top" colspan="7" width="87%" bgcolor="#EEEEEE"><textarea name="f_4484965" rows="15" cols="40" style="width:100%"></textarea></td>
+	    </tr>
+	</table>
+<input type="submit">
+</form>
 {% endraw %}
