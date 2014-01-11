@@ -1,7 +1,7 @@
 ---
 layout: resources
 title: "About Rick Cogley"
-date: 2013-01-13 20:59
+date: 2014-01-11 15:00
 comments: false
 sharing: true
 sidebar: true
@@ -185,7 +185,7 @@ Let's connect via social networking sites:
 {% raw %}
 <a rel="me" class="btn btn-danger" href="https://plus.google.com/+RickCogley" target="_blank"><i class="icon-google-plus icon-large"></i> Google+</a>
 <a rel="me" class="btn btn-success" href="http://twitter.com/rickcogley" target="_blank"><i class="icon-twitter icon-large"></i> Twitter</a>
-<a rel="me" class="btn btn-primary" href="https://alpha.app.net/rickcogley" target="_blank"><i class="icon-comments-alt icon-large"></i> App.net</a>
+<a rel="me" class="btn btn-primary" href="https://alpha.app.net/rickcogley" target="_blank"><i class="icon-adn icon-large"></i> App.net</a>
 <a rel="me" class="btn btn-inverse" href="http://www.flickr.com/photos/rickcogley/" target="_blank"><i class="icon-camera-retro icon-large"></i> Flickr</a>
 <a rel="me" class="btn btn-warning" href="http://500px.com/rickcogley" target="_blank"><i class="icon-th icon-large"></i> 500px</a>
 <a rel="me" class="btn btn-info" href="http://www.linkedin.com/in/rickcogley" target="_blank"><i class="icon-linkedin-sign icon-large"></i> LinkedIn</a>
