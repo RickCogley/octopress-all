@@ -16,7 +16,7 @@ priority: 0.9
 ---
 A fun aspect of Nihongo language learning is Japanese "goroawase" (語呂合わせ) or wordplay where numbers are substituted for sounds, for mnemonic purposes. Numbers can be pronounced in various ways in Japanese, and they are combined together to form words in everyday usage in Japan. This page lists some commonly seen goroawase. Please submit any goroawase {% raw %}<a href="mailto:rick@cogley.info?subject=Goroawase Submission for Rick Cogley Central">via email</a>{% endraw %} you happen to know, and I will add them to the list. 
 
-{% raw %}<i class="icon-rss-sign"></i>{% endraw %} [RSS Feed](https://pro.dbflex.net/secure/db/15331/rss.ashx?view=1279723&user=6ba3496348c34ba9b54cab34d684ad5d)
+{% raw %}<i class="icon-rss-sign"></i>{% endraw %} [RSS Feed](https://pro.dbflex.net/secure/public/db/15331/rss.ashx?view=1279723&user=40863e67a24a41e281eac29548bc68b2)
 
 {% raw %} 
 <iframe width='100%' height='1000' frameborder='0' allowtransparency='true' scrolling='yes' src='https://pro.dbflex.net/secure/embedded/db/15331/view.aspx?id=1279723'></iframe>
