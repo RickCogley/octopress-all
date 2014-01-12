@@ -46,7 +46,7 @@ See my [Goroawase Reference Page](/resources/rick-cogley-goroawase-japanese-word
 If you are in Japan and see a sign or advert with kana under numbers, here's a list of possible substitutions you can try, to help you comprehend what is being written. This list includes onyomi (Chinese reading), kunyomi (Japanese reading), and English transliterations for your reference. 
 
 {% raw %}
-<iframe width='100%' height='400' frameborder='0' allowtransparency='true' scrolling='yes' src='https://pro.dbflex.net/secure/embedded/db/15331/view.aspx?id=1280356'></iframe>
+<iframe width='100%' height='450' frameborder='0' allowtransparency='true' scrolling='yes' src='https://pro.dbflex.net/secure/embedded/db/15331/view.aspx?id=1280356'></iframe>
 {% endraw %}
 
 Please visit my [Goroawase Reference Page](/resources/rick-cogley-goroawase-japanese-wordplay/) for a list, and have fun learning Japanese!

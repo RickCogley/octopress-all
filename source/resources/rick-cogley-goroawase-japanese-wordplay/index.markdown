@@ -27,7 +27,7 @@ A fun aspect of Nihongo language learning is Japanese "goroawase" (語呂合わ�
 When you are looking at goroawase, a list of the possible substitutions is illustrative. Here's a list of numbers with onyomi (Chinese reading), kunyomi (Japanese reading), and English transliterations for your reference. 
 
 {% raw %}
-<iframe width='100%' height='400' frameborder='0' allowtransparency='true' scrolling='yes' src='https://pro.dbflex.net/secure/embedded/db/15331/view.aspx?id=1280356'></iframe>
+<iframe width='100%' height='375' frameborder='0' allowtransparency='true' scrolling='yes' src='https://pro.dbflex.net/secure/embedded/db/15331/view.aspx?id=1280356'></iframe>
 {% endraw %}
 
 As a point of interest, the data for this page is stored in a data table in eSolia's flexible cloud database ["PROdb"](http://www.esolia.com/prodb), and is being referenced in an iframe. _Feedback and additions are welcome._ 
