@@ -2,11 +2,11 @@
 layout: post
 post_title: "39 Goroawase! - Japanese Word Play"
 date: 2009-11-15 13:01:40 UTC
-updated: 2014-01-12 05:00:40 UTC
+updated: 2014-01-13 06:00:40 UTC
 comments: true
 categories: [SnapJapan, Japan, Culture, Language]
-keywords: leisure,Language,Japanese,Goroawase,語呂合わせ
-tags: [leisure,Language,Japanese,Goroawase,語呂合わせ]
+keywords: Rick Cogley,language,goroawase,goro-awase,wordplay,japanese,nihongo,mnemonic,substitution,humor,homonymn,phonetic reading,transliteration,日本語,語呂合わせ,ワードプレー,縁起担ぎ,文字替え,数字の暗記
+tags: [Rick Cogley,language,goroawase,goro-awase,wordplay,japanese,nihongo,mnemonic,substitution,humor,homonymn,phonetic reading,transliteration,日本語,語呂合わせ,ワードプレー,縁起担ぎ,文字替え,数字の暗記]
 posticon: default
 cover: /images/Rick_Casual_01.jpg
 description: Post on goroawase Japanese wordplay, by Rick Cogley. 

@@ -1,15 +1,15 @@
 ---
 layout: resources
 title: "Goroawase Japanese Word-play"
-date: 2014-01-12 12:40
+date: 2014-01-13 12:40
 comments: false
 sharing: true
 sidebar: false
 footer: true
 categories: [Resources, Japan, Culture, Personal, Resources, Weird]
 description: This is Rick Cogley's goroawase Japanese wordplay page.
-keywords: Rick Cogley,language,goroawase,wordplay,japanese,語呂合わせ
-tags: [Rick Cogley,language,goroawase,wordplay,japanese,語呂合わせ]
+keywords: Rick Cogley,language,goroawase,goro-awase,wordplay,japanese,nihongo,mnemonic,substitution,humor,homonymn,phonetic reading,transliteration,日本語,語呂合わせ,ワードプレー,縁起担ぎ,文字替え,数字の暗記
+tags: [Rick Cogley,language,goroawase,goro-awase,wordplay,japanese,nihongo,mnemonic,substitution,humor,homonymn,phonetic reading,transliteration,日本語,語呂合わせ,ワードプレー,縁起担ぎ,文字替え,数字の暗記]
 published: true
 change_frequency: monthly
 priority: 0.9
