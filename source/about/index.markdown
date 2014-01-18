@@ -195,3 +195,4 @@ Let's connect via social networking sites:
 <a rel="me" class="btn btn-success" href="http://vimeo.com/rickcogley" target="_blank"><i class="icon-facetime-video icon-large"></i> Vimeo</a>
 {% endraw %}
 
+Or, subscribe to broadcasts about this site's new content, via the section in the sidebar. If you are an App.net member, you can get push notifications. Just be logged in when you click subscribe. Otherwise, enter your email to do so. 
