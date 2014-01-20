@@ -36,8 +36,10 @@ First, a few points to note about this sheet:
 * I list "marketing" uptime as six nines, five nines, four nines and so on. Notice the marketing terms cover a range of downtime. For example, four nines is anywhere from 27 sec to just under 15 min / month. A user might not even notice 27 seconds, but 15 min will likely be noticed. 
 * The difference between six & five nines, 5 & 4, 4 & 3, 3 & 2, and 2 & 1 nines, is 10 times the downtime in each case. Six nines is 2.63 sec / month down, whereas five nines is 26.30 sec / month down. 
 
+###Figure: System Downtimes as Percentages & Durations
+
 {% raw %} 
-<iframe width='100%' height='400' frameborder='0' allowtransparency='true' scrolling='yes' src='https://docs.google.com/spreadsheet/pub?key=0AoreQ_hTvc2XdGQxZURCdU9YTUJheVVwd1h5MGZhTUE&single=true&gid=0&range=A1%3AH24&output=html'></iframe>
+<iframe width='100%' height='400' frameborder='0' allowtransparency='true' scrolling='no' src='https://docs.google.com/spreadsheet/pub?key=0AoreQ_hTvc2XdGQxZURCdU9YTUJheVVwd1h5MGZhTUE&single=true&gid=0&range=A1%3AH24&output=html'></iframe>
 {% endraw %}
 
 I hope you can find some value in knowing these ranges and number relationships, when you are discussing system uptime. But the hard work of figuring out how to keep systems _available_ still has to be done, and in the most practical way possible. 
