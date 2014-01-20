@@ -11,6 +11,7 @@ categories: [Blog-Cogley, Technology, SysAdmin, Troubleshooting, Service]
 tags: [uptime, downtime, availability, nines, marketing]
 published: true
 googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC
+lettering: Don't let marketing dress to the nines
 ---
 
 _Marketing speak, when it comes to system uptime or downtime, can be  misleading. Learn some basic relationships between your "nines" of downtime to be ready._ 
