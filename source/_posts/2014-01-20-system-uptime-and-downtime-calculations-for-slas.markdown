@@ -10,8 +10,8 @@ keywords: uptime, downtime, availability, nines, marketing
 categories: [Blog-Cogley, Technology, SysAdmin, Troubleshooting, Service]
 tags: [uptime, downtime, availability, nines, marketing]
 published: true
-googleplus_post: https://plus.google.com/106441590644824941284/posts/gt84GQtzYRC
-lettering: Don't let marketing dress to the nines
+googleplus_post: https://plus.google.com/106441590644824941284/posts/NHDXws4X7zd
+lettering: Is it up or is it available?
 ---
 
 _Marketing speak, when it comes to system uptime or downtime, can be  misleading. Learn some basic relationships between your "nines" of downtime to be ready._ 
@@ -37,7 +37,7 @@ First, a few points to note about this sheet:
 * The difference between six & five nines, 5 & 4, 4 & 3, 3 & 2, and 2 & 1 nines, is 10 times the downtime in each case. Six nines is 2.63 sec / month down, whereas five nines is 26.30 sec / month down. 
 
 {% raw %} 
-<iframe width='100%' height='390' frameborder='0' allowtransparency='true' scrolling='yes' src='https://docs.google.com/spreadsheet/pub?key=0AoreQ_hTvc2XdGQxZURCdU9YTUJheVVwd1h5MGZhTUE&single=true&gid=0&range=A1%3AH24&output=html'></iframe>
+<iframe width='100%' height='400' frameborder='0' allowtransparency='true' scrolling='yes' src='https://docs.google.com/spreadsheet/pub?key=0AoreQ_hTvc2XdGQxZURCdU9YTUJheVVwd1h5MGZhTUE&single=true&gid=0&range=A1%3AH24&output=html'></iframe>
 {% endraw %}
 
 I hope you can find some value in knowing these ranges and number relationships, when you are discussing system uptime. But the hard work of figuring out how to keep systems _available_ still has to be done, and in the most practical way possible. 
