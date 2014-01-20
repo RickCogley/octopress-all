@@ -7,7 +7,7 @@ date: 2013-05-22 14:34
 comments: true
 description: OS X Menubar, Dock or Finder crashed? Read this post by Rick Cogley on how to reset it.
 keywords: OS X, tip, tips, menubar, killall, dock, finder, apple, 10.8.3, 2013
-categories: [Blog-Cogley, Software, Tips, Sysadmin]
+categories: [Blog-Cogley, Software, Tips, SysAdmin]
 tags: [OS X, tip, tips, menubar, killall, dock, finder, apple, 10.8.3, 2013]
 published: true
 lettering: How to killall frozen UI in OSX.

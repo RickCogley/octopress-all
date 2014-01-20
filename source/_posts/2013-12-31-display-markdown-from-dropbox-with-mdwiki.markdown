@@ -7,7 +7,7 @@ date: 2013-12-31 21:45
 comments: true
 description: A post on how to display markdown textfiles directly from your Dropbox, by Rick Cogley.
 keywords: Markdown,MDWiki,Dropbox,OSS,opensource
-categories: [Blog-Cogley, Software, Sysadmin, Tips, Productivity]
+categories: [Blog-Cogley, Software, SysAdmin, Tips, Productivity]
 tags: [Markdown,MDWiki,Dropbox,OSS,opensource]
 googleplus_post: https://plus.google.com/106441590644824941284/posts/T8NxFxF3QYK
 published: true
