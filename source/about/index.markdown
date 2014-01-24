@@ -149,7 +149,7 @@ You can <a type="text/directory" href="http://h2vx.com/vcf/notes.cogley.info/abo
   						<a rel="me" class="url" href="http://www.linkedin.com/in/rickcogley" target="_blank">Linkedin</a>, 
   						<a rel="me" class="url" href="https://pinboard.in/u:rickcogley" target="_blank">Pinboard</a>, 
   						<a rel="me" class="url" href="https://www.facebook.com/rickcogley" target="_blank">Facebook</a>, 
-  						<a rel="me" class="url" href="http://www.youtube.com/user/rickcogley" target="_blank">Youtube</a>.
+  						<a rel="me" class="url" href="http://www.youtube.com/user/rickcogley?sub_confirmation=1" target="_blank">Youtube</a>.
   					</div>
   					<div class="note"><em>Tags:</em> <span class="category">Business Owner and CEO</span>, <span class="category">Japan Hand</span>, <span class="category">Project Manager</span>, <span class="category">Bilingual English and Japanese</span>, <span class="category">Cyclist</span>, <span class="category">Percussionist</span>, <span class="category">Avid Technologist</span></div>
   				</div>
@@ -191,7 +191,7 @@ Let's connect via social networking sites:
 <a rel="me" class="btn btn-info" href="http://www.linkedin.com/in/rickcogley" target="_blank"><i class="icon-linkedin-sign icon-large"></i> LinkedIn</a>
 <a rel="me" class="btn" href="https://pinboard.in/u:rickcogley" target="_blank"><i class="icon-pushpin icon-large"></i> Pinboard</a>
 <a rel="me" class="btn btn-primary" href="https://www.facebook.com/rickcogley" target="_blank"><i class="icon-facebook-sign icon-large"></i> Facebook</a>
-<a rel="me" class="btn btn-warning" href="http://www.youtube.com/user/rickcogley" target="_blank"><i class="icon-youtube-play icon-large"></i> Youtube</a>
+<a rel="me" class="btn btn-warning" href="http://www.youtube.com/user/rickcogley?sub_confirmation=1" target="_blank"><i class="icon-youtube-play icon-large"></i> Youtube</a>
 <a rel="me" class="btn btn-success" href="http://vimeo.com/rickcogley" target="_blank"><i class="icon-facetime-video icon-large"></i> Vimeo</a>
 {% endraw %}
 
