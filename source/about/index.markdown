@@ -1,7 +1,7 @@
 ---
 layout: resources
 title: "About Rick Cogley"
-date: 2014-01-11 15:00
+date: 2014-01-24 10:00
 comments: false
 sharing: true
 sidebar: true
