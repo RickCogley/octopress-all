@@ -18,7 +18,7 @@ _In my job as a consultant, I often need to schedule meetings across timezones, 
 
 <!--more-->
 
-There is some excellent software available for this purpose, namely 1stClock on the Windows platform, or [Vela Terra](http://www.veladg.com "Vela Design Group") on Mac, but I thought I would roll my own quick solution with OS X Automator, channeling some shell script.
+[{% img right http://farm4.staticflickr.com/3696/12606534475_3ff8f7025b_d.jpg 400 'Click to view on Flickr: OS X Automator UI' 'Screenshot of OS X Automator UI' %}](http://www.flickr.com/photos/rickcogley/12606534475/)There is some excellent software available for this purpose, namely 1stClock on the Windows platform, or [Vela Terra](http://www.veladg.com "Vela Design Group") on Mac, but I thought I would roll my own quick solution with OS X Automator, channeling some shell script.
 
 Here's how to go about it, if you are on Mac OS X.
 
