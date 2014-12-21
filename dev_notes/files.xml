@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-files>
+  <project-file>
+    <category-id>1819051</category-id>
+    <created-at>2013-01-10T11:31:19+00:00</created-at>
+    <description>Just to store it somewhere</description>
+    <extension>pdf</extension>
+    <file-group>bd00441531a4d6218c61c427fb190978c7e04c46</file-group>
+    <id>18869</id>
+    <identifier>00603381-7495-0e21-1263-1271bb3be8f6</identifier>
+    <latest>true</latest>
+    <name>Take Control of BBEdit</name>
+    <updated-at>2013-01-10T11:31:19+00:00</updated-at>
+    <user-id>47499</user-id>
+  </project-file>
+  <project-file>
+    <category-id>1819051</category-id>
+    <created-at>2013-01-10T12:25:56+00:00</created-at>
+    <description></description>
+    <extension>epub</extension>
+    <file-group>214ef530abec01db5d83fb8ff8a8bfe08f0aa726</file-group>
+    <id>18873</id>
+    <identifier>64628336-cf90-8e4f-8d2a-bf456678f9ef</identifier>
+    <latest>true</latest>
+    <name>Take Control of BBEdit EPUB</name>
+    <updated-at>2013-01-10T12:25:56+00:00</updated-at>
+    <user-id>47499</user-id>
+  </project-file>
+  <project-file>
+    <category-id>1819051</category-id>
+    <created-at>2013-01-10T12:27:37+00:00</created-at>
+    <description></description>
+    <extension>epub</extension>
+    <file-group>1c1c282913c12e069cec6de2600f2b1f3672ce60</file-group>
+    <id>18874</id>
+    <identifier>9842ced7-5aa7-2260-be88-dcc8ed5ab7e1</identifier>
+    <latest>true</latest>
+    <name>The Ruby Programming Language EPUB</name>
+    <updated-at>2013-01-10T12:29:41+00:00</updated-at>
+    <user-id>47499</user-id>
+  </project-file>
+  <project-file>
+    <category-id>1819051</category-id>
+    <created-at>2013-01-10T12:29:28+00:00</created-at>
+    <description></description>
+    <extension>pdf</extension>
+    <file-group>4b73cf0660e4d1bc235d3aa59951456a342a7b58</file-group>
+    <id>18876</id>
+    <identifier>8163be60-7541-cb5c-6a2a-9f2e7f227562</identifier>
+    <latest>true</latest>
+    <name>The Ruby Programming Language PDF</name>
+    <updated-at>2013-01-10T12:29:28+00:00</updated-at>
+    <user-id>47499</user-id>
+  </project-file>
+  <project-file>
+    <category-id>1819051</category-id>
+    <created-at>2013-01-14T11:28:38+00:00</created-at>
+    <description>Pro Git - written by Scott Chacon and published by Apress. 
+
+http://git-scm.com/book</description>
+    <extension>epub</extension>
+    <file-group>d8525327afe80b5eed98192c1b9150005ed83624</file-group>
+    <id>18971</id>
+    <identifier>56f6a079-6a2e-6a97-dabe-575dede884ad</identifier>
+    <latest>true</latest>
+    <name>PRO GIT book</name>
+    <updated-at>2013-01-14T11:28:38+00:00</updated-at>
+    <user-id>47499</user-id>
+  </project-file>
+  <project-file>
+    <category-id>1819051</category-id>
+    <created-at>2013-01-19T13:26:16+00:00</created-at>
+    <description>I removed these posts from the folder, then committed, so I could check whether rake generate would work or not. 
+
+It didn't, unfortunately. I am not sure how to revert my commit to put the repo in the state you put it in, so I just uploaded the posts here. --R</description>
+    <extension>zip</extension>
+    <file-group>dc0fddb1f5c80336892c29f7d7d659b7d52977b9</file-group>
+    <id>19228</id>
+    <identifier>b8c25998-943e-ee76-c818-06bbc7cdb779</identifier>
+    <latest>true</latest>
+    <name>New Posts Added 20130119</name>
+    <updated-at>2013-01-19T13:26:16+00:00</updated-at>
+    <user-id>47499</user-id>
+  </project-file>
+  <project-file>
+    <category-id>1819052</category-id>
+    <created-at>2013-01-10T13:30:07+00:00</created-at>
+    <description>Use this contact sheet PDF to see the image while referring to the name.</description>
+    <extension>pdf</extension>
+    <file-group>dad2ea742ab818cfa6eb4996dd42f9b94e6e81ec</file-group>
+    <id>18877</id>
+    <identifier>5118c701-d3ef-f09f-5020-18aef7a54e22</identifier>
+    <latest>true</latest>
+    <name>Images Contact Sheet</name>
+    <updated-at>2013-01-10T13:30:07+00:00</updated-at>
+    <user-id>47499</user-id>
+  </project-file>
+  <project-file>
+    <category-id>1819054</category-id>
+    <created-at>2013-01-02T15:47:39+00:00</created-at>
+    <description></description>
+    <extension>xml</extension>
+    <file-group>d2f7f43d5129d741b12f777c5a6ee31524e92203</file-group>
+    <id>18612</id>
+    <identifier>f0435190-0ece-e8a6-9122-2b97b151a117</identifier>
+    <latest>true</latest>
+    <name>Blogger Blog 1</name>
+    <updated-at>2013-01-02T15:47:39+00:00</updated-at>
+    <user-id>47499</user-id>
+  </project-file>
+  <project-file>
+    <category-id>1819054</category-id>
+    <created-at>2013-01-02T15:48:09+00:00</created-at>
+    <description></description>
+    <extension>xml</extension>
+    <file-group>a7c25fe8afd8f154b9868bb6eb1ce79c5e047a7c</file-group>
+    <id>18613</id>
+    <identifier>74c50524-1f65-fb51-0b58-7634e27f17af</identifier>
+    <latest>true</latest>
+    <name>Blogger Blog 2</name>
+    <updated-at>2013-01-02T15:48:09+00:00</updated-at>
+    <user-id>47499</user-id>
+  </project-file>
+  <project-file>
+    <category-id>1828959</category-id>
+    <created-at>2013-01-07T23:01:34+00:00</created-at>
+    <description>Justi HTML5 and CSS3 Responsive Template for Top Page</description>
+    <extension>zip</extension>
+    <file-group>c4dbc39af5d4895a11f831eb6854063cdd08e886</file-group>
+    <id>18784</id>
+    <identifier>a44d6f38-d2c9-313c-5438-a6e01da3abe4</identifier>
+    <latest>true</latest>
+    <name>Justi Template</name>
+    <updated-at>2013-01-07T23:01:34+00:00</updated-at>
+    <user-id>47499</user-id>
+  </project-file>
+  <project-file>
+    <category-id>1828959</category-id>
+    <created-at>2013-01-07T23:02:30+00:00</created-at>
+    <description>License text file for the Justi Template. Said to be proof of license.</description>
+    <extension>txt</extension>
+    <file-group>6156f8180c48f1c675b03067135c7076543a5f67</file-group>
+    <id>18785</id>
+    <identifier>6b45f521-cbe7-d1d0-d33c-f8e980575410</identifier>
+    <latest>true</latest>
+    <name>Justi License</name>
+    <updated-at>2013-01-07T23:02:30+00:00</updated-at>
+    <user-id>47499</user-id>
+  </project-file>
+</project-files>

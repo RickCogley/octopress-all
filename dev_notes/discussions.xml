@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<discussions>
+  <discussion>
+    <author-email>rick.cogley@esolia.co.jp</author-email>
+    <author-name>Rick Cogley</author-name>
+    <category-id>1819058</category-id>
+    <closed-at nil="true"/>
+    <company-id nil="true"/>
+    <created-at>2013-01-03T13:10:01+00:00</created-at>
+    <email-token>XCu3wZkNs3MdEmbk</email-token>
+    <id>8496</id>
+    <last-post-at>2013-02-12T13:45:44+00:00</last-post-at>
+    <permalink>schedule-status</permalink>
+    <project-id>38323</project-id>
+    <subject>Schedule Status</subject>
+    <updated-at>2013-02-12T13:45:44+00:00</updated-at>
+    <user-id>47499</user-id>
+    <posts>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>It's 22:00 JST so I am going to get some sleep tonight. </content>
+        <created-at type="datetime">2013-01-03T13:10:01+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8496</discussion-id>
+        <id type="integer">35275</id>
+        <initial type="boolean">true</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-03T13:10:01+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Morning. It's 5:43 JST and I am up.</content>
+        <created-at type="datetime">2013-01-03T20:43:52+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8496</discussion-id>
+        <id type="integer">35297</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-03T20:43:52+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>pashka4281@gmail.com</author-email>
+        <author-name>Paul Sirous</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>good morning, Rick!</content>
+        <created-at type="datetime">2013-01-03T20:45:15+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8496</discussion-id>
+        <id type="integer">35298</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-03T20:45:15+00:00</updated-at>
+        <user-id type="integer">47602</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Morning - I am up. :-)</content>
+        <created-at type="datetime">2013-01-04T21:09:24+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8496</discussion-id>
+        <id type="integer">35369</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-04T21:09:24+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>hi - it's 23:20 JST so I am going to sleep some</content>
+        <created-at type="datetime">2013-01-05T14:21:39+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8496</discussion-id>
+        <id type="integer">35393</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-05T14:21:39+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Hi - it's 5:30 JST so I am up. Morning!</content>
+        <created-at type="datetime">2013-01-08T20:35:06+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8496</discussion-id>
+        <id type="integer">35515</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-08T20:35:06+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Morning - I am up.</content>
+        <created-at type="datetime">2013-01-09T20:56:35+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8496</discussion-id>
+        <id type="integer">35594</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-09T20:56:35+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Morning - I'm up, it's 7:20 JST, and wondering about your schedule? 
+
+R
+
+</content>
+        <created-at type="datetime">2013-01-10T22:19:27+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8496</discussion-id>
+        <id type="integer">35712</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-10T22:19:27+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Hi - just a quick status because I did not hear from you today. 
+
+
+
+It is 23:11 and I am going to sleep. I have a breakfast meeting, after which, I am available. 
+
+I should be at the office by 10am JST, and will be open thru about 16:00 JST. 
+
+
+
+Tomorrow evening, I have some stuff thru about 19 or 20:00 JST. 
+
+
+
+FYI,
+
+Rick
+
+
+
+== Reference Times ==
+
+Tokyo - 	 JST (+0900) 23:10 Tue 5 Feb 2013
+
+Hong Kong - 	 HKT (+0800) 22:10 Tue 5 Feb 2013
+
+Calcutta - 	 IST (+0530) 19:40 Tue 5 Feb 2013
+
+Berlin - 	 CET (+0100) 15:10 Tue 5 Feb 2013
+
+London - 	 GMT (+0000) 14:10 Tue 5 Feb 2013
+
+New York - 	 EST (-0500) 09:10 Tue 5 Feb 2013
+
+Chicago - 	 CST (-0600) 08:10 Tue 5 Feb 2013
+
+Denver - 	 MST (-0700) 07:10 Tue 5 Feb 2013
+
+San Francisco - 	 PST (-0800) 06:10 Tue 5 Feb 2013</content>
+        <created-at type="datetime">2013-02-05T14:12:51+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8496</discussion-id>
+        <id type="integer">39673</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-02-05T14:12:51+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>pashka4281@gmail.com</author-email>
+        <author-name>Paul Ser</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>hi Rick, I'm sorry for yesterday, wasn't at home whole the day, as for
+today, I'll be ready to work in ~2 hours, so let's meet up then, if you
+can, if not, then let's catch each other during your evening time (after
+18:00)
+
+thanks,
+Paul</content>
+        <created-at type="datetime">2013-02-05T18:47:54+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8496</discussion-id>
+        <id type="integer">39841</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-02-05T18:47:54+00:00</updated-at>
+        <user-id type="integer">47602</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Hi - updated a few tickets if you look at the overview you can see which. </content>
+        <created-at type="datetime">2013-02-12T13:45:44+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8496</discussion-id>
+        <id type="integer">41494</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-02-12T13:45:44+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+    </posts>
+  </discussion>
+  <discussion>
+    <author-email>rick.cogley@esolia.co.jp</author-email>
+    <author-name>Rick Cogley</author-name>
+    <category-id>1819058</category-id>
+    <closed-at nil="true"/>
+    <company-id nil="true"/>
+    <created-at>2013-01-28T21:53:52+00:00</created-at>
+    <email-token>1ilya6aHKa4vpxPE</email-token>
+    <id>8989</id>
+    <last-post-at>2013-01-28T21:53:52+00:00</last-post-at>
+    <permalink>ticket-saved-search-all-open</permalink>
+    <project-id>38323</project-id>
+    <subject>Ticket Saved Search - all open</subject>
+    <updated-at>2013-01-28T21:53:52+00:00</updated-at>
+    <user-id>47499</user-id>
+    <posts>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Hi - I made a saved search on here, to show all open tickets. Access it at the bottom of the Tickets dropdown menu, or, 
+
+
+
+https://esolia.codebasehq.com/projects/rick-cogley/tickets?report=106471
+
+
+
+Regards
+
+Rick</content>
+        <created-at type="datetime">2013-01-28T21:53:52+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8989</discussion-id>
+        <id type="integer">37396</id>
+        <initial type="boolean">true</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-28T21:53:52+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+    </posts>
+  </discussion>
+  <discussion>
+    <author-email>rick.cogley@esolia.co.jp</author-email>
+    <author-name>Rick Cogley</author-name>
+    <category-id>1819058</category-id>
+    <closed-at nil="true"/>
+    <company-id nil="true"/>
+    <created-at>2013-01-16T10:55:13+00:00</created-at>
+    <email-token>QAkgEtSEqtKWys0e</email-token>
+    <id>8679</id>
+    <last-post-at>2013-01-16T10:55:13+00:00</last-post-at>
+    <permalink>more-icons</permalink>
+    <project-id>38323</project-id>
+    <subject>More icons</subject>
+    <updated-at>2013-01-16T10:55:13+00:00</updated-at>
+    <user-id>47499</user-id>
+    <posts>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Hi - not saying I want to use this, but, FYI - 
+
+
+
+http://glyphicons.com/
+
+
+
+Regards,
+
+Rick 
+
+</content>
+        <created-at type="datetime">2013-01-16T10:55:13+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8679</discussion-id>
+        <id type="integer">36028</id>
+        <initial type="boolean">true</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-16T10:55:13+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+    </posts>
+  </discussion>
+  <discussion>
+    <author-email>rick.cogley@esolia.co.jp</author-email>
+    <author-name>Rick Cogley</author-name>
+    <category-id>1819058</category-id>
+    <closed-at nil="true"/>
+    <company-id nil="true"/>
+    <created-at>2013-01-14T12:08:43+00:00</created-at>
+    <email-token>RUKlnClP3y7NlUzi</email-token>
+    <id>8638</id>
+    <last-post-at>2013-01-14T23:46:12+00:00</last-post-at>
+    <permalink>git-cleanup</permalink>
+    <project-id>38323</project-id>
+    <subject>Git cleanup</subject>
+    <updated-at>2013-01-14T23:46:12+00:00</updated-at>
+    <user-id>47499</user-id>
+    <posts>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Hi - I have started asking the codebase guys what is the best technique for pruning down the gh-pages repo in _deploy. 
+
+
+
+As you pointed out, the repo on codebase is 350Mb+, and I did a ``du -hsc`` that showed me the actual local public and _deploy folders are only about 90Mb. 
+
+This is after git gc and flattening. 
+
+
+
+Please see the bottom of this notebook for what I did so far - 
+
+https://esolia.codebasehq.com/projects/rick-cogley/notebook/Using%20Git.md
+
+
+
+Regards,
+
+Rick</content>
+        <created-at type="datetime">2013-01-14T12:08:43+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8638</discussion-id>
+        <id type="integer">35849</id>
+        <initial type="boolean">true</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-14T12:08:43+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Seems good - 
+
+
+
+http://stevelorek.com/how-to-shrink-a-git-repository.html</content>
+        <created-at type="datetime">2013-01-14T12:24:10+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8638</discussion-id>
+        <id type="integer">35851</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-14T12:24:10+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>And this - 
+
+
+
+http://naleid.com/blog/2012/01/17/finding-and-purging-big-files-from-git-history/</content>
+        <created-at type="datetime">2013-01-14T12:25:04+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8638</discussion-id>
+        <id type="integer">35853</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-14T12:25:04+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Paul - ok, when I do this - 
+
+
+
+    git checkout —orphan flattened
+
+    git add . 
+
+    git commit -m ‘initial flattened commit’
+
+    git status -s
+
+    git diff gh-pages..flattened
+
+    git push origin +flattened:gh-pages
+
+    git checkout gh-pages
+
+
+
+... the next time I do a ``rake deploy`` of course git happily puts the gh-pages from my local, back up on the remote repo. 
+
+
+
+What do I need to do to locally force-push flattened, onto my local gh-pages? 
+
+
+
+
+
+</content>
+        <created-at type="datetime">2013-01-14T23:38:46+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8638</discussion-id>
+        <id type="integer">35922</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-14T23:38:46+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Also, the support guys said that they do garbage collection on the repos weekly, so, the repo size number (350MB+ as you pointed out) might stay high then drop a week after _we_ do our cleanup. 
+
+
+
+The other thing I think could be a factor is, you and I both are doing deploys, so, if we both don't do a cleanup at the same time, one of our local copies will overwrite the remote, keeping it big. 
+
+
+
+The best approach might simply to forgo using this technique of deploying to a repo, so that we can re-deploy via sftp to a web server, because that technique was designed to work with git-hub pages. In our case, we are not hosting the actual site on codebase, so this is an academic exercise, really. Still, I want to do it, because I want to learn how better to use git and what the possibilities are. I hope you can help me devise a strategy for making it work efficiently. 
+
+
+
+For example, the ``rake deploy`` does a ``git push origin gh-pages --force``. Is there a better command to use? We do not really need the repo history for the gh-pages, whereas we do indeed of course want it for the main octopress-all repo. </content>
+        <created-at type="datetime">2013-01-14T23:45:25+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8638</discussion-id>
+        <id type="integer">35923</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-14T23:46:44+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>(An aside, but it is ironic that git is supposed to be distributed, but, github itself is a big centralized model eh? Anyway...)</content>
+        <created-at type="datetime">2013-01-14T23:46:12+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8638</discussion-id>
+        <id type="integer">35924</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-14T23:46:12+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+    </posts>
+  </discussion>
+  <discussion>
+    <author-email>rick.cogley@esolia.co.jp</author-email>
+    <author-name>Rick Cogley</author-name>
+    <category-id>1819059</category-id>
+    <closed-at nil="true"/>
+    <company-id nil="true"/>
+    <created-at>2013-01-08T08:11:44+00:00</created-at>
+    <email-token>YwXWYkEKhgvpwgVK</email-token>
+    <id>8544</id>
+    <last-post-at>2013-01-08T08:11:44+00:00</last-post-at>
+    <permalink>links-to-tickets-in-commits</permalink>
+    <project-id>38323</project-id>
+    <subject>links to tickets in commits</subject>
+    <updated-at>2013-01-08T08:11:44+00:00</updated-at>
+    <user-id>47499</user-id>
+    <posts>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Hi Paul - I discovered in codebase you can link to tickets, in your commit messages. 
+
+
+
+See - http://support.codebasehq.com/kb/howtos/linking-commits-with-tickets
+
+
+
+Mostly like- 
+
+
+
+    git commit -m 'started this and that [accepted: 23]'
+
+    git commit -m 'in the middle of this and that [touch: 23]'
+
+    git commit -m 'finished this and that [completed: 23]'
+
+
+
+As long as your git email matches the one you have on file w/ codebase, it will work.
+
+</content>
+        <created-at type="datetime">2013-01-08T08:11:44+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8544</discussion-id>
+        <id type="integer">35468</id>
+        <initial type="boolean">true</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-08T08:11:44+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+    </posts>
+  </discussion>
+  <discussion>
+    <author-email>rick.cogley@esolia.co.jp</author-email>
+    <author-name>Rick Cogley</author-name>
+    <category-id>1819058</category-id>
+    <closed-at nil="true"/>
+    <company-id nil="true"/>
+    <created-at>2013-01-05T04:37:42+00:00</created-at>
+    <email-token>4zPT9Xa4RRFYITLq</email-token>
+    <id>8520</id>
+    <last-post-at>2013-01-05T04:37:42+00:00</last-post-at>
+    <permalink>pow</permalink>
+    <project-id>38323</project-id>
+    <subject>POW</subject>
+    <updated-at>2013-01-05T04:37:42+00:00</updated-at>
+    <user-id>47499</user-id>
+    <posts>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Hi - instead of Webrick, I decided to try POW which was recommended on the Octopress site. The rake preview command starts webrick, but if you have POW installed you just do rake watch, and then access octopress.dev. 
+
+
+
+IMO, it is a lot easier to use. Are you using it? 
+
+
+
+Regards
+
+Rick 
+
+</content>
+        <created-at type="datetime">2013-01-05T04:37:42+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8520</discussion-id>
+        <id type="integer">35390</id>
+        <initial type="boolean">true</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-05T04:37:42+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+    </posts>
+  </discussion>
+  <discussion>
+    <author-email>rick.cogley@esolia.co.jp</author-email>
+    <author-name>Rick Cogley</author-name>
+    <category-id>1819058</category-id>
+    <closed-at nil="true"/>
+    <company-id nil="true"/>
+    <created-at>2013-01-02T15:15:19+00:00</created-at>
+    <email-token>ZPMWXyaw2gLOGudT</email-token>
+    <id>8484</id>
+    <last-post-at>2013-01-03T13:08:55+00:00</last-post-at>
+    <permalink>welcome-some-background</permalink>
+    <project-id>38323</project-id>
+    <subject>Welcome &amp; Some Background</subject>
+    <updated-at>2013-01-03T13:08:55+00:00</updated-at>
+    <user-id>47499</user-id>
+    <posts>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Welcome Paul, and thanks for helping me. 
+
+
+
+I've been in IT for 23 years, based in Japan, and am reasonably competent in scripting and web technology, and do a lot of unix/linux system administration tasks myself. I like text files and the terminal, and I choose to use Mac OS X because I can (still) do a lot of stuff on the command line. But I am not a programmer. I want to learn git and a little ruby, because they are used on a lot of projects and modern websites. But I don't intend to be a professional programmer nor understand those things too deeply, because mostly, I do management these days. (though maybe, I will need to learn git more thoroughly, because it is really the base of how to operate this site)
+
+
+
+I also have a need to update my personal site, http://rick.cogley.info, and so have been spending quite a bit of time trying to find an attractive way of doing it. I really like well-designed sites, with good structure &amp; typography, the latest css etc, and so I looked into a lot of related things over the past year. I finally settled on Octopress because it looks good, and will help me learn git, ruby, and some of the latest web technologies. I want to do more writing from now on, once I get this set up over the next few days. 
+
+
+
+I need your help in understanding how this will all fit together and work, and to do some of the advanced tasks that I do not really have the time to learn how to do myself, such as building subroutines in rakefile s or whatever else is needed. 
+
+
+
+I will put some goals in a Notebook page on here, and I hope you will use the tickets, files, notebooks and etc, to help me along and document what is being done. 
+
+
+
+Regards
+
+Rick 
+
+
+
+</content>
+        <created-at type="datetime">2013-01-02T15:15:19+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35221</id>
+        <initial type="boolean">true</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T15:15:19+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>By the way, there is indeed a Time tab in here, but I know you will use oDesk to track your time. I just left it in, to show you that this system has it. All the tabs that are available, are enabled. </content>
+        <created-at type="datetime">2013-01-02T15:16:12+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35222</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T15:16:12+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>pashka4281@gmail.com</author-email>
+        <author-name>Paul Sirous</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Wow, your experience is impressive.
+
+ok, so I guess you're going to replace your current blog with octopress one?
+
+
+
+How are we going to build our working process?
+
+
+
+thanks,
+
+Paul</content>
+        <created-at type="datetime">2013-01-02T15:30:33+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35223</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T15:30:33+00:00</updated-at>
+        <user-id type="integer">47602</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>I am adding some notebook pages. Please see them.</content>
+        <created-at type="datetime">2013-01-02T15:30:53+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35224</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T15:30:53+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>About working, well, tonight I just want to get you some info to start with, so you can get started in whatever way, for now. If you like, please add tasks in Tickets and let's get something started. </content>
+        <created-at type="datetime">2013-01-02T15:33:39+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35225</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T15:33:39+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>I'll type some stuff into the goals notebook now. </content>
+        <created-at type="datetime">2013-01-02T15:34:32+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35226</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T15:34:32+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>pashka4281@gmail.com</author-email>
+        <author-name>Paul Sirous</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>ok, I see your goals in the overal, but I don't know your background for this. I saw several your commits, so I assume you have some practice with git. 
+
+Another question is how do you want me to present information for you? Should I use notebook for that?</content>
+        <created-at type="datetime">2013-01-02T15:46:00+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35229</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T15:46:00+00:00</updated-at>
+        <user-id type="integer">47602</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Yes, that sounds good. If you could use the notebook and Files tab as appropriate, that would help. 
+
+
+
+I am still writing the Goals page. Sorry, got some more to go. 
+
+
+
+I uploaded two files, which are exports of the two blogger blogs I have. I want to use the jekyll import scripts to import those and their comments. It appears that disqus is the comment system Octopress uses, which is fine w/ me. </content>
+        <created-at type="datetime">2013-01-02T15:50:05+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35232</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T15:50:05+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>My git background is pretty weak. I will explain in goals in a few mins because I think I made mistakes...</content>
+        <created-at type="datetime">2013-01-02T15:50:40+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35234</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T15:50:40+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>pashka4281@gmail.com</author-email>
+        <author-name>Paul Sirous</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>yeh, I see them, 
+
+
+
+Don't worry about that, in the meantime I can get acquainted with linked information you sent to me </content>
+        <created-at type="datetime">2013-01-02T15:53:32+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35236</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T15:53:32+00:00</updated-at>
+        <user-id type="integer">47602</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Ok, it's 2am and I am getting tired. I wrote out everything I could for now in the Goals page, and there are a couple links in Resources too. 
+
+I hope this is enough to get you started. Please write down whatever you like wherever you like, in here. 
+
+
+
+Regards
+
+Rick </content>
+        <created-at type="datetime">2013-01-02T17:10:17+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35241</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T17:10:17+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>pashka4281@gmail.com</author-email>
+        <author-name>Paul Sirous</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Thanks Rick, I'm already digging into those </content>
+        <created-at type="datetime">2013-01-02T17:20:09+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35242</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T17:20:09+00:00</updated-at>
+        <user-id type="integer">47602</user-id>
+      </post>
+      <post>
+        <author-email>pashka4281@gmail.com</author-email>
+        <author-name>Paul Sirous</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>I have created a report file: https://esolia.codebasehq.com/projects/rick-cogley/notebook/Report.md
+
+I'll use it to face my daily activity if you don't mind.
+
+
+
+Thanks,
+
+Paul Ser</content>
+        <created-at type="datetime">2013-01-02T22:39:15+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35255</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T22:39:15+00:00</updated-at>
+        <user-id type="integer">47602</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Yes, that's great, thanks. I made comments at the end of each section. </content>
+        <created-at type="datetime">2013-01-02T23:07:25+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35257</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T23:07:25+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Added a couple links to commenting related systems to the References notebook.</content>
+        <created-at type="datetime">2013-01-02T23:11:03+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35258</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T23:11:03+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Added a little on jekyll plugins to the References notebook. </content>
+        <created-at type="datetime">2013-01-02T23:15:41+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35259</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-02T23:15:41+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+      <post>
+        <author-email>rick.cogley@esolia.co.jp</author-email>
+        <author-name>Rick Cogley</author-name>
+        <company-id type="integer" nil="true"/>
+        <content>Added a bunch of octopress sites w/ custom themes, to the Goals notebook.</content>
+        <created-at type="datetime">2013-01-03T13:08:55+00:00</created-at>
+        <deleted-at type="datetime" nil="true"/>
+        <discussion-id type="integer">8484</discussion-id>
+        <id type="integer">35274</id>
+        <initial type="boolean">false</initial>
+        <markup>markdown</markup>
+        <updated-at type="datetime">2013-01-03T13:08:55+00:00</updated-at>
+        <user-id type="integer">47499</user-id>
+      </post>
+    </posts>
+  </discussion>
+</discussions>
