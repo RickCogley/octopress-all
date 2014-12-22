@@ -1,0 +1,56 @@
+#,Type,Subject,Status,Priority,Assignee,Last updated
+53,Bug,htaccess part 2,In Progress,Normal,Paul Sirous,30 Apr 2013 05:49
+55,Bug,Source Code Pro,Completed,Normal,Paul Sirous,26 Feb 2013 19:20
+33,Enhancement,Focused Type Box,In Progress,Low,Paul Sirous,23 Feb 2013 13:53
+54,Task,Slider style,Completed,Normal,Paul Sirous,23 Feb 2013 13:24
+14,Task,Implement print.css,Completed,Normal,Paul Sirous,19 Feb 2013 19:39
+38,Task,Microdata,In Progress,Normal,Paul Sirous,19 Feb 2013 19:29
+51,Task,Search,In Progress,High,Paul Sirous,19 Feb 2013 19:29
+3,Task,Plan Git Strategy,New,Normal,Paul Sirous,19 Feb 2013 19:29
+52,Feature,Priority and Change-Frequency in yaml frontmatter,Completed,Normal,"",19 Feb 2013 11:52
+46,Task,Atom Feed Categories,Completed,Normal,Paul Sirous,15 Feb 2013 02:44
+25,Task,Make Portfolio page and content,Completed,Normal,Rick Cogley,12 Feb 2013 22:42
+20,Task,Go-live Tasks,Completed,Normal,"",12 Feb 2013 22:29
+13,Task,Hook up Akismet to Disqus for Antispam,Completed,Low,Rick Cogley,10 Feb 2013 10:02
+48,Feature,Rakefile ping tasks,Completed,Normal,Paul Sirous,10 Feb 2013 10:01
+47,Task,Rakefile rename_posts,Completed,Normal,Paul Sirous,10 Feb 2013 10:01
+50,Task,Project page formatting,Completed,Normal,Paul Sirous,10 Feb 2013 09:43
+45,Task,Commenting in G+,Completed,Normal,Paul Sirous,09 Feb 2013 21:57
+49,Task,Remove Page sidebar area,Completed,Normal,Paul Sirous,09 Feb 2013 08:26
+19,Task,Site Notes,Completed,Normal,Rick Cogley,04 Feb 2013 13:08
+35,Enhancement,Consider Grid Options,New,Low,Paul Sirous,04 Feb 2013 13:07
+36,Task,Menu Refactor,Completed,Normal,Paul Sirous,04 Feb 2013 13:03
+30,Task,Permalink Change for Disqus Migration,Completed,Normal,Rick Cogley,04 Feb 2013 13:02
+22,Task,Drafts Processing,New,Low,"",04 Feb 2013 09:04
+7,Task,Plan Tables in Posts and Pages,New,Normal,Paul Sirous,04 Feb 2013 09:02
+34,Enhancement,Custom Buttons,New,Low,"",04 Feb 2013 09:02
+44,Bug,Pinboard Links open in Same Window,Completed,Normal,Paul Sirous,04 Feb 2013 08:52
+39,Task,Sidebar Focus for Single Post,Completed,Normal,Paul Sirous,04 Feb 2013 08:45
+42,Bug,Under-post date incorrect,Completed,Normal,Paul Sirous,04 Feb 2013 08:42
+8,Task,Plan Typography,Completed,Normal,Paul Sirous,04 Feb 2013 08:26
+43,Feature,.htaccess 301 Redirect Prep,Completed,Normal,Paul Sirous,04 Feb 2013 08:23
+41,Task,Consolidate color design on top page,Completed,Normal,Rick Cogley,30 Jan 2013 09:41
+40,Task,Justi btn-success is ugly grey,Completed,Normal,Rick Cogley,30 Jan 2013 09:33
+29,Task,Observations on Structure and CSS,Completed,Normal,Paul Sirous,30 Jan 2013 08:40
+26,Task,Deploy abbreviations plugin,Completed,Normal,Paul Sirous,29 Jan 2013 07:00
+5,Task,Design Post Photo CSS Handling,Completed,Normal,Paul Sirous,28 Jan 2013 18:35
+23,Task,"Do some Ewal.net Customizations such as post-publish Pings via ""rake notify""",Completed,Low,Rick Cogley,28 Jan 2013 18:33
+28,Task,Pinboard,Completed,Normal,Paul Sirous,28 Jan 2013 18:32
+27,Task,Prepare Photos,Completed,Normal,Rick Cogley,28 Jan 2013 18:30
+16,Task,Create Top Page,Completed,Normal,Paul Sirous,28 Jan 2013 18:22
+6,Task,Plan Non-post Pages,Completed,Normal,Paul Sirous,28 Jan 2013 12:13
+18,Bug,Missing Unconverted Posts,Completed,Normal,Paul Sirous,28 Jan 2013 12:12
+37,Task,Microformats,Completed,Normal,Paul Sirous,28 Jan 2013 09:27
+12,Task,Create Article or Topics Structure,Completed,Normal,Rick Cogley,23 Jan 2013 14:53
+32,Task,Make post icons link to a variable in the yaml frontmatter,Completed,Normal,Paul Sirous,23 Jan 2013 14:52
+31,Task,Implement Open Graph Tagging,Completed,Normal,Rick Cogley,17 Jan 2013 15:20
+1,Task,Plan Commenting,Completed,Normal,Paul Sirous,14 Jan 2013 07:54
+11,Task,Perform Basic Customizations,Completed,Normal,Rick Cogley,14 Jan 2013 07:50
+2,Task,Plan Categories,Completed,Normal,Paul Sirous,14 Jan 2013 07:48
+4,Task,Add typical pages in the root,Completed,Normal,Paul Sirous,14 Jan 2013 07:39
+21,Bug,Yaml Front Matter - Tag Separation by Space Only? ,Completed,Low,Paul Sirous,14 Jan 2013 07:35
+15,Task,Setup Default New Post and Page from Rake Task,Completed,Low,Rick Cogley,08 Jan 2013 16:56
+17,Bug,Tag Cloud Japanese Display,Completed,Normal,Paul Sirous,08 Jan 2013 05:17
+24,Task,Add Background Image in Header,Completed,Normal,Rick Cogley,07 Jan 2013 14:56
+10,Task,Setup DeployHQ project to auto-push from Repo to SFTP,Completed,Normal,Rick Cogley,05 Jan 2013 17:14
+9,Task,Create Repo for Deployment,Completed,Normal,Rick Cogley,04 Jan 2013 16:24
